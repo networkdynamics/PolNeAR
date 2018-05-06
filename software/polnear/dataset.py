@@ -64,8 +64,6 @@ class ArticleError(Exception):
     pass
 
 
-
-
 class Article(dict):
 
     LEGAL_FILE_TYPES = {
@@ -242,11 +240,6 @@ class Article(dict):
 
 
 
-
-
-
-    
-
 class DateBinner(object):
 
     def __init__(self):
@@ -278,9 +271,13 @@ class DateBinner(object):
         return '%s - %s' % tuple(d.strftime('%Y/%m/%d') for d in [start, end])
 
 
+
 DATE_BINNER = DateBinner()
 def within_desired_period(article_metadata):
     return DATE_BINNER.within_desired_period(article_metadata['date'])
 
+
 def get_date_bin(date):
     return DATE_BINNER.get_bin(date)
+
+
