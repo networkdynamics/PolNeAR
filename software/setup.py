@@ -11,9 +11,9 @@ from os import path
 
 here = path.abspath(path.dirname(__file__))
 
-# Get the long description from the README file
-with open(path.join(here, 'README.md'), encoding='utf-8') as f:
-    long_description = f.read()
+long_description = (
+    
+)
 
 setup(
     name='polnear',
@@ -25,7 +25,9 @@ setup(
     version='0.0.0',
 
     description='Work with the PolNeAR dataset in Python',
-    long_description=long_description,
+    long_description=(
+        "Easily incorporate the PolNeAR data into any python project."
+    ),
 
     # The project's main homepage.
     url='https://github.com/networkdynamics/PolNeAR',
@@ -66,8 +68,5 @@ setup(
     # simple. Or you can use find_packages().
     packages=['polnear'],
 	#indlude_package_data=True,
-	install_requires=[
-            'numpy', 'parc-reader', 't4k',
-            'corenlp-xml-reader>=0.1.2', 'brat-reader'
-        ]
+	install_requires=['parc-reader', 't4k', 'corenlp-xml-reader', 'brat-reader']
 )

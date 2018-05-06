@@ -3,7 +3,7 @@ import os
 import polnear
 import csv
 import datetime
-import corenlpy
+import corenlp_xml_reader
 import brat_reader
 import parc_reader
 import random
@@ -216,7 +216,8 @@ class Article(dict):
     def corenlp(self):
         if self.is_parc_or_annotator_training():
             raise ArticleError('No corenlp file available.')
-        return corenlpy.AnnotatedText(open(self.path('corenlp')).read())
+        return corenlp_xml_reader.AnnotatedText(
+            open(self.path('corenlp')).read())
 
 
     def attributions(self, annotator=None):
