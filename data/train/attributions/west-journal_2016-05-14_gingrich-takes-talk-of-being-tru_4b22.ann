@@ -1,0 +1,64 @@
+T1	Source 0 8	Gingrich
+T2	Cue 9 14	Takes
+T3	Content 15 67	Talk Of Being Trump’s Running Mate ‘Very Seriously.’
+T4	Attribution 9 14	Takes
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 119 231;93 97	“the loudest, most contentious, most unavoidable and, in some ways, most intriguing election in modern history,” what
+T6	Source 98 111	Newt Gingrich
+T7	Cue 112 118	called
+T8	Attribution 112 118	called
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Source 232 256	the former House Speaker
+T10	Cue 257 269	is intrigued
+T11	Content 273 309	the opportunity to have a role in it
+T12	Attribution 257 269	is intrigued
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 323 442	Gingrich — mentioned by Newsmax as the leading choice for Republican presidential nominee Donald Trump’s running mate —
+T14	Cue 443 447	told
+T15	Content 475 531	that “you have to look at it very seriously, of course.”
+T16	Attribution 443 447	told
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 688 690	he
+T18	Cue 691 695	told
+T19	Content 625 687	“Why would I want to say ‘no’ to the circus? I like circuses,”
+T20	Attribution 691 695	told
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 748 756	Gingrich
+T22	Cue 757 761	told
+T23	Content 712 747	“I regard Donald as an old friend,”
+T24	Attribution 757 761	told
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Cue 772 778	noting
+T26	Content 779 1039	that he and his wife, Callista, “have regularly talked with him for the last five or six years during the campaign occasionally. I do more of it by email than I do phone. We have communicated on a routine basis with the campaign and with Trump and his family.”
+T27	Attribution-no-source 772 778	noting
+E7	Attribution-no-source:T27 Content:T26 Cue:T25
+T28	Source 1041 1046	Trump
+T29	Cue 1047 1055	has said
+T30	Content 1056 1155	he wants his vice president to have political experience to help get legislation passed in Congress
+T31	Attribution 1047 1055	has said
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1444 1452	Gingrich
+T33	Cue 1453 1457	said
+T34	Content 1158 1443	“He has been very clear that he wants an insider because he understands that while he has done an amazing job arousing the country, building a real movement, to get things done in Washington — as he proved in the visit yesterday — you have got to sit down and talk to the legislators,”
+T35	Attribution 1453 1457	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1503 1511	Gingrich
+T37	Cue 1512 1516	said
+T38	Content 1517 1612	Trump’s use of social media gives his campaign an extra dimension lacking in past GOP campaigns
+T39	Attribution 1512 1516	said
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1749 1751	he
+T41	Cue 1752 1756	said
+T42	Content 1615 1748	“This is a culture in which, if one person is really boring and the other person is really amusing, the amusing person gains ground,”
+T43	Attribution 1752 1756	said
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1914 1922	Gingrich
+T45	Cue 1923 1927	said
+T46	Content 1758 1912	GOP nominees Sen. John McCain,  R-Ariz., and former Massachusetts Gov. Mitt Romney “were stiff. They weren’t fun. There was no joy” in comparison to Obama
+T47	Attribution 1923 1927	said
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Cue 564 578	interviewed on
+T49	Content 579 590	the subject
+T50	Source 603 622	the Chicago Tribune
+T51	Attribution 564 578	interviewed on
+E13	Attribution:T51 Source:T50 Content:T49 Cue:T48

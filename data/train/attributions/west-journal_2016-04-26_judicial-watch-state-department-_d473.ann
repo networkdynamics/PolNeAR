@@ -1,0 +1,54 @@
+T1	Source 135 139	that
+T2	Cue 140 159	would have revealed
+T3	Content 160 207	Hillary Clinton’s use of a private email server
+T4	Attribution 140 159	would have revealed
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 229 232	she
+T6	Cue 233 243	authorized
+T7	Content 244 294	the deletion of ten of thousands of emails from it
+T8	Attribution 233 243	authorized
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 0 14	Judicial Watch
+T10	Cue 14 15	:
+T11	Content 16 73	State Department Hid Key Clinton Benghazi Email For Years
+T12	Attribution 14 15	:
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 297 311	Judicial Watch
+T14	Cue 312 339	stated in a release Tuesday
+T15	Content 340 523	that a search declaration by the State Department to the court “suggests the hidden email was found in September 2014 as a result of a search in response to Judicial Watch’s lawsuit.”
+T16	Attribution 312 339	stated in a release Tuesday
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 525 554	The government watchdog group
+T18	Cue 555 560	filed
+T19	Content 561 661	a Freedom of Information lawsuit against the State Department concerning the Benghazi talking points
+T20	Attribution 555 560	filed
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 677 900	“The September 29, 2012, email to Clinton from then-Deputy Chief of Staff Jake Sullivan concerns talking points for Clinton calls with senators about the Benghazi attack. The email contains Clinton’s non-state.gov address,”
+T22	Source 901 915	Judicial Watch
+T23	Cue 916 921	added
+T24	Attribution 916 921	added
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Source 939 957	Western Journalism
+T26	Cue 927 935	reported
+T27	Content 1081 1170;959 1045	server to conduct her government business while she was secretary of state from 2009-2013 the New York Times initially broke the story in March, 2015 of Clinton using a private
+T28	Attribution 927 935	reported
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1173 1480	“Last week’s document production also includes material from a records cache of thousands of new Clinton State Department records supposedly only discovered in December 2015. The new material shows the State Department compiled extensive Libya/Benghazi-related dossiers on Republican and Democrat senators,”
+T30	Cue 1481 1493	according to
+T31	Source 1494 1508	Judicial Watch
+T32	Attribution 1481 1493	according to
+E8	Attribution:T32 Source:T31 Cue:T30 Content:T29
+T33	Source 1572 1587	a federal judge
+T34	Cue 1514 1522	granting
+T35	Content 1523 1558	Judicial Watch a right to discovery
+T36	Attribution 1514 1522	granting
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Cue 1588 1598	determined
+T38	Content 1599 1770	that the State Department’s handling of the email controversy has created at least a “reasonable suspicion” the public’s access to documents under FOIA has been undermined
+T39	Attribution 1588 1598	determined
+E10	Attribution:T39 Cue:T37 Source:T33 Content:T38
+T40	Content 1773 1962;2013 2294	“Now we know the Obama administration consciously refused to give up key information about Hillary Clinton’s email in 2014. It covered up this email both from the court and Judicial Watch,” “Judge Lamberth was right when he suggested that Obama’s State Department acted in bad faith. This cover-up provided Hillary Clinton enough time to hide potentially thousands of government records. One aim of our court-order discovery will be to get to the bottom of this coverup.”
+T41	Source 1963 1998	Judicial Watch president Tom Fitton
+T42	Cue 1999 2011	said Tuesday
+T43	Attribution 1999 2011	said Tuesday
+E11	Attribution:T43 Cue:T42 Source:T41 Content:T40

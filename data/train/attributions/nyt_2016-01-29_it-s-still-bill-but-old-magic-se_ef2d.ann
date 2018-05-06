@@ -1,0 +1,261 @@
+T1	Source 76 89	some admirers
+T2	Cue 90 95	sense
+T3	Content 96 113	a faded magnetism
+T4	Attribution 90 95	sense
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discard 116 125	ABSTRACT.
+T6	Source 195 215	some of his admirers
+T7	Cue 216 228	wonder about
+T8	Content 229 271	his more subdued style and faded magnetism
+T9	Discard 274 284	FULL TEXT.
+T10	Source 286 298	Bill Clinton
+T11	Cue 363 372	recounted
+T12	Content 373 400	his wife's life experiences
+T13	Attribution 216 228	wonder about
+E2	Attribution:T13 Source:T6 Cue:T7 Content:T8
+T14	Attribution 363 372	recounted
+E3	Attribution:T14 Content:T12 Cue:T11 Source:T10
+T15	Cue 402 409	recited
+T16	Content 410 426	her policy ideas
+T17	Attribution 402 409	recited
+E4	Attribution:T17 Source:T10 Cue:T15 Content:T16
+T18	Cue 432 443	ripped into
+T19	Content 444 459	the Republicans
+T20	Attribution 432 443	ripped into
+E5	Attribution:T20 Source:T10 Cue:T18 Content:T19
+T21	Content 725 741;749 756	Mr. Clinton, 69, smaller
+T22	Cue 742 748	looked
+T23	Attribution-no-source 742 748	looked
+E6	Attribution-no-source:T23 Cue:T22 Content:T21
+T24	Content 761 770;778 784;785 807	his voice weaker than in past campaigns
+T25	Cue 771 777	seemed
+T26	Attribution-no-source 771 777	seemed
+E7	Attribution-no-source:T26 Cue:T25 Content:T24
+T27	Source 879 881	he
+T28	Cue 882 890	finessed
+T29	Content 891 929	the intricacies of politics and policy
+T30	Attribution 882 890	finessed
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Content 1046 1083;970 1037	more politely attentive than inspired the audience, including some who had lined up for hours to see him,
+T32	Cue 1038 1045	seeming
+T33	Attribution-no-source 1038 1045	seeming
+E9	Attribution-no-source:T33 Cue:T32 Content:T31
+T34	Cue 1152 1160	the call
+T35	Content 1161 1199	to try to energize his wife's campaign
+T36	Attribution-no-source 1152 1160	the call
+E10	Attribution-no-source:T36 Content:T35 Cue:T34
+T37	Source 1206 1236	some of Mr. Clinton's admirers
+T38	Cue 1237 1250	are wondering
+T39	Content 1251 1296	if he has lost some of that old Clinton magic
+T40	Attribution 1237 1250	are wondering
+E11	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Content 1299 1375;1503 1665	''He seemed perfunctory, looked gaunt, didn't seem to captivate the crowd,'' ''I have seen him speak many times, and he just didn't seem to be the same guy. He could still summon stats and an anecdote or two, but not with the same verve.''
+T42	Cue 1376 1380	said
+T43	Source 1381 1501	Jon Ralston, a veteran political commentator in Nevada, who attended a campaign event by Mr. Clinton in Reno last Friday
+T44	Attribution 1376 1380	said
+E12	Attribution:T44 Source:T43 Cue:T42 Content:T41
+T45	Source 1734 1736	he
+T46	Cue 1737 1749	acknowledged
+T47	Content 1750 1793	the appeal of the fractious Republican race
+T48	Attribution 1737 1749	acknowledged
+E13	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Cue 1814 1825	eviscerated
+T50	Content 1826 1840	its candidates
+T51	Attribution 1814 1825	eviscerated
+E14	Attribution:T51 Source:T45 Cue:T49 Content:T50
+T52	Content 1855 1936	''It may be entertaining, but it doesn't have a lick of impact on how you live,''
+T53	Source 1937 1948	Mr. Clinton
+T54	Cue 1949 1953	said
+T55	Attribution 1949 1953	said
+E15	Attribution:T55 Cue:T54 Source:T53 Content:T52
+T56	Content 2126 2188	A more subdued Bill Clinton may not be such a bad thing either
+T57	Cue 2190 2193	say
+T58	Source 2194 2208	some Democrats
+T59	Attribution 2190 2193	say
+E16	Attribution:T59 Source:T58 Cue:T57 Content:T56
+T60	Source 2210 2213	who
+T61	Cue 2214 2235	cringe as they recall
+T62	Content 2236 2311	the distraction of his piping-hot words about Barack Obama in the 2008 race
+T63	Attribution 2214 2235	cringe as they recall
+E17	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 2642 2644	he
+T65	Cue 2645 2654	described
+T66	Content 2655 2679	their economic struggles
+T67	Attribution 2645 2654	described
+E18	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 2681 2683	He
+T69	Cue 2684 2702	memorably promised
+T70	Content 2703 2798	that if voters supported him, he would fight for them as president until ''the last dog dies.''
+T71	Attribution 2684 2702	memorably promised
+E19	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Source 2800 2864	Friends of Mr. Clinton's who have seen him on the trail recently
+T73	Cue 2865 2868	say
+T74	Content 2869 3041	that the ebullient energy he is known for - whether addressing a crowd or spending an hour on a rope line with voters - has matured into an elder statesman's self-assurance
+T75	Attribution 2865 2868	say
+E20	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Content 3043 3090;3102 3156	He may not electrify a room the way he once did but he is still an effective advocate for Mrs. Clinton
+T77	Source 3092 3096	they
+T78	Cue 3097 3100	say
+T79	Attribution 3097 3100	say
+E21	Attribution:T79 Cue:T78 Source:T77 Content:T76
+T80	Content 3159 3256	''His age, his heart surgery, his veganism - I think it's all brought a calmness into his life,''
+T81	Cue 3257 3261	said
+T82	Source 3262 3361	George Bruno, a former Democratic Party chairman in New Hampshire and longtime ally of Mr. Clinton,
+T83	Attribution 3257 3261	said
+E22	Attribution:T83 Source:T82 Cue:T81 Content:T80
+T84	Cue 3362 3374	referring to
+T85	Content 3375 3464	the former president's quadruple bypass operation in 2004 and his strict plant-based diet
+T86	Attribution 3362 3374	referring to
+E23	Attribution:T86 Source:T82 Cue:T84 Content:T85
+T87	Source 3472 3484	some friends
+T88	Cue 3485 3488	say
+T89	Content 3489 3577	Mr. Clinton would look zippier if he ate the occasional cheeseburger - an old favorite -
+T90	Attribution 3485 3488	say
+E24	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Source 3578 3584	others
+T92	Cue 3585 3588	say
+T93	Content 3589 3675	he has never been healthier, with his weight down and his heart in excellent condition
+T94	Attribution 3585 3588	say
+E25	Attribution:T94 Content:T93 Cue:T92 Source:T91
+T95	Content 3678 3758	''He's not as fiery as he once was, but he has an air of real self-confidence,''
+T96	Source 3759 3768	Mr. Bruno
+T97	Cue 3769 3773	said
+T98	Attribution 3769 3773	said
+E26	Attribution:T98 Cue:T97 Source:T96 Content:T95
+T99	Content 3991 4038;4056 4193	He thought of his speeches as ''little talks,'' in which he could tell stories and share ideas in a conversational manner that people could relate to while never feeling condescended to
+T100	Source 4039 4041	he
+T101	Cue 4042 4046	told
+T102	Attribution 4042 4046	told
+E27	Attribution:T102 Cue:T101 Source:T100 Content:T99
+T103	Source 4388 4392	them
+T104	Cue 4393 4397	feel
+T105	Content 4398 4434	that he was talking directly to them
+T106	Attribution 4393 4397	feel
+E28	Attribution:T106 Content:T105 Cue:T104 Source:T103
+T107	Source 4495 4506	Mr. Clinton
+T108	Cue 4507 4536	does not seem to be relishing
+T109	Content 4537 4546	the fight
+T110	Attribution 4507 4536	does not seem to be relishing
+E29	Attribution:T110 Content:T109 Cue:T108 Source:T107
+T111	Source 4709 4715	Allies
+T112	Cue 4716 4719	say
+T113	Content 4720 4821	that he does not see any need to fully engage either man, believing that Mrs. Clinton can handle them
+T114	Attribution 4716 4719	say
+E30	Attribution:T114 Content:T113 Cue:T112 Source:T111
+T115	Source 4827 4829	he
+T116	Cue 4830 4835	wants
+T117	Content 4836 4878	to avoid giving any grist to her opponents
+T118	Attribution 4830 4835	wants
+E31	Attribution:T118 Content:T117 Cue:T116 Source:T115
+T119	Cue 4880 4889	recalling
+T120	Content 4890 5059	how the Obama campaign exploited Mr. Clinton's remark in 2008 describing Mr. Obama's statement that he opposed the Iraq war as ''the biggest fairy tale I've ever seen.''
+T121	Attribution 4880 4889	recalling
+E32	Attribution:T121 Source:T115 Cue:T119 Content:T120
+T122	Content 5061 5135;5200 5361	''I think he's become more cautious, more tentative, and less unabashed,'' ''Going negative just isn't his strength in her races. His strength is developing a positive and empathetic narrative for why Mrs. Clinton should be president.''
+T123	Cue 5136 5140	said
+T124	Source 5141 5198	Doug Schoen, a former adviser and pollster to Mr. Clinton
+T125	Attribution 5136 5140	said
+E33	Attribution:T125 Source:T124 Cue:T123 Content:T122
+T126	Source 5367 5489	some voters who have listened to Mr. Clinton's speeches over the decades, on television or at small-scale campaign events,
+T127	Cue 5490 5494	said
+T128	Content 5495 5546	he had less magnetism recently than they remembered
+T129	Attribution 5490 5494	said
+E34	Attribution:T129 Content:T128 Cue:T127 Source:T126
+T130	Content 5549 5668	''He's more low-key than he used to be, really keeping to the facts rather than making that old emotional connection,''
+T131	Cue 5669 5673	said
+T132	Source 5674 5706	Karen Janes, 67, of Exeter, N.H.
+T133	Attribution 5669 5673	said
+E35	Attribution:T133 Source:T132 Cue:T131 Content:T130
+T134	Cue 5714 5726	listening to
+T135	Content 5727 5761	Mr. Clinton speak there this month
+T136	Attribution 5714 5726	listening to
+E36	Attribution:T136 Source:T132 Cue:T134 Content:T135
+T137	Source 5942 5944	he
+T138	Cue 5945 5954	mentioned
+T139	Content 5955 5979	raising the minimum wage
+T140	Attribution 5945 5954	mentioned
+E37	Attribution:T140 Content:T139 Cue:T138 Source:T137
+T141	Source 6010 6023	Mr. Sanders's
+T142	Cue 6024 6043	passionate plea for
+T143	Content 6044 6055	$15 an hour
+T144	Attribution 6024 6043	passionate plea for
+E38	Attribution:T144 Content:T143 Cue:T142 Source:T141
+T145	Cue 6061 6070	described
+T146	Content 6071 6123	Mrs. Clinton's plans for new Wall Street regulations
+T147	Attribution 6061 6070	described
+E39	Attribution:T147 Source:T137 Cue:T145 Content:T146
+T148	Source 6154 6180	several Clinton supporters
+T149	Cue 6181 6185	said
+T150	Content 6186 6240	the former president had made a good case for his wife
+T151	Attribution 6181 6185	said
+E40	Attribution:T151 Content:T150 Cue:T149 Source:T148
+T152	Source 6248 6260	other voters
+T153	Cue 6261 6265	said
+T154	Content 6266 6328	they had not heard anything to pull them away from Mr. Sanders
+T155	Attribution 6261 6265	said
+E41	Attribution:T155 Content:T154 Cue:T153 Source:T152
+T156	Content 6464 6503;6566 6643	''I'll probably still go with Bernie,'' ''I just didn't hear how Hillary would take the country in a new direction.''
+T157	Cue 6504 6508	said
+T158	Source 6509 6564	Courtney Johnson, 23, a social worker from nearby Osage
+T159	Attribution 6504 6508	said
+E42	Attribution:T159 Source:T158 Cue:T157 Content:T156
+T160	Source 6760 6789	likely Democratic caucusgoers
+T161	Cue 6733 6759	remains very popular among
+T162	Content 6730 6732	he
+T163	Content 6796 6828	87 percent viewing him favorably
+T164	Cue 6829 6831	in
+T165	Source 6832 6877	a Des Moines Register/Bloomberg Politics poll
+T166	Attribution 6733 6759	remains very popular among
+E43	Attribution:T166 Content:T162 Cue:T161 Source:T160
+T167	Attribution 6829 6831	in
+E44	Attribution:T167 Source:T165 Cue:T164 Content:T163
+T168	Content 6912 7019	Mr. Clinton's favorability rating has fallen since he became more visibly active in Mrs. Clinton's campaign
+T169	Cue 7021 7033	according to
+T170	Source 7034 7064	a New York Times/CBS News poll
+T171	Attribution 7021 7033	according to
+E45	Attribution:T171 Source:T170 Cue:T169 Content:T168
+T172	Source 7066 7102	Thirty-nine percent of all Americans
+T173	Cue 7103 7109	viewed
+T174	Content 7110 7113	him
+T175	Attribution 7103 7109	viewed
+E46	Attribution:T175 Content:T174 Cue:T173 Source:T172
+T176	Source 7228 7237	Mr. Trump
+T177	Cue 7238 7271	has tried to make an issue out of
+T178	Content 7272 7300	Mr. Clinton's sexual history
+T179	Attribution 7238 7271	has tried to make an issue out of
+E47	Attribution:T179 Content:T178 Cue:T177 Source:T176
+T180	Source 7386 7398	The Clintons
+T181	Cue 7399 7417	have mostly chosen
+T182	Content 7418 7447	not to respond to his attacks
+T183	Attribution 7399 7417	have mostly chosen
+E48	Attribution:T183 Content:T182 Cue:T181 Source:T180
+T184	Source 7450 7534	Paul Begala, a former political adviser to Mr. Clinton and a friend of the couple's,
+T185	Cue 7535 7539	said
+T186	Content 7540 7692	that the former president's greatest strength now is as ''Hillary's authenticator, in part because he's actually had the job that his wife is seeking.''
+T187	Attribution 7535 7539	said
+E49	Attribution:T187 Content:T186 Cue:T185 Source:T184
+T188	Content 7694 7789;7807 7969	''Most people, not just Democrats, feel President Clinton was really good at being president,'' ''And all the hand-wringers and bed-wetters who will say, 'Oh, he's going to make a mistake' - give me a break. He's still the best natural politician there is.''
+T189	Source 7790 7800	Mr. Begala
+T190	Cue 7801 7805	said
+T191	Attribution 7801 7805	said
+E50	Attribution:T191 Cue:T190 Source:T189 Content:T188
+T192	Source 8010 8020	Mr. Begala
+T193	Cue 8021 8031	pointed to
+T194	Content 8032 8207	a recent campaign stop in Concord, N.H., where the former president thanked the state's voters for being good to the Clintons and teaching them about the issues facing America
+T195	Attribution 8021 8031	pointed to
+E51	Attribution:T195 Content:T194 Cue:T193 Source:T192
+T196	Source 8278 8289	Mr. Clinton
+T197	Cue 8290 8324	reached for a metaphor to describe
+T198	Content 8325 8389	the hopes and anxieties of voters in presidential election years
+T199	Attribution 8290 8324	reached for a metaphor to describe
+E52	Attribution:T199 Content:T198 Cue:T197 Source:T196
+T200	Content 8392 8585	''The American people are like a great composer - the words are always the same, but they are rearranged like notes, and they write a new melody and then they decide who they want to sing it,''
+T201	Source 8586 8597	Mr. Clinton
+T202	Cue 8598 8602	said
+T203	Attribution 8598 8602	said
+E53	Attribution:T203 Cue:T202 Source:T201 Content:T200
+T204	Source 8605 8615	Mr. Begala
+T205	Cue 8616 8621	said:
+T206	Content 8622 8733	''I love that where so many analysts see cacophony he sees a symphony. Classic Clinton: optimistic, unifying.''
+T207	Attribution 8616 8621	said:
+E54	Attribution:T207 Content:T206 Cue:T205 Source:T204

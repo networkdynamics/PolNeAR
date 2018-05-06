@@ -1,0 +1,80 @@
+T1	Source 0 5	Trump
+T2	Cue 6 14	Calls On
+T3	Content 15 30	Obama To Resign
+T4	Attribution 6 14	Calls On
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 138 150	Donald Trump
+T6	Cue 151 166	was calling for
+T7	Content 167 173	change
+T8	Attribution 151 166	was calling for
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 240 245	Trump
+T10	Cue 246 256	called for
+T11	Content 257 280	the president to resign
+T12	Attribution 246 256	called for
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 282 284	He
+T14	Cue 285 289	said
+T15	Content 290 363	the time for being politically correct is over, and the nation has to act
+T16	Attribution 285 289	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 397 402	Trump
+T18	Cue 403 421	issued a statement
+T19	Content 423 682	“Last night, our nation was attacked by a radical Islamic terrorist. It was the worst terrorist attack on our soil since 9/11, and the second of its kind in six months. My deepest sympathy and support goes out to the victims, the wounded, and their families.”
+T20	Attribution 403 421	issued a statement
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 729 734	Trump
+T22	Cue 735 744	explained
+T23	Content 745 862	the president’s refusal to call the attack a result of “radical Islamic terrorism” is a weakness and he should resign
+T24	Attribution 735 744	explained
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 865 1009	“In his remarks today, President Obama disgracefully refused to even say the words ‘Radical Islam.’ For that reason alone, he should step down,”
+T26	Source 1010 1015	Trump
+T27	Cue 1016 1020	said
+T28	Attribution 1016 1020	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 1033 1038	Trump
+T30	Cue 1039 1049	went after
+T31	Content 1050 1119	Hillary Clinton for following Obama’s refusal to use the term as well
+T32	Attribution 1039 1049	went after
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 1124 1134	called for
+T34	Content 1135 1168	her to quit her bid for president
+T35	Attribution 1124 1134	called for
+E9	Attribution:T35 Cue:T33 Content:T34 Source:T29
+T36	Content 1170 1309	“If Hillary Clinton, after this attack, still cannot say the two words ‘Radical Islam’ she should get out of this race for the Presidency,”
+T37	Source 1310 1315	Trump
+T38	Cue 1316 1320	said
+T39	Attribution 1316 1320	said
+E10	Attribution:T39 Cue:T38 Source:T37 Content:T36
+T40	Source 1362 1367	Trump
+T41	Cue 1323 1334	Emphasizing
+T42	Content 1335 1360	the urgency of the matter
+T43	Attribution 1323 1334	Emphasizing
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Cue 1368 1372	said
+T45	Content 1374 1562	“If we do not get tough and smart real fast, we are not going to have a country anymore. Because our leaders are weak, I said this was going to happen – and it is only going to get worse.”
+T46	Attribution 1368 1372	said
+E12	Attribution:T46 Cue:T44 Source:T40 Content:T45
+T47	Source 1564 1588	The Republican candidate
+T48	Cue 1632 1638	saying
+T49	Content 1640 1912	“I am trying to save lives and prevent the next terrorist attack. We can’t afford to be politically correct anymore. We need to protect all Americans, of all backgrounds and all beliefs, from Radical Islamic Terrorism — which has no place in an open and tolerant society.”
+T50	Attribution 1632 1638	saying
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Discuss 1564 1628	The Republican candidate appeared to assert his leadership plans
+T52	Discard 1914 1951	Are you on Team Trump? Like the page:
+T53	Source 1953 1958	Trump
+T54	Cue 1959 1969	emphasized
+T55	Content 1971 2224	“Radical Islam advocates hate for women, gays, Jews, Christians and all Americans. I am going to be a President for all Americans, and I am going to protect and defend all Americans. We are going to make America safe again and great again for everyone.”
+T56	Attribution 1959 1969	emphasized
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 2226 2231	Trump
+T58	Cue 2232 2270	will reportedly be delivering a speech
+T59	Content 2292 2324	the terrorist attacks in Orlando
+T60	Attribution 2232 2270	will reportedly be delivering a speech
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Cue 2326 2338	According to
+T62	Source 2339 2357	the Trump campaign
+T63	Content 2359 2457	“The speech will be delivered at the New Hampshire Institute of Politics at St. Anselm’s College.”
+T64	Attribution 2326 2338	According to
+E16	Attribution:T64 Content:T63 Source:T62 Cue:T61

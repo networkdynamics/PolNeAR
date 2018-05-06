@@ -1,0 +1,79 @@
+T1	Source 0 11	Republicans
+T2	Cue 12 29	Finally Confirmed
+T3	Content 30 37	A Judge
+T4	Attribution 12 29	Finally Confirmed
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 274 285	Republicans
+T6	Cue 286 295	confirmed
+T7	Content 296 303	a judge
+T8	Attribution 286 295	confirmed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 413 437	Both of his GOP senators
+T10	Cue 438 456	strongly supported
+T11	Content 457 460	him
+T12	Attribution 438 456	strongly supported
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 740 751	Republicans
+T14	Cue 752 765	actually like
+T15	Content 727 734	a judge
+T16	Attribution 752 765	actually like
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 1067 1078	Republicans
+T18	Cue 1079 1101	are already confirming
+T19	Content 1102 1108	judges
+T20	Attribution 1079 1101	are already confirming
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1296 1327	McConnell spokesman Don Stewart
+T22	Cue 1328 1340	wouldn’t say
+T23	Content 1341 1424	when, or if, the Senate will vote to confirm the next judicial nominees on the list
+T24	Attribution 1328 1340	wouldn’t say
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1468 1470	he
+T26	Cue 1471 1475	said
+T27	Content 1426 1467	“I don’t have any new announcements yet,”
+T28	Attribution 1471 1475	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1510 1513	GOP
+T30	Cue 1514 1522	strategy
+T31	Content 1523 1650	to punt judicial confirmations to next year, when a Republican might be in the White House and nominate people they like better
+T32	Attribution 1514 1522	strategy
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 1684 1687	who
+T34	Cue 1688 1706	has been confirmed
+T35	Attribution-no-source 1688 1706	has been confirmed
+E9	Attribution-no-source:T35 Cue:T34 Content:T33
+T38	Source 2214 2235	John Cornyn (R-Texas)
+T39	Cue 2236 2240	told
+T40	Content 2276 2347	that he “would be surprised if [Crenshaw] is the last one of the year.”
+T36	Source 2698 2702	they
+T37	Cue 2703 2728	enthusiastically endorsed
+T41	Content 2729 2813	Obama’s nomination of David Nye to the U.S. District Court for the District of Idaho
+T42	Attribution 2236 2240	told
+E10	Attribution:T42 Cue:T39 Source:T38 Content:T40
+T43	Attribution 2703 2728	enthusiastically endorsed
+E11	Attribution:T43 Content:T41 Cue:T37 Source:T36
+T44	Source 3506 3517	Republicans
+T45	Cue 3518 3522	plan
+T46	Content 3523 3546	to move judges in order
+T47	Attribution 3518 3522	plan
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 3857 3862	Risch
+T49	Cue 3863 3867	told
+T50	Content 3842 3856;3900 4021	“It’s doable,” “Is it going to happen? You know, that’s like trying to say who’s going to be president of the United States these days.”
+T51	Attribution 3863 3867	told
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 4022 4123	Carl Tobias, a law professor at the University of Richmond who specializes in judicial confirmations,
+T53	Cue 4124 4147	wasn’t optimistic about
+T54	Content 4148 4175	the GOP picking up the pace
+T55	Attribution 4124 4147	wasn’t optimistic about
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 4293 4299	Tobias
+T57	Cue 4300 4304	said
+T58	Content 4177 4292;4306 4395	“I think they’re just going to run out the clock this year, in the hope that Republicans will win the White House,” “That will leave the next president with 100 vacancies to fill and 40 to 50 emergencies.”
+T59	Attribution 4300 4304	said
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Source 4569 4571	he
+T61	Cue 4572 4576	said
+T62	Content 4518 4568	“Hillary should just do whatever she wants to do,”
+T63	Attribution 4572 4576	said
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60

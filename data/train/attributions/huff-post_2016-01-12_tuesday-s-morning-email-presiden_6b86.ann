@@ -1,0 +1,82 @@
+T1	Source 0 23	Tuesday’s Morning Email
+T2	Cue 23 24	:
+T3	Content 25 66	President Obama’s Last State Of The Union
+T4	Attribution 23 24	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 115 486	“President Barack Obama’s final State of the Union address will unmistakably attempt to frame the choice facing Americans as they select his successor, doling out an optimistic vision of the country’s future in contrast with what he sees as the pessimism that’s pervasive in the Republican primary.” Tune in tonight for the final State of the Union address at 9 p.m. EST.
+T7	Source 83 114	OBAMA’S LAST STATE OF THE UNION
+T13	Discuss 115 492	“President Barack Obama’s final State of the Union address will unmistakably attempt to frame the choice facing Americans as they select his successor, doling out an optimistic vision of the country’s future in contrast with what he sees as the pessimism that’s pervasive in the Republican primary.” Tune in tonight for the final State of the Union address at 9 p.m. EST. [AP.]
+T18	Content 1118 1359	“China’s economic slowdown and financial mayhem are fostering a cycle of decline and panic across much of the world, as countries on nearly every continent see escalating risks of prolonged slumps, political disruption and financial losses.”
+T20	Source 1068 1117	HOW CHINA’S DECLINE AFFECTS THE REST OF THE WORLD
+T26	Content 1553 1984	“The United Nations has been grappling with so many sexual abuse allegations involving its peacekeepers that Secretary-General Ban Ki Moon recently called them ‘a cancer in our system.’ Now, officials have learned about what appears to be a fresh scandal. Investigators discovered this month that at least four U.N. peacekeepers in the Central African Republic allegedly paid young girls as little as 50 cents in exchange for sex.”
+T28	Source 1508 1552	UN: PEACEKEEPERS PAYING 13-YEAR-OLDS FOR SEX
+T9	Source 494 541	AT LEAST 10 KILLED IN DEADLY ISTANBUL EXPLOSION
+T10	Content 542 706	Turkish President Recep Tayyip Erdogan said the reported suicide bomber, who detonated in the middle of Istanbul’s Sultanahmet tourist district, had “Syrian roots.”
+T11	Cue 707 717	[Reuters.]
+T12	Attribution 707 717	[Reuters.]
+E3	Attribution:T12 Cue:T11 Content:T10 Source:T9
+T6	Cue 487 492	[AP.]
+T8	Attribution 487 492	[AP.]
+E2	Attribution:T8 Cue:T6 Source:T7 Content:T5
+T14	Content 729 1058	Alabama beat undefeated Clemson 45-40 to take the National Championship in a college football title game many are calling an “instant classic.” Here’s how that gutsy onside kick call was the mortal wound in Clemson’s momentum, and the case for Nick Saban surpassing Bear Bryant as the greatest college football coach of all time.
+T15	Source 719 728	ROLL TIDE
+T16	Cue 1059 1066	[ESPN.]
+T17	Attribution 1059 1066	[ESPN.]
+E4	Attribution:T17 Cue:T16 Source:T15 Content:T14
+T19	Cue 1360 1367	[WaPo.]
+T21	Attribution 1360 1367	[WaPo.]
+E5	Attribution:T21 Cue:T19 Source:T20 Content:T18
+T22	Content 1405 1499	As the race tightens in Iowa, Bernie Sanders said his rival candidate is in “serious trouble.”
+T23	Source 1369 1404	HILLARY CLINTON IS FEELING THE BERN
+T24	Cue 1500 1506	[NYT.]
+T25	Attribution 1500 1506	[NYT.]
+E6	Attribution:T25 Cue:T24 Source:T23 Content:T22
+T27	Cue 1985 1992	[WaPo.]
+T29	Attribution 1985 1992	[WaPo.]
+E7	Attribution:T29 Cue:T27 Source:T28 Content:T26
+T38	Content 2047 2150	Rand Paul and Carly Fiorina didn’t make the cut for the main stage Thursday for the Fox Business debate
+T39	Source 1994 2046	TWO MORE BITE THE DUST FOR THE NEXT GOP DEBATE STAGE
+T40	Cue 2152 2168	[Mollie Reilly.]
+T41	Attribution 2152 2168	[Mollie Reilly.]
+E10	Attribution:T41 Cue:T40 Source:T39 Content:T38
+T30	Content 2221 2334	“It’s about creating agency for communities who previously didn’t have very much agency to tell their own story.”
+T31	Source 2187 2220	EBOLA SURVIVORS, THROUGH THE LENS
+T32	Cue 2335 2346	[HuffPost.]
+T33	Attribution 2335 2346	[HuffPost.]
+E8	Attribution:T33 Cue:T32 Source:T31 Content:T30
+T42	Source 2348 2389	WHAT COULD HALT ALZHEIMER’S IN ITS TRACKS
+T43	Content 2390 2464	Stopping brain inflammation may be the key to combating the deadly disease
+T44	Cue 2466 2477	[HuffPost.]
+T34	Content 2551 2907	“But critics, including a number of former Obama administration officials, look at the same set of facts and see a very different future. The explosive innards of the revitalized weapons may not be entirely new, they argue, but the smaller yields and better targeting can make the arms more tempting to use — even to use first, rather than in retaliation.”
+T35	Source 2479 2550	HOW ‘MAKING THEM SMALLER’ YIELDS NUCLEAR WEAPONS THAT ARE EASIER TO USE
+T36	Cue 2908 2914	[NYT.]
+T37	Attribution 2466 2477	[HuffPost.]
+E9	Attribution:T37 Cue:T44 Source:T42 Content:T43
+T45	Attribution 2908 2914	[NYT.]
+E11	Attribution:T45 Cue:T36 Source:T35 Content:T34
+T54	Source 3128 3177	UNDERSTANDING THE ASSISTED SUICIDE MOVEMENT TODAY
+T55	Content 3178 3448	“But either way, I won’t have to die before I want to out of fear that I’ll lose the capacity to control my own destiny if I wait too long. Nor will I have to die alone out of fear that anyone present runs the risk of being hauled in by an overzealous sheriff’s deputy.”
+T56	Cue 3449 3464	[Mother Jones.]
+T57	Attribution 3449 3464	[Mother Jones.]
+E14	Attribution:T57 Cue:T56 Content:T55 Source:T54
+T58	Discard 3466 3537	For more from The Huffington Post, download our app for iOS or Android.
+T59	Source 3556 3612	TELLING OF THE SYRIAN REFUGEE CRISIS, IN VIRTUAL REALITY
+T60	Content 3613 3763	“VR provides a combination of storytelling and technology. As a storyteller, I am always asking, ‘How can we bring the viewer closer into the story?’”
+T61	Cue 3764 3775	[HuffPost.]
+T62	Attribution 3764 3775	[HuffPost.]
+E15	Attribution:T62 Cue:T61 Content:T60 Source:T59
+T63	Discard 3777 3829	For more, sign up for the What’s Working newsletter.
+T46	Source 3922 3948	Media titan Rupert Murdoch
+T47	Cue 3949 3958	announced
+T48	Content 3959 4005	his engagement to former supermodel Jerry Hall
+T49	Attribution 3949 3958	announced
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 4215 4222	Vulture
+T51	Cue 4223 4229	put it
+T52	Content 4231 4255	“Hello, it’s the Biebs.”
+T53	Attribution 4223 4229	put it
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T64	Content 4511 4554	longest armed standoff in American history”
+T65	Cue 4510 4511	“
+T66	Attribution-no-source 4510 4511	“
+E16	Attribution-no-source:T66 Cue:T65 Content:T64

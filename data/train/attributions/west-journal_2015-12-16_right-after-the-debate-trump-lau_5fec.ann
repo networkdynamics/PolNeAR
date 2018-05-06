@@ -1,0 +1,55 @@
+T1	Source 84 96	Donald Trump
+T2	Cue 97 106	dismissed
+T3	Content 107 270	a report in Politico that Jeb Bush has been considering announcing that he will not endorse the billionaire businessman, if he becomes the Republican party nominee
+T4	Attribution 97 106	dismissed
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 273 279	Trump 
+T6	Cue 279 326	told the Washington Post in a written statement
+T7	Content 328 525	“I really don’t want Jeb’s endorsement [emphasis added], because he is a low-energy person and he does not represent strength, power and stamina, which are qualities our country desperately needs.”
+T8	Attribution 279 326	told the Washington Post in a written statement
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 527 541	The candidate 
+T10	Cue 541 546	added
+T11	Content 548 765	“But if he does not endorse and support me as the nominee, legally he cannot be on the ballot in many states, so that would be the end of his candidacy — but that doesn’t matter because he is not going to win anyway.”
+T12	Attribution 541 546	added
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 767 779	According to
+T14	Source 780 788	the Post
+T15	Content 790 913	Bush campaign officials looked into what the consequences would be if their candidate announced he would not back Trump now
+T16	Attribution 767 779	According to
+E4	Attribution:T16 Content:T15 Source:T14 Cue:T13
+T17	Source 915 919	They
+T18	Cue 920 930	determined
+T19	Content 931 1039	that, due to party rules, Bush would fall off the ballot in three states: South Carolina, Kentucky, and Utah
+T20	Attribution 920 930	determined
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1042 1046	Bush
+T22	Cue 1078 1086	refusing
+T23	Content 1087 1156	to recant earlier remarks, when he called the businessman “unhinged.”
+T24	Attribution 1078 1086	refusing
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 1157 1344	“So Donald, you know, is great at — at the one-liners, but he’s a chaos candidate. And he’d be a chaos president. He would not be the commander in chief we need to keep our country safe,”
+T26	Source 1345 1372	the former Florida governor
+T27	Cue 1373 1377	said
+T28	Attribution 1373 1377	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Content 1380 1515	“Jeb doesn’t really believe I’m unhinged. He said that very simply because he has failed in this campaign. It’s been a total disaster,”
+T30	Source 1516 1521	Trump
+T31	Cue 1522 1526	said
+T32	Attribution 1522 1526	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Cue 1528 1534	adding
+T34	Content 1536 1678	“Nobody cares. And frankly, I’m the most solid person up here. I built a tremendous company and all I want to do is make America great again.”
+T35	Attribution 1528 1534	adding
+E9	Attribution:T35 Source:T30 Content:T34 Cue:T33
+T36	Discard 1680 1722	Do you support Donald Trump? Like the page
+T37	Discard 2044 2090	<tweet tweet-id="677250632357715968"><tweet/>.
+T38	Source 1725 1782	A random survey conducted by the One America News Network
+T39	Cue 1783 1788	found
+T40	Content 1789 1907	Trump the winner of Tuesday night’s debate with 35 percent of the vote, followed by Cruz at 25 percent and Rubio at 14
+T41	Attribution 1783 1788	found
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Cue 1921 1936	were also asked
+T43	Content 1937 1954	to pick the loser
+T44	Attribution-no-source 1921 1936	were also asked
+E11	Attribution-no-source:T44 Content:T43 Cue:T42

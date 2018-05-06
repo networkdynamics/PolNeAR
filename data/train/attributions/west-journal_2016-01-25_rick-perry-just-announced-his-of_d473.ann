@@ -1,0 +1,67 @@
+T1	Source 0 10	Rick Perry
+T2	Cue 11 25	Just Announced
+T3	Content 26 74	His Official Endorsement Of A BIG Name Candidate
+T4	Attribution 11 25	Just Announced
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 77 105	Former Texas Gov. Rick Perry
+T6	Cue 106 115	announced
+T7	Content 116 162	his endorsement of Sen. Ted Cruz for president
+T8	Source 175 180	Perry
+T9	Cue 181 185	told
+T10	Content 195 299	that he believes the race for the GOP nomination has now come down to the Texas senator and Donald Trump
+T11	Attribution 106 115	announced
+E2	Attribution:T11 Cue:T6 Source:T5 Content:T7
+T12	Attribution 181 185	told
+E3	Attribution:T12 Content:T10 Cue:T9 Source:T8
+T13	Content 301 478	“Of those individuals who have a chance to win the Republican primary, at this juncture, from my perspective, Ted Cruz is by far the most consistent conservative in that crowd,”
+T14	Source 479 484	Perry
+T15	Cue 485 489	said
+T16	Attribution 485 489	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 492 522	The former three-term governor
+T18	Cue 523 532	dismissed
+T19	Content 533 635	the argument that Cruz would not be able to get along with Congress if he were elected Chief Executive
+T20	Attribution 523 532	dismissed
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 637 970	“Perry, recalling his own experience vetoing a long list of bills early in his gubernatorial tenure, said his actions resulted in others viewing him as a ‘man of principle,’ and insisted that Cruz would similarly be able to get things done as president, despite his current reputation among fellow senators for being a bomb-thrower,”
+T22	Source 971 979	Politico
+T23	Cue 980 988	reported
+T24	Attribution 980 988	reported
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Content 991 1234	“You’ll have with Ted Cruz that same result of, senators and others in the Washington establishment that are mad at him, find him to be hard to work with, they will find a way to work with him because they know he means what he says he means,”
+T26	Source 1235 1240	Perry
+T27	Cue 1241 1245	said
+T28	Attribution 1241 1245	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 1248 1269	The Air Force veteran
+T30	Cue 1270 1283	also believes
+T31	Content 1284 1328	that Cruz passes the commander-in-chief test
+T32	Attribution 1270 1283	also believes
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 1330 1496	“[Ted] knows he’s going to surround himself with people who do have that experience, and I’m very satisfied that on Day 1, he will be ready to be commander-in-chief,”
+T34	Source 1497 1502	Perry
+T35	Cue 1503 1507	said
+T36	Attribution 1503 1507	said
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33
+T37	Discard 1510 1549	Do you support Ted Cruz? Like the page:
+T38	Source 1551 1570	The former governor
+T39	Cue 1631 1636	noted
+T40	Content 1637 1710	that the electorate is not looking for a traditional candidate this cycle
+T41	Attribution 1631 1636	noted
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Content 1712 1869;1886 1993	“Gov. Scott Walker, Bobby Jindal, Rick Perry, Jeb’s barely making an impact out there — those are very skilled, very successful, very experienced governors,” “But the electorate doesn’t want that. That’s why we have elections, why we democratically select leaders.”
+T43	Source 1870 1879	the Texan
+T44	Cue 1880 1884	said
+T45	Attribution 1880 1884	said
+E11	Attribution:T45 Cue:T44 Source:T43 Content:T42
+T46	Source 1995 2000	Perry
+T47	Cue 2053 2080	did not have kind words for
+T48	Content 2081 2093	Donald Trump
+T49	Attribution 2053 2080	did not have kind words for
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2118 2120	he
+T51	Cue 2121 2125	said
+T52	Content 2128 2263;2264 2462;2463 2565	Let no one be mistaken – Donald Trump’s candidacy is a cancer on conservatism, and it must be clearly diagnosed, excised and discarded. It cannot be pacified or ignored, for it will destroy a set of principles that has lifted more people out of poverty than any force in the history of the civilized world – the cause of conservatism. I feel so strongly about this because I believe conservatism is the only way forward for this country.
+T53	Attribution 2121 2125	said
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Discard 2567 2613	<tweet tweet-id="690998951823015936"><tweet/>.

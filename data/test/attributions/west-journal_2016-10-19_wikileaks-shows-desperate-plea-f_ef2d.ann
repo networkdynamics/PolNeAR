@@ -1,0 +1,137 @@
+T1	Source 0 9	WikiLeaks
+T2	Cue 10 15	Shows
+T3	Content 16 72	Desperate Plea For Help From Within The Clinton Campaign
+T4	Attribution 10 15	Shows
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 75 106	An email unearthed by WikiLeaks
+T6	Cue 107 112	shows
+T7	Content 113 191	the desperation of a Clinton aide facing a dysfunctional campaign organization
+T8	Attribution 107 112	shows
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 194 319	The email from Clinton aide and Center for American Progress President Neera Tanden to Clinton campaign chairman John Podesta
+T10	Cue 320 324	asks
+T11	Content 346 375	“Is there something I can do”
+T12	Attribution 320 324	asks
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 380 421	continues in the body of the email to ask
+T14	Content 423 458	“To get a grown up around Hillary?”
+T15	Attribution 380 421	continues in the body of the email to ask
+E4	Attribution:T15 Source:T9 Cue:T13 Content:T14
+T16	Content 460 486	“I’m open to advice here,”
+T17	Source 487 493	Tanden
+T18	Cue 494 499	added
+T19	Attribution 494 499	added
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Content 502 541	“This fall is going to be interesting,”
+T21	Source 542 549	Podesta
+T22	Cue 550 557	replied
+T23	Attribution 550 557	replied
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Content 560 567;581 652	Clinton allowing only limited input, whether in office or on the campaign trail
+T25	Cue 568 580	is known for
+T26	Attribution-no-source 568 580	is known for
+E7	Attribution-no-source:T26 Cue:T25 Content:T24
+T27	Source 758 831	David Axelrod, President Barack Obama’s former chief campaign strategist,
+T28	Content 837 844	Clinton
+T29	Cue 845 860	a dose of blame
+T30	Attribution 845 860	a dose of blame
+E8	Attribution:T30 Cue:T29 Content:T28 Source:T27
+T31	Discuss 655 657	In
+T32	Source 897 899	He
+T33	Cue 900 904	said
+T34	Content 905 998	Clinton has “an unhealthy penchant for privacy that repeatedly creates unnecessary problems.”
+T35	Attribution 900 904	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1000 1007	Axelrod
+T37	Cue 1008 1033	had previously called out
+T38	Content 1034 1054	Clinton for her ways
+T39	Attribution 1008 1033	had previously called out
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1056 1064	tweeting
+T41	Content 1077 1148	that the candidate needed to take responsibility for things going wrong
+T42	Attribution 1056 1064	tweeting
+E11	Attribution:T42 Source:T36 Cue:T40 Content:T41
+T43	Content 1151 1292	“When the exact same problems crop up in separate campaigns, with different staff, at what point do the principals say, “Hey, maybe it’s US?”
+T44	Source 1293 1295	he
+T45	Cue 1296 1303	tweeted
+T46	Attribution 1296 1303	tweeted
+E12	Attribution:T46 Cue:T45 Source:T44 Content:T43
+T47	Cue 1306 1318	According to
+T48	Source 1319 1331	some sources
+T49	Content 1333 1360	this pattern is nothing new
+T50	Attribution 1306 1318	According to
+E13	Attribution:T50 Content:T49 Source:T48 Cue:T47
+T51	Content 1363 1461	“When she ran the Clinton administration’s health care project in 1993, the meetings were secret,”
+T52	Cue 1462 1467	noted
+T53	Source 1468 1498	the Milwaukee Journal Sentinel
+T54	Attribution 1462 1467	noted
+E14	Attribution:T54 Source:T53 Cue:T52 Content:T51
+T55	Content 1513 1613;1614 1711;1712 1819	“When she was under investigation for the Whitewater land deals, she resisted releasing the records. She still hasn’t released transcripts of her multimillion-dollar speeches to Wall Street bankers. … her private email server — operated out of the Clintons’ home in New York — is of a piece with the rest,”
+T56	Source 1820 1832	the Sentinel
+T57	Cue 1833 1842	continued
+T58	Attribution 1833 1842	continued
+E15	Attribution:T58 Cue:T57 Source:T56 Content:T55
+T59	Content 1845 1982	“Secrecy and transparency are always an issue for the Clintons, will always be an issue for her and probably are her main vulnerability,”
+T60	Cue 1983 1987	said
+T61	Source 1988 2030	Matt Bai, a political columnist for Yahoo,
+T62	Attribution 1983 1987	said
+E16	Attribution:T62 Source:T61 Cue:T60 Content:T59
+T63	Source 2031 2034	who
+T64	Cue 2035 2039	said
+T65	Content 2040 2132	the Clintons have always tried to keep their public image and private reality from colliding
+T66	Attribution 2035 2039	said
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Content 2135 2374	“The cumulative effect of that is a perception not unfounded in the public that there’s always a part of the Clintons that they’re holding back from you, that there’s always a more complicated reality than what they’re really telling you,”
+T68	Cue 2375 2379	said
+T69	Source 2380 2383	Bai
+T70	Attribution 2375 2379	said
+E18	Attribution:T70 Source:T69 Cue:T68 Content:T67
+T71	Source 2386 2447	Other emails from WikiLeaks that have recently been unearthed
+T72	Cue 2448 2452	show
+T73	Content 2453 2525	the Clinton was unable to easily walk about a stage during a 2009 speech
+T74	Attribution 2448 2452	show
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Content 2528 2607	“Just want to make sure someone has coordinated with you on hrc speech set up,”
+T76	Source 2608 2624	aide Huma Abedin
+T77	Cue 2625 2630	wrote
+T78	Attribution 2625 2630	wrote
+E20	Attribution:T78 Cue:T77 Source:T76 Content:T75
+T79	Content 2699 2799;2810 2867	“She won’t be able to give it in the round like (Bill Clinton) does walking around with microphone,” “Are we able to set it up so she’s speaking at a podium?”
+T80	Source 2800 2803	she
+T81	Cue 2804 2808	said
+T82	Attribution 2804 2808	said
+E21	Attribution:T82 Cue:T81 Source:T80 Content:T79
+T83	Cue 2874 2878	told
+T84	Content 2879 2931	the stage for that event was seating “in the round,”
+T85	Attribution-no-source 2874 2878	told
+E22	Attribution-no-source:T85 Content:T84 Cue:T83
+T86	Source 2932 2938	Abedin
+T87	Cue 2939 2951	still wanted
+T88	Content 2952 2964	changes made
+T89	Attribution 2939 2951	still wanted
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Content 2967 3010;3011 3048	“I’m worried that will be an issue for her. Can we do a half round or something?”
+T91	Source 3049 3052	she
+T92	Cue 3053 3058	asked
+T93	Attribution 3053 3058	asked
+E24	Attribution:T93 Cue:T92 Source:T91 Content:T90
+T94	Source 3061 3074	Another email
+T95	Cue 3075 3080	noted
+T96	Content 3081 3167	that in September 2015, Clinton could not recall how she described herself politically
+T97	Attribution 3075 3080	noted
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 3169 3175	Tanden
+T99	Cue 3176 3191	had been asking
+T100	Content 3200 3233	why she called herself a moderate
+T101	Attribution 3176 3191	had been asking
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Content 3236 3274;3275 3316;3317 3341	“I pushed her on this on Sunday night. She claims she didn’t remember saying it. Not sure I believe her,”
+T103	Source 3342 3349	Podesta
+T104	Cue 3350 3357	replied
+T105	Attribution 3350 3357	replied
+E27	Attribution:T105 Cue:T104 Source:T103 Content:T102
+T106	Source 3385 3391	Tanden
+T107	Cue 3392 3397	noted
+T108	Content 3399 3497	“It worries me more that she doesn’t seem to know what planet we are all living in at the moment.”
+T109	Attribution 3392 3397	noted
+E28	Attribution:T109 Content:T108 Cue:T107 Source:T106

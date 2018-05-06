@@ -1,0 +1,44 @@
+T1	Content 48 50	VP
+T2	Cue 51 62	Speculation
+T3	Attribution-no-source 51 62	Speculation
+E1	Attribution-no-source:T3 Cue:T2 Content:T1
+T4	Source 65 96	Sen. Elizabeth Warren (D-Mass.)
+T5	Cue 97 113	had been talking
+T6	Content 179 239	her endorsing the presumptive Democrat nominee for President
+T7	Attribution 97 113	had been talking
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Source 361 367	people
+T9	Cue 368 381	talking about
+T10	Content 382 436	whether or not this could mean a Clinton-Warren ticket
+T11	Attribution 368 381	talking about
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 593 600	Footage
+T13	Cue 601 609	captured
+T14	Content 610 730	Warren getting out of a blue SUV with legislative director Jon Donenberg and the two walked into Clinton’s home together
+T15	Attribution 601 609	captured
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 994 1000	Warren
+T17	Cue 1041 1060	officially endorsed
+T18	Content 1061 1068	Clinton
+T19	Attribution 1041 1060	officially endorsed
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 1070 1076	saying
+T21	Attribution 1070 1076	saying
+E6	Attribution:T21 Cue:T20 Source:T16 Content:T22
+T22	Content 1078 1185	“I think having a fighter in the lead — a female fighter in the lead — is exactly what this country needs.”
+T23	Source 1257 1261	they
+T24	Cue 1262 1272	are hoping
+T25	Content 1273 1461	a stamp of approval from Warren, who is very popular with the Democrats’ progressive base, will help convince supporters of Sen. Bernie Sanders to support Clinton for president in November
+T26	Attribution 1262 1272	are hoping
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 1499 1505	Maddow
+T28	Cue 1506 1520	tried to press
+T29	Content 1521 1581	Warren on whether or not she would be Clinton’s running mate
+T30	Attribution 1506 1520	tried to press
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 1587 1598	the senator
+T32	Cue 1599 1607	insisted
+T33	Content 1608 1646	she hadn’t discussed that with Clinton
+T34	Attribution 1599 1607	insisted
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Discard 1649 1662	h/t TheBlaze.

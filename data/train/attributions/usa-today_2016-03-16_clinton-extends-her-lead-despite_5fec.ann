@@ -1,0 +1,39 @@
+T1	Source 148 159	someone who
+T2	Cue 160 168	conceded
+T3	Content 188 226	that she's "not a natural politician,"
+T4	Attribution 160 168	conceded
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 1057 1076	Clinton's candidacy
+T6	Cue 1077 1101	is essentially a call fo
+T7	Content 1103 1119	more of the same
+T8	Attribution 1077 1101	is essentially a call fo
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 1234 1251	President Clinton
+T10	Cue 1252 1271	could actually hope
+T11	Content 1222 1231;1272 1283	an agenda to see work
+T12	Attribution 1252 1271	could actually hope
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 1511 1529	younger voters who
+T14	Cue 1530 1534	feel
+T15	Content 1535 1585	trapped in a system that seems rigged against them
+T16	Attribution 1530 1534	feel
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 1814 1822	to answe
+T18	Content 1824 1852	no to any of those questions
+T19	Attribution-no-source 1814 1822	to answe
+E5	Attribution-no-source:T19 Content:T18 Cue:T17
+T20	Source 2034 2040	anyone
+T21	Cue 2041 2046	think
+T22	Content 2047 2107	he could actually get any of them done in today's Washington
+T23	Attribution 2041 2046	think
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 2235 2242	history
+T25	Cue 2243 2250	teaches
+T26	Content 2251 2320	that can cut both ways, especially when voters are looking for change
+T27	Attribution 2243 2250	teaches
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T29	Content 2355 2374	"Experience Counts"
+T28	Source 2323 2336	Richard Nixon
+T30	Cue 2337 2354	ran on the slogan
+T31	Attribution 2337 2354	ran on the slogan
+E8	Attribution:T31 Cue:T30 Source:T28 Content:T29

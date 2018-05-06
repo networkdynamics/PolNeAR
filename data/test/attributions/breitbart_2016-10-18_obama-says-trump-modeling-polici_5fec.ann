@@ -1,0 +1,192 @@
+T1	Source 0 5	Obama
+T2	Cue 6 10	says
+T3	Content 11 43	Trump modeling policies on Putin
+T4	Attribution 6 10	says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 64 86	President Barack Obama
+T6	Cue 98 105	accused
+T7	Content 106 269	Republican Donald Trump of showering praise and modeling his policies on Russian President Vladimir Putin to a degree that is “unprecedented in American politics.”
+T8	Attribution 98 105	accused
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 271 276	Obama
+T10	Cue 277 281	said
+T11	Content 282 405	he is “surprised and troubled” by Republican lawmakers he says are echoing their presidential nominee’s positions on Russia
+T12	Attribution 277 281	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 407 412	Trump
+T14	Cue 413 424	has praised
+T15	Content 425 449	Putin as a strong leader
+T16	Attribution 413 424	has praised
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 454 464	criticized
+T18	Content 465 584	Obama and the Democratic presidential nominee, Hillary Clinton, for Washington’s deteriorating relationship with Moscow
+T19	Attribution 454 464	criticized
+E5	Attribution:T19 Source:T13 Content:T18 Cue:T17
+T20	Source 611 616	Trump
+T21	Cue 617 621	said
+T22	Content 622 658	Russia “can’t stand” either Democrat
+T23	Attribution 617 621	said
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 660 665	Trump
+T25	Cue 666 674	promised
+T26	Content 675 793	a closer relationship with Putin, if elected, starting with a possible meeting with Putin before the U.S. inauguration
+T27	Attribution 666 674	promised
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 929 960	Trump and his Republican allies
+T29	Cue 961 981	are looking for ways
+T30	Content 982 1052	to swing momentum their way after a damaging few weeks in the campaign
+T31	Attribution 961 981	are looking for ways
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1067 1078	Republicans
+T33	Cue 1079 1085	seized
+T34	Content 1086 1224	the latest developments in the Clinton email controversy as an issue that could help Trump make up ground in the final presidential debate
+T35	Attribution 1079 1085	seized
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Discuss 1067 1224	Republicans seized the latest developments in the Clinton email controversy as an issue that could help Trump make up ground in the final presidential debate
+T37	Cue 1238 1242	news
+T38	Content 1243 1403	that the State Department had asked FBI officials to lower the classification of a sensitive email related to the attack on the U.S. compound in Benghazi, Libya
+T39	Attribution-no-source 1238 1242	news
+E10	Attribution-no-source:T39 Content:T38 Cue:T37
+T40	Source 1405 1430	FBI notes released Monday
+T41	Cue 1431 1439	revealed
+T42	Content 1440 1510	discussion of a “quid pro quo” in trying to get the email reclassified
+T43	Attribution 1431 1439	revealed
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Cue 1519 1533	it’s not clear
+T45	Content 1534 1560	who first raised the issue
+T46	Attribution-no-source 1519 1533	it’s not clear
+E12	Attribution-no-source:T46 Content:T45 Cue:T44
+T47	Source 1565 1593	both State and FBI officials
+T48	Cue 1594 1598	deny
+T49	Content 1599 1624	any bargaining took place
+T50	Attribution 1594 1598	deny
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 1627 1632	Obama
+T52	Cue 1633 1637	said
+T53	Content 1646 1723	the version Trump and other Republicans are talking about is “just not true.”
+T54	Attribution 1633 1637	said
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Source 1725 1730	Trump
+T56	Cue 1731 1737	called
+T57	Content 1738 1794	it “one of the great miscarriages of justice” in history
+T58	Attribution 1731 1737	called
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 1903 1916	The candidate
+T60	Cue 1917 1943	has continued his warnings
+T61	Content 1944 1974	that the election is “rigged,”
+T62	Attribution 1917 1943	has continued his warnings
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 2026 2029	who
+T64	Cue 2030 2035	worry
+T65	Content 2036 2084	his rhetoric will hurt public faith in elections
+T66	Attribution 2030 2035	worry
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Cue 2093 2103	news about
+T68	Content 2104 2114	the emails
+T69	Attribution-no-source 2093 2103	news about
+E18	Attribution-no-source:T69 Content:T68 Cue:T67
+T70	Source 2120 2133	Melania Trump
+T71	Cue 2134 2170	made her first public comments about
+T72	Content 2171 2246	the allegations of sexual assault and misconduct lodged against her husband
+T73	Attribution 2134 2170	made her first public comments about
+E19	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Source 2294 2304	Mrs. Trump
+T75	Cue 2305 2309	said
+T76	Content 2310 2494	she believes the accusations were coordinated by political rivals: “They want to damage the presidency of my husband, and it was all planned, it was all organized from the opposition.”
+T77	Attribution 2305 2309	said
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Source 2531 2538	Clinton
+T79	Cue 2538 2555	’s allegations of
+T80	Content 2556 2661	a “vast right-wing conspiracy” organized to raise similar allegations against her husband two decades ago
+T81	Attribution 2538 2555	’s allegations of
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Source 2761 2812	His guest list for Wednesday’s faceoff in Las Vegas
+T83	Cue 2813 2821	signaled
+T84	Content 2822 2852	he hoped to change the subject
+T85	Attribution 2813 2821	signaled
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Source 2855 2873	The Trump campaign
+T87	Cue 2874 2878	said
+T88	Content 2887 3030	that Pat Smith, whose son, Sean Smith, was killed in the attack in Benghazi, will be attending the debate in Las Vegas as the candidate’s guest
+T89	Attribution 2874 2878	said
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Source 3107 3110	she
+T91	Cue 3111 3148	delivered an emotional speech blaming
+T92	Content 3149 3175	Clinton for her son’s deat
+T93	Attribution 3111 3148	delivered an emotional speech blaming
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Cue 3181 3189	accusing
+T95	Content 3190 3236	her of lying to families about what sparked it
+T96	Attribution 3181 3189	accusing
+E25	Attribution:T96 Source:T90 Content:T95 Cue:T94
+T97	Source 3239 3246	Clinton
+T98	Cue 3247 3254	planned
+T99	Content 3255 3321	to spend Tuesday in New York preparing for the debate in Las Vegas
+T100	Attribution 3247 3254	planned
+E26	Attribution:T100 Content:T99 Cue:T98 Source:T97
+T101	Cue 3329 3339	was slated
+T102	Content 3323 3328;3340 3367	Trump to hold rallies in Colorado
+T103	Attribution-no-source 3329 3339	was slated
+E27	Attribution-no-source:T103 Content:T102 Cue:T101
+T104	Cue 3370 3387	The disclosure of
+T105	Content 3388 3401	FBI documents
+T106	Attribution-no-source 3370 3387	The disclosure of
+E28	Attribution-no-source:T106 Content:T105 Cue:T104
+T107	Cue 3410 3425	questions about
+T108	Content 3426 3495	Clinton’s use of personal email during her time as secretary of state
+T109	Attribution-no-source 3410 3425	questions about
+E29	Attribution-no-source:T109 Content:T108 Cue:T107
+T110	Source 3548 3554	voters
+T111	Cue 3554 3564	’ trust in
+T112	Content 3565 3568	her
+T113	Attribution 3554 3564	’ trust in
+E30	Attribution:T113 Content:T112 Cue:T111 Source:T110
+T114	Source 3629 3657	The document released Monday
+T115	Cue 3658 3662	show
+T116	Content 3663 3830	a State Department Undersecretary for Management Patrick F. Kennedy, a former close Clinton aide, contacted an FBI official seeking to change an email’s classification
+T117	Attribution 3658 3662	show
+E31	Attribution:T117 Content:T116 Cue:T115 Source:T114
+T118	Source 3899 3924	Notes on the conversation
+T119	Cue 3925 3933	describe
+T120	Content 3934 4117	discussion about a “quid pro quo” in which the email’s classification would be changed and State would allow the FBI to place more agents in countries where they hadn’t been permitted
+T121	Attribution 3925 3933	describe
+E32	Attribution:T121 Content:T120 Cue:T119 Source:T118
+T122	Source 4120 4155	The FBI’s records of the interviews
+T123	Cue 4156 4164	indicate
+T124	Content 4165 4198	that Kennedy made that suggestion
+T125	Attribution 4156 4164	indicate
+E33	Attribution:T125 Content:T124 Cue:T123 Source:T122
+T126	Source 4204 4237	both the FBI and State Department
+T127	Cue 4238 4242	said
+T128	Content 4250 4335	that it was the unidentified FBI official who first raised the idea of a quid pro quo
+T129	Attribution 4238 4242	said
+E34	Attribution:T129 Content:T128 Cue:T127 Source:T126
+T130	Source 4403 4426	Clinton campaign allies
+T131	Cue 4427 4433	argued
+T132	Content 4442 4494	that the documents simply show bureaucratic haggling
+T133	Attribution 4427 4433	argued
+E35	Attribution:T133 Content:T132 Cue:T131 Source:T130
+T134	Content 4497 4588	“None of this has anything to do with Hillary Clinton. She wasn’t involved in this at all,”
+T135	Cue 4589 4593	said
+T136	Source 4594 4656	Rep. Jerry Nadler, a Democrat from New York and a Clinton ally
+T137	Attribution 4589 4593	said
+E36	Attribution:T137 Source:T136 Cue:T135 Content:T134
+T138	Source 4658 4664	Nadler
+T139	Cue 4665 4669	said
+T140	Content 4670 4738	“maybe” the conduct of the officials involved “should be looked at.”
+T141	Attribution 4665 4669	said
+E37	Attribution:T141 Content:T140 Cue:T139 Source:T138
+T142	Source 4837 4849	Her campaign
+T143	Cue 4850 4859	announced
+T144	Content 4867 4973	it was launching a new push in Arizona, including a campaign stop in Phoenix by first lady Michelle Obama,
+T145	Attribution 4850 4859	announced
+E38	Attribution:T145 Content:T144 Cue:T143 Source:T142
+T146	Source 5254 5270	Trump’s campaign
+T147	Cue 5338 5347	announced
+T148	Content 5348 5416	plans to launch a $2 million advertising blitz in long-shot Virginia
+T149	Attribution 5338 5347	announced
+E39	Attribution:T149 Content:T148 Cue:T147 Source:T146
+T150	Content 5193 5210;5225 5232	media appearances in Utah
+T151	Cue 5211 5224	are scheduled
+T152	Attribution-no-source 5211 5224	are scheduled
+E40	Attribution-no-source:T152 Cue:T151 Content:T150

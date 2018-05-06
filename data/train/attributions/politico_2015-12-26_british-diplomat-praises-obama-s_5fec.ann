@@ -1,0 +1,48 @@
+T1	Source 0 16	British diplomat
+T2	Cue 17 24	praises
+T3	Content 25 43	Obama's presidency
+T4	Attribution 17 24	praises
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 127 137	Westmacott
+T6	Cue 207 214	praised
+T7	Content 215 233	Obama’s presidency
+T8	Attribution 207 214	praised
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 237 249	an interview
+T10	Cue 250 259	published
+T11	Attribution-no-source 250 259	published
+E3	Attribution-no-source:T11 Cue:T10 Content:T9
+T12	Content 329 387;410 577	“I think the legacy, the balance sheet, doesn’t look bad,” “It certainly doesn’t feel to me like this is a lame-duck presidency which has given up. He’s motoring along and he’s doing through executive action what he needs to."
+T13	Source 388 390	he
+T14	Cue 391 395	told
+T15	Attribution 391 395	told
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Source 693 703	Westmacott
+T17	Cue 704 713	also said
+T18	Content 714 791	that Obama shows “great charm” and exhibits a fondness for the United Kingdom
+T19	Attribution 704 713	also said
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 794 997	“President Obama seems to me to be somebody who’s pretty fond of the UK and never misses an opportunity to tell us how enthusiastic he is and the affection he feels toward the royal family, for example,”
+T21	Source 998 1000	he
+T22	Cue 1001 1005	said
+T23	Attribution 1001 1005	said
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 1008 1020	The diplomat
+T25	Cue 1021 1037	also mused about
+T26	Content 1038 1051	the 2016 race
+T27	Attribution 1021 1037	also mused about
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 1167 1228;1246 1422	“I don’t think this is a country which is in decline at all,” “This is still the most prosperous and successful country in the world, the biggest economy. It is still the leader of the free world; I don’t see that changing any time soon.”
+T29	Source 1229 1239	Westmacott
+T30	Cue 1240 1244	said
+T31	Attribution 1240 1244	said
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Source 1463 1473	Westmacott
+T33	Cue 1474 1478	said
+T34	Content 1479 1607	Hillary Clinton and Obama “did a remarkable job of making America loved again after the difficult years of the previous regime."
+T35	Attribution 1474 1478	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Cue 1053 1073	pushing back against
+T37	Content 1074 1164	candidates — like Republican front-runner Donald Trump — who say the country is in decline
+T38	Attribution 1053 1073	pushing back against
+E10	Attribution:T38 Source:T24 Content:T37 Cue:T36

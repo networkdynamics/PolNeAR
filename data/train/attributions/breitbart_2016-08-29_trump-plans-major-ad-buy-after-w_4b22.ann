@@ -1,0 +1,64 @@
+T1	Source 0 5	Trump
+T2	Cue 6 11	plans
+T3	Content 12 54	major ad buy after weeks of being outspent
+T4	Attribution 6 11	plans
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 159 164	plans
+T6	Content 165 242	to spend upward of $10 million on commercials airing over the next week or so
+T7	Source 75 98	Donald Trump’s campaign
+T8	Attribution 159 164	plans
+E2	Attribution:T8 Source:T7 Content:T6 Cue:T5
+T9	Source 245 257	The campaign
+T10	Cue 258 270	is expecting
+T11	Content 271 286;340 372	to air a new ad as soon as Monday in nine states
+T12	Attribution 258 270	is expecting
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 866 878	according to
+T14	Source 879 914	Kantar Media’s political ad tracker
+T15	Content 686 864	Since clinching her party’s nomination in early June, Clinton has spent more than $77 million on television and radio advertising, largely targeting voters in battleground states
+T16	Attribution 866 878	according to
+E4	Attribution:T16 Content:T15 Source:T14 Cue:T13
+T17	Source 1146 1158	the campaign
+T18	Cue 1159 1163	sees
+T19	Content 1140 1145;1164 1260	signs that Trump’s lagging poll numbers may be improving against Clinton’s following a campaign reboot
+T20	Attribution 1159 1163	sees
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1263 1311	Trump senior communications adviser Jason Miller
+T23	Content 1332 1508	that the billionaire businessman’s “positive message of economic opportunity is working and we see the national and battleground state polls all moving in the right direction.”
+T24	Cue 1312 1331	said in a statement
+T22	Source 1752 1754	he
+T25	Cue 1755 1760	added
+T26	Content 1510 1751	“With Hillary Clinton off the campaign trail yet again this week and continuing to take many communities’ votes for granted, we see this as the right time to show voters the benefits of an American economy under the leadership of Mr. Trump,”
+T27	Attribution 1312 1331	said in a statement
+E6	Attribution:T27 Cue:T24 Source:T21 Content:T23
+T28	Attribution 1755 1760	added
+E7	Attribution:T28 Content:T26 Cue:T25 Source:T22
+T29	Cue 1908 1923	s also expected
+T30	Content 1901 1906;1924 1981	Trump to unveil on Monday his second ad of the general election
+T31	Attribution-no-source 1908 1923	s also expected
+E8	Attribution-no-source:T31 Content:T30 Cue:T29
+T32	Cue 2232 2236	says
+T33	Source 2237 2247	a narrator
+T34	Content 2064 2231	“In Hillary Clinton’s America, the middle class get crushed. Spending goes up, taxes go up. Hundreds of thousands of jobs disappear. It’s more of the same, but worse,”
+T35	Attribution 2232 2236	says
+E9	Attribution:T35 Content:T34 Source:T33 Cue:T32
+T36	Source 2250 2262	The narrator
+T37	Cue 2263 2272	continues
+T38	Content 2273 2408	that, in “Donald Trump’s America, working families get tax relief. Millions of new jobs created, wages go up. Small businesses thrive.”
+T39	Attribution 2263 2272	continues
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 2520 2528	analysts
+T41	Cue 2529 2532	say
+T42	Content 2419 2518	neither Trump nor Clinton’s tax plans would have any major impact on how much the middle class pays
+T43	Attribution 2529 2532	say
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1983 1985	It
+T45	Cue 1986 1999	will focus on
+T46	Content 2000 2020	his economic message
+T47	Attribution 1986 1999	will focus on
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Cue 923 977	finally hit the airwaves earlier this month with an ad
+T49	Source 917 922	Trump
+T50	Content 978 1000	focused on immigration
+T51	Attribution 923 977	finally hit the airwaves earlier this month with an ad
+E13	Attribution:T51 Content:T50 Source:T49 Cue:T48

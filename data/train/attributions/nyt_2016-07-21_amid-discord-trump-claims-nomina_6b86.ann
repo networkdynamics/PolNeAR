@@ -1,0 +1,218 @@
+T1	Source 14 19	Trump
+T2	Cue 20 26	claims
+T3	Content 27 37	nomination
+T4	Attribution 20 26	claims
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 40 48	Hundreds
+T6	Cue 49 69	cast their votes for
+T7	Content 70 112	other candidates as questions nag campaign
+T8	Attribution 49 69	cast their votes for
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 200 213	721 delegates
+T10	Cue 214 234	cast their votes for
+T11	Content 235 268	candidates other than the nominee
+T12	Attribution 214 234	cast their votes for
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 131 143	his campaign
+T14	Cue 170 177	denying
+T15	Content 178 198	claims of plagiarism
+T16	Attribution 170 177	denying
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 299 324	has been formally crowned
+T18	Content 283 298;325 387	Donald J. Trump the Republican nominee for president at the party's convention
+T19	Attribution-no-source 299 324	has been formally crowned
+E5	Attribution-no-source:T19 Content:T18 Cue:T17
+T20	Source 693 702	Mr. Trump
+T21	Cue 703 721	officially claimed
+T22	Content 722 736	the nomination
+T23	Attribution 703 721	officially claimed
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Cue 982 1006	ominous denunciations of
+T25	Content 1007 1022	Hillary Clinton
+T26	Attribution-no-source 982 1006	ominous denunciations of
+E7	Attribution-no-source:T26 Content:T25 Cue:T24
+T27	Cue 1154 1176	a call to arms against
+T28	Content 1177 1189	Mrs. Clinton
+T29	Source 1024 1138	Gov. Chris Christie of New Jersey, a Trump ally stung by his rejection in the hunt to be Mr. Trump's running mate,
+T30	Attribution 1154 1176	a call to arms against
+E8	Attribution:T30 Source:T29 Content:T28 Cue:T27
+T31	Source 1263 1272	the crowd
+T32	Cue 1276 1297	spontaneous chants of
+T33	Content 1298 1314	''Lock her up!''
+T34	Attribution 1276 1297	spontaneous chants of
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 1556 1569	721 delegates
+T36	Cue 1570 1590	cast their votes for
+T37	Content 1591 1622	candidates other than Mr. Trump
+T38	Attribution 1570 1590	cast their votes for
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Cue 1625 1659	the most significant expression of
+T40	Content 1660 1673	party dissent
+T41	Attribution-no-source 1625 1659	the most significant expression of
+E11	Attribution-no-source:T41 Content:T40 Cue:T39
+T42	Source 1739 1783	more traditional Republicans in the audience
+T43	Cue 1784 1813	showed limited enthusiasm for
+T44	Content 1814 1823	Mr. Trump
+T45	Attribution 1784 1813	showed limited enthusiasm for
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Cue 1931 1935	from
+T47	Source 1936 1945	the crowd
+T48	Content 1916 1930	scattered boos
+T49	Attribution 1931 1935	from
+E13	Attribution:T49 Content:T48 Source:T47 Cue:T46
+T50	Cue 2008 2016	endorsed
+T51	Content 2017 2026	Mr. Trump
+T52	Source 1995 1998	who
+T53	Attribution 2008 2016	endorsed
+E14	Attribution:T53 Source:T52 Content:T51 Cue:T50
+T54	Cue 2031 2041	criticized
+T55	Content 2043 2054	is campaign
+T56	Attribution 2031 2041	criticized
+E15	Attribution:T56 Content:T55 Cue:T54 Source:T52
+T57	Cue 2097 2121	stressing in his remarks
+T58	Content 2122 2189	that Mr. Trump would sign laws passed by the Republican-held Senate
+T59	Source 1980 1993	Mr. McConnell
+T60	Attribution 2097 2121	stressing in his remarks
+E16	Attribution:T60 Source:T59 Content:T58 Cue:T57
+T61	Source 2214 2217	who
+T62	Cue 2218 2242	was reluctant to endorse
+T63	Content 2243 2252	Mr. Trump
+T64	Attribution 2218 2242	was reluctant to endorse
+E17	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 2314 2316	he
+T66	Cue 2317 2323	called
+T67	Content 2324 2352	''our arguments this year.''
+T68	Attribution 2317 2323	called
+E18	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 2358 2366	Mr. Ryan
+T70	Cue 2367 2371	said
+T71	Content 2373 2410	''democracy is a series of choices.''
+T72	Attribution 2367 2371	said
+E19	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Content 2529 2568	sober discourses on conservative policy
+T74	Cue 2569 2575	guided
+T75	Source 2579 2611	Republican congressional leaders
+T76	Attribution 2569 2575	guided
+E20	Attribution:T76 Source:T75 Cue:T74 Content:T73
+T77	Cue 2615 2625	attacks on
+T78	Content 2626 2638	Mrs. Clinton
+T79	Attribution-no-source 2615 2625	attacks on
+E21	Attribution-no-source:T79 Content:T78 Cue:T77
+T80	Source 2647 2655	Mr. Ryan
+T81	Cue 2703 2724	laid out a vision for
+T82	Content 2725 2778	''a reformed tax code that rewards free enterprise,''
+T83	Attribution 2703 2724	laid out a vision for
+E22	Attribution:T83 Content:T82 Cue:T81 Source:T80
+T84	Source 2779 2789	Ben Carson
+T85	Cue 2894 2901	to call
+T86	Content 2902 2940	Mrs. Clinton a student of Saul Alinsky
+T87	Attribution 2894 2901	to call
+E23	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Content 3122 3162	a chorus of intermingled cheers and boos
+T89	Cue 3163 3167	rose
+T90	Source 3173 3182	the crowd
+T91	Attribution 3163 3167	rose
+E24	Attribution:T91 Source:T90 Cue:T89 Content:T88
+T92	Source 3184 3209	Mr. Kasich, a Republican,
+T93	Cue 3210 3226	has not endorsed
+T94	Content 3227 3236	Mr. Trump
+T95	Attribution 3210 3226	has not endorsed
+E25	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Cue 3241 3269	has been a pointed critic of
+T97	Content 3270 3289	his political style
+T98	Attribution 3241 3269	has been a pointed critic of
+E26	Attribution:T98 Content:T97 Cue:T96 Source:T92
+T99	Source 3358 3361	who
+T100	Cue 3362 3376	has not backed
+T101	Content 3377 3386	Mr. Trump
+T102	Attribution 3362 3376	has not backed
+E27	Attribution:T102 Content:T101 Cue:T100 Source:T99
+T103	Source 3652 3655	who
+T104	Cue 3656 3661	spoke
+T105	Content 3675 3692	to hail Mr. Trump
+T106	Attribution 3656 3661	spoke
+E28	Attribution:T106 Content:T105 Cue:T104 Source:T103
+T107	Source 3862 3880	His son Donald Jr.
+T108	Cue 3881 3890	announced
+T109	Content 3915 3974	that New York's delegates had delivered the votes he needed
+T110	Attribution 3881 3890	announced
+E29	Attribution:T110 Content:T109 Cue:T108 Source:T107
+T111	Content 3977 4026	''It's not a campaign anymore, it's a movement,''
+T112	Cue 4027 4031	said
+T113	Source 4032 4053	the younger Mr. Trump
+T114	Attribution 4027 4031	said
+E30	Attribution:T114 Source:T113 Cue:T112 Content:T111
+T115	Source 4130 4132	he
+T116	Cue 4133 4140	pledged
+T117	Content 4141 4156;4229 4236	to put New York in play
+T118	Attribution 4133 4140	pledged
+E31	Attribution:T118 Content:T117 Cue:T116 Source:T115
+T119	Cue 4248 4274	echoed with the strains of
+T120	Content 4275 4298	''New York, New York.''
+T121	Attribution-no-source 4248 4274	echoed with the strains of
+E32	Attribution-no-source:T121 Content:T120 Cue:T119
+T122	Cue 4386 4412	a three-word proclamation:
+T123	Content 4413 4430	''Over the Top.''
+T124	Source 4299 4335	Giant screens hanging over the arena
+T125	Attribution 4386 4412	a three-word proclamation:
+E33	Attribution:T125 Source:T124 Content:T123 Cue:T122
+T126	Source 5224 5226	he
+T127	Cue 5227 5243	spoke briefly of
+T128	Content 5244 5273	his friendship with Mr. Trump
+T129	Attribution 5227 5243	spoke briefly of
+E34	Attribution:T129 Content:T128 Cue:T127 Source:T126
+T130	Cue 5281 5289	savaging
+T131	Content 5290 5332	Mrs. Clinton as a criminal in all but name
+T132	Attribution 5281 5289	savaging
+E35	Attribution:T132 Content:T131 Cue:T130 Source:T126
+T133	Source 5102 5114	Mr. Christie
+T134	Cue 5115 5175	turned his keynote address at the Republican convention into
+T135	Content 5176 5212	a paean to his own political success
+T136	Attribution 5115 5175	turned his keynote address at the Republican convention into
+E36	Attribution:T136 Content:T135 Cue:T134 Source:T133
+T137	Content 5334 5370;5381 5457	It is time for the country to be led ''not only by a strong leader, but by a caring, genuine and decent person.''
+T138	Source 5372 5374	he
+T139	Cue 5375 5379	said
+T140	Attribution 5375 5379	said
+E37	Attribution:T140 Cue:T139 Source:T138 Content:T137
+T141	Cue 5472 5502	was unmistakable evidence that
+T142	Content 5503 5557	other prominent Republicans were eyeing 2020 campaigns
+T143	Attribution-no-source 5472 5502	was unmistakable evidence that
+E38	Attribution-no-source:T143 Content:T142 Cue:T141
+T144	Cue 5648 5676	was being formally nominated
+T145	Content 5638 5647;5677 5707	Mr. Trump as the party's standard-bearer
+T146	Attribution-no-source 5648 5676	was being formally nominated
+E39	Attribution-no-source:T146 Content:T145 Cue:T144
+T147	Source 5993 6005	his campaign
+T148	Cue 6006 6032	offered a halting response
+T149	Content 6045 6163	o questions about why Ms. Trump's speech featured passages from Mrs. Obama's 2008 address at the Democratic convention
+T150	Attribution 6006 6032	offered a halting response
+E40	Attribution:T150 Content:T149 Cue:T148 Source:T147
+T151	Source 6353 6407	Mr. Trump's former campaign manager, Corey Lewandowski
+T152	Cue 6409 6413	said
+T153	Content 6414 6536	the staff member who succeeded him and helped engineer his ouster, Paul Manafort, should be terminated over the plagiarism
+T154	Attribution 6409 6413	said
+E41	Attribution:T154 Content:T153 Cue:T152 Source:T151
+T155	Source 6603 6606	who
+T156	Cue 6607 6635	suggested in a CBS interview
+T157	Content 6636 6694	that Mr. Lewandowski was trying to ''maintain relevance.''
+T158	Attribution 6607 6635	suggested in a CBS interview
+E42	Attribution:T158 Content:T157 Cue:T156 Source:T155
+T159	Cue 6750 6761	support for
+T160	Content 6762 6771	Mr. Trump
+T161	Attribution-no-source 6750 6761	support for
+E43	Attribution-no-source:T161 Content:T160 Cue:T159
+T162	Content 6773 6816	''Some staffer screwed up. Let's move on,''
+T163	Cue 6817 6821	said
+T164	Source 6822 6912	Curt Smith, a Christian conservative leader in Indiana and close friend of Gov. Mike Pence
+T165	Attribution 6817 6821	said
+E44	Attribution:T165 Source:T164 Cue:T163 Content:T162
+T166	Cue 6918 6940	was formally nominated
+T167	Content 6914 6917;6941 6979	who as Mr. Trump's running mate on Tuesday
+T168	Attribution-no-source 6918 6940	was formally nominated
+E45	Attribution-no-source:T168 Content:T167 Cue:T166
+T169	Source 7079 7088	Mr. Smith
+T170	Cue 7089 7099	shot back:
+T171	Content 7100 7123	''That would be good.''
+T172	Attribution 7089 7099	shot back:
+E46	Attribution:T172 Content:T171 Cue:T170 Source:T169

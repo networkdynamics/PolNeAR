@@ -1,0 +1,21 @@
+T1	Source 0 5	Trump
+T2	Cue 6 23	has right idea on
+T3	Content 24 42	immigration policy
+T4	Attribution 6 23	has right idea on
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 55 67	Donald Trump
+T6	Cue 68 79	understands
+T7	Content 80 184	that the threat to American society is not multiculturalism, but rather the type of immigrants we accept
+T8	Attribution 68 79	understands
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Discard 1257 1269;1271 1292	Len Bennett. Deerfield Beach, Fla.
+T10	Cue 670 698	the Islamic Emirates Project
+T11	Source 699 704	named
+T12	Content 705 936	Birmingham, Bradford, Derby, Dewsbury, Leeds, Leicester, Liverpool, Lutton, Manchester, Sheffield, as well as Waltham Forest in northeast London and Tower Hamlets in East London as territories to be targeted for blanket sharia rule
+T13	Attribution 670 698	the Islamic Emirates Project
+E3	Attribution:T13 Content:T12 Source:T11 Cue:T10
+T14	Source 1202 1207	Trump
+T15	Cue 1208 1213	knows
+T16	Content 1214 1254	we must rethink our immigration policies
+T17	Attribution 1208 1213	knows
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14

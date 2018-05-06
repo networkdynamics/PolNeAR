@@ -1,0 +1,40 @@
+T1	Source 89 97	analysts
+T2	Cue 98 101	say
+T4	Content 39 87	Candidates will need solid backing by party core
+T5	Attribution 98 101	say
+E1	Attribution:T5 Content:T4 Cue:T2 Source:T1
+T3	Cue 612 624	according to
+T6	Source 625 640	a CNN/WMUR poll
+T7	Content 432 610	The Vermont senator, running against former secretary of State Hillary Clinton for the Democratic nomination, leads Clinton 50% to 40% among registered Democrats in New Hampshire
+T8	Attribution 612 624	according to
+E2	Attribution:T8 Content:T7 Source:T6 Cue:T3
+T9	Cue 752 764	according to
+T10	Source 765 773	the poll
+T11	Content 642 750	His lead among undeclared voters who say they'll vote in the Democratic primary is much larger -- 64% to 27%
+T12	Attribution 752 764	according to
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Cue 861 865	said
+T14	Source 866 903	Nicky Driscoll, 24,  from Manchester,
+T15	Content 776 860;978 1032	"I have never voted in a primary, but I'm going to vote in this primary for Bernie," "It's supposed to be for the people, not the Walmart."
+T16	Attribution 861 865	said
+E4	Attribution:T16 Content:T15 Source:T14 Cue:T13
+T17	Source 904 907	who
+T18	Cue 908 912	said
+T19	Content 913 976	Sanders is best suited to get corporate money out of government
+T20	Attribution 908 912	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 1216 1228	according to
+T22	Source 1229 1333	Andy Smith, director of the University of New Hampshire Survey Center, which conducted the CNN/WMUR poll
+T23	Content 1088 1214	They represent the state's largest bloc of voters, but they turn out at lower rates during primaries than registered partisans
+T24	Attribution 1216 1228	according to
+E6	Attribution:T24 Content:T23 Source:T22 Cue:T21
+T25	Source 1617 1622	Smith
+T26	Cue 1623 1627	said
+T27	Content 1509 1615	In this year's Republican contest, undeclared voters aren't likely to help one candidate more than another
+T28	Attribution 1623 1627	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1758 1763	Smith
+T30	Cue 1764 1768	said
+T31	Content 1630 1757;1770 1873	"Nobody's ever won their party's primary here in New Hampshire without winning a plurality of their party's registered voters," "You've got to win your own party's voters. You can't rely on independent voters to win anything here."
+T32	Attribution 1764 1768	said
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29

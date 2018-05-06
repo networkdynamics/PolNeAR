@@ -1,0 +1,64 @@
+T1	Source 170 213	Republican president candidate Donald Trump
+T2	Cue 214 218	said
+T3	Content 219 296	Hillary Clinton lacks “the strength or the stamina” needed to run the country
+T4	Attribution 214 218	said
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 299 304	Trump
+T6	Cue 305 322	further summed up
+T7	Content 323 345	Clinton as “terrible,”
+T8	Attribution 305 322	further summed up
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 346 355	denounced
+T10	Content 356 388	her record as secretary of state
+T11	Attribution 346 355	denounced
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T5
+T12	Cue 393 397	said
+T13	Content 398 485	she should not even be allowed to run for office due to the email scandal engulfing her
+T14	Attribution 393 397	said
+E4	Attribution:T14 Content:T13 Cue:T12 Source:T5
+T15	Source 543 545	he
+T16	Cue 546 550	said
+T17	Content 487 542	Clinton “caused tremendous havoc and tremendous death,”
+T18	Attribution 546 550	said
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Cue 624 639	was asked about
+T20	Content 640 694	the former first lady as well as his Republican rivals
+T21	Attribution-no-source 624 639	was asked about
+E6	Attribution-no-source:T21 Content:T20 Cue:T19
+T22	Source 804 809	Trump
+T23	Cue 810 814	said
+T24	Content 774 803;816 950	She’s caused so many deaths,” “You look at so many decisions that she made that were so bad, so horrible and honestly caused tremendous havoc and tremendous death.”
+T25	Attribution 810 814	said
+E7	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 952 957	Trump
+T27	Cue 958 962	said
+T28	Content 963 1041	Clinton’s disastrous actions in Libya are not confined to the Benghazi scandal
+T29	Attribution 958 962	said
+E8	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 1080 1094	Investigations
+T31	Cue 1095 1108	have revealed
+T32	Content 1109 1212	that before the attacks, requests were made to Clinton for added security, but no action was ever taken
+T33	Attribution 1095 1108	have revealed
+E9	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1215 1220	Trump
+T35	Cue 1221 1225	said
+T36	Content 1226 1439	he holds Clinton, during her tenure as America’s top diplomat, as being responsible for the Syrian and Iraqi refugee crisis that led to “hundreds of thousands or maybe millions” of refugees fleeing the two nations
+T37	Attribution 1221 1225	said
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Discard 1442 1525	Watch the latest video at <a href="http://video.foxnews.com">video.foxnews.com</a>.
+T39	Source 1527 1534	Trump’s
+T40	Cue 1535 1549	comments about
+T41	Content 1550 1578	Clinton’s energy and stamina
+T42	Attribution 1535 1549	comments about
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1893 1895	he
+T44	Cue 1896 1905	said then
+T45	Content 1639 1892	“Do you ever notice she does an event, she wakes up? She does an event. Puts on her pantsuit. She walks in. … No it’s true. She walks in, does event and you don’t see her for four days, five days. You know why? She goes back home and she goes to sleep,”
+T46	Attribution 1896 1905	said then
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Discard 1908 1951	Do you support Donald Trump? Like the page:
+T48	Source 2131 2136	Trump
+T49	Cue 2137 2141	said
+T50	Content 1953 2130	“This is not what we need as a president. We need tremendous energy. We need tremendous smarts. We need somebody that is going to get the job done. We have to get the job done,”
+T51	Attribution 2137 2141	said
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48

@@ -1,0 +1,141 @@
+T1	Cue 184 209	conventional wisdom about
+T2	Content 210 236	the battleground state map
+T3	Source 337 346	40 states
+T4	Cue 347 361	have voted for
+T5	Content 362 376	the same party
+T6	Attribution 184 209	conventional wisdom about
+E1	Attribution:T6 Content:T2 Cue:T1
+T7	Attribution 347 361	have voted for
+E2	Attribution:T7 Content:T5 Cue:T4 Source:T3
+T8	Source 726 752	Working-class white voters
+T9	Cue 753 771	have been trending
+T10	Content 772 787	more Republican
+T11	Attribution 753 771	have been trending
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Discuss 726 733	Working
+T13	Discuss 184 196	conventional
+T14	Source 847 883	more than 60 percent of white voters
+T15	Cue 843 846	won
+T16	Content 831 842	Mitt Romney
+T17	Attribution 843 846	won
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Content 1066 1147	Whites without a college degree made up just 36 percent of the electorate in 2012
+T19	Cue 1149 1161	according to
+T20	Source 1162 1172	exit polls
+T21	Attribution 1149 1161	according to
+E5	Attribution:T21 Source:T20 Cue:T19 Content:T18
+T22	Source 1178 1221	a projection from the Cook Political Report
+T23	Cue 1222 1227	shows
+T24	Content 1228 1277	that number could fall to under one-third in 2016
+T25	Attribution 1222 1227	shows
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 1280 1314	Democrats — and some Republicans —
+T27	Cue 1315 1318	say
+T28	Content 1319 1461	that Trump’s alienation of growing segments of the electorate, like Hispanics, far outweighs any gains he is making among working-class whites
+T29	Attribution 1315 1318	say
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 1466 1471	their
+T31	Cue 1472 1476	view
+T32	Content 1478 1647	Democrats could pick off increasingly diverse states that have been reliably Republican at the presidential level, like Arizona and Georgia, if Trump wins the nomination
+T33	Attribution 1472 1476	view
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Discuss 1930 1932	In
+T35	Source 2330 2342	white voters
+T36	Cue 2343 2375	have turned increasingly against
+T37	Content 2376 2380	them
+T38	Attribution 2343 2375	have turned increasingly against
+E9	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 2417 2422	Polls
+T40	Cue 2423 2427	show
+T41	Content 2428 2583	working-class whites could be a boon to Trump in some key states — assuming a two-way race between Trump and Hillary Clinton, the likely Democratic nominee
+T42	Attribution 2423 2427	show
+E10	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Content 2830 2880	93 percent of 2012 voters there in 2012 were white
+T44	Cue 2882 2894	according to
+T45	Source 2895 2905	exit polls
+T46	Attribution 2882 2894	according to
+E11	Attribution:T46 Source:T45 Cue:T44 Content:T43
+T47	Source 3070 3110	Others, like Pennsylvania and Wisconsin,
+T48	Cue 3111 3121	have voted
+T49	Content 3122 3132	Democratic
+T50	Attribution 3111 3121	have voted
+E12	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 3173 3221	A University of New Hampshire poll out this week
+T52	Cue 3222 3227	shows
+T53	Content 3228 3293	Clinton with an 8-point lead over Trump in a hypothetical matchup
+T54	Attribution 3222 3227	shows
+E13	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Content 3342 3377	She trails Trump by about 15 points
+T56	Cue 3378 3383	among
+T57	Source 3384 3402	non-college voters
+T58	Attribution 3378 3383	among
+E14	Attribution:T58 Source:T57 Cue:T56 Content:T55
+T59	Source 3550 3573	UNH pollster Andy Smith
+T60	Cue 3574 3578	said
+T61	Content 3579 3788	Trump, despite his wealth, is perhaps better positioned to capture the working-class vote than Romney was in 2012, even though Romney was from neighboring Massachusetts and had a vacation home in New Hampshire
+T62	Attribution 3574 3578	said
+E15	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Content 3791 3908;3921 3976	“In New Hampshire, and also in other New England states, the Republican Party is much more of the blue-collar party,” “Romney never really resonated with those Republicans.”
+T64	Source 3909 3914	Smith
+T65	Cue 3915 3919	said
+T66	Attribution 3915 3919	said
+E16	Attribution:T66 Cue:T65 Source:T64 Content:T63
+T67	Source 4117 4163	a Marquette Law School poll released last week
+T68	Cue 4164 4170	showed
+T69	Content 4171 4215	Clinton poised to carry the state over Trump
+T70	Attribution 4164 4170	showed
+E17	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Content 4217 4243	the race was neck-and-neck
+T72	Cue 4244 4249	among
+T73	Source 4250 4270	less-educated voters
+T74	Attribution 4244 4249	among
+E18	Attribution:T74 Source:T73 Cue:T72 Content:T71
+T75	Content 4273 4356	“Education, at this point, is the primary driver among white voters in this state,”
+T76	Cue 4357 4361	said
+T77	Source 4362 4397	Marquette pollster Charles Franklin
+T78	Attribution 4357 4361	said
+E19	Attribution:T78 Source:T77 Cue:T76 Content:T75
+T79	Source 4400 4408	Franklin
+T80	Cue 4409 4414	added
+T81	Content 4415 4585	that, in Wisconsin, Trump’s coalition consists of disaffected voters who, even with Trump as a candidate, describe themselves as uncertain to vote in the general election
+T82	Attribution 4409 4414	added
+E20	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Content 4751 4804;4805 4897;4913 4949;4950 5145	“Can he succeed in mobilizing new voters in November? When we look at our data, Trump’s supporters say they are less likely to vote than others’,” “I had a great illustration of that. Some anonymous caller left a voice message yesterday that complained that our poll must have only included people in Milwaukee because 80 percent of his friends in Appleton are voting for Trump.”
+T84	Source 4898 4906	Franklin
+T85	Cue 4907 4911	said
+T86	Attribution 4907 4911	said
+E21	Attribution:T86 Cue:T85 Source:T84 Content:T83
+T87	Discuss 5155 5161	appeal
+T88	Content 5588 5669;5719 5794	Clinton “drew quite well from white, working-class Democrats” in the 2008 primary “That was more her constituency than it was Obama’s at that point in time.”
+T89	Cue 5671 5675	said
+T90	Source 5676 5717	Ohio State University professor Paul Beck
+T91	Attribution 5671 5675	said
+E22	Attribution:T91 Source:T90 Cue:T89 Content:T88
+T92	Source 5973 5977	Beck
+T93	Cue 5978 5982	said
+T94	Content 5983 6058	he wouldn't expect a Clinton-Trump race to scuttle Ohio’s bellwether status
+T95	Attribution 5978 5982	said
+E23	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Source 6064 6066	he
+T97	Cue 6067 6071	said
+T98	Content 6072 6166	Trump could crack traditionally Democratic, though culturally conservative, areas of the state
+T99	Attribution 6067 6071	said
+E24	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Source 6168 6217	A number of counties in eastern and southern Ohio
+T101	Cue 6218 6233	voted twice for
+T102	Content 6234 6246	Bill Clinton
+T103	Attribution 6218 6233	voted twice for
+E25	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Cue 6253 6264	flipped for
+T105	Content 6265 6279	George W. Bush
+T106	Attribution 6253 6264	flipped for
+E26	Attribution:T106 Source:T100 Cue:T104 Content:T105
+T107	Cue 6284 6312	have continued trending more
+T108	Content 6313 6323	Republican
+T109	Attribution 6284 6312	have continued trending more
+E27	Attribution:T109 Source:T100 Cue:T107 Content:T108
+T110	Content 6390 6488;6500 6568;6569 6680	“I think Ohio still would be a battleground just based on the division of partisans in the state,” “It will be interesting to see how Trump plays in that battleground. I expect him to do better [in southern Ohio], but traditional Democrats aren’t doing well in the south anyway.”
+T111	Cue 6489 6493	said
+T112	Source 6494 6498	Beck
+T113	Attribution 6489 6493	said
+E28	Attribution:T113 Source:T112 Cue:T111 Content:T110

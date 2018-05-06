@@ -1,0 +1,52 @@
+T1	Content 45 52	Clinton
+T2	Cue 53 71	has strong support
+T3	Source 78 109	African-American voters in S.C.
+T4	Attribution 53 71	has strong support
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Cue 547 559	It's unclear
+T6	Content 560 733	whether that will be enough to overcome the former secretary of State's name recognition and long-standing support among African-American voters in later nominating matchups
+T7	Attribution-no-source 547 559	It's unclear
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Content 830 906;990 1142	"The results of the last two weeks combined showed he's a viable candidate," "It will cause the Democratic primary voters here to take him a little more seriously, take a closer look at him. But ... Clinton's lead is very solid."
+T9	Cue 907 911	said
+T10	Source 912 988	Robert Oldendick, a University of South Carolina political science professor
+T11	Attribution 907 911	said
+E3	Attribution:T11 Source:T10 Cue:T9 Content:T8
+T12	Content 1144 1177	Clinton led Sanders more than 2-1
+T13	Cue 1178 1180	in
+T14	Source 1181 1239	an NBC News/Wall Street Journal/Marist South Carolina poll
+T15	Attribution 1178 1180	in
+E4	Attribution:T15 Source:T14 Cue:T13 Content:T12
+T16	Discuss 1338 1430	because of backing from 74% of African-American likely voters, compared with 17% for Sanders
+T17	Discuss 1445 1480	Clinton leads Sanders among Latinos
+T18	Source 1742 1745	his
+T19	Cue 1746 1751	calls
+T20	Content 1752 1843	to end the "rigged economy" that he says is maintained by a corrupt campaign-finance system
+T21	Attribution 1746 1751	calls
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Discuss 1646 1714	who has represented mostly white Vermont in Congress for two decades
+T23	Source 1845 1847	He
+T24	Cue 1848 1852	said
+T25	Content 1887 1956	that his political revolution will bring together people of all races
+T26	Attribution 1848 1852	said
+E6	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Content 1959 2120	"We will all come together to say loudly and clearly that the government of our great nation belongs to all of us, not just a few wealthy campaign contributors,"
+T28	Source 2121 2123	he
+T29	Cue 2124 2128	said
+T30	Attribution 2124 2128	said
+E7	Attribution:T30 Cue:T29 Source:T28 Content:T27
+T31	Source 2414 2447	Sanders' spokesman Michael Briggs
+T32	Cue 2448 2452	said
+T33	Content 2453 2483	Sharpton asked for the meeting
+T34	Attribution 2448 2452	said
+E8	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 2486 2492	Briggs
+T36	Cue 2493 2497	said
+T37	Content 2498 2710	Sanders has already been tested, coming from 40 to 50 percentage points behind Clinton at the beginning of the campaign to a "dead heat" in Iowa and winning New Hampshire in a "landslide of historic proportions."
+T38	Attribution 2493 2497	said
+E9	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Content 2712 2816	"The more people who know about Bernie, the better they like him and the ideas that he's talking about,"
+T40	Source 2817 2823	Briggs
+T41	Cue 2824 2828	said
+T42	Attribution 2824 2828	said
+E10	Attribution:T42 Cue:T41 Source:T40 Content:T39

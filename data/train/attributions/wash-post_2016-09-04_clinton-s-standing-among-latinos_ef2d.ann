@@ -1,0 +1,128 @@
+T1	Discuss 33 38	looks
+T2	Content 60 79;89 136	a presidential year to produce record turnout among Hispanic voters
+T3	Cue 80 88	expected
+T4	Attribution-no-source 80 88	expected
+E1	Attribution-no-source:T4 Cue:T3 Content:T2
+T5	Source 275 305	immigrant-bashing Donald Trump
+T6	Content 309 312	her
+T7	Cue 317 325	opponent
+T8	Attribution 317 325	opponent
+E2	Attribution:T8 Cue:T7 Content:T6 Source:T5
+T9	Discuss 482 574	Clinton is polling about the same as Democrats in previous contests among Latinos nationally
+T14	Source 884 911	some Democratic strategists
+T15	Cue 912 916	fear
+T16	Content 917 969	that Clinton has already missed a unique opportunity
+T17	Attribution 912 916	fear
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Cue 974 978	warn
+T19	Content 979 1079	that counting on Hispanic voters to turn out just because they hate Trump is not a reliable strategy
+T20	Attribution 974 978	warn
+E5	Attribution:T20 Source:T14 Cue:T18 Content:T19
+T10	Content 1278 1424;1515 1597	"I'm worried literally to death now that because Donald Trump is so visceral that they'll think that Latinos will turn out because of that alone," "Hate alone won't motivate somebody to vote. ... They need something to vote for."
+T11	Cue 1425 1429	said
+T12	Source 1430 1513	Chuck Rocha, president of Solidarity Strategies, a Latino political-consulting firm
+T13	Attribution 1425 1429	said
+E3	Attribution:T13 Source:T12 Cue:T11 Content:T10
+T21	Source 1599 1614	The GOP nominee
+T22	Cue 1688 1698	portraying
+T23	Content 1699 1783	Mexican immigrants, in particular, as "rapists" and criminals who take American jobs
+T24	Attribution 1688 1698	portraying
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1785 1790	Trump
+T26	Cue 1791 1803	has promised
+T27	Content 1804 1903	to build a massive wall along the U.S.-Mexico border and deport millions of undocumented immigrants
+T28	Attribution 1791 1803	has promised
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Cue 1916 1926	suggesting
+T30	Content 1927 1974	that birthright citizenship should be abolished
+T31	Attribution 1916 1926	suggesting
+E8	Attribution:T31 Source:T25 Cue:T29 Content:T30
+T32	Content 1989 2065	just 18 percent of registered Hispanic voters have a favorable view of Trump
+T33	Cue 2066 2068	in
+T34	Source 2069 2104	a new Washington Post-ABC News poll
+T35	Attribution 2066 2068	in
+E9	Attribution:T35 Source:T34 Cue:T33 Content:T32
+T36	Content 2139 2146	Clinton
+T37	Cue 2146 2162	's standing with
+T38	Source 2163 2178	Hispanic voters
+T39	Attribution 2146 2162	's standing with
+E10	Attribution:T39 Source:T38 Cue:T37 Content:T36
+T40	Discuss 2139 2148	Clinton's
+T41	Cue 2197 2209	According to
+T42	Source 2210 2223	the same poll
+T43	Content 2225 2373	Clinton's favorability among Hispanics fell in August from 71 percent to 55 percent, a drop outside the sample's 10 percentage-point margin of error
+T44	Attribution 2197 2209	According to
+E11	Attribution:T44 Content:T43 Source:T42 Cue:T41
+T45	Source 2376 2419	A new Latino Decisions poll released Friday
+T46	Cue 2420 2425	found
+T47	Content 2426 2596	that 70 percent of registered Latino voters said they would definitely vote for Clinton or were leaning toward doing so, a drop from 76 percent who said the same in April
+T48	Attribution 2420 2425	found
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 2598 2608	The survey
+T50	Cue 2672 2682	also found
+T51	Content 2683 2759	that support for Trump rose from 11 percent in April to 19 percent in August
+T52	Attribution 2672 2682	also found
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Content 2762 2859;2934 3081	"When you have less than 20 percent in your polling with Hispanics, how much worse could it get?" "It's not so much that Donald Trump is doing better with Latino voters, but she's doing worse. That's tightened up the race in Florida and Nevada."
+T54	Cue 2860 2864	said
+T55	Source 2865 2912	Florida-based Republican strategist Al Cardenas
+T56	Cue 2914 2926	referring to
+T57	Content 2927 2932	Trump
+T58	Attribution 2914 2926	referring to
+E14	Attribution:T58 Source:T55 Cue:T56 Content:T57
+T59	Source 3083 3109	Clinton campaign officials
+T60	Cue 3110 3116	defend
+T61	Content 3117 3263	their Latino voter strategy, including the decision not to begin airing general-election ads on Spanish-language television until later this month
+T62	Attribution 2860 2864	said
+E15	Attribution:T62 Content:T53 Cue:T54 Source:T55
+T63	Attribution 3110 3116	defend
+E16	Attribution:T63 Content:T61 Cue:T60 Source:T59
+T64	Content 3429 3483;3592 3647	"If they start doing it now, I think they're on time," "Obviously, we would have liked them to do it earlier."
+T65	Cue 3484 3488	said
+T66	Source 3489 3590	Federico de JesÃÂos, a Democratic strategist who was the Hispanic media director for Obama in 2008
+T67	Attribution 3484 3488	said
+E17	Attribution:T67 Source:T66 Cue:T65 Content:T64
+T68	Content 3649 3732	"If they wait too much longer until late September, that might be more concerning,"
+T69	Source 3733 3735	he
+T70	Cue 3736 3741	added
+T71	Attribution 3736 3741	added
+E18	Attribution:T71 Cue:T70 Source:T69 Content:T68
+T72	Cue 3744 3756	According to
+T73	Source 3757 3804	Lorella Praeli, Clinton's Latino vote director,
+T74	Content 3805 4047	the campaign has consistently targeted Latino voters through digital ad campaigns in Spanish, appearances by surrogates on Spanish-language radio and through English-language ads targeted at Latino audiences through non-Spanish-language media
+T75	Attribution 3744 3756	According to
+E19	Attribution:T75 Content:T74 Source:T73 Cue:T72
+T76	Content 4050 4108;4122 4273	"There are new tactics, new strategies and new platforms," "The way that we absorb information is also evolving, and if you don't adapt to that, then we're missing out on reaching Latino voters where they are."
+T77	Source 4109 4115	Praeli
+T78	Cue 4116 4120	said
+T79	Attribution 4116 4120	said
+E20	Attribution:T79 Cue:T78 Source:T77 Content:T76
+T80	Source 4551 4594	Pro-Clinton super PAC Priorities USA Action
+T81	Cue 4595 4604	announced
+T82	Content 4605 4680	a small ad buy this week in Nevada and Florida targeting Latinos in Spanish
+T83	Attribution 4595 4604	announced
+E21	Attribution:T83 Content:T82 Cue:T81 Source:T80
+T84	Content 4683 4773;4816 4973	"Florida and Nevada are behaving like battleground states - they're supposed to be close," "That's a problem for Trump. We have said on the record countless times that we expected the race to be competitive and close, and in a lot of cases, it is."
+T85	Cue 4774 4778	said
+T86	Source 4779 4814	Priorities spokesman Justin Barasky
+T87	Attribution 4774 4778	said
+E22	Attribution:T87 Source:T86 Cue:T85 Content:T84
+T88	Source 5478 5513	an average of recent Post-ABC polls
+T89	Cue 5514 5519	shows
+T90	Content 5520 5599	Hillary Clinton leading Trump by 70 percent to 25 percent among Hispanic voters
+T91	Attribution 5514 5519	shows
+E23	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Content 5642 5877	"Given how badly Democrats have been burned in recent elections by low turnout from episodic voters like Latinos and millennials, you would have thought the Clinton campaign would have spent more [on ads] than Obama, rather than less,"
+T93	Cue 5878 5882	said
+T94	Source 5883 5906	a Democratic strategist
+T95	Attribution 5878 5882	said
+E24	Attribution:T95 Source:T94 Cue:T93 Content:T92
+T96	Cue 5947 5970	to speak candidly about
+T97	Content 5971 5992	the state of the race
+T98	Attribution 5947 5970	to speak candidly about
+E25	Attribution:T98 Source:T94 Cue:T96 Content:T97
+T99	Source 5995 6000	Polls
+T100	Cue 6001 6005	show
+T101	Content 6006 6189	that Clinton is weakest among Hispanic voters who are English-dominant and U.S.-born, while Spanish-dominant and foreign-born Hispanic voters are more likely to support her over Trump
+T102	Attribution 6001 6005	show
+E26	Attribution:T102 Content:T101 Cue:T100 Source:T99

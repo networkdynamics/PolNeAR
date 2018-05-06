@@ -1,0 +1,44 @@
+T1	Cue 222 234	according to
+T2	Source 235 252	exit polling data
+T3	Content 68 220	Democratic presidential front-runner Hillary Clinton performed well among New York primary voters who believe that Wall Street is a boon for the economy
+T4	Attribution 222 234	according to
+E1	Attribution:T4 Content:T3 Source:T2 Cue:T1
+T5	Content 254 360	More than 6 in 10 New York Democratic voters said that Wall Street does more to hurt the economy than help
+T6	Cue 362 374	according to
+T7	Source 375 438	preliminary exit polling reported by CNN and The New York Times
+T8	Attribution 362 374	according to
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Source 503 506	who
+T10	Cue 507 511	said
+T11	Content 512 553	Wall Street does more to help the economy
+T12	Attribution 507 511	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 601 648	Democratic opponent Sen. Bernie Sanders (I-Vt.)
+T14	Cue 649 663	has criticized
+T15	Content 664 702	Clinton for having ties to Wall Street
+T16	Attribution 649 663	has criticized
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 830 842	according to
+T18	Source 843 862	The Washington Post
+T19	Content 704 828	The former secretary of state earned more than $11 million delivering 51 speeches in 2014 and the first three months of 2015
+T20	Attribution 830 842	according to
+E5	Attribution:T20 Content:T19 Source:T18 Cue:T17
+T21	Source 998 1005	Sanders
+T22	Cue 1006 1017	has accused
+T23	Content 1018 1072	Clinton of being influenced by special interest groups
+T24	Attribution 1006 1017	has accused
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Cue 1082 1096	has been asked
+T26	Content 1097 1141	to release the transcripts of these speeches
+T27	Attribution-no-source 1082 1096	has been asked
+E7	Attribution-no-source:T27 Content:T26 Cue:T25
+T28	Content 1143 1284;1316 1420	“Let everybody who’s ever given a speech to any private group under any circumstances release them. We’ll all release them at the same time,” “I have never, ever been influenced in a view or a vote by anyone who has given me any kind of funding.”
+T29	Source 1285 1288	she
+T30	Cue 1289 1293	told
+T31	Attribution 1289 1293	told
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Content 1421 1622	Clinton’s victory in Tuesday’s New York primary was also achieved through the support of women (61 percent), nonwhite voters (67 percent) and Democrats looking for an experienced candidate (90 percent)
+T33	Cue 1624 1636	according to
+T34	Source 1637 1640	CNN
+T35	Attribution 1624 1636	according to
+E9	Attribution:T35 Source:T34 Cue:T33 Content:T32

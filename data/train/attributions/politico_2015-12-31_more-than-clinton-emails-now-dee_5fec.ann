@@ -1,0 +1,231 @@
+T1	Discard 7768 7784	Follow @politico
+T2	Cue 31 41	now deemed
+T3	Content 0 30;42 52	More than 1,200 Clinton emails classified
+T4	Attribution-no-source 31 41	now deemed
+E1	Attribution-no-source:T4 Content:T3 Cue:T2
+T5	Cue 156 176	have now been deemed
+T6	Content 177 187;55 155	classified More than 1,200 emails from Hillary Clinton's private server during her time at the State Department
+T7	Attribution-no-source 156 176	have now been deemed
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Source 195 205	the agency
+T9	Cue 206 223	publicly released
+T10	Content 224 256	its eighth batch of the messages
+T11	Attribution 206 223	publicly released
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 273 283	The agency
+T13	Cue 284 292	released
+T14	Content 293 426	roughly 5,500 more pages of emails from the private email account that Clinton exclusively used during her four years at Foggy Bottom
+T15	Attribution 284 292	released
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 669 681	according to
+T17	Source 682 709	a State Department official
+T18	Content 711 775	two in the most recent batch were upgraded to the “Secret” level
+T19	Attribution 669 681	according to
+E5	Attribution:T19 Content:T18 Source:T17 Cue:T16
+T20	Cue 777 812	a more sensitive classification for
+T21	Content 813 849	issues that affect national security
+T22	Attribution-no-source 777 812	a more sensitive classification for
+E6	Attribution-no-source:T22 Content:T21 Cue:T20
+T23	Source 852 859	Clinton
+T24	Cue 926 940	initially said
+T25	Content 941 999	that there was no classified material on her email account
+T26	Attribution 926 940	initially said
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 1001 1004	She
+T28	Cue 1005 1023	has since stressed
+T29	Content 1024 1149	that she did not send any classified information and that no messages she sent or received were marked classified at the time
+T30	Attribution 1005 1023	has since stressed
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 1152 1172	The State Department
+T32	Cue 1173 1182	also said
+T33	Content 1195 1301	that it fell short of its court-ordered goal of releasing 43,000 pages of the trove by the end of the year
+T34	Attribution 1173 1182	also said
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Content 1304 1483	“We have worked diligently to come as close to the goal as possible, but with the large number of documents involved and the holiday schedule we have not met the goal this month,”
+T36	Cue 1484 1488	said
+T37	Source 1489 1499	the agency
+T38	Attribution 1484 1488	said
+E10	Attribution:T38 Source:T37 Cue:T36 Content:T35
+T39	Source 1637 1647	the agency
+T40	Cue 1648 1652	said
+T41	Content 1653 1734	it will drop another batch of emails next week in an attempt to get back on track
+T42	Attribution 1648 1652	said
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1552 1567	State's lawyers
+T44	Cue 1568 1621	will likely have to report to a judge next week about
+T45	Content 1622 1631	its lapse
+T46	Attribution 1568 1621	will likely have to report to a judge next week about
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1834 1839	which
+T48	Cue 1840 1847	covered
+T49	Content 1848 1895	periods from 2009 through the beginning of 2013
+T50	Attribution 1840 1847	covered
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 1802 1832	The trove released on Thursday
+T52	Cue 1897 1905	included
+T53	Content 1906 1994	messages that showed both Clinton’s frustrations while at State and some lighter moments
+T54	Attribution 1897 1905	included
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Source 2080 2085	Mills
+T56	Cue 2086 2103	forwards an email
+T57	Content 2104 2242	with the subject line “Photo gone viral!” that includes the now-iconic image of Clinton with dark sunglasses on, looking at her BlackBerry
+T58	Attribution 2086 2103	forwards an email
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 2245 2252	Clinton
+T60	Cue 2253 2261	responds
+T61	Content 2277 2316	“Why now? That was on my way to Libya?”
+T62	Attribution 2253 2261	responds
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 2317 2322	Mills
+T64	Cue 2323 2339	then writes back
+T65	Content 2341 2357	“You look cute.”
+T66	Attribution 2323 2339	then writes back
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Source 2441 2448	Clinton
+T68	Cue 2449 2459	discussing
+T69	Content 2460 2514	who deserves credit for using the term “pivot” to Asia
+T70	Attribution 2449 2459	discussing
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Source 2517 2525	Sullivan
+T72	Cue 2526 2545	forwards an article
+T73	Content 2558 2766	that included the line “Ever since President Obama announced a 'pivot' to Asia and Secretary Clinton declared this to be 'America's Pacific Century' Washington's Asia policy has been firing on all cylinders.”
+T74	Attribution 2526 2545	forwards an article
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Source 2774 2782	Sullivan
+T76	Cue 2783 2792	proclaims
+T77	Content 2793 2868	the article a “terrific piece and well worth the trip to India to produce,”
+T78	Attribution 2783 2792	proclaims
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 2869 2876	Clinton
+T80	Cue 2877 2887	fixates on
+T81	Content 2888 2904	the “pivot” line
+T82	Attribution 2877 2887	fixates on
+E21	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Content 2906 2960	“Remind—didn’t we, not the WH, first use the ‘pivot’?”
+T84	Source 2961 2968	Clinton
+T85	Cue 2969 2975	writes
+T86	Attribution 2969 2975	writes
+E22	Attribution:T86 Cue:T85 Source:T84 Content:T83
+T87	Source 2989 2991	He
+T88	Cue 2992 3000	responds
+T89	Content 3002 3065	“Yes, but happy to give it to them at this point. Can discuss.”
+T90	Attribution 2992 3000	responds
+E23	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Source 3067 3093	An email from Neera Tanden
+T92	Cue 3106 3113	reveals
+T93	Content 3114 3237	that billionaire liberal donor George Soros apparently regretted supporting Barack Obama over Clinton in the 2008 primaries
+T94	Attribution 3106 3113	reveals
+E24	Attribution:T94 Content:T93 Cue:T92 Source:T91
+T95	Source 3273 3322	Tanden, head of the Center for American Progress,
+T96	Cue 3323 3332	recounted
+T97	Content 3333 3462	a conversation she had while seated next to Soros at a dinner sponsored by the liberal major donor club called Democracy Alliance
+T98	Attribution 3323 3332	recounted
+E25	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Source 3471 3477	Tanden
+T100	Cue 3478 3486	informed
+T101	Content 3493 3544	that she had worked for Clinton during her 2008 run
+T102	Attribution 3478 3486	informed
+E26	Attribution:T102 Content:T101 Cue:T100 Source:T99
+T103	Source 3546 3552	Tanden
+T104	Cue 3553 3558	wrote
+T105	Content 3559 3926	that Soros “said he's been impressed that he can always call/meet with you on an issue of policy and said he hasn't met with the President ever (though I thought he had). He then said he regretted his decision in the primary - he likes to admit mistakes when he makes them and that was one of them. He then extolled his work with you from your time as First Lady on."
+T106	Attribution 3553 3558	wrote
+E27	Attribution:T106 Content:T105 Cue:T104 Source:T103
+T107	Source 4037 4053	Two other emails
+T108	Cue 4054 4063	highlight
+T109	Content 4064 4228	the extent to which Clinton as secretary of state continued her involvement with the Clinton Global Initiative and the Clinton Foundation — at least from a distance
+T110	Attribution 4054 4063	highlight
+E28	Attribution:T110 Content:T109 Cue:T108 Source:T107
+T111	Source 4230 4252	A Sept. 15, 2011 email
+T112	Cue 4253 4258	shows
+T113	Content 4259 4330	State sent 10 of Clinton’s senior staffers to the 2011 annual CGI event
+T114	Attribution 4253 4258	shows
+E29	Attribution:T114 Content:T113 Cue:T112 Source:T111
+T115	Source 4338 4360	world leaders and CEOs
+T116	Cue 4361 4378	mingle to discuss
+T117	Content 4379 4394	global problems
+T118	Attribution 4361 4378	mingle to discuss
+E30	Attribution:T118 Content:T117 Cue:T116 Source:T115
+T119	Source 4432 4441	A staffer
+T120	Cue 4442 4449	emailed
+T121	Content 4456 4530	the list of State attendees under subject line “DOS participation at CGI.”
+T122	Attribution 4442 4449	emailed
+E31	Attribution:T122 Content:T121 Cue:T120 Source:T119
+T123	Source 4531 4535	They
+T124	Cue 4536 4545	included:
+T125	Content 4546 4771	deputy secretary of state for management and resources Tom Nides, ambassador for global women’s issues Melanie Verveer; under secretary of state for economic growth, energy, and the environment Bob Hormats, and several others
+T126	Attribution 4536 4545	included:
+E32	Attribution:T126 Content:T125 Cue:T124 Source:T123
+T127	Source 4806 4813	Clinton
+T128	Cue 4814 4818	asks
+T129	Content 4833 4902	to print out recommendations on CGI and Clinton Foundation leadership
+T130	Attribution 4814 4818	asks
+E33	Attribution:T130 Content:T129 Cue:T128 Source:T127
+T131	Content 4990 5245;5258 5268	“Regarding the Clinton Foundation leadership: I feel -- as do MANY -- passionate and impatient to see leadership that could unite CGI and the Foundation in more strategic, thoughtful engagement of both philanthropic contribution and investment resources,” “So, who?”
+T132	Source 5246 5249	she
+T133	Cue 5250 5256	writes
+T134	Attribution 5250 5256	writes
+E34	Attribution:T134 Cue:T133 Source:T132 Content:T131
+T135	Cue 5412 5448	a court-mandated monthly schedule to
+T136	Content 5449 5545	post the roughly 54,000 pages of messages Clinton turned over to her former agency last November
+T137	Attribution-no-source 5412 5448	a court-mandated monthly schedule to
+E35	Attribution-no-source:T137 Content:T136 Cue:T135
+T138	Source 5600 5607	a judge
+T139	Cue 5608 5615	ordered
+T140	Content 5616 5698	periodic releases at the end of each month beginning in June and ending next month
+T141	Attribution 5608 5615	ordered
+E36	Attribution:T141 Content:T140 Cue:T139 Source:T138
+T142	Source 6177 6191	The department
+T143	Cue 6192 6196	said
+T144	Content 6197 6297	it will “be adding this missing data in January 2016 and expect to be done by the end of the month.”
+T145	Attribution 6192 6196	said
+E37	Attribution:T145 Content:T144 Cue:T143 Source:T142
+T146	Source 6587 6590	FBI
+T147	Cue 6591 6609	investigation into
+T148	Content 6610 6626	her email set-up
+T149	Attribution 6591 6609	investigation into
+E38	Attribution:T149 Content:T148 Cue:T147 Source:T146
+T150	Source 6628 6634	courts
+T151	Cue 6635 6653	are still ordering
+T152	Content 6654 6694	the release of emails from her top aides
+T153	Attribution 6635 6653	are still ordering
+E39	Attribution:T153 Content:T152 Cue:T151 Source:T150
+T154	Source 6751 6784	The amount of classified material
+T155	Cue 6785 6795	has proven
+T156	Content 6796 6848	to be an extra complication for the State Department
+T157	Attribution 6785 6795	has proven
+E40	Attribution:T157 Content:T156 Cue:T155 Source:T154
+T158	Source 6949 6992	U.S. District Court Judge Rudolph Contreras
+T159	Cue 6942 6945	set
+T160	Content 6936 6941	goals
+T161	Attribution 6942 6945	set
+E41	Attribution:T161 Content:T160 Cue:T159 Source:T158
+T162	Source 6995 7004	Contreras
+T163	Cue 7005 7014	had urged
+T164	Content 7015 7108	the department to process 15 percent of the roughly 54,000 pages of Clinton emails by July 31
+T165	Attribution 7005 7014	had urged
+E42	Attribution:T165 Content:T164 Cue:T163 Source:T162
+T166	Source 7169 7174	State
+T167	Cue 7175 7189	initially said
+T168	Content 7190 7248	it would take two months to get the releases back on track
+T169	Attribution 7175 7189	initially said
+E43	Attribution:T169 Content:T168 Cue:T167 Source:T166
+T170	Source 7398 7415	Initial estimates
+T171	Cue 7416 7419	put
+T172	Content 7420 7538	the total number of emails in Clinton’s private account that were turned over to State last year at about 55,000 pages
+T173	Attribution 7416 7419	put
+E44	Attribution:T173 Content:T172 Cue:T171 Source:T170
+T174	Source 7540 7560	Subsequent estimates
+T175	Cue 7561 7564	put
+T176	Content 7565 7598	the figure closer to 54,000 pages
+T177	Attribution 7561 7564	put
+E45	Attribution:T177 Content:T176 Cue:T175 Source:T174
+T178	Source 7600 7620	The State Department
+T179	Cue 7621 7631	has deemed
+T180	Content 7632 7674	about 1,500 of those pages purely personal
+T181	Attribution 7621 7631	has deemed
+E46	Attribution:T181 Content:T180 Cue:T179 Source:T178
+T182	Cue 7679 7683	says
+T183	Content 7684 7766	it does not plan to process them for release under the Freedom of Information Act.
+T184	Attribution 7679 7683	says
+E47	Attribution:T184 Source:T178 Cue:T182 Content:T183

@@ -1,0 +1,71 @@
+T1	Source 0 15	Washington Post
+T2	Cue 16 21	backs
+T3	Content 22 51	Hillary Clinton for president
+T4	Attribution 16 21	backs
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 112 135	the latest US newspaper
+T6	Cue 136 159	to emphatically endorse
+T7	Content 160 195	Hillary Clinton for the White House
+T8	Attribution 136 159	to emphatically endorse
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 197 203	saying
+T10	Content 204 299	it was swayed as much by her competence as by the alarming specter of a Donald Trump presidency
+T11	Attribution 197 203	saying
+E3	Attribution:T11 Source:T5 Cue:T9 Content:T10
+T12	Content 302 427	“Hillary Clinton has the potential to be an excellent president of the United States, and we endorse her without hesitation,”
+T13	Source 428 452	the influential US daily
+T14	Cue 453 458	wrote
+T15	Attribution 453 458	wrote
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Cue 460 466	adding
+T17	Content 468 564	“no, we are not making this endorsement simply because Ms Clinton’s chief opponent is dreadful.”
+T18	Attribution 460 466	adding
+E5	Attribution:T18 Source:T13 Cue:T16 Content:T17
+T19	Content 566 656	Clinton, the Democratic presidential nominee “is dogged, resilient, purposeful and smart,”
+T20	Source 657 670	the newspaper
+T21	Cue 671 676	wrote
+T22	Attribution 671 676	wrote
+E6	Attribution:T22 Cue:T21 Source:T20 Content:T19
+T23	Cue 683 696	acknowledging
+T24	Content 697 749	her many political and personal missteps of the past
+T25	Attribution 683 696	acknowledging
+E7	Attribution:T25 Source:T20 Cue:T23 Content:T24
+T26	Content 752 760;769 800	failings are outweighed by her strengths
+T27	Source 761 763	it
+T28	Cue 764 768	said
+T29	Attribution 764 768	said
+E8	Attribution:T29 Cue:T28 Source:T27 Content:T26
+T30	Content 803 833;834 898;900 945	“She has executive experience. She does not let her feelings get in the way of the job at hand. he is well positioned to get something done,”
+T31	Source 946 955	the daily
+T32	Cue 956 961	wrote
+T33	Attribution 956 961	wrote
+E9	Attribution:T33 Cue:T32 Source:T31 Content:T30
+T34	Source 964 977	The newspaper
+T35	Cue 978 990	took note of
+T36	Content 991 1037	the former first lady’s litany of shortcomings
+T37	Attribution 978 990	took note of
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Cue 1039 1047	writing:
+T39	Content 1048 1114;1115 1333	“We recognize that many Americans distrust and dislike Ms Clinton. The negative feelings reflect in part the bitter partisanship of the nation’s politics today; in part the dishonest attacks she has been subjected to for decades; and in part her genuine flaws, missteps and weaknesses.
+T40	Attribution 1039 1047	writing:
+E11	Attribution:T40 Source:T34 Cue:T38 Content:T39
+T41	Content 1335 1363	“We are not blind to those,”
+T42	Cue 1364 1369	wrote
+T43	Source 1370 1378	The Post
+T44	Attribution 1364 1369	wrote
+E12	Attribution:T44 Source:T43 Cue:T42 Content:T41
+T45	Source 1380 1385	which
+T46	Content 1404 1411	Clinton
+T47	Cue 1412 1437	its full-throated support
+T48	Attribution 1412 1437	its full-throated support
+E13	Attribution:T48 Cue:T47 Content:T46 Source:T45
+T49	Source 1440 1458	The Post editorial
+T50	Cue 1459 1481	made little mention of
+T51	Content 1482 1591	Trump, the bombastic real estate magnate who is the Republican nominee for next month’s presidential election
+T52	Attribution 1459 1481	made little mention of
+E14	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Content 1594 1599	Trump
+T54	Cue 1600 1620	has been eviscerated
+T55	Source 1624 1692	the editorial board of The Post and many other leading US newspapers
+T56	Attribution 1600 1620	has been eviscerated
+E15	Attribution:T56 Source:T55 Cue:T54 Content:T53

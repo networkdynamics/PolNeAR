@@ -1,0 +1,82 @@
+T1	Source 213 237	The vulture fund manager
+T2	Cue 238 243	wrote
+T3	Content 244 296	a $500,000 check to a super PAC supporting John Faso
+T4	Attribution 238 243	wrote
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 0 13	This Democrat
+T6	Cue 14 31	Isn’t Challenging
+T7	Content 32 56	Her Opponent To A Debate
+T8	Attribution 14 31	Isn’t Challenging
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 523 547	New York’s 19th District
+T10	Cue 509 519	is popular
+T11	Content 500 508	Teachout
+T12	Attribution 509 519	is popular
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 705 717	the district
+T14	Cue 718 732	leans narrowly
+T15	Content 733 743	Democratic
+T16	Attribution 718 732	leans narrowly
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 974 978	Faso
+T18	Cue 979 998	had been relying on
+T19	Content 999 1137	super PAC funding from another hedge fund billionaire, Robert Mercer, to get through a much tighter primary contest on the Republican side
+T20	Attribution 979 998	had been relying on
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1250 1258	Teachout
+T22	Cue 1259 1266	decided
+T23	Content 1267 1312	to bypass Faso himself and go after his donor
+T24	Attribution 1259 1266	decided
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1357 1360	she
+T26	Cue 1361 1371	criticized
+T27	Content 1372 1378	Singer
+T28	Attribution 1361 1371	criticized
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Cue 1383 1393	challenged
+T30	Content 1394 1409	him to a debate
+T31	Attribution 1383 1393	challenged
+E8	Attribution:T31 Source:T25 Content:T30 Cue:T29
+T32	Content 1411 1434;1460 1677	“This is very serious,” “Paul Singer, I challenge you to come here and have a debate with me … I think the people of the 19th District deserve to hear your actual voice when you’re putting so much money into trying to buy up representation.”
+T33	Source 1435 1443	Teachout
+T34	Cue 1444 1458	says in the ad
+T35	Attribution 1444 1458	says in the ad
+E9	Attribution:T35 Cue:T34 Source:T33 Content:T32
+T36	Source 1757 1760	her
+T37	Cue 1761 1784	campaign message around
+T38	Content 1785 1850	curbing the influence of large corporations and money in politics
+T39	Attribution 1761 1784	campaign message around
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1855 1867	highlighting
+T41	Content 1868 1874	Singer
+T42	Attribution-no-source 1855 1867	highlighting
+E11	Attribution-no-source:T42 Content:T41 Cue:T40
+T43	Cue 1886 1907	an attempt to dismiss
+T44	Content 1908 1945	Faso as a tool of big money interests
+T45	Attribution-no-source 1886 1907	an attempt to dismiss
+E12	Attribution-no-source:T45 Content:T44 Cue:T43
+T46	Source 1948 1950	it
+T47	Cue 1951 1974	also draws attention to
+T48	Content 1975 2001	Teachout’s strongest issue
+T49	Attribution 1951 1974	also draws attention to
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2008 2021	the ad itself
+T51	Cue 2022 2043	is also an example of
+T52	Content 2044 2174	the degree to which political donors are increasingly taking up campaign space that was previously reserved for actual politicians
+T53	Attribution 2022 2043	is also an example of
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 2213 2255	then-Senate Majority Leader Harry Reid (D)
+T55	Cue 2256 2277	relentlessly attacked
+T56	Content 2278 2295	the Koch brothers
+T57	Attribution 2256 2277	relentlessly attacked
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 2423 2430	Sanders
+T59	Cue 2431 2439	assailed
+T60	Content 2440 2505	eventual nominee Hillary Clinton’s paid speeches to Goldman Sachs
+T61	Attribution 2431 2439	assailed
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 2689 2704	Singer and Faso
+T63	Cue 2705 2735	did not immediately respond to
+T64	Content 2736 2758	a request for comment.
+T65	Attribution 2705 2735	did not immediately respond to
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62

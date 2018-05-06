@@ -1,0 +1,51 @@
+T1	Source 0 15	Joe Scarborough
+T2	Cue 15 16	:
+T3	Content 17 76	Donald Trump Playing Dumb About The KKK Is ‘Disqualifying.’
+T4	Attribution 15 16	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 78 125	Joe Scarborough, host of MSNBC’s “Morning Joe,”
+T6	Cue 126 135	suggested
+T7	Content 136 249	business mogul Donald Trump’s refusal to disavow the Ku Klux Klan could disqualify him from the presidential race
+T8	Attribution 126 135	suggested
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 252 307;333 413	“It’s breathtaking. That is disqualifying right there,” “To say you don’t know about the Ku Klux Klan? You don’t know about David Duke?”
+T10	Source 308 319	Scarborough
+T11	Cue 320 331	said Monday
+T12	Attribution 320 331	said Monday
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 519 530	Scarborough
+T14	Cue 531 540	continued
+T15	Content 415 518;542 705	“Is he really so stupid that he thinks Southerners aren’t offended by the Ku Klux Klan and David Duke?” “Is he really so ignorant of Southern voters that he thinks this is the way to their heart? To go neutral, to play Switzerland when you’re talking about the Klan?”
+T16	Attribution 531 540	continued
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Discard 1908 2124	Editor’s note: Donald Trump is a serial liar, rampant xenophobe, racist, misogynist, birther and bully who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S
+T18	Content 1081 1229	“Honestly, I don’t know David Duke. I don’t believe I’ve ever met him. I’m pretty sure I didn’t meet him. And I just don’t know anything about him,”
+T19	Source 1230 1235	Trump
+T20	Cue 1236 1240	told
+T21	Attribution 1236 1240	told
+E5	Attribution:T21 Cue:T20 Source:T19 Content:T18
+T22	Source 1265 1270	Trump
+T23	Cue 1335 1343	claiming
+T24	Content 1344 1376	he had previously disavowed Duke
+T25	Attribution 1335 1343	claiming
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 1439 1444	Trump
+T27	Cue 1445 1449	told
+T28	Content 1379 1438;1475 1624	“I was sitting in a house in Florida, with a bad earpiece,” “I could hardly hear what he’s saying. I hear various groups. I don’t mind disavowing anyone. I disavowed Duke the day before at a major conference.”
+T29	Attribution 1445 1449	told
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 1718 1769	Trump’s GOP primary rival Sen. Marco Rubio (R-Fla.)
+T31	Cue 1770 1774	said
+T32	Content 1775 1802	Trump is “unelectable now.”
+T33	Attribution 1770 1774	said
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1803 1860	Sen. Ted Cruz (R-Texas), also a GOP presidential hopeful,
+T35	Cue 1861 1867	called
+T36	Content 1868 1887	the KKK “abhorrent“
+T37	Attribution 1861 1867	called
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Source 949 954	Trump
+T39	Cue 955 983	failed three times to refuse
+T40	Content 984 1078	the endorsement of both the KKK and David Duke, a former leader of the white supremacist group
+T41	Attribution 955 983	failed three times to refuse
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38

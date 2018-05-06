@@ -1,0 +1,96 @@
+T1	Source 0 5	Pence
+T2	Cue 6 14	Endorses
+T3	Content 15 24	Paul Ryan
+T4	Attribution 6 14	Endorses
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 162 210	Trump’s running mate — Indiana Gov. Mike Pence —
+T6	Cue 211 240	has thrown his support behind
+T7	Content 241 245	Ryan
+T8	Attribution 211 240	has thrown his support behind
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 252 254	he
+T10	Cue 255 261	claims
+T11	Content 262 284	his boss is OK with it
+T12	Attribution 255 261	claims
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 55 99	Republican presidential nominee Donald Trump
+T14	Cue 100 118	has yet to endorse
+T15	Content 119 160	House Speaker Paul Ryan’s re-election bid
+T16	Attribution 100 118	has yet to endorse
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 298 303	Trump
+T18	Cue 304 322	refused to endorse
+T19	Content 323 327	Ryan
+T20	Attribution 304 322	refused to endorse
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 438 443	asked
+T22	Content 444 495	if he would support Trump as the Republican nominee
+T23	Attribution-no-source 438 443	asked
+E6	Attribution-no-source:T23 Content:T22 Cue:T21
+T24	Source 498 503	Trump
+T25	Cue 504 509	told 
+T26	Content 530 719	“I like Paul, but these are horrible times for our country. We need very strong leadership. We need very, very strong leadership. And I’m just not quite there yet. I’m not quite there yet.”
+T27	Attribution 504 509	told 
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 726 731	Trump
+T29	Cue 732 746	used the words
+T30	Content 748 774	“I’m not quite there yet,”
+T31	Attribution 732 746	used the words
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 825 830	asked
+T33	Content 838 863	if he would endorse Trump
+T34	Attribution-no-source 825 830	asked
+E9	Attribution-no-source:T34 Content:T33 Cue:T32
+T36	Source 796 799	who
+T37	Cue 800 804	used
+T38	Content 805 819	the same words
+T39	Attribution 800 804	used
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T35	Source 398 407	Paul Ryan
+T40	Cue 408 412	used
+T41	Content 381 397	the same wording
+T42	Attribution 408 412	used
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T35
+T43	Cue 865 876	The snub at
+T44	Content 877 892	endorsing Trump
+T45	Attribution-no-source 865 876	The snub at
+E12	Attribution-no-source:T45 Content:T44 Cue:T43
+T46	Source 988 992	Ryan
+T47	Cue 993 1025	has been very vocal in rejecting
+T48	Content 1026 1129	several of Trump’s comments throughout the campaign as not being representative of the Republican Party
+T49	Attribution 993 1025	has been very vocal in rejecting
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 1132 1137	Pence
+T51	Cue 1216 1225	endorsing
+T52	Content 1226 1230	Ryan
+T53	Attribution 1216 1225	endorsing
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Cue 1290 1305	was asked about
+T55	Content 1306 1333	the “not there yet” comment
+T56	Attribution-no-source 1290 1305	was asked about
+E15	Attribution-no-source:T56 Content:T55 Cue:T54
+T57	Source 1335 1340	Pence
+T58	Cue 1341 1348	replied
+T59	Content 1350 1413	“These are two men that are building a good will relationship.”
+T60	Attribution 1341 1348	replied
+E16	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 1415 1420	Pence
+T62	Cue 1421 1436	went on to say 
+T63	Content 1436 1552	he’s “confident” that once the elections are over, “these two men are going to do great things, at home and abroad.”
+T64	Attribution 1421 1436	went on to say 
+E17	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 1554 1559	Pence
+T66	Cue 1560 1564	said
+T67	Content 1565 1621	in politics it takes time to develop those relationships
+T68	Attribution 1560 1564	said
+E18	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Content 1633 1744	“I strongly support Paul Ryan, strongly endorse his re-election…we need Paul Ryan…to make America great again,”
+T70	Source 1745 1750	Pence
+T71	Cue 1751 1755	said
+T72	Attribution 1751 1755	said
+E19	Attribution:T72 Cue:T71 Source:T70 Content:T69
+T73	Source 1758 1778	Trump’s potential VP
+T74	Cue 1779 1792	then revealed
+T75	Content 1793 1872	Trump, “strongly encouraged me to endorse Paul Ryan, and I’m pleased to do it.”
+T76	Attribution 1779 1792	then revealed
+E20	Attribution:T76 Content:T75 Cue:T74 Source:T73

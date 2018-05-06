@@ -1,0 +1,141 @@
+T1	Source 7 10	who
+T2	Cue 11 18	exposed
+T3	Content 19 49	Clinton's use of private email
+T4	Attribution 11 18	exposed
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 158 161	who
+T6	Cue 162 176	first revealed
+T7	Content 177 259	that Hillary Clinton used a private email address while she was secretary of state
+T8	Attribution 162 176	first revealed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T10	Cue 394 409	known online as
+T11	Content 370 393;410 421	Marcel Lehel Lazar, 44, "Guccifer,"
+T9	Attribution-no-source 394 409	known online as
+E3	Attribution-no-source:T9 Content:T11 Cue:T10
+T12	Cue 470 484	pleaded guilty
+T13	Content 492 586	to one count each of aggravated identity theft and unauthorized access to a protected computer
+T14	Attribution-no-source 470 484	pleaded guilty
+E4	Attribution-no-source:T14 Content:T13 Cue:T12
+T15	Source 589 594	Lazar
+T16	Cue 595 606	admitted to
+T17	Content 607 676	victimizing about 100 Americans from his home overseas over 14 months
+T18	Attribution 595 606	admitted to
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 946 983	U.S. District Judge James C. Cacheris
+T20	Cue 984 991	imposed
+T21	Content 992 1011	a 52-month sentence
+T22	Attribution 984 991	imposed
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Cue 1013 1019	saying
+T24	Content 1020 1070	a tough penalty was needed to deter future hacking
+T25	Attribution 1013 1019	saying
+E7	Attribution:T25 Cue:T23 Content:T24 Source:T19
+T26	Source 1072 1074	He
+T27	Cue 1075 1080	cited
+T28	Content 1081 1227	reports of escalating cyberattacks against Americans in recent years, including this week's FBI warnings of intrusions into state election systems
+T29	Attribution 1075 1080	cited
+E8	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Content 1230 1256	"This epidemic must stop,"
+T31	Source 1257 1265	Cacheris
+T32	Cue 1266 1270	said
+T33	Attribution 1266 1270	said
+E9	Attribution:T33 Cue:T32 Source:T31 Content:T30
+T34	Content 1525 1596	"The extent of the harm caused by defendant's conduct is incalculable,"
+T35	Source 1597 1616	federal prosecutors
+T36	Cue 1617 1622	wrote
+T37	Attribution 1617 1622	wrote
+E10	Attribution:T37 Cue:T36 Source:T35 Content:T34
+T38	Content 1701 1925	A maximum punishment "would also help address any false perception that unauthorized access of a computer is ever justified or rationalized as the cost of living in a wired society - or even worse, a crime to be celebrated,"
+T39	Source 1926 1962	Assistant U.S. Attorney Maya D. Song
+T40	Cue 1963 1968	wrote
+T41	Attribution 1963 1968	wrote
+E11	Attribution:T41 Cue:T40 Source:T39 Content:T38
+T42	Source 1971 1982	Prosecutors
+T43	Cue 1983 1987	said
+T44	Content 1988 2032	a stern sentence could deter other violators
+T45	Attribution 1983 1987	said
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 2034 2038	They
+T47	Cue 2039 2044	cited
+T48	Content 2045 2069	the case of Guccifer 2.0
+T49	Attribution 2039 2044	cited
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2109 2123	U.S. officials
+T51	Cue 2124 2127	say
+T52	Content 2105 2108;2128 2168	who is tied to Russian intelligence services
+T53	Attribution 2124 2127	say
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 2173 2176	who
+T55	Cue 2177 2195	claimed credit for
+T56	Content 2196 2247	hacking the Democratic National Committee this year
+T57	Attribution 2177 2195	claimed credit for
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Content 2250 2441	The online publication of DNC emails by WikiLeaks led to the resignation of the committee's chair, Rep. Debbie Wasserman Schultz (Fla.), in July. Guccifer 2.0 was branded "in homage to" Lazar
+T59	Source 2443 2447	Song
+T60	Cue 2448 2453	wrote
+T61	Attribution 2448 2453	wrote
+E16	Attribution:T61 Cue:T60 Source:T59 Content:T58
+T62	Source 2484 2495	authorities
+T63	Cue 2496 2499	say
+T64	Content 2500 2551	he never obtained access to Clinton's email account
+T65	Attribution 2496 2499	say
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Source 2574 2604	Lazar's public defense counsel
+T67	Cue 2605 2614	asked for
+T68	Content 2615 2640	a sentence of three years
+T69	Attribution 2605 2614	asked for
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Cue 2642 2649	calling
+T71	Content 2650 2698	his hacking expeditions "an addiction of sorts."
+T72	Attribution 2642 2649	calling
+E19	Attribution:T72 Cue:T70 Content:T71 Source:T66
+T73	Content 2700 2751;2792 2910	Despite his "admittedly brash on-line personality," Lazar is actually a devoted father and husband who was frustrated by his inability to find work in the computer sector
+T74	Source 2752 2784	public defender Shannon S. Quill
+T75	Cue 2785 2790	wrote
+T76	Attribution 2785 2790	wrote
+E20	Attribution:T76 Cue:T75 Source:T74 Content:T73
+T77	Content 2913 2964	"We need him because life is very hard in Romania,"
+T78	Source 2965 2997	his wife, Gabriela Violeta Lazar
+T79	Cue 2999 3004	wrote
+T80	Attribution 2999 3004	wrote
+E21	Attribution:T80 Cue:T79 Source:T78 Content:T77
+T81	Source 3108 3110	He
+T82	Cue 3111 3115	told
+T83	Content 3135 3312	that he obtained access to the email and social-media accounts of high-profile people by reading their Wikipedia pages and guessing passwords based on their personal information
+T84	Attribution 3111 3115	told
+E22	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Source 3324 3326	he
+T86	Cue 3327 3331	told
+T87	Content 3340 3479	that he was interested in politics and "a better world for our children," he targeted a seemingly random mix of politicians and celebrities
+T88	Attribution 3327 3331	told
+E23	Attribution:T88 Content:T87 Cue:T86 Source:T85
+T89	Source 3509 3511	he
+T90	Cue 3512 3519	exposed
+T91	Content 3520 3624	the personal information of magazine editor Tina Brown, author Candace Bushnell and actor Jeffrey Tambor
+T92	Attribution 3512 3519	exposed
+E24	Attribution:T92 Content:T91 Cue:T90 Source:T89
+T93	Source 3650 3655	Lazar
+T94	Cue 3656 3660	told
+T95	Content 3672 3783	that he trawled more or less randomly through the online accounts of "important people," looking for weak spots
+T96	Attribution 3656 3660	told
+E25	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Content 3785 3836	He succeeded only about 8 to 10 percent of the time
+T98	Source 3838 3840	he
+T99	Cue 3841 3850	estimated
+T100	Attribution 3841 3850	estimated
+E26	Attribution:T100 Cue:T99 Source:T98 Content:T97
+T101	Source 3853 3864	Prosecutors
+T102	Cue 3865 3871	argued
+T103	Content 3872 3959	that although Lazar confessed, he showed no remorse and probably will return to hacking
+T104	Attribution 3865 3871	argued
+E27	Attribution:T104 Content:T103 Cue:T102 Source:T101
+T105	Content 4123 4176;4194 4272	If he could go back in time and talk to his 2012 self that he told one FBI agent, "I'd say, 'All right, you have done a good job.'."
+T106	Source 4178 4189	prosecutors
+T107	Cue 4190 4193	say
+T108	Attribution 4190 4193	say
+E28	Attribution:T108 Cue:T107 Source:T106 Content:T105
+T109	Source 4274 4282	Cacheris
+T110	Cue 4283 4287	said
+T111	Content 4288 4529	Romania's Justice Ministry requested that Lazar be immediately released to his home country to serve his time there and indicated that he would be conditionally released in 2018 and returned to the United States to serve his prison term here
+T112	Attribution 4283 4287	said
+E29	Attribution:T112 Content:T111 Cue:T110 Source:T109

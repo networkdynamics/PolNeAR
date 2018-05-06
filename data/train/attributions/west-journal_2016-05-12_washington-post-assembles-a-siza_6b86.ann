@@ -1,0 +1,52 @@
+T1	Cue 228 234	orders
+T2	Source 238 350	the Washington Post’s new owner, Jeff Bezos, who is also the founder of Amazon and a Democratic Party mega-donor
+T3	Content 205 215	initiative
+T4	Attribution 228 234	orders
+E1	Attribution:T4 Content:T3 Source:T2 Cue:T1
+T5	Source 353 400	Bob Woodward, an associate editor for the Post,
+T6	Cue 401 419	revealed Wednesday
+T7	Content 420 467	that 20 staffers have been assigned to the task
+T8	Attribution 401 419	revealed Wednesday
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 484 510	will be released in a book
+T10	Content 469 483	whose findings
+T11	Attribution-no-source 484 510	will be released in a book
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Content 532 562;644 759	“There’s a lot we don’t know,” “We have 20 people working on Trump, we’re going to do a book, we’re doing articles about every phase of his life.”
+T13	Source 563 571	Woodward
+T14	Cue 572 576	told
+T15	Attribution 572 576	told
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Source 761 773	According to
+T17	Cue 774 782	Woodward
+T18	Content 784 846	“The New York real estate world is more complex than the CIA,”
+T19	Attribution 774 782	Woodward
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 925 939	has been known
+T21	Content 954 985	that this book was in the works
+T22	Attribution-no-source 925 939	has been known
+E6	Attribution-no-source:T22 Content:T21 Cue:T20
+T23	Cue 992 1014	was not entirely known
+T24	Content 1015 1105;987 991	was how extensive the research would be or how many staffers had been assigned to the task what
+T25	Attribution-no-source 992 1014	was not entirely known
+E7	Attribution-no-source:T25 Content:T24 Cue:T23
+T26	Source 1123 1131	the Post
+T27	Cue 1132 1141	announced
+T28	Content 1142 1278	its intention to do a full investigation of Trump’s life and release the tell-all regardless of whether he became the Republican nominee
+T29	Attribution 1132 1141	announced
+E8	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Cue 1281 1304	In a statement released
+T31	Source 1308 1341	Post Editor-in-Chief Martin Baron
+T32	Content 1343 1390	the full details and motivations were discussed
+T33	Attribution 1281 1304	In a statement released
+E9	Attribution:T33 Content:T32 Source:T31 Cue:T30
+T34	Content 1393 1470;1483 1721	“Donald Trump is a presidential candidate unlike any we’ve ever seen before,” “His candidacy and his positions have defied all conventions and upended the political landscape. Given that he could ascend to the most powerful position in the world, Trump’s life and career deserve to be explored in the greatest depth.
+T35	Cue 1471 1475	said
+T36	Source 1476 1481	Baron
+T37	Attribution 1471 1475	said
+E10	Attribution:T37 Source:T36 Cue:T35 Content:T34
+T38	Source 1723 1725	He
+T39	Cue 1726 1735	continued
+T40	Content 1737 1916	“That’s what we intend to do, with a huge investment of reportorial and editing resources and with a staff that consistently has led the field in covering his volatile candidacy.”
+T41	Attribution 1726 1735	continued
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T38

@@ -1,0 +1,55 @@
+T1	Source 0 5	Trump
+T2	Cue 6 20	Just Announced
+T3	Content 21 65	Who He ‘Would Love’ To See Run For President
+T4	Attribution 6 20	Just Announced
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 241 243	he
+T6	Cue 244 254	would like
+T7	Content 233 240;255 345	someone to enter the contest — fellow billionaire and former New York City Mayor Michael Bloomberg
+T8	Attribution 244 254	would like
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 348 366	Western Journalism
+T10	Cue 367 375	reported
+T11	Content 388 576	that Bloomberg is considering a third party run for the White House and that Trump’s success, coupled with that of Democrat Bernie Sanders, were factors in his decision to consider running
+T12	Attribution 367 375	reported
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 579 692	“I would love to have Michael Bloomberg run, I would love that competition. I think I’d do very well against it,”
+T14	Source 693 698	Trump
+T15	Cue 699 734	said Sunday on NBC’s Meet the Press
+T16	Attribution 699 734	said Sunday on NBC’s Meet the Press
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 778 780	he
+T18	Cue 781 799	spoke to CNN about
+T19	Content 800 811	the subject
+T20	Attribution 781 799	spoke to CNN about
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 814 829	“I’d beat him,”
+T22	Source 830 835	Trump
+T23	Cue 836 840	said
+T24	Attribution 836 840	said
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Content 842 962	“I would love him to do it actually. I love the competition. I love the competition. I would love for Michael to do it,”
+T26	Source 963 968	Trump
+T27	Cue 969 973	said
+T28	Attribution 969 973	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 976 981	Trump
+T30	Cue 982 991	explained
+T31	Content 992 1005	his reasoning
+T32	Attribution 982 991	explained
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 1050 1205	“He’s very opposite on me with guns, and he’s opposite on pro-life, and he’s opposite on a lot of things, so I would love to have Michael get in the race,”
+T34	Source 1206 1211	Trump
+T35	Cue 1212 1216	said
+T36	Attribution 1212 1216	said
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33
+T37	Source 1304 1309	Trump
+T38	Cue 1310 1314	said
+T39	Content 1219 1303;1316 1495	“Michael’s been a friend of mine over the years. Perhaps we’re not friends anymore,” “You know, he’s wanted to do this for a long time, and he never pulled the trigger. We’ll see if he does right now. But I would personally love to compete with Michael Bloomberg.”
+T40	Source 1540 1545	Trump
+T41	Cue 1546 1621	sent a typical Trump-style campaign jab the billionaire’s way by suggesting
+T42	Content 1622 1705	that Bloomberg was personally worth less than the $36.5 billion estimated by Forbes
+T43	Attribution 1310 1314	said
+E10	Attribution:T43 Content:T39 Source:T37 Cue:T38
+T44	Attribution 1546 1621	sent a typical Trump-style campaign jab the billionaire’s way by suggesting
+E11	Attribution:T44 Content:T42 Cue:T41 Source:T40

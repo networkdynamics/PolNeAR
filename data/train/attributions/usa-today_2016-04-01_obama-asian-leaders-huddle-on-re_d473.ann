@@ -1,0 +1,42 @@
+T1	Source 116 131	President Obama
+T2	Cue 147 157	discussing
+T3	Content 158 263	challenges in Asia that span  North Korea's nuclear weapons to China's military and territorial ambitions
+T4	Attribution 147 157	discussing
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 273 276	who
+T6	Cue 277 285	welcomed
+T7	Content 286 339	world leaders to the White House for a working dinner
+T8	Attribution 277 285	welcomed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 490 554;643 716	"We continue to face the threat from North Korean provocations," "We have to take necessary measures to protect ourselves and our allies."
+T10	Cue 555 559	said
+T11	Source 560 641	Ben Rhodes, Obama's deputy national security adviser for strategic communications
+T12	Attribution 555 559	said
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Source 1057 1141	Dan Kritenbrink, senior director for Asian affairs at the National Security Council,
+T14	Cue 1142 1146	said
+T15	Content 1147 1307	he expects Obama, Abe, and Park to "clearly demonstrate their unity in our commitment and our firm resolve to deter and defend against North Korean aggression."
+T16	Attribution 1142 1146	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 1322 1336	were  expected
+T18	Content 1309 1320;1337 1403	The leaders to discuss the battle against the Islamic State and climate change
+T19	Attribution-no-source 1322 1336	were  expected
+E5	Attribution-no-source:T19 Content:T18 Cue:T17
+T20	Source 1509 1515	Rhodes
+T21	Cue 1516 1521	noted
+T22	Content 1522 1744	that U.S. officials have long been talking with Chinese, Japanese, and South Korean officials about the threat posed by North Korea, and "we're in discussions about the deployment of additional missile defense" in the area
+T23	Attribution 1516 1521	noted
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Cue 1928 1939	allegations
+T25	Content 1940 1994	that Chinese interests have hacked into U.S. computers
+T26	Attribution-no-source 1928 1939	allegations
+E7	Attribution-no-source:T26 Content:T25 Cue:T24
+T27	Cue 2013 2028	is not expected
+T28	Content 2003 2012;2029 2061	the topic to surface in the Obama-Xi talks
+T29	Attribution-no-source 2013 2028	is not expected
+E8	Attribution-no-source:T29 Content:T28 Cue:T27
+T30	Source 2150 2186	Republican front-runner Donald Trump
+T31	Cue 2187 2191	says
+T32	Content 2192 2250	China is using trade rules to take jobs away from the U.S.
+T33	Attribution 2187 2191	says
+E9	Attribution:T33 Content:T32 Cue:T31 Source:T30

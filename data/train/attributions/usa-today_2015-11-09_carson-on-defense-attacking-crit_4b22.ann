@@ -1,0 +1,82 @@
+T1	Cue 106 116	questioned
+T2	Content 60 105	Republican presidential candidate's biography
+T3	Attribution-no-source 106 116	questioned
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Source 119 129	Ben Carson
+T5	Cue 130 134	says
+T6	Content 135 196	he is under political attack because of his rise in the polls
+T7	Attribution 130 134	says
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Source 251 288	the Republican presidential candidate
+T9	Cue 289 293	told
+T10	Content 199 250	"There's no question I'm getting special scrutiny,"
+T11	Attribution 289 293	told
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 326 332	saying
+T13	Content 333 344;359 462	that people "are very threatened" because they see how well he is doing in surveys against Democrat Hillary Clinton
+T14	Attribution 326 332	saying
+E4	Attribution:T14 Content:T13 Cue:T12 Source:T8
+T15	Source 484 490	Carson
+T16	Cue 491 495	said
+T17	Content 465 483;497 529	"They're worried," "There is no question about it."
+T18	Attribution 491 495	said
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 591 595	that
+T20	Cue 596 604	question
+T21	Content 605 762	his past statements about his life story, ranging from claims of a youthful temper and acts of violence to the prospect of an invitation to attend West Point
+T22	Attribution 596 604	question
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Cue 855 866	suggestions
+T24	Content 867 970	that his story of a violent and angry upbringing in Detroit wasn't as violent and angry as he suggested
+T25	Attribution-no-source 855 866	suggestions
+E7	Attribution-no-source:T25 Content:T24 Cue:T23
+T26	Source 1007 1015	Politico
+T27	Cue 991 1003	was a report
+T28	Content 1016 1079	that he "fabricated" the story of an offer to attend West Point
+T29	Attribution 991 1003	was a report
+E8	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 1081 1087	Carson
+T31	Cue 1088 1094	called
+T32	Content 1095 1132	that report Friday a "boldfaced lie."
+T33	Attribution 1088 1094	called
+E9	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1135 1143	Politico
+T35	Cue 1144 1207	responded late Friday with an editor's note on the story saying
+T36	Content 1208 1282	that Carson had implied he applied to West Point but that was not the case
+T37	Attribution 1144 1207	responded late Friday with an editor's note on the story saying
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Cue 1408 1415	telling
+T39	Source 1286 1365	Donald Trump, who is battling Carson for the top spot in many Republican polls,
+T40	Content 1432 1499	that there is "a weird deal going on" with the retired neurosurgeon
+T41	Attribution 1408 1415	telling
+E11	Attribution:T41 Content:T40 Source:T39 Cue:T38
+T42	Source 1528 1534	Carson
+T43	Cue 1535 1551	again criticized
+T44	Content 1552 1566	the news media
+T45	Attribution 1535 1551	again criticized
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 1575 1577	he
+T47	Cue 1578 1583	added
+T48	Content 1584 1667	that the negative coverage has helped his campaign raise more money from supporters
+T49	Attribution 1578 1583	added
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 1694 1700	Carson
+T51	Cue 1701 1705	said
+T52	Content 1670 1693	"Vetting is one thing,"
+T53	Attribution 1701 1705	said
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 1735 1737	he
+T55	Cue 1738 1742	said
+T56	Content 1743 1810	he is being asked about incidents that happened 20 and 50 years ago
+T57	Attribution 1738 1742	said
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 1877 1883	Carson
+T59	Cue 1884 1888	said
+T60	Content 1813 1876;1891 1999	"You can do that every single day from now until the election," And I could get distracted, and I could deal with all of those things, or I can deal with what's important."
+T61	Attribution 1884 1888	said
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 0 6	Carson
+T63	Cue 19 28	attacking
+T64	Content 29 36	critics
+T65	Attribution 19 28	attacking
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62

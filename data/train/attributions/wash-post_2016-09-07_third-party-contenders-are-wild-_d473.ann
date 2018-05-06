@@ -1,0 +1,49 @@
+T1	Source 40 79	The new poll of voters in all 50 states
+T2	Cue 80 88	revealed
+T3	Content 89 313	a variety of interesting dynamics across the country, including wide-ranging support for third-party candidates, the consistent role of Obama's popularity and how Utah may be the most interesting state to watch this election
+T4	Attribution 80 88	revealed
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 316 355	The new poll of voters in all 50 states
+T6	Cue 356 364	revealed
+T7	Content 365 599	a variety of interesting dynamics across the country, including wide-ranging support for third-party candidates, the consistent role of President Obama's popularity and how Utah may be the most interesting state to watch this election
+T8	Attribution 356 364	revealed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 824 850	The Post-SurveyMonkey poll
+T10	Cue 851 856	finds
+T11	Content 857 1030	the Libertarian Party's Johnson supported by an average of 13 percent across all states, ranging from a low of 4 percent in Mississippi to a high of 25 percent in New Mexico
+T12	Attribution 851 856	finds
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 1876 1921	An average of 10 percent of registered voters
+T14	Cue 1922 1930	reported
+T15	Content 1931 1943	"no opinion"
+T16	Attribution 1922 1930	reported
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 2589 2641	who account for a majority of the state's population
+T18	Cue 2643 2655	according to
+T19	Source 2656 2682	a 2015 Pew Research survey
+T20	Attribution 2643 2655	according to
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Content 2805 2827	third-party candidates
+T22	Cue 2828 2841	are mentioned
+T23	Attribution-no-source 2828 2841	are mentioned
+E6	Attribution-no-source:T23 Cue:T22 Content:T21
+T24	Source 3499 3525	The Post-SurveyMonkey poll
+T25	Cue 3526 3537	underscores
+T26	Content 3538 3609	the close connection between Obama's image and Clinton's fate this fall
+T27	Attribution 3526 3537	underscores
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 4206 4218	also appears
+T29	Content 4184 4205;4219 4290	Home state favoritism to play a role in the state where Clinton falls short of Obama the most
+T30	Attribution-no-source 4206 4218	also appears
+E8	Attribution-no-source:T30 Content:T29 Cue:T28
+T31	Source 5140 5147	Trump's
+T32	Cue 5148 5156	promises
+T33	Content 5157 5236	to deport undocumented immigrants and build a wall along the U.S.-Mexico border
+T34	Attribution 5148 5156	promises
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 5314 5331	the 50-state poll
+T36	Cue 5332 5337	finds
+T37	Content 5338 5412	immigration is a second- or third-tier issue for voters across the country
+T38	Attribution 5332 5337	finds
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Discuss 0 5	Third

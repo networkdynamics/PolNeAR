@@ -1,0 +1,45 @@
+T1	Source 0 10	Mike Pence
+T2	Cue 11 20	Calls for
+T3	Content 21 39	Special Prosecutor
+T4	Attribution 11 20	Calls for
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 46 52	Report
+T6	Cue 53 60	Reveals
+T7	Content 61 102	Clinton’s Meetings with Foundation Donors
+T8	Attribution 53 60	Reveals
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 105 128	Indiana Gov. Mike Pence
+T10	Cue 129 184	is joining his running mate Donald Trump in calling for
+T11	Content 185 283	a special prosecutor to investigate Hillary Clinton and for the Clinton Foundation to be shut down
+T12	Attribution 129 184	is joining his running mate Donald Trump in calling for
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 290 310	the Associated Press
+T14	Cue 311 318	reports
+T15	Content 319 451	more than half of Hillary Clinton’s meetings as secretary of state with non-government officials were with Clinton Foundation donors
+T16	Attribution 311 318	reports
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 454 810	“The fact Hillary Clinton’s official schedule was full of meetings with Clinton Foundation donors is further evidence of the pay-to-play politics at her State Department. No one is above the law. The Clinton Foundation must be immediately shut down and an independent special prosecutor be appointed to determine if access to Hillary Clinton was for sale,”
+T18	Source 811 816	Pence
+T19	Cue 817 842	stated in a press release
+T20	Attribution 817 842	stated in a press release
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 866 871	Pence
+T22	Cue 872 877	added
+T23	Content 879 1020	“It would be a dereliction of duty by President Obama and his Justice Department if they fail to act on these startling new facts right now.”
+T24	Attribution 872 877	added
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1319 1324	which
+T26	Cue 1325 1330	notes
+T27	Content 1332 1632	“More than half the people outside the government who met with Hillary Clinton while she was secretary of state gave money – either personally or through companies or groups – to the Clinton Foundation. It’s an extraordinary proportion indicating her possible ethics challenges if elected president.”
+T28	Attribution 1325 1330	notes
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1634 1639	Trump
+T30	Cue 1640 1650	called for
+T31	Content 1651 1846	a special prosecutor to oversee an investigation into the alleged pay-to-play relationship between the Clinton Foundation and the Department of State during Clinton’s tenure as secretary of state
+T32	Attribution 1640 1650	called for
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 1893 2155;2172 2320	“The Clintons made the State Department into the same kind of Pay-to-Play operation as the Arkansas Government was: pay the Clinton Foundation huge sums of money and throw in some big speaking fees for Bill Clinton and you got to play with the State Department,” “The amounts involved, the favors done and the significant numbers of times it was done require an expedited investigation by a Special Prosecutor.”
+T34	Source 2156 2161	Trump
+T35	Cue 2162 2170	declared
+T36	Attribution 2162 2170	declared
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33

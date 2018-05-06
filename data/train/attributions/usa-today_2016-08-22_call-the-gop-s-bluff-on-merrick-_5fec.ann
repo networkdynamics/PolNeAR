@@ -1,0 +1,72 @@
+T1	Cue 0 4	Call
+T2	Content 5 39	the GOP's bluff on Merrick Garland
+T3	Attribution-no-source 0 4	Call
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Content 124 146;42 79	stands at a robust 53% President Obama's job approval rating
+T5	Cue 80 82	in
+T6	Source 83 123	the latest Washington Post-ABC News Poll
+T7	Attribution 80 82	in
+E2	Attribution:T7 Source:T6 Cue:T5 Content:T4
+T8	Source 148 216	Other recent polls from Monmouth University and CNN/ORC respectively
+T9	Cue 217 221	show
+T10	Content 222 251	a 56% and 54% approval rating
+T11	Attribution 217 221	show
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 506 508	he
+T13	Cue 509 518	nominated
+T14	Content 519 590	Judge Merrick Garland to fill the vacant seat of Justice Antonin Scalia
+T15	Attribution 509 518	nominated
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 983 985	He
+T17	Cue 1003 1010	telling
+T18	Content 1076 1159	that he'll withdraw the Garland nomination unless  hearings are underway by Sept. 6
+T19	Attribution 1003 1010	telling
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 794 857	Democratic presidential nominee Hillary Clinton's sizable leads
+T21	Cue 858 860	in
+T22	Source 861 898	national and battleground-state polls
+T23	Attribution 858 860	in
+E6	Attribution:T23 Source:T22 Cue:T21 Content:T20
+T24	Source 900 902	he
+T25	Cue 954 957	pen
+T26	Content 958 981	his own Art of the Deal
+T27	Attribution 954 957	pen
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1263 1270	Garland
+T29	Cue 1323 1331	deciding
+T30	Content 1332 1337	cases
+T31	Attribution 1323 1331	deciding
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 1339 1347	Assuming
+T33	Content 1348 1482	that Clinton remains a prohibitive favorite to win the general election and would get to make her own appointment to the Supreme Court
+T34	Attribution-no-source 1339 1347	Assuming
+E9	Attribution-no-source:T34 Content:T33 Cue:T32
+T35	Source 2019 2027	Grassley
+T36	Cue 2001 2015	more appealing
+T37	Content 1942 1987	the prospect of Garland hearings in September
+T38	Attribution 2001 2015	more appealing
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 2095 2123	the American Bar Association
+T40	Cue 2124 2159	completed its months-long review of
+T41	Content 2160 2197	Garland's professional qualifications
+T42	Attribution 2124 2159	completed its months-long review of
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Cue 2202 2208	deemed
+T44	Content 2209 2230	him "well qualified,"
+T45	Attribution 2202 2208	deemed
+E12	Attribution:T45 Source:T39 Content:T44 Cue:T43
+T46	Source 2293 2352	a bipartisan coalition of politicians and legal aficionados
+T47	Cue 2353 2369	have vouched for
+T48	Content 2370 2405	Garland's qualifications and record
+T49	Attribution 2353 2369	have vouched for
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2415 2423	Grassley
+T51	Cue 2424 2440	hasn't expressed
+T52	Content 2441 2482	an inclination to convene public hearings
+T53	Attribution 2424 2440	hasn't expressed
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 2581 2589	Grassley
+T55	Cue 2590 2614	to seriously contemplate
+T56	Content 2615 2701	acting on the stalled Garland nomination, and the possible consequences if he does not
+T57	Attribution 2590 2614	to seriously contemplate
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54

@@ -1,0 +1,102 @@
+T1	Source 0 9	WikiLeaks
+T2	Cue 10 16	claims
+T3	Content 17 64	'state party' cut Assange's internet connection
+T4	Attribution 10 16	claims
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 67 159	The internet connection of WikiLeaks founder Julian Assange has been cut “by a state party,”
+T6	Source 160 193	the document-dumping organization
+T7	Cue 194 203	announced
+T8	Attribution 194 203	announced
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Source 266 275	WikiLeaks
+T10	Cue 276 292	did not announce
+T11	Content 293 342	which state party had cut the internet connection
+T12	Attribution 276 292	did not announce
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 535 542	Assange
+T14	Cue 543 551	has said
+T15	Content 552 680	he fears he would be extradited to the United States to face espionage charges if he were to step outside the Ecuadorian Embassy
+T16	Attribution 543 551	has said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 798 807	allegedly
+T18	Content 776 797;808 897	thousands of pages of hacked emails from the personal account of Hillary Clinton campaign chairman John Podesta
+T19	Attribution-no-source 798 807	allegedly
+E5	Attribution-no-source:T19 Content:T18 Cue:T17
+T20	Source 993 998	which
+T21	Cue 999 1005	detail
+T22	Content 1006 1074	the inner working of the former secretary of state’s White House bid
+T23	Attribution 999 1005	detail
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1501 1504	his
+T25	Cue 1505 1518	criticisms of
+T26	Content 1519 1582	both Clinton and Republican presidential candidate Donald Trump
+T27	Attribution 1505 1518	criticisms of
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1605 1624	the U.S. government
+T29	Cue 1625 1631	blamed
+T30	Content 1632 1666	those attacks and others on Russia
+T31	Attribution 1625 1631	blamed
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Content 1668 1756	whose “thefts and disclosures are intended to interfere with the U.S. election process,”
+T33	Source 1757 1799	Secretary of Homeland Security Jeh Johnson
+T34	Cue 1800 1804	said
+T35	Source 1890 1894	many
+T36	Cue 1895 1904	to assume
+T37	Content 1905 1949	that the attacks are intended to favor Trump
+T38	Attribution 1895 1904	to assume
+E9	Attribution:T38 Cue:T36 Source:T35 Content:T37
+T39	Attribution 1800 1804	said
+E10	Attribution:T39 Cue:T34 Source:T33 Content:T32
+T40	Cue 1951 1958	seen as
+T41	Content 1959 2005	friendlier candidate to the Russian government
+T42	Attribution-no-source 1951 1958	seen as
+E11	Attribution-no-source:T42 Content:T41 Cue:T40
+T43	Source 2008 2015	Podesta
+T44	Cue 2016 2020	said
+T45	Content 2021 2070;2112 2155	it was a “reasonable conclusion” that Roger Stone has been given advance warning of the leaks
+T46	Attribution 2016 2020	said
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 2157 2221	Both Stone and Republican vice presidential candidate Mike Pence
+T48	Cue 2222 2233	have denied
+T49	Content 2234 2269	any connection to any email hacking
+T50	Attribution 2222 2233	have denied
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 2272 2312	White House Press Secretary Josh Earnest
+T52	Cue 2313 2317	said
+T53	Content 2328 2533	that he could not specifically tie Podesta’s hacked emails to the Russian government since their publication did not begin until after the U.S. had released its intelligence assessment on the other attacks
+T54	Attribution 2313 2317	said
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Source 2539 2548	its Tweet
+T56	Cue 2549 2559	announcing
+T57	Content 2560 2611	that Assange’s internet connection had been severed
+T58	Attribution 2549 2559	announcing
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 2613 2622	WikiLeaks
+T60	Cue 2623 2627	said
+T61	Content 2628 2686	that it had “activated the appropriate contingency plans.”
+T62	Attribution 2623 2627	said
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Cue 2790 2798	appeared
+T64	Content 2688 2789;2799 2827	Any impediment to WikiLeaks' posting abilities caused by the cutting of Assange's internet connection remedied by Monday afternoon
+T65	Attribution-no-source 2790 2798	appeared
+E17	Attribution-no-source:T65 Content:T64 Cue:T63
+T66	Source 2829 2850	when the organization
+T67	Cue 2851 2857	posted
+T68	Content 2858 2921	another batch of allegedly hacked Podesta emails to its website
+T69	Attribution 2851 2857	posted
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Source 2923 2932	WikiLeaks
+T71	Cue 2933 2960	had previously been posting
+T72	Content 2961 2973	such batches
+T73	Attribution 2933 2960	had previously been posting
+E19	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Source 3070 3079	The group
+T75	Cue 3080 3098	claimed on Twitter
+T76	Content 3115 3153	that Ecuador was behind the disruption
+T77	Attribution 3080 3098	claimed on Twitter
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Content 3187 3326	"We can confirm Ecuador cut off Assange's internet access Saturday, 5pm GMT, shortly after publication of Clinton's Goldman Sachs speechs,"
+T79	Source 3327 3336	the group
+T80	Cue 3337 3344	tweeted
+T81	Attribution 3337 3344	tweeted
+E21	Attribution:T81 Cue:T80 Source:T79 Content:T78

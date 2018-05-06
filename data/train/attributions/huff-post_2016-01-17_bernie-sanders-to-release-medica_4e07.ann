@@ -1,0 +1,35 @@
+T1	Source 0 14	Bernie Sanders
+T2	Cue 15 25	To Release
+T3	Content 26 41	Medical Records
+T4	Attribution 15 25	To Release
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 77 104	Sen. Bernie Sanders (I-Vt.)
+T6	Cue 105 109	said
+T7	Content 110 223	he will make his medical health records available to the public, as is tradition for those seeking the presidency
+T8	Attribution 105 109	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 226 281;353 511	“Of course we’re going to release our medical records,” “Thank God, I am very healthy. We will get medical records out the same way that Secretary [Hillary] Clinton has gotten her records out. It is not a problem.”
+T10	Source 282 289	Sanders
+T11	Cue 290 294	said
+T12	Attribution 290 294	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 513 521	Politico
+T14	Cue 522 539	reported Saturday
+T15	Content 540 699	that David Brock, founder of Correct the Record — a pro-Clinton super PAC — was planning to call on the senator to release his records before the Iowa caucuses
+T16	Attribution 522 539	reported Saturday
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 718 737	her medical records
+T18	Cue 753 759	showed
+T19	Content 760 780	she was fit for duty
+T20	Attribution 753 759	showed
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 878 912	The Huffington Post’s Scott Conroy
+T22	Cue 913 918	asked
+T23	Content 927 1000	whether questions about his health and age were fair game in the campaign
+T24	Attribution 913 918	asked
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 1003 1151	“Sure it is. I would not have run if I was not blessed, and I’m very, very thankful — I cannot remember the last day I took off because of illness,”
+T26	Source 1152 1154	he
+T27	Cue 1155 1159	said
+T28	Attribution 1155 1159	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25

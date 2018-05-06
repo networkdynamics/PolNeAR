@@ -1,0 +1,74 @@
+T1	Source 0 9	New Polls
+T2	Cue 10 14	Show
+T3	Content 15 54	Double-Digit Gaps in Republican Contest
+T4	Attribution 10 14	Show
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 71 78	labeled
+T6	Content 57 70;79 146	The candidate “a leader who has faced tough real-life situations before, and won”
+T7	Attribution-no-source 71 78	labeled
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Content 200 223	hitting a new high mark
+T9	Cue 224 226	in
+T10	Source 227 246	one national survey
+T11	Attribution 224 226	in
+E3	Attribution:T11 Source:T10 Cue:T9 Content:T8
+T12	Content 253 274	holding onto his lead
+T13	Cue 275 277	in
+T14	Source 278 285	another
+T15	Attribution 275 277	in
+E4	Attribution:T15 Source:T14 Cue:T13 Content:T12
+T16	Cue 388 390	in
+T17	Source 391 428	a new Fox News poll released Thursday
+T18	Content 323 387	Donald Trump achieved 45 percent support among Republican voters
+T19	Attribution 388 390	in
+E5	Attribution:T19 Content:T18 Source:T17 Cue:T16
+T20	Content 587 665	a drop in support for rival Sen. Ted Cruz gave Trump an 18-point lead over Cru
+T21	Cue 668 680	according to
+T22	Source 681 693	the Fox poll
+T23	Attribution 668 680	according to
+E6	Attribution:T23 Source:T22 Cue:T21 Content:T20
+T24	Content 706 733	Cruz had 38 percent support
+T25	Cue 734 736	in
+T26	Source 737 747	a Fox poll
+T27	Attribution 734 736	in
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Source 749 769	The most recent poll
+T29	Cue 770 775	shows
+T30	Content 776 805	Cruz has fallen to 27 percent
+T31	Attribution 770 775	shows
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 894 896	in
+T33	Source 897 921	the most recent Fox poll
+T34	Content 861 893	Kasich was at 25 percent support
+T35	Attribution 894 896	in
+E9	Attribution:T35 Content:T34 Source:T33 Cue:T32
+T36	Source 1003 1013	A CBS poll
+T37	Cue 1014 1020	showed
+T38	Content 1021 1048	things a little differently
+T39	Attribution 1014 1020	showed
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1051 1053	In
+T41	Source 1054 1066	the CBS poll
+T42	Content 1068 1169	Trump’s lead over Cruz remained in double digits, but narrowed from March’s 20-point gap to 13 points
+T43	Attribution 1051 1053	In
+E11	Attribution:T43 Content:T42 Source:T41 Cue:T40
+T44	Content 1171 1176	Trump
+T45	Cue 1177 1190	was supported
+T46	Source 1194 1248	42 percent of the Republicans surveyed in the CBS poll
+T47	Attribution 1177 1190	was supported
+E12	Attribution:T47 Source:T46 Cue:T45 Content:T44
+T48	Source 1449 1476	Rep. Chris Collins, R-N.Y.,
+T49	Cue 1477 1482	noted
+T50	Content 1530 1643	that anger over the current political climate, coupled with Trump’s background, are fueling the GOP leader’s rise
+T51	Attribution 1477 1482	noted
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Content 1646 1972	“For too long the political class has denied everyday Americans a real voice in government. This election, voters are finding a leader who is listening to them over the clamor of Washington special interests, and voters are speaking loud and clear. They want a leader like Mr. Trump; a chief executive, not a chief politician,
+T53	Source 1974 1981	Collins
+T54	Cue 1982 1987	wrote
+T55	Attribution 1982 1987	wrote
+E14	Attribution:T55 Cue:T54 Source:T53 Content:T52
+T56	Content 1990 2149;2160 2431	“America cannot afford another professional politician residing in the White House. We need a leader who has faced tough real-life situations before, and won,” “To fix the mistakes made by President Obama, our next president needs to speak frankly about the problems that exist, explain how he or she will correct them and have the fortitude to take necessary actions, no matter how unpopular they would be with Washington elites.”
+T57	Source 2150 2152	he
+T58	Cue 2153 2158	wrote
+T59	Attribution 2153 2158	wrote
+E15	Attribution:T59 Cue:T58 Source:T57 Content:T56

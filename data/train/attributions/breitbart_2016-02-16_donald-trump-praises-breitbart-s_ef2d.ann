@@ -1,0 +1,59 @@
+T1	Source 0 12	Donald Trump
+T2	Cue 13 20	Praises
+T3	Content 21 97	Breitbart’s Washington Political Editor Matthew Boyle: ‘Very Good Reporter.’
+T4	Attribution 13 20	Praises
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 99 123	Billionaire Donald Trump
+T6	Cue 124 131	praised
+T7	Content 132 189	Breitbart News’ Washington Political Editor Matthew Boyle
+T8	Attribution 124 131	praised
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 251 301	“Very good reporter, very good reporter this guy,”
+T10	Source 302 307	Trump
+T11	Cue 463 467	said
+T12	Attribution 463 467	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 502 509	Boyle’s
+T14	Cue 510 530	question centered on
+T15	Content 531 833;834 849	Trump’s longstanding feud with the Republican National Committee (RNC), which has reemerged in recent days after revelations the RNC and local and state party officials stacked the audience at the most recent debate in Greenville, South Carolina, with anti-Trump activists who were also opposed to Sen. Ted Cruz (R-TX)
+T16	Attribution 510 530	question centered on
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 851 923	The anti-Trump and anti-Cruz activists placed throughout the debate hall
+T18	Cue 946 964	cheered loudly for
+T19	Content 1049 1057;965 994;995 1048	Jeb Bush the establishment-backed Sen. Marco Rubio (R-FL) and his mentor former Florida Gov.
+T20	Attribution 946 964	cheered loudly for
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1063 1082	Rubio and Bush both
+T22	Cue 1083 1107	repeatedly made the case
+T23	Content 1108 1142	to grant amnesty to illegal aliens
+T24	Attribution 1083 1107	repeatedly made the case
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 1145 1280;1300 1340	“Mr. Trump, you said earlier today that the RNC has run default on their pledge—that the RNC has run default on your pledge with them,” “Can you explain and elaborate on that?”
+T26	Source 1281 1286	Boyle
+T27	Cue 1287 1292	asked
+T28	Attribution 1287 1292	asked
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T30	Source 1409 1414	Trump
+T31	Cue 1415 1419	said
+T33	Content 1342 1408;1422 1578;1579 1646;1647 1676;1677 1745;1746 1882;1883 2456	“I’m very disappointed in the RNC, Republican National Committee,” "I’m very disappointed in the RNC because for three debates now the room has been stacked with special interests and donors as you know, as the press knows. As an example, I gave two judges who were very conservative judges. I was met with nice applause. Bush got up and stumbled through an answer and the place went crazy. I said, ‘What are they doing?’ And then I realized all of these people—many of the people in that room I know, some are friends of mine. Some are waving to me and booing. They’re waving like this and they’re booing—they’re having fun. I get it. Some of them are friends of mine. They are special interests. They’re lobbyists. And that shouldn’t be. They have total control over the people I’m running against. Total, absolute control. I bring up the drug thing because the drug companies are going to go to competitive bid. Whether we save $100 billion a year or $350 billion a year, we’re going to competitive bid. These people can’t say that because the drug companies give them a fortune to run for office."
+T29	Attribution 1415 1419	said
+E8	Attribution:T29 Content:T33 Cue:T31 Source:T30
+T32	Content 2865 2867	He
+T34	Cue 2868 2889	was recently profiled
+T35	Attribution-no-source 2868 2889	was recently profiled
+E9	Attribution-no-source:T35 Cue:T34 Content:T32
+T36	Source 2910 2915	which
+T37	Cue 2916 2947	ran a nearly 3,000-word article
+T38	Content 2948 2954	on him
+T39	Attribution 2916 2947	ran a nearly 3,000-word article
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 2955 2961	naming
+T41	Content 2962 3029	him the “angry populist enforcer” of the 2016 presidential election
+T42	Attribution 2955 2961	naming
+E11	Attribution:T42 Source:T36 Cue:T40 Content:T41
+T43	Source 3194 3261	Lloyd Grove, the Daily Beast editor who wrote the profile on Boyle,
+T44	Cue 3262 3273	Tweeted out
+T45	Content 3274 3297	Trump’s praise of Boyle
+T46	Attribution 3262 3273	Tweeted out
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Discuss 3339 3344	tweet

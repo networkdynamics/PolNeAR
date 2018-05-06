@@ -1,0 +1,168 @@
+T1	Source 127 161	Republican presidential candidates
+T2	Cue 162 170	blasting
+T3	Content 171 234	President Obama's approach to combating Islamic State terrorism
+T4	Attribution 162 170	blasting
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 267 275	Ted Cruz
+T6	Cue 276 283	accuses
+T7	Discuss 115 123	rhetoric
+T8	Content 284 314	Obama of "leading from behind"
+T9	Attribution 276 283	accuses
+E2	Attribution:T9 Content:T8 Cue:T6 Source:T5
+T10	Source 319 331	Donald Trump
+T11	Cue 332 336	says
+T12	Content 342 372	"losing the war on terrorism,"
+T13	Attribution 332 336	says
+E3	Attribution:T13 Content:T12 Cue:T11 Source:T10
+T14	Source 398 402	they
+T15	Cue 402 418	've administered
+T16	Content 381 397;419 435	a verbal lashing to the president
+T17	Attribution 402 418	've administered
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 487 491	they
+T19	Cue 491 511	're mostly proposing
+T20	Content 513 555	things the administration is already doing
+T21	Attribution 491 511	're mostly proposing
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Source 973 1000	candidates like Marco Rubio
+T23	Cue 1001 1013	have blasted
+T24	Content 1014 1053	Obama for not directly arming the Kurds
+T25	Attribution 1001 1013	have blasted
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 1201 1229	None of the major candidates
+T27	Cue 1230 1244	is pushing for
+T28	Content 1245 1318	a major U.S. troop presence along the lines of the  2003 invasion of Iraq
+T29	Attribution 1230 1244	is pushing for
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 1375 1379	they
+T31	Cue 1379 1414	've offered colorful language about
+T32	Content 1415 1429	dropping bombs
+T33	Attribution 1379 1414	've offered colorful language about
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1431 1435	Cruz
+T35	Cue 1436 1440	said
+T36	Content 1441 1475	he'd make sand "glow in the dark,"
+T37	Attribution 1436 1440	said
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Source 1494 1499	Trump
+T39	Cue 1500 1505	vowed
+T40	Content 1506 1549	to "bomb the hell" out of the Islamic State
+T41	Attribution 1500 1505	vowed
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Cue 1551 1564	also known as
+T43	Content 1565 1577	ISIL or ISIS
+T44	Attribution-no-source 1551 1564	also known as
+E11	Attribution-no-source:T44 Content:T43 Cue:T42
+T45	Content 1580 1863	"The same criticism of President Obama's strategy with respect to ISIS can be leveled against virtually all of his critics," said Christopher Preble, vice president for defense and foreign policy studies at the Cato Institute, a libertarian policy group. "This debate is misleading,"
+T46	Source 1864 1866	he
+T47	Cue 1867 1871	said
+T48	Source 1977 1982	Trump
+T49	Cue 1983 1994	calling for
+T50	Content 1995 2049	a ban on non-citizen Muslims from entering the country
+T51	Attribution 1983 1994	calling for
+E12	Attribution:T51 Cue:T49 Content:T50 Source:T48
+T52	Attribution 1867 1871	said
+E13	Attribution:T52 Cue:T47 Source:T46 Content:T45
+T53	Source 2054 2060	others
+T54	Cue 2061 2071	supporting
+T55	Content 2072 2108	an indefinite ban on Syrian refugees
+T56	Attribution 2061 2071	supporting
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Content 2124 2152	Middle Eastern ground battle
+T58	Cue 2157 2179	's so fiercely debated
+T59	Attribution-no-source 2157 2179	's so fiercely debated
+E15	Attribution-no-source:T59 Cue:T58 Content:T57
+T60	Source 2412 2415	who
+T61	Cue 2416 2434	has openly opposed
+T62	Content 2435 2448	ground troops
+T63	Attribution 2416 2434	has openly opposed
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 2362 2411	a number of candidates, including Trump and Cruz,
+T65	Cue 2450 2491	have taken a more aggressive stance about
+T66	Content 2492 2519	the U.S. role in the region
+T67	Attribution 2450 2491	have taken a more aggressive stance about
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 2521 2536	Hillary Clinton
+T69	Cue 2537 2547	has backed
+T70	Content 2548 2570	a no-fly zone in Syria
+T71	Attribution 2537 2547	has backed
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Content 2719 2728	something
+T73	Source 2729 2733	they
+T74	Cue 2734 2750	aren't proposing
+T75	Attribution 2734 2750	aren't proposing
+E19	Attribution:T75 Cue:T74 Source:T73 Content:T72
+T76	Content 2753 2860	"No Republican candidate has defined what they intend to do, except defeat ISIS in the most generic sense,"
+T77	Cue 2861 2865	said
+T78	Source 2866 3045	Tony Cordesman, a national security expert at the Center for Strategic and International Studies who consulted the departments of State and Defense during the Afghan and Iraq wars
+T79	Attribution 2861 2865	said
+E20	Attribution:T79 Source:T78 Cue:T77 Content:T76
+T80	Content 3048 3133	"This is almost a campaign of slogans rather than plans or solutions at every level,"
+T81	Cue 3134 3138	said
+T82	Source 3139 3195	Cordesman, who has also advised Arizona Sen. John McCain
+T83	Attribution 3134 3138	said
+E21	Attribution:T83 Source:T82 Cue:T81 Content:T80
+T84	Content 3329 3386	This includes a special force to assist Kurdish Peshmerga
+T85	Source 3388 3416	Defense Secretary Ash Carter
+T86	Cue 3417 3421	told
+T87	Attribution 3417 3421	told
+E22	Attribution:T87 Cue:T86 Source:T85 Content:T84
+T88	Source 3495 3498	who
+T89	Cue 3498 3511	's called for
+T90	Content 3512 3554	20,000 troops split between Syria and Iraq
+T91	Attribution 3498 3511	's called for
+E23	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Source 3556 3570	the candidates
+T93	Cue 3571 3586	aren't offering
+T94	Content 3587 3596	specifics
+T95	Attribution 3571 3586	aren't offering
+E24	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Source 3598 3619	Ohio Gov. John Kasich
+T97	Cue 3620 3647	has also broadly called for
+T98	Content 3648 3670	"boots on the ground."
+T99	Attribution 3620 3647	has also broadly called for
+E25	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Source 3684 3689	Trump
+T101	Cue 3690 3696	called
+T102	Content 3697 3815	those advocating for more direct military intervention "fools" who "basically want to start World War III over Syria."
+T103	Attribution 3690 3696	called
+E26	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Source 3822 3869	the field's biggest hawks, like Rubio and Bush,
+T105	Cue 3870 3873	say
+T106	Content 3874 3923	the bulk of ground troops should be Arab fighters
+T107	Attribution 3870 3873	say
+E27	Attribution:T107 Content:T106 Cue:T105 Source:T104
+T108	Content 4008 4101	"This is a radical Sunni group, they need to be defeated by Sunnis themselves on the ground,"
+T109	Source 4102 4107	Rubio
+T110	Cue 4108 4112	said
+T111	Attribution 4108 4112	said
+E28	Attribution:T111 Cue:T110 Source:T109 Content:T108
+T112	Source 4170 4174	Bush
+T113	Cue 4175 4179	said
+T114	Content 4180 4212	"local forces" must lead the way
+T115	Attribution 4175 4179	said
+E29	Attribution:T115 Content:T114 Cue:T113 Source:T112
+T116	Source 4230 4244	Cruz and Trump
+T117	Cue 4245 4289	have used the most aggressive language about
+T118	Content 4290 4323	the need for more intense bombing
+T119	Attribution 4245 4289	have used the most aggressive language about
+E30	Attribution:T119 Content:T118 Cue:T117 Source:T116
+T120	Source 4330 4334	Cruz
+T121	Cue 4335 4353	recently promising
+T122	Content 4354 4390	to "carpet bomb them into oblivion."
+T123	Attribution 4335 4353	recently promising
+E31	Attribution:T123 Content:T122 Cue:T121 Source:T120
+T124	Source 4395 4399	they
+T125	Cue 4399 4410	've offered
+T126	Content 4411 4487	no specifics about targets or why their approach would be any more effective
+T127	Attribution 4399 4410	've offered
+E32	Attribution:T127 Content:T126 Cue:T125 Source:T124
+T128	Source 4602 4617	Cruz  and Trump
+T129	Cue 4618 4630	have slammed
+T130	Content 4631 4696	the president for not using the term "radical Islamic terrorism."
+T131	Attribution 4618 4630	have slammed
+E33	Attribution:T131 Content:T130 Cue:T129 Source:T128
+T132	Cue 4490 4516	The overwhelming criticism
+T133	Content 4588 4600	his language
+T134	Attribution-no-source 4490 4516	The overwhelming criticism
+E34	Attribution-no-source:T134 Content:T133 Cue:T132

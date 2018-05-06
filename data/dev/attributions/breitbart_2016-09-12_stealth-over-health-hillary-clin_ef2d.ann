@@ -1,0 +1,31 @@
+T1	Source 89 106	The New York Post
+T2	Cue 107 114	reports
+T3	Content 115 290	that Hillary Clinton’s team avoided taking her to the emergency room following her medical scare on Sunday in order to “keep the details of her medical treatment under wraps.”
+T4	Attribution 107 114	reports
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 545 553	The Post
+T6	Cue 554 565	has learned
+T7	Content 292 543	Hillary Clinton was headed to an emergency room following her sudden collapse during the Sept. 11 memorial ceremony — but ditched her NYPD escort and detoured to daughter Chelsea Clinton’s apartment to keep details of her medical treatment under wraps
+T8	Attribution 554 565	has learned
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 568 757	Secret Service protocol called for the Democratic presidential nominee to be taken to a state-designated Level I Trauma Center in the wake of her Sunday morning health crisis at Ground Zero
+T10	Source 759 766	sources
+T11	Cue 767 771	said
+T12	Attribution 767 771	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 924 932	a source
+T14	Cue 933 937	said
+T15	Content 774 922	But a campaign operative decided to change course to avoid treatment by doctors, nurses or other medical workers who could leak details to reporters
+T16	Attribution 933 937	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 1102 1116	another source
+T18	Cue 1117 1121	said
+T19	Content 940 1100	Clinton’s van was supposed to be escorted by an NYPD protective detail, but the Secret Service whisked her away from Ground Zero before cops could accompany her
+T20	Attribution 1117 1121	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1235 1245	the source
+T22	Cue 1246 1251	added
+T23	Content 1124 1233	Clinton had told police officials that she didn’t want the escort at all, but the NYPD overruled that request
+T24	Attribution 1246 1251	added
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Discard 1254 1273	Read the rest here.

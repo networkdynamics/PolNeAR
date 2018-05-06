@@ -1,0 +1,49 @@
+T1	Source 116 127	many people
+T2	Cue 107 115	a threat
+T3	Content 147 189	“If so-and-so wins, I’m moving to Canada!”
+T4	Attribution 107 115	a threat
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 196 221	one kind-hearted Canadian
+T6	Cue 222 227	wants
+T7	Content 228 302	to help Americans keep that promise should Donald Trump win the presidency
+T8	Attribution 222 227	wants
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 491 561;602 711	“Hi Americans! Donald Trump may become the President of your country!” “If that happens, and you decide to get the hell out of there, might I suggest moving to Cape Breton Island!”
+T10	Source 562 594	a welcome message on the website
+T11	Cue 595 600	reads
+T12	Attribution 595 600	reads
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 713 722	Calabrese
+T14	Cue 723 727	told
+T15	Content 746 836	he’s already received hundreds of emails from Americans interested in moving to the island
+T16	Attribution 723 727	told
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 425 429	that
+T18	Cue 430 437	pitches
+T19	Content 438 488	the island as a new home for anyone seeking refuge
+T20	Attribution 430 437	pitches
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 373 382;390 424	a website “Cape Breton If Donald Trump Wins“
+T22	Cue 383 389	called
+T23	Attribution-no-source 383 389	called
+E6	Attribution-no-source:T23 Cue:T22 Content:T21
+T24	Content 839 858;868 969;971 1298	“I’m in disbelief,” “I wish everyone from Cape Breton could read them because they really make you proud of living here.” “Don’t wait until Donald Trump is elected president to find somewhere else to live! Start now, that way, on election day, you just hop on a bus to start your new life in Cape Breton, where women can get abortions, Muslim people can roam freely, and the only ‘walls’ are holding up the roofs of our extremely affordable houses.”
+T25	Source 859 861	he
+T26	Cue 862 866	said
+T27	Attribution 862 866	said
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 1300 1309	Calabrese
+T29	Cue 1310 1330	is also honest about
+T30	Content 1331 1499	some of the challenges the island is facing, including the very reason he hopes Americans and others consider moving there: high unemployment and a declining population
+T31	Attribution 1310 1330	is also honest about
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T33	Source 1587 1598	the website
+T34	Cue 1599 1607	explains
+T36	Source 1806 1817	the website
+T37	Cue 1818 1835	has some links on
+T38	Content 1836 1854	how to get started
+T39	Attribution 1818 1835	has some links on
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T32	Content 1502 1586;1609 1782	“A slow economy, in combination with out-migration has us on an unsustainable path,” “The truth is we welcome all, no matter the ideology. We have a beautiful island, a friendly people, a rich culture and a bright future. Join us here on Cape Breton Island!”
+T35	Attribution 1599 1607	explains
+E9	Attribution:T35 Content:T32 Cue:T34 Source:T33

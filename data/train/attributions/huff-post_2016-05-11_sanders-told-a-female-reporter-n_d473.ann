@@ -1,0 +1,95 @@
+T1	Source 0 7	Sanders
+T2	Cue 8 12	Told
+T3	Content 31 66	Not To ‘Moan’ About Hillary Clinton
+T4	Attribution 8 12	Told
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 210 218	Mitchell
+T6	Cue 219 235	tried to discuss
+T7	Content 236 414	the challenges that fellow Democratic candidate Hillary Clinton has come up against — especially where misogynist rhetoric from Republican frontrunner Donald Trump is concerned —
+T8	Attribution 219 235	tried to discuss
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 415 422	Sanders
+T10	Cue 423 432	responded
+T11	Content 488 541	“Do not moan to me about Hillary Clinton’s problems.”
+T12	Attribution 423 432	responded
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 543 573	MSNBC reporter Alex Seitz-Wald
+T14	Cue 574 581	tweeted
+T15	Content 582 646	the transcript of the full exchange between Mitchell and Sanders
+T16	Attribution 574 581	tweeted
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 661 668	Sanders
+T18	Cue 720 726	reduce
+T19	Content 727 772	a woman’s experience to the act of “moaning.”
+T20	Attribution 720 726	reduce
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 837 842	a man
+T22	Cue 843 848	tells
+T23	Content 862 879	she is “moaning,”
+T24	Attribution 843 848	tells
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 910 912	he
+T26	Cue 913 928	is discrediting
+T27	Content 929 940	her opinion
+T28	Attribution 913 928	is discrediting
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Cue 989 1001	invalidating
+T30	Content 1002 1071	Clinton’s particular experiences as a woman running for public office
+T31	Attribution 989 1001	invalidating
+E8	Attribution:T31 Cue:T29 Source:T25 Content:T30
+T32	Source 1074 1081	Sanders
+T33	Cue 1082 1106	may not fully understand
+T34	Content 1107 1144	Clinton’s roadblocks in this election
+T35	Attribution 1082 1106	may not fully understand
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Content 1288 1303	Hillary Clinton
+T37	Cue 1354 1373	swarms of criticism
+T38	Attribution-no-source 1354 1373	swarms of criticism
+E10	Attribution-no-source:T38 Cue:T37 Content:T36
+T39	Source 1376 1416	People (mostly men, but also some women)
+T40	Cue 1417 1447	are especially keen on telling
+T41	Content 1454 1484	to stop “moaning” or “nagging”
+T42	Attribution 1417 1447	are especially keen on telling
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1490 1495	women
+T44	Cue 1496 1510	speak up about
+T45	Content 1511 1548	instances of inequality and injustice
+T46	Attribution 1496 1510	speak up about
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Cue 1630 1639	demanding
+T48	Content 1640 1649	equal pay
+T49	Attribution-no-source 1630 1639	demanding
+E13	Attribution-no-source:T49 Content:T48 Cue:T47
+T50	Discard 1699 1709;1711 1714;1716 1732;1734 1736;1738 1757;1759 1774;1776 1786;1788 1794;1796 1810;1812 1820	The Times. Oh. The Daily Beast. K. Industrial Scripts. It’s that easy? The Blaze. Sorry! The Telegraph. Our bad.
+T51	Content 1833 1851	Sanders’ statement
+T52	Cue 1852 1868	so disappointing
+T53	Attribution-no-source 1852 1868	so disappointing
+E14	Attribution-no-source:T53 Cue:T52 Content:T51
+T54	Source 1902 1904	he
+T55	Cue 1905 1928	has cemented himself as
+T56	Content 1929 1956	the prophet of progressives
+T57	Attribution 1905 1928	has cemented himself as
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 1975 1977	he
+T59	Cue 2026 2049	is immune to nullifying
+T60	Content 2050 2087	a woman’s opinion with coded language
+T61	Attribution 2026 2049	is immune to nullifying
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 2098 2101	his
+T63	Cue 2102 2120	disagreements with
+T64	Content 2121 2139	Clinton’s policies
+T65	Attribution 2102 2120	disagreements with
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Source 2145 2155	Mitchell’s
+T67	Cue 2156 2173	interpretation of
+T68	Content 2174 2195	the presidential race
+T69	Attribution 2156 2173	interpretation of
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Cue 2206 2219	shrugging off
+T71	Content 2220 2254	a woman’s opinion as a mere “moan”
+T72	Attribution-no-source 2206 2219	shrugging off
+E19	Attribution-no-source:T72 Content:T71 Cue:T70
+T73	Content 2420 2427;2469 2479	a woman to “smile”
+T74	Cue 2464 2468	told
+T75	Attribution-no-source 2464 2468	told
+E20	Attribution-no-source:T75 Cue:T74 Content:T73

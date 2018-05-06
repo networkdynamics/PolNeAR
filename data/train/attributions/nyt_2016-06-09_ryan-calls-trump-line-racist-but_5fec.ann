@@ -1,0 +1,260 @@
+T1	Source 0 4	Ryan
+T2	Cue 5 10	calls
+T3	Content 11 45	Trump line 'racist,' but backs him
+T4	Attribution 5 10	calls
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 78 87	candidate
+T6	Cue 88 94	to say
+T7	Content 95 118	remarks 'misconstrued.'
+T8	Attribution 88 94	to say
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 131 246	Donald J. Trump's remarks about a Mexican-American federal judge was "the textbook definition of a racist comment,"
+T10	Source 247 255	Mr. Ryan
+T11	Cue 256 260	said
+T12	Attribution 256 260	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 275 337	Speaker Paul D. Ryan, the nation's highest-ranking Republican,
+T14	Cue 349 355	called
+T15	Content 356 414	Donald J. Trump's remarks about a Latino judge ''racist,''
+T16	Attribution 349 355	called
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 541 550	Mr. Trump
+T18	Cue 603 607	said
+T19	Content 608 649	that his words had been ''misconstrued.''
+T20	Attribution 603 607	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 651 660	Mr. Trump
+T22	Cue 796 829	issued a statement Tuesday saying
+T23	Content 831 909	''I do not feel that one's heritage makes them incapable of being impartial.''
+T24	Attribution 796 829	issued a statement Tuesday saying
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 662 665	who
+T26	Cue 666 670	said
+T27	Content 681 794	that a Mexican-American judge in a case involving Trump University was biased against him because of his heritage
+T28	Attribution 666 670	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 910 912	He
+T30	Cue 913 918	added
+T31	Content 919 987	that he was simply questioning whether he was receiving a fair trial
+T32	Attribution 913 918	added
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 993 995	he
+T34	Cue 996 1013	did not apologize
+T35	Content 1014 1029	for his remarks
+T36	Attribution 996 1013	did not apologize
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T38	Cue 1058 1067	had urged
+T37	Source 1041 1057	many Republicans
+T39	Content 1031 1040;1072 1077	something to do
+T40	Attribution 1058 1067	had urged
+E10	Attribution:T40 Content:T39 Source:T37 Cue:T38
+T41	Source 1080 1088	Mr. Ryan
+T42	Cue 1089 1093	said
+T43	Content 1094 1233	Mr. Trump's criticism of the judge, Gonzalo P. Curiel of United States District Court, was ''the textbook definition of a racist comment.''
+T44	Attribution 1089 1093	said
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1238 1246	Mr. Ryan
+T46	Cue 1247 1257	reiterated
+T47	Content 1258 1283	his support for Mr. Trump
+T48	Attribution 1247 1257	reiterated
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 1335 1403;1419 1564	''I disavow these comments - I regret those comments that he made,'' ''I think that should be absolutely disavowed. It's absolutely unacceptable. But do I believe that Hillary Clinton is the answer? No, I do not.''
+T50	Source 1404 1412	Mr. Ryan
+T51	Cue 1413 1417	said
+T52	Attribution 1413 1417	said
+E13	Attribution:T52 Cue:T51 Source:T50 Content:T49
+T53	Source 1566 1568	He
+T54	Cue 1569 1575	added:
+T55	Content 1576 1737	''I believe that we have more common ground on the policy issues of the day and we have more likelihood of getting our policies enacted with him than with her.''
+T56	Attribution 1569 1575	added:
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 1904 1926	While many Republicans
+T58	Cue 1943 1962	continued to affirm
+T59	Content 1963 1990	their support for Mr. Trump
+T60	Attribution 1943 1962	continued to affirm
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Cue 1999 2007	appeared
+T62	Content 1992 1998;2008 2028	others ready to abandon him
+T63	Attribution-no-source 1999 2007	appeared
+E16	Attribution-no-source:T63 Content:T62 Cue:T61
+T64	Content 2085 2152;2291 2488	''I cannot and will not support my party's nominee for president,'' ''After much consideration, I have concluded that Donald Trump has not demonstrated the temperament necessary to assume the greatest office in the world'' or to control the nation's nuclear arsenal
+T65	Cue 2153 2157	said
+T66	Source 2158 2203	Senator Mark S. Kirk, Republican of Illinois,
+T67	Attribution 2153 2157	said
+E17	Attribution:T67 Source:T66 Cue:T65 Content:T64
+T68	Source 2618 2626	Mr. Kirk
+T69	Cue 2689 2694	noted
+T70	Content 2695 2740	that Mr. Trump has mocked a disabled reporter
+T71	Attribution 2689 2694	noted
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Content 2784 2838	''If Donald remains Donald, I will not vote for him,''
+T73	Cue 2839 2847	declared
+T74	Source 2848 2890	Senator Jeff Flake, Republican of Arizona,
+T75	Attribution 2839 2847	declared
+E19	Attribution:T75 Source:T74 Cue:T73 Content:T72
+T76	Source 2891 2894	who
+T77	Cue 2895 2901	echoed
+T78	Content 2902 2949	Mr. Ryan's denunciation of Mr. Trump's comments
+T79	Attribution 2895 2901	echoed
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Source 3012 3021	Mr. Trump
+T81	Cue 3046 3052	saying
+T82	Content 3053 3132	he understood the responsibility of carrying the mantle of the Republican Party
+T83	Attribution 3046 3052	saying
+E21	Attribution:T83 Content:T82 Cue:T81 Source:T80
+T84	Content 3134 3170	''I will never, ever let you down,''
+T85	Source 3171 3173	he
+T86	Cue 3174 3178	said
+T87	Attribution 3174 3178	said
+E22	Attribution:T87 Cue:T86 Source:T85 Content:T84
+T88	Source 3586 3589	who
+T89	Cue 3590 3602	have praised
+T90	Content 3603 3616	his candidacy
+T91	Attribution 3590 3602	have praised
+E23	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Source 3574 3585	Republicans
+T93	Cue 3617 3623	warned
+T94	Content 3635 3702	that the party may have to separate itself from its standard-bearer
+T95	Attribution 3617 3623	warned
+E24	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Source 3705 3834	Senator Bob Corker, a Tennessee Republican who has met privately with Mr. Trump and been mentioned as a vice-presidential choice,
+T97	Cue 3835 3839	said
+T98	Content 3841 3942	'there could be'' a line that the presumptive nominee crosses that would make him withdraw his suppor
+T99	Attribution 3835 3839	said
+E25	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Source 3995 4005	Mr. Corker
+T101	Cue 4006 4010	said
+T102	Content 3946 3994;4012 4178	''This is a crucial two- or three-week period,'' ''If at the end of June, moving into a convention and still not having pivoted toward being more of a general election candidate would prove to be very problematic.''
+T103	Attribution 4006 4010	said
+E26	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Content 4340 4624	Senator Kelly Ayotte, a New Hampshire Republican who is also in a difficult re-election fight, used a closed-door luncheon to complain that Mr. Trump's comments were obscuring the party's economic message and urged Mr. Sessions to tell Mr. Trump to drop his jeremiad against the judge
+T105	Cue 4626 4638	according to
+T106	Source 4639 4659	two senators present
+T107	Attribution 4626 4638	according to
+E27	Attribution:T107 Source:T106 Cue:T105 Content:T104
+T108	Source 4660 4663	who
+T109	Cue 4664 4673	requested
+T110	Content 4674 4716	anonymity  to reveal private conversations
+T111	Attribution 4664 4673	requested
+E28	Attribution:T111 Content:T110 Cue:T109 Source:T108
+T112	Source 4802 4816	whose new book
+T113	Cue 4817 4826	boasts of
+T114	Content 4827 4857	his commitment to civil rights
+T115	Attribution 4817 4826	boasts of
+E29	Attribution:T115 Content:T114 Cue:T113 Source:T112
+T116	Cue 4990 4997	appears
+T117	Content 4973 4985;4998 5050	Their choice to be between their biographies and their principles
+T118	Attribution-no-source 4990 4997	appears
+E30	Attribution-no-source:T118 Content:T117 Cue:T116
+T119	Source 5072 5089	other Republicans
+T120	Cue 5090 5113	were also not satisfied
+T121	Content 5114 5139	with Mr. Trump's response
+T122	Attribution 5090 5113	were also not satisfied
+E31	Attribution:T122 Content:T121 Cue:T120 Source:T119
+T123	Content 5141 5264	''Donald Trump should retract his comments, not defend them. There is no place for racism in the G.O.P., or this country,''
+T124	Source 5265 5296	former Gov. Jeb Bush of Florida
+T125	Cue 5297 5301	said
+T126	Attribution 5297 5301	said
+E32	Attribution:T126 Cue:T125 Source:T124 Content:T123
+T127	Source 5326 5329	who
+T128	Cue 5330 5340	has called
+T129	Content 5341 5381	Mr. Trump's comments ''racially toxic,''
+T130	Attribution 5330 5340	has called
+E33	Attribution:T130 Content:T129 Cue:T128 Source:T127
+T131	Source 5315 5324	Mr. Scott
+T132	Cue 5382 5391	portrayed
+T133	Content 5392 5457	his own party's nominee as a temporary affliction on conservatism
+T134	Attribution 5382 5391	portrayed
+E34	Attribution:T134 Content:T133 Cue:T132 Source:T131
+T135	Content 5460 5599	''For the next several months, he will have the loudest voice, but the fact of the matter is there will be other voices speaking as well,''
+T136	Source 5600 5602	he
+T137	Cue 5603 5607	said
+T138	Attribution 5603 5607	said
+E35	Attribution:T138 Cue:T137 Source:T136 Content:T135
+T139	Cue 5609 5628	not even suggesting
+T140	Content 5629 5690	Mr. Trump could have the party's loudest voice for four years
+T141	Attribution 5609 5628	not even suggesting
+E36	Attribution:T141 Cue:T139 Source:T136 Content:T140
+T142	Source 5705 5718	Mr. McConnell
+T143	Cue 5719 5777	deflected numerous questions about Mr. Trump before saying
+T144	Content 5779 5910	''It's time to quit attacking various people that you competed with or various minority groups in the country and get on message.''
+T145	Attribution 5719 5777	deflected numerous questions about Mr. Trump before saying
+E37	Attribution:T145 Content:T144 Cue:T143 Source:T142
+T146	Source 5917 5932	Republicans who
+T147	Cue 5933 5951	shied from talk of
+T148	Content 5952 5974	abandoning the nominee
+T149	Attribution 5933 5951	shied from talk of
+E38	Attribution:T149 Content:T148 Cue:T147 Source:T146
+T150	Source 6025 6044	the party's leaders
+T151	Cue 6045 6084	sent Mr. Trump an unmistakable message:
+T152	Content 6085 6122	He is hurting the party and must stop
+T153	Attribution 6045 6084	sent Mr. Trump an unmistakable message:
+E39	Attribution:T153 Content:T152 Cue:T151 Source:T150
+T154	Source 6125 6207	Senator Richard Burr, a North Carolina Republican who has also embraced Mr. Trump,
+T155	Cue 6208 6220	acknowledged
+T156	Content 6221 6265	that the party may have to disavow Mr. Trump
+T157	Attribution 6208 6220	acknowledged
+E40	Attribution:T157 Content:T156 Cue:T155 Source:T154
+T158	Cue 6267 6276	employing
+T159	Content 6277 6368	the well-worn maxim from former Justice Potter Stewart about how one can detect pornography
+T160	Attribution 6267 6276	employing
+E41	Attribution:T160 Source:T154 Cue:T158 Content:T159
+T161	Content 6371 6434	''This is one of those things you'll know it when you see it,''
+T162	Cue 6435 6439	said
+T163	Source 6440 6448	Mr. Burr
+T164	Attribution 6435 6439	said
+E42	Attribution:T164 Source:T163 Cue:T162 Content:T161
+T165	Cue 6450 6466	adding hopefully
+T166	Content 6467 6518	that he did not think the party ''will get there.''
+T167	Attribution 6450 6466	adding hopefully
+E43	Attribution:T167 Source:T163 Cue:T165 Content:T166
+T168	Source 6569 6627	Senator Shelley Moore Capito, Republican of West Virginia,
+T169	Cue 6628 6652	called over her shoulder
+T170	Content 6654 6687	''His comments are not helping.''
+T171	Attribution 6628 6652	called over her shoulder
+E44	Attribution:T171 Content:T170 Cue:T169 Source:T168
+T172	Source 6692 6702	Ms. Capito
+T173	Cue 6708 6728	said in an interview
+T174	Content 6729 6811	that in her economically depressed state, ''there is a huge degree of pessimism.''
+T175	Attribution 6708 6728	said in an interview
+E45	Attribution:T175 Content:T174 Cue:T173 Source:T172
+T176	Content 6813 6858	''People are looking for a message of hope,''
+T177	Source 6859 6862	she
+T178	Cue 6863 6868	added
+T179	Attribution 6863 6868	added
+E46	Attribution:T179 Cue:T178 Source:T177 Content:T176
+T180	Cue 6870 6882	underscoring
+T181	Content 6883 6961	the attractiveness of Mr. Trump's economic messages for many Republican voters
+T182	Attribution 6870 6882	underscoring
+E47	Attribution:T182 Source:T177 Cue:T180 Content:T181
+T183	Source 6964 6973	Mr. Trump
+T184	Cue 6974 6982	has told
+T185	Content 6998 7147	that they should respond by suggesting that reporters who raise questions about his statements are racists, and to carry the message in various forms
+T186	Attribution 6974 6982	has told
+E48	Attribution:T186 Content:T185 Cue:T184 Source:T183
+T187	Source 7149 7220	One early supporter, Representative Lee Zeldin, Republican of New York,
+T188	Cue 7221 7284	gave the technique a whirl in an interview with CNN on Tuesday:
+T189	Content 7285 7397	''You can easily argue that the president of the United States is a racist with his policies and his rhetoric.''
+T190	Attribution 7221 7284	gave the technique a whirl in an interview with CNN on Tuesday:
+E49	Attribution:T190 Content:T189 Cue:T188 Source:T187
+T191	Source 7553 7569	most Republicans
+T192	Cue 7570 7576	agreed
+T193	Content 7577 7616	they had no real recourse at this point
+T194	Attribution 7570 7576	agreed
+E50	Attribution:T194 Content:T193 Cue:T192 Source:T191
+T195	Discuss 7461 7547	Mr. Ryan's desperate efforts to change the conversation on the Hill to focus on policy
+T196	Source 7619 7628	Mr. Trump
+T197	Cue 7629 7655	tried to provide an answer
+T198	Content 7656 7678	to mitigate the damage
+T199	Attribution 7629 7655	tried to provide an answer
+E51	Attribution:T199 Content:T198 Cue:T197 Source:T196
+T200	Source 7698 7700	he
+T201	Cue 7701 7705	said
+T202	Content 7706 7828	it was ''unfortunate that my comments have been misconstrued as a categorical attack against people of Mexican heritage.''
+T203	Attribution 7701 7705	said
+E52	Attribution:T203 Content:T202 Cue:T201 Source:T200
+T204	Source 7916 7918	he
+T205	Cue 7919 7924	added
+T207	Content 7830 7915;7926 8036;8038 8268	''I am friends with and employ thousands of people of Mexican and Hispanic descent,'' ''The American justice system relies on fair and impartial judges. All judges should be held to that standard. ''I do not feel that one's heritage makes them incapable of being impartial, but, based on the rulings that I have received in the Trump University civil case, I feel justified in questioning whether I am receiving a fair trial.''
+T208	Attribution 7919 7924	added
+E53	Attribution:T208 Content:T207 Cue:T205 Source:T204

@@ -1,0 +1,61 @@
+T1	Source 0 9	WikiLeaks
+T2	Cue 9 10	:
+T3	Content 11 65	Hillary Clinton Flattered Obama For His ‘Body Language
+T4	Attribution 9 10	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 175 209	Secretary of State Hillary Clinton
+T6	Cue 210 249	sent a flattering email to him praising
+T7	Content 250 309	his “body language” during a post-election press conference
+T8	Attribution 210 249	sent a flattering email to him praising
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 312 465	“I thought your press conference presentation–words, tone, body language, teasing w reporters and occasional flashes of your smile– was right on target,”
+T10	Source 466 473	Clinton
+T11	Cue 474 480	gushed
+T12	Attribution 474 480	gushed
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 740 745	Obama
+T14	Cue 746 754	admitted
+T15	Content 755 782	that Republicans won fairly
+T16	Attribution 746 754	admitted
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 785 879	“Obviously, Republicans had a good night, and they deserve credit for running good campaigns,”
+T18	Source 880 882	he
+T19	Cue 883 887	said
+T20	Attribution 883 887	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Content 1028 1116	“I’m always available to you to discuss any and all matters if I can be helpful to you,”
+T22	Source 1117 1120	she
+T23	Cue 1121 1137	wrote soothingly
+T24	Attribution 1121 1137	wrote soothingly
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Source 1302 1305	She
+T26	Cue 1311 1338	pitched the president about
+T27	Content 1339 1414	mentioning ivory trafficking and elephant poaching during his trip to China
+T28	Attribution 1311 1338	pitched the president about
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1476 1549	“I am so ready to work on this. Let’s make it one of our joint projects!”
+T30	Source 1550 1553	she
+T31	Cue 1554 1574	emailed her daughter
+T33	Source 1605 1608	she
+T34	Cue 1609 1632	expressed concern about
+T35	Content 1633 1642	the issue
+T36	Attribution 1609 1632	expressed concern about
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1187 1190	she
+T38	Cue 1191 1197	dubbed
+T39	Content 1183 1186;1198 1205	who “Mr. P”
+T40	Attribution 1191 1197	dubbed
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Discuss 483 708	<tweet id="795655190602981376" author="@charliespiering" datetime="2016-11-07">Hillary calls Obama ‘Mr. P.’ and compares him to a duck… pic.twitter.com/APQKbJEpt7 — Charlie Spiering (@charliespiering) November 7, 2016</tweet>
+T32	Attribution 1554 1574	emailed her daughter
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T42	Source 918 925	Clinton
+T43	Cue 926 951	compared the president to
+T44	Content 952 1026	a duck, “smoothly sailing on the surface while paddling like crazy below.”
+T45	Attribution 926 951	compared the president to
+E11	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Content 562 618	Hillary calls Obama ‘Mr. P.’ and compares him to a duck…
+T47	Cue 646 647	—
+T48	Source 648 664	Charlie Spiering
+T49	Attribution 646 647	—
+E12	Attribution:T49 Source:T48 Cue:T47 Content:T46

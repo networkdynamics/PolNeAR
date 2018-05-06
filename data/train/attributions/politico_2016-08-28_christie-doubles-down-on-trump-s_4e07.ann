@@ -1,0 +1,49 @@
+T1	Source 0 8	Christie
+T2	Cue 9 24	doubles down on
+T3	Content 25 51	Trump's outreach to blacks
+T4	Attribution 9 24	doubles down on
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 54 132	New Jersey Gov. Chris Christie, who's chairing Donald Trump's transition team,
+T6	Cue 143 151	defended
+T7	Content 152 263	the Republican presidential nominee's description of African-Americans' lives as marked by poverty and violence
+T8	Attribution 143 151	defended
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 266 417;481 590	"The message is that if anybody lives in those circumstances in this country, that’s something that the government should be working to try to change," "And Donald Trump is not going to give in to the special interests in this country, like the teachers union."
+T10	Source 418 426	Christie
+T11	Cue 427 431	said
+T12	Attribution 427 431	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Content 592 684	Many black voters did not recognize themselves in Trump's description and found it offensive
+T14	Source 686 711	journalist Martha Raddatz
+T15	Cue 712 716	said
+T16	Attribution 712 716	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Content 1179 1570;754 1162	"And I think what Donald is saying is that it’s unacceptable to him that members of the African-American community — and I’m sure he will say this about other communities as well — who live in violence, who are subject to that, or who do not have the educational opportunities that every child in this country should have so they can reach their fullest potential, that that’s unacceptable." "When you have any folks in our population who live under the threat of violence, who live under the threat of crime, who don’t have the opportunity that others have because the schools in our urban areas are a dreaded failure, because of the positions that Hillary Clinton has taken and the people who support her, that I think any candidate should speak out to say that that type of thing is unacceptable,"
+T18	Source 1163 1171	Christie
+T19	Cue 1172 1176	said
+T20	Attribution 1172 1176	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 1572 1580	Christie
+T22	Cue 1581 1585	said
+T23	Content 1586 1890	Trump's tweet saying African-Americans will vote for him because of the slaying in Chicago on Friday of the cousin of NBA star Dwyane Wade while pushing a stroller meant that "If people want safer streets, they want police supported, then they should vote for Donald Trump, because that’s what he’ll do."
+T24	Attribution 1581 1585	said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 1892 2134;2136 2275;2277 2372;2382 2417	"He’ll appoint an attorney general who will send very clear messages about how law enforcement is to be pursued in this country," Christie added, referencing a job he's widely believed to want after being passed over for Trump's running mate. Asked about Trump's calling Hillary Clinton a bigot last week, Christie blamed Clinton for introducing charges of racism into the campaign. "The fact is that she’s been the person who started this type of conversation in the campaign," "She should be ashamed of herself."
+T26	Source 2373 2375	he
+T27	Cue 2376 2380	said
+T28	Attribution 2376 2380	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 2419 2427	Christie
+T30	Cue 2535 2541	saying
+T31	Content 2543 2586	"the advice I give to Donald is to Donald."
+T32	Attribution 2535 2541	saying
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 2587 2589	He
+T34	Cue 2590 2599	also said
+T35	Content 2600 2742	Trump's evolution won't repel supporters who wanted all undocumented immigrants deported because of the stark contrast with Clinton's approach
+T36	Attribution 2590 2599	also said
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Cue 2428 2439	bristled at
+T38	Content 2440 2533	the suggestion that he was responsible for advising Trump to soften his stance on immigration
+T39	Attribution 2428 2439	bristled at
+E10	Attribution:T39 Cue:T37 Content:T38 Source:T29

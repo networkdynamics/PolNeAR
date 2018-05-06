@@ -1,0 +1,88 @@
+T1	Source 538 550	the governor
+T2	Cue 517 523	called
+T3	Content 493 515;524 534	National Guard members to service
+T4	Attribution 517 523	called
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 651 677	Small groups of protesters
+T6	Cue 678 699	continued to call for
+T7	Content 700 763	more information about the fatal shooting of Keith Lamont Scott
+T8	Attribution 678 699	continued to call for
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 911 919	chanting
+T10	Content 921 945	"Hands up, don't shoot."
+T11	Attribution 911 919	chanting
+E3	Attribution:T11 Source:T5 Content:T10 Cue:T9
+T12	Discuss 986 1020	the city were ready to return to n
+T13	Source 1556 1564	Tompkins
+T14	Cue 1565 1569	said
+T15	Content 1549 1554;1571 1600	which is usually full of activities
+T16	Attribution 1565 1569	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 1660 1706;1716 1754	"This normally is a big open park, fun event," "So obviously they pulled the brakes."
+T18	Source 1707 1709	he
+T19	Cue 1710 1714	said
+T20	Attribution 1710 1714	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Cue 1961 1986	the national debate about
+T22	Content 1987 2018	how the police treat minorities
+T23	Attribution-no-source 1961 1986	the national debate about
+E6	Attribution-no-source:T23 Content:T22 Cue:T21
+T24	Source 2064 2099	House Speaker Paul D. Ryan (R-Wis.)
+T25	Cue 2100 2104	said
+T26	Content 2105 2229	the recent spate of police shootings and protests demands that all Americans engage in "more listening" and "more learning."
+T27	Attribution 2100 2104	said
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 2231 2252;2264 2374	"It's heartbreaking," "And this country has to find new ways of learning how to heal and understand all the different perspectives."
+T29	Source 2253 2257	Ryan
+T30	Cue 2258 2262	said
+T31	Attribution 2258 2262	said
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Source 2376 2423	Republican vice-presidential nominee Mike Pence
+T33	Cue 2424 2430	echoed
+T34	Content 2431 2581	statements by GOP presidential nominee Donald Trump last week that those who question bias in policing demean law enforcement and stoke racial tension
+T35	Attribution 2424 2430	echoed
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Content 2584 2750	"At the end of the day, we need to step away from efforts by Hillary Clinton and others to paint law enforcement in this country with the broad brush of racial bias,"
+T37	Source 2751 2756	Pence
+T38	Cue 2757 2761	said
+T39	Attribution 2757 2761	said
+E10	Attribution:T39 Cue:T38 Source:T37 Content:T36
+T40	Source 2816 2841	Sen. Bernie Sanders (Vt.)
+T41	Cue 2889 2899	identified
+T42	Content 2900 3014;3016 3139	young voters' exhaustion with bigotry as one of the reasons that they should get excited about Clinton's candidacy "The younger people are ... more than any generation in American history, are sick and tired of discrimination and racism."
+T43	Attribution 2889 2899	identified
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 3227 3237	Protesters
+T45	Cue 3238 3253	were frustrated
+T46	Content 3254 3374	that the city's police department released only some of the video footage collected during Scott's encounter with police
+T47	Attribution 3238 3253	were frustrated
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Content 3377 3485;3596 3653	"They're trying to slap us in the face [by providing limited information], thinking we're going to shut up," "We're not going to stop. It's going to go on every day."
+T49	Source 3486 3497	Quina Jones
+T50	Cue 3503 3507	said
+T51	Attribution 3503 3507	said
+E13	Attribution:T51 Cue:T50 Source:T49 Content:T48
+T52	Cue 3675 3685	can appear
+T53	Content 3666 3674;3686 3714	the city to be an economic powerhouse
+T54	Attribution-no-source 3675 3685	can appear
+E14	Attribution-no-source:T54 Content:T53 Cue:T52
+T55	Source 3893 3961	a 2014 study by Harvard and the University of California at Berkeley
+T56	Cue 3962 3967	found
+T57	Content 3968 4092	that poor children in Charlotte have the worst odds of those in any big city in the nation to lift themselves out of poverty
+T58	Attribution 3962 3967	found
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Content 4094 4151	Large sections of the city are divided by race and income
+T60	Source 4153 4166	other studies
+T61	Cue 4167 4177	have shown
+T62	Attribution 4167 4177	have shown
+E16	Attribution:T62 Cue:T61 Source:T60 Content:T59
+T63	Source 4179 4201	The Charlotte Observer
+T64	Cue 4202 4207	found
+T65	Content 4208 4296	that 1 in 4 residents lived in distressed neighborhoods in 2010, up from 1 in 10 in 2000
+T66	Attribution 4202 4207	found
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Content 4299 4398;4475 4577	"To be frank, the city will never go back to normal as we understood it, and this is a good thing," "What appeared to be normal was only normal for some. That is the blessing that has come out of this."
+T68	Cue 4399 4403	said
+T69	Source 4404 4473	the Rev. Peter Wherry, of Mayfield Memorial Missionary Baptist Church
+T70	Attribution 4399 4403	said
+E18	Attribution:T70 Source:T69 Cue:T68 Content:T67

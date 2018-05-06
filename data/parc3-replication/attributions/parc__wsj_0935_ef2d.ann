@@ -1,0 +1,35 @@
+T1	Cue 188 195	appears
+T2	Content 169 187;196 277	the computer giant to have lost a second key contract with Kodak to archrival Digital Equipment Corp
+T3	Attribution-no-source 188 195	appears
+E1	Attribution-no-source:T3 
+E2	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Source 281 286	Kodak
+T5	Cue 297 306	confirmed
+T6	Content 307 430	that it has entered negotiations with Maynard, Mass.-based Digital to manage all of its voice and data communications needs
+T7	Attribution 297 306	confirmed
+E3	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Source 432 437	Kodak
+T9	Cue 465 469	said
+T10	Content 470 503	IBM also had bid for the business
+T11	Attribution 465 469	said
+E4	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 566 571	which
+T13	Cue 572 582	pointed to
+T14	Content 583 653	the Kodak contract as an example of its success in systems integration
+T15	Attribution 572 582	pointed to
+E5	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 802 819	A Kodak spokesman
+T17	Cue 820 840	declined to disclose
+T18	Content 841 907	the potential value of the contract, which is still in negotiation
+T19	Attribution 820 840	declined to disclose
+E6	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 909 911	He
+T21	Cue 912 916	said
+T22	Content 917 1076	that American Telephone & Telegraph, MCI Communications Corp., Rochester Telephone Corp. and IBM itself would likely be Digital's subcontractors on the project
+T23	Attribution 912 916	said
+E7	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 1080 1234;1267 1384	"When we decided to look outside the company for critical data-processing and communications services, we wanted to get the best vendor for that service," "That's why we went with IBM for data center management . . . and now Digital for voice and data telecommunications."
+T25	Cue 1235 1239	said
+T26	Source 1240 1265	Paul Allen, the spokesman
+T27	Attribution 1235 1239	said
+E8	Attribution:T27 Source:T26 Cue:T25 Content:T24

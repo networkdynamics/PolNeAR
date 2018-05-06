@@ -1,0 +1,257 @@
+T1	Source 26 38	Donald Trump
+T2	Cue 39 53	Has Said About
+T3	Content 0 25;54 61	9 (More) Offensive Things Latinos
+T4	Attribution 39 53	Has Said About
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 184 216	the businessman and reality star
+T6	Cue 217 226	announced
+T7	Content 227 254	his candidacy for president
+T8	Attribution 217 226	announced
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 458 470	According to
+T10	Source 471 483	recent polls
+T11	Content 485 572	Trump holds only 14 percent of the Latino vote compared to Hillary Clinton’s 76 percent
+T12	Attribution 458 470	According to
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Content 605 640;681 689	nine particularly outrageous things Latinos 
+T14	Source 641 665	the Republican candidate
+T15	Cue 666 680	had said about
+T16	Attribution 666 680	had said about
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Content 873 900;927 934	just nine ridiculous things Latinos
+T18	Source 901 911	the Donald
+T19	Cue 912 926	has said about
+T20	Attribution 912 926	has said about
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 954 956	He
+T22	Cue 957 961	said
+T23	Content 962 977	“The Hispanics”
+T24	Attribution 957 961	said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Cue 982 988	swears
+T26	Content 989 1005	Latinos love him
+T27	Attribution-no-source 982 988	swears
+E7	Attribution-no-source:T27 Content:T26 Cue:T25
+T28	Discard 1008 1013	Getty
+T29	Source 1021 1026	Trump
+T30	Cue 1027 1036	announced
+T31	Content 1037 1050	his candidacy
+T32	Attribution 1027 1036	announced
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1065 1067	he
+T34	Cue 1069 1090	nfamously referred to
+T35	Content 1091 1138	Mexican immigrants as “criminals” and “rapists“
+T36	Attribution 1069 1090	nfamously referred to
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Cue 1145 1152	calling
+T38	Content 1153 1175	to erect a border wall
+T39	Attribution-no-source 1145 1152	calling
+E10	Attribution-no-source:T39 Content:T38 Cue:T37
+T40	Source 1192 1194	he
+T41	Cue 1267 1276	explained
+T42	Content 1277 1296;1356 1380	why “the Hispanics” were going to “love” him
+T43	Attribution 1267 1276	explained
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Content 1382 1423	“There’s great danger with the illegals,”
+T45	Source 1424 1429	Trump
+T46	Cue 1430 1434	told
+T47	Attribution 1430 1434	told
+E12	Attribution:T47 Cue:T46 Source:T45 Content:T44
+T48	Cue 1453 1462	insisting
+T49	Content 1463 1505	he had a “great relationship” with Latinos
+T50	Attribution 1453 1462	insisting
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T45
+T51	Source 1508 1510	He
+T52	Cue 1511 1515	said
+T53	Content 1516 1570	he’d build a border wall and make Mexicans pay for it.
+T54	Attribution 1511 1515	said
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Discard 1572 1577	Getty
+T56	Source 1580 1597	The GOP candidate
+T57	Cue 1598 1613	has insisted on
+T58	Content 1614 1655	building a wall on the U.S.-Mexico border
+T59	Attribution 1598 1613	has insisted on
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Source 1665 1691	critics, like John Oliver,
+T61	Cue 1692 1705	breaking down
+T62	Content 1706 1743	why it’s an expensive and futile idea
+T63	Attribution 1692 1705	breaking down
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 1758 1763	Trump
+T65	Cue 1764 1771	assured
+T66	Content 1779 1816	he’d force Mexico to pay for the wall
+T67	Attribution 1764 1771	assured
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 1818 1820	He
+T69	Cue 1874 1884	explaining
+T70	Content 1885 2081	his plan, which includes confiscating money that Mexican migrants in the U.S. send to Mexico until the Mexican government agreed to make a one-time payment to the United States of “$5-10 billion.”
+T71	Source 2270 2278	Calderón
+T72	Cue 2279 2283	said
+T73	Content 2188 2269;2311 2353	“Mexican people, we are not going to pay any single cent for such a stupid wall,” “And it’s going to be completely useless.”
+T74	Attribution 1874 1884	explaining
+E18	Attribution:T74 Cue:T69 Source:T68 Content:T70
+T75	Attribution 2279 2283	said
+E19	Attribution:T75 Content:T73 Cue:T72 Source:T71
+T76	Source 2355 2357	He
+T77	Cue 2358 2365	implied
+T78	Content 2366 2428	a federal judge was biased and “hostile” because he’s Hispanic
+T79	Attribution 2358 2365	implied
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Discard 2431 2436	Getty
+T81	Source 2502 2518	former employees
+T82	Cue 2519 2530	have called
+T83	Content 2497 2501;2531 2552	what a “fraudulent scheme”
+T84	Attribution 2519 2530	have called
+E21	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Source 2607 2620	the candidate
+T86	Cue 2621 2628	implied
+T87	Content 2629 2716	the judge handling the lawsuits against him was biased because of his Hispanic heritage
+T88	Attribution 2621 2628	implied
+E22	Attribution:T88 Content:T87 Cue:T86 Source:T85
+T89	Source 2725 2730	Trump
+T90	Cue 2731 2741	identified
+T91	Content 2742 2765	the judge as “Spanish,”
+T92	Attribution 2731 2741	identified
+E23	Attribution:T92 Content:T91 Cue:T90 Source:T89
+T93	Source 2780 2785	some 
+T94	Cue 2785 2801	erroneously call
+T95	Content 2766 2771;2802 2839	which people who they believe speak Spanish
+T96	Attribution 2785 2801	erroneously call
+E24	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Source 3050 3052	He
+T98	Cue 3053 3061	insisted
+T99	Content 3062 3119	Curiel had “an inherent conflict of interest” in the case
+T100	Attribution 3053 3061	insisted
+E25	Attribution:T100 Content:T99 Cue:T98 Source:T97
+T101	Source 3199 3204	Trump
+T102	Cue 3205 3220	doubled down on
+T103	Content 3221 3246	his comments about Curiel
+T104	Attribution 3205 3220	doubled down on
+E26	Attribution:T104 Content:T103 Cue:T102 Source:T101
+T105	Discuss 3199 3246	Trump doubled down on his comments about Curiel
+T106	Cue 3251 3255	said
+T107	Content 3256 3374	the federal judge had “an inherent conflict of interest” in the Trump University cases because of his Mexican heritage
+T108	Discard 3145 3150	Getty
+T109	Attribution 3251 3255	said
+E27	Attribution:T109 Content:T107 Cue:T106 Source:T101
+T110	Source 3395 3400	Trump
+T111	Cue 3401 3410	suggested
+T112	Content 3411 3513	that the judge would treat him unfairly because of his plans to build a wall on the U.S.-Mexico border
+T113	Attribution 3401 3410	suggested
+E28	Attribution:T113 Content:T112 Cue:T111 Source:T110
+T114	Source 3836 3838	He
+T115	Cue 3839 3846	assumed
+T116	Content 3847 3904	an organization with “la raza” in the name is pro-mexican
+T117	Attribution 3839 3846	assumed
+E29	Attribution:T117 Content:T116 Cue:T115 Source:T114
+T118	Discard 3907 3912	Getty
+T119	Source 3986 3991	Trump
+T120	Cue 3992 4014	repeatedly pointed out
+T121	Content 4015 4110	that the federal judge was a member of the San Diego chapter of the La Raza Lawyers Association
+T122	Attribution 3992 4014	repeatedly pointed out
+E30	Attribution:T122 Content:T121 Cue:T120 Source:T119
+T123	Source 4154 4156	he
+T124	Cue 4157 4162	named
+T125	Content 4163 4203	it as a reason for Curiel’s alleged bias
+T126	Attribution 4157 4162	named
+E31	Attribution:T126 Content:T125 Cue:T124 Source:T123
+T127	Source 4219 4257	San Diego chapter president Luis Osuna
+T128	Cue 4258 4262	told
+T129	Content 4284 4577	“A lot of people are assuming that since it’s called ‘La Raza lawyers’ that it’s only Mexicans. But we consist of 300 members: judges, lawyers, law students, non-legal professionals that work in the legal field.” He added that members are “Latino, non-Latino, Mexican, non-Mexican, Caucasian.”
+T130	Attribution 4258 4262	told
+E32	Attribution:T130 Content:T129 Cue:T128 Source:T127
+T131	Source 4579 4581	He
+T132	Cue 4582 4588	called
+T133	Content 4589 4647	anti-Trump protestors “illegals” and “thugs” without proof
+T134	Attribution 4582 4588	called
+E33	Attribution:T134 Content:T133 Cue:T132 Source:T131
+T135	Source 5024 5026	he
+T136	Cue 5027 5034	tweeted
+T137	Content 4919 5023;5045 5083	“Everybody is talking about the protesters burning the American flags and proudly waving Mexican flags,” “I want America First - so do voters!”
+T138	Attribution 5027 5034	tweeted
+E34	Attribution:T138 Content:T137 Cue:T136 Source:T135
+T139	Source 5317 5319	he
+T140	Cue 5320 5327	tweeted
+T141	Content 5226 5316;5339 5393	“Many of the thugs that attacked the peaceful Trump supporters in San Jose were illegals,” “They burned the American flag and laughed at police.”
+T142	Attribution 5320 5327	tweeted
+E35	Attribution:T142 Content:T141 Cue:T140 Source:T139
+T143	Source 5661 5663	he
+T144	Cue 5664 5671	tweeted
+T145	Content 5637 5660;5673 5723;5727 5743	“Happy Cinco de Mayo!,” “The best taco bowls are made in Trump Tower Grill love Hispanics!”
+T146	Attribution 5664 5671	tweeted
+E36	Attribution:T146 Content:T145 Cue:T144 Source:T143
+T147	Source 6192 6194	He
+T148	Cue 6195 6202	implied
+T149	Content 6203 6250	immigrants were the ones tearing families apart
+T150	Attribution 6195 6202	implied
+E37	Attribution:T150 Content:T149 Cue:T148 Source:T147
+T151	Source 5784 5792	Jeb Bush
+T152	Cue 5793 5803	broke down
+T153	Content 5804 5853;5900 5929;5930 5967;5968 6006;6007 6109;6110 6190	exactly what was wrong with the image and message Trump did was so insensitive. First, not all Hispanics are Mexican. Secondly, not all Hispanics eat tacos. Thirdly, showing your sensitivity by eating an American dish is the most insensitive thing you can do. Fourthly, to say this, next to all things he already said, is a further insult.”
+T154	Attribution 5793 5803	broke down
+E38	Attribution:T154 Content:T153 Cue:T152 Source:T151
+T155	Source 6408 6413	Trump
+T156	Cue 6414 6418	said
+T157	Content 6419 6458	the SCOTUS’ deadlock has “kept us safe”
+T158	Attribution 6414 6418	said
+E39	Attribution:T158 Content:T157 Cue:T156 Source:T155
+T159	Cue 6478 6486	claiming
+T160	Content 6487 6543	that open borders are “tearing American families apart.”
+T161	Attribution 6478 6486	claiming
+E40	Attribution:T161 Content:T160 Cue:T159 Source:T155
+T162	Source 6550 6553	his
+T163	Cue 6554 6570	past comments on
+T164	Content 6571 6654	building a wall to keep so-called Mexican “rapists” and “criminals” out of the U.S.
+T165	Attribution 6554 6570	past comments on
+E41	Attribution:T165 Content:T164 Cue:T163 Source:T162
+T166	Source 7113 7118	Trump
+T167	Cue 7119 7139	continued to portray
+T168	Content 7140 7181	“illegal” immigrants as violent criminals
+T169	Attribution 7119 7139	continued to portray
+E42	Attribution:T169 Content:T168 Cue:T167 Source:T166
+T170	Source 7379 7384	Ramos
+T171	Cue 7385 7390	wrote
+T172	Content 7355 7378;7392 7453;7454 7496	“Your facts are wrong,” “Immigrants are less likely to be criminals than native born. Please check this http://bit.ly/1DbUmw5 .“
+T173	Attribution 7385 7390	wrote
+E43	Attribution:T173 Content:T172 Cue:T171 Source:T170
+T174	Source 7183 7205	Journalist Jorge Ramos
+T175	Cue 7237 7250	tweeting back
+T176	Content 7258 7355	with a link of a study proving “immigrants are less likely to be criminals than the native-born.”
+T177	Attribution 7237 7250	tweeting back
+E44	Attribution:T177 Content:T176 Cue:T175 Source:T174
+T178	Source 7008 7010	He
+T179	Cue 7011 7020	portrayed
+T180	Content 7021 7070	undocumented immigrants as criminals with victims
+T181	Attribution 7011 7020	portrayed
+E45	Attribution:T181 Content:T180 Cue:T179 Source:T178
+T182	Source 6737 6763	A Plus reporter Isaac Saul
+T183	Cue 6786 6798	pointing out
+T184	Content 6799 7006	how ironic the statement was coming from a candidate who promised mass deportation: “Uh.. your unrealistic proposal is to spend billions deporting 11 million ppl n children to rip those very families apart.”
+T185	Attribution 6786 6798	pointing out
+E46	Attribution:T185 Content:T184 Cue:T183 Source:T182
+T186	Source 2934 2939	Trump
+T187	Cue 2940 2956	was referring to
+T188	Content 2916 2933;2960 3047	The federal judge Gonzalo Curiel, who was born and raised in Indiana to parents who emigrated from Mexico
+T189	Attribution 2940 2956	was referring to
+E47	Attribution:T189 Content:T188 Cue:T187 Source:T186
+T190	Source 3680 3685	Trump
+T191	Cue 3686 3715	continued his attacks against
+T192	Content 3716 3722	Curiel
+T193	Attribution 3686 3715	continued his attacks against
+E48	Attribution:T193 Content:T192 Cue:T191 Source:T190
+T194	Discuss 3749 3834	followed swiftly by: “I am going to do very well with the Hispanics, the Mexicans —.“
+T195	Cue 3768 3769	:
+T196	Content 3770 3834	“I am going to do very well with the Hispanics, the Mexicans —.“
+T197	Attribution 3768 3769	:
+E49	Attribution:T197 Content:T196 Cue:T195 Source:T190
+T198	Source 6259 6276	the Supreme court
+T199	Cue 6277 6315	failed to reach a majority decision on
+T200	Content 6316 6406	President Barack Obama’s plan to defer deportation for millions on undocumented immigrants
+T201	Attribution 6277 6315	failed to reach a majority decision on
+E50	Attribution:T201 Content:T200 Cue:T199 Source:T198
+T202	Discard 7498 7588	Take a look at our first list of 9 outrageous things Donald Trump said about Latinos below
+T203	Source 5123 5139	the GOP candidat
+T204	Cue 5165 5174	portrayed
+T205	Content 5175 5201	protestors as undocumented
+T206	Attribution 5165 5174	portrayed
+E51	Attribution:T206 Content:T205 Cue:T204 Source:T203

@@ -1,0 +1,43 @@
+T1	Source 9 20	Asarco Inc.
+T2	Cue 22 54	continuing its effort to refocus
+T3	Content 55 67	its business
+T4	Attribution 22 54	continuing its effort to refocus
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 135 139	said
+T6	Content 140 189	it would stop mining and selling coal by year end
+T7	Attribution 135 139	said
+E2	Attribution:T7 Source:T1 Content:T6 Cue:T5
+T8	Source 193 241	The mining, metal and specialty-chemical concern
+T9	Cue 242 246	said
+T10	Content 247 363	combined revenue for asbestos and coal was about $40 million of the company's total revenue in 1988 of $1.98 billion
+T11	Attribution 242 246	said
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 365 436	Richard de J. Osborne, chairman, president and chief executive officer,
+T13	Cue 437 441	said
+T14	Content 442 603	the company's "decisions to get out of asbestos and high-sulfur coal continue the process of simplifying and focusing the company in areas with a better future."
+T15	Attribution 437 441	said
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 606 612	Asarco
+T17	Cue 613 626	also reported
+T18	Content 627 761	third-quarter net income rose 14%, to $52.7 million, or $1.25 a share, from a restated $46.2 million, or $1.10 a share, a year earlier
+T19	Attribution 613 626	also reported
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 763 769	Asarco
+T21	Cue 770 774	said
+T22	Content 775 986	the gain reflected continued strength in prices for refined copper, lead and zinc, and higher equity earnings in Mexico Desarrollo Industrial Minero S.A., a Mexican mining company in which Asarco has a 34% stake
+T23	Attribution 770 774	said
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Cue 1005 1018	were restated
+T25	Content 1019 1047;988 1004	for accounting-rules changes The 1988 results
+T26	Attribution-no-source 1005 1018	were restated
+E7	Attribution-no-source:T26 Content:T25 Cue:T24
+T27	Source 1284 1290	Asarco
+T28	Cue 1291 1295	said
+T29	Content 1296 1410	it plans to shut down or sell its Rapatee coal mine and will end its involvement in southern Illinois strip mining
+T30	Attribution 1291 1295	said
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 1412 1423	The company
+T32	Cue 1424 1428	said
+T33	Content 1429 1635	that it is discussing a management-employee buy-out of the facility, but that it would stop mining and selling coal at year end when existing sales contracts expire, regardless of the outcome of those talks
+T34	Attribution 1424 1428	said
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31

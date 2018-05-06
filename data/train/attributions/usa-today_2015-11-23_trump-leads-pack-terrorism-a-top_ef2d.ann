@@ -1,0 +1,59 @@
+T1	Cue 120 132	the issue of
+T2	Content 133 142	terrorism
+T3	Discuss 112 119	brought
+T4	Source 297 364	A national poll released Sunday by The Washington Post and ABC News
+T5	Cue 365 370	shows
+T6	Content 371 452	the New York billionaire maintaining his lead among Republicans after the attacks
+T7	Attribution-no-source 120 132	the issue of
+E1	Attribution-no-source:T7 Content:T2 Cue:T1
+T8	Attribution 365 370	shows
+E2	Attribution:T8 Content:T6 Cue:T5 Source:T4
+T9	Source 573 587	those surveyed
+T10	Cue 588 592	said
+T11	Content 593 652	former Florida governor Jeb Bush has the "best experience,"
+T12	Attribution 588 592	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 653 675;705 727	Trump is the candidate to deal with terrorism
+T14	Source 676 693	Republican voters
+T15	Cue 694 704	trust most
+T16	Attribution 694 704	trust most
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 734 737	42%
+T18	Cue 738 748	preferring
+T19	Content 749 773	the current front-runner
+T20	Attribution 738 748	preferring
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 943 957	those surveyed
+T22	Cue 958 962	said
+T23	Content 963 1002	Trump was best able to handle the issue
+T24	Attribution 958 962	said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1079 1081	He
+T26	Cue 1082 1094	has proposed
+T27	Content 1095 1129	conducting surveillance on mosques
+T28	Attribution 1082 1094	has proposed
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Cue 1134 1154	signaled support for
+T30	Content 1155 1200	a database of Muslims who could be terrorists
+T31	Attribution 1134 1154	signaled support for
+E8	Attribution:T31 Source:T25 Cue:T29 Content:T30
+T32	Content 1203 1349;1381 1410	"Everyone else is coming out with polls saying I'm leading because people are sick and tired of stupid and incompetent people leading our nation," "We have incompetent people."
+T33	Source 1350 1355	Trump
+T34	Cue 1356 1360	said
+T35	Attribution 1356 1360	said
+E9	Attribution:T35 Cue:T34 Source:T33 Content:T32
+T36	Source 1412 1417	Trump
+T37	Cue 1418 1431	also embraced
+T38	Content 1432 1537	enhanced interrogation techniques -- "I think waterboarding is peanuts compared to what they'd do to us."
+T39	Attribution 1418 1431	also embraced
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Content 1539 1595	Trump leads the field in the Granite State with just 22%
+T41	Cue 1597 1609	according to
+T42	Source 1610 1664	a Suffolk University/Boston Globe Poll released Sunday
+T43	Attribution 1597 1609	according to
+E11	Attribution:T43 Source:T42 Cue:T41 Content:T40
+T44	Content 1667 1787	But with other voters split among a half-dozen competitors, "Donald Trump's loyal 22% goes a long way in New Hampshire,"
+T45	Cue 1788 1792	says
+T46	Source 1793 1881	David Paleologos, director of the Suffolk University Political Research Center in Boston
+T47	Attribution 1788 1792	says
+E12	Attribution:T47 Source:T46 Cue:T45 Content:T44

@@ -1,0 +1,39 @@
+T1	Source 395 413	a certified letter
+T2	Cue 415 425	announcing
+T3	Content 426 503	that she has been dropped from her therapeutic art program for non-attendance
+T4	Attribution 415 425	announcing
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 856 864	thinking
+T6	Content 865 912	it would be an affordable "group home for one."
+T7	Source 827 828	I
+T8	Attribution 856 864	thinking
+E2	Attribution:T8 Source:T7 Content:T6 Cue:T5
+T9	Cue 1857 1886	there is widespread agreement
+T10	Content 1887 1934	that there are not enough providers and options
+T11	Attribution-no-source 1857 1886	there is widespread agreement
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Source 1956 1971	Hillary Clinton
+T13	Cue 1972 1981	announced
+T14	Content 1982 2086	her plan to support people with autism across their lifespans, bringing needed attention to this problem
+T15	Attribution 1972 1981	announced
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 2672 2684	According to
+T17	Source 2685 2719	a National Autistic Society survey
+T18	Content 2721 2801	70% of adults with autism need support services, and 49% live with their parents
+T19	Attribution 2672 2684	According to
+E5	Attribution:T19 Content:T18 Source:T17 Cue:T16
+T20	Source 4225 4239	The non-profit
+T21	Cue 4240 4250	is seeking
+T22	Content 4251 4332	"groundbreaking ideas" for how to house and support adults on the autism spectrum
+T23	Attribution 4240 4250	is seeking
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 28 38	A mother's
+T25	Cue 39 51	testimony on
+T26	Content 52 85	the emotional and financial costs
+T27	Attribution 39 51	testimony on
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 965 977	our daughter
+T29	Cue 978 990	doesn't want
+T30	Content 991 1033	to live with us or in a typical group home
+T31	Attribution 978 990	doesn't want
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28

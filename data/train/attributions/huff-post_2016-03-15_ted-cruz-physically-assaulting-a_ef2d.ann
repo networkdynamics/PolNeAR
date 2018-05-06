@@ -1,0 +1,59 @@
+T1	Source 0 8	Ted Cruz
+T2	Cue 8 9	:
+T3	Content 10 67	‘Physically Assaulting A Reporter Is A Fireable Offense.’
+T4	Attribution 8 9	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 85 108	Sen. Ted Cruz (R-Texas)
+T6	Cue 109 122	weighed in on
+T7	Content 123 221	allegations against Donald Trump’s campaign manager, who allegedly assaulted a reporter last week,
+T8	Attribution 109 122	weighed in on
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 222 229	calling
+T10	Content 230 264	the behavior a “fireable offense.”
+T11	Attribution-no-source 222 229	calling
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Content 266 299;412 559	“Of course it’s not appropriate,” “What a bizarre world we’re in, where reporters are forced to ask the question, ‘Should political campaign staffers physically assault reporters?’”
+T13	Source 300 304	Cruz
+T14	Cue 305 309	said
+T15	Attribution 305 309	said
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Source 561 602	Former Breitbart reporter Michelle Fields
+T17	Cue 603 610	accused
+T18	Content 611 796	Donald Trump campaign manager Corey Lewandowski of grabbing her at a press conference in Florida last week when she tried to ask the GOP front-runner a question about affirmative action
+T19	Attribution 603 610	accused
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 798 853	Fields, along with Washington Post reporter Ben Terris,
+T21	Cue 854 857	say
+T22	Content 858 974	Trump’s 41-year-old campaign manager yanked her out of the way, his grip imprinting finger-shaped bruises on her arm
+T23	Attribution 854 857	say
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1044 1062	the Trump campaign
+T25	Cue 1063 1073	has denied
+T26	Content 1074 1085	it happened
+T27	Attribution 1063 1073	has denied
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1092 1103	Lewandowski
+T29	Cue 1104 1129	taking to Twitter to call
+T30	Content 1130 1176	Fields “totally delusional” for the accusation
+T31	Attribution 1104 1129	taking to Twitter to call
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1219 1231	Donald Trump
+T33	Cue 1232 1236	told
+T34	Content 1247 1289	he thought Fields had “made up the story.”
+T35	Attribution 1232 1236	told
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Content 1407 1677;1696 1944	“I remember some months ago we were all amazed and joking about the fact the Hillary Clinton campaign used ropes to hold back reporters, to keep them away from Hillary Clinton, and that seemed like the height of the disdain from a candidate for reporters and the media,” “We never envisioned that it would now reach the levels of allegations of significant physical assault. Physically assaulting a reporter is a fireable offense and at the end of the day, the responsibility for any campaign rests with the candidate.”
+T37	Source 1678 1682	Cruz
+T38	Cue 1683 1687	said
+T39	Attribution 1683 1687	said
+E10	Attribution:T39 Cue:T38 Source:T37 Content:T36
+T40	Source 2041 2066	Sen. Marco Rubio (R-Fla.)
+T41	Cue 2067 2091	also had strong views on
+T42	Content 2092 2130	how the campaign handled the situation
+T43	Attribution 2067 2091	also had strong views on
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Content 2133 2199;2212 2311	“If my campaign manager had done that, my campaign would be over,” “He would have had to resign, and my campaign may be over. I would have had to quit that very day.”
+T45	Source 2200 2205	Rubio
+T46	Cue 2206 2210	said
+T47	Attribution 2206 2210	said
+E12	Attribution:T47 Cue:T46 Source:T45 Content:T44

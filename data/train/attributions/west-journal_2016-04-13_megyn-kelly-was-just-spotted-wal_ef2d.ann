@@ -1,0 +1,55 @@
+T1	Source 57 63	Anyone
+T2	Cue 64 76	Would Expect
+T3	Content 77 83	Her To
+T4	Attribution 64 76	Would Expect
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 86 109	MSNBC’s Ayman Mohyeldin
+T6	Cue 110 118	reported
+T7	Content 129 208	that Fox News anchor Megyn Kelly was seen entering Trump Tower in New York City
+T8	Attribution 110 118	reported
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 223 238	some on Twitter
+T10	Cue 210 222	According to
+T11	Content 240 262	Kelly was “incognito,”
+T12	Attribution 210 222	According to
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 272 304	a firestorm of speculation as to
+T14	Content 305 329	the reason for the visit
+T15	Attribution-no-source 272 304	a firestorm of speculation as to
+E4	Attribution-no-source:T15 
+E5	Attribution-no-source:T15 Content:T14 Cue:T13
+T16	Source 428 436	Fox News
+T17	Cue 437 446	confirmed
+T18	Content 447 472	that Kelly met with Trump
+T19	Attribution 437 446	confirmed
+E6	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 475 487	According to
+T21	Source 488 501	the statement
+T22	Content 503 618	Kelly met with Trump to discuss plans for a Fox Broadcasting special, similar to those performed by Barbara Walters
+T23	Attribution 475 487	According to
+E7	Attribution:T23 Content:T22 Source:T21 Cue:T20
+T24	Content 621 895;917 1135	“Fox News Chairman and CEO Roger Ailes has spoken to Donald Trump a few times over the past three months about appearing on a Fox Broadcasting special with Megyn Kelly airing on May 23. Kelly requested a meeting with Mr. Trump, which took place at Trump Tower this morning,” “The results of that meeting will be revealed on tonight’s Kelly File at 9 p.m. Eastern. Kelly has acknowledged in recent interviews that Trump is a fascinating person to cover and has electrified the Republican base.”
+T25	Source 896 909	the statement
+T26	Cue 910 914	read
+T27	Attribution 910 914	read
+E8	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Content 1317 1322	Kelly
+T29	Cue 1323 1353	initially came under fire from
+T30	Source 1354 1359	Trump
+T31	Source 1370 1372	he
+T32	Cue 1373 1382	perceived
+T33	Content 1383 1442	to be unfair questions during the first presidential debate
+T34	Attribution 1323 1353	initially came under fire from
+E9	Attribution:T34 Content:T28 Cue:T29 Source:T30
+T35	Attribution 1373 1382	perceived
+E10	Attribution:T35 Source:T31 Cue:T32 Content:T33
+T36	Source 1507 1509	he
+T37	Cue 1510 1524	also perceives
+T38	Content 1525 1571	as unfair reporting on her show The Kelly File
+T39	Attribution 1510 1524	also perceives
+E11	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1574 1582	Based on
+T41	Source 1583 1617	the statement released by Fox News
+T42	Content 1619 1776	it seems some convincing was needed on behalf of Ailes who “has spoken to Donald Trump a few times over the past three months about appearing” on the special
+T43	Attribution 1574 1582	Based on
+E12	Attribution:T43 Content:T42 Source:T41 Cue:T40

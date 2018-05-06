@@ -1,0 +1,64 @@
+T1	Source 25 58	Jihadist Terror Recruitment Video
+T2	Cue 13 24	Featured In
+T3	Content 0 12	Donald Trump
+T4	Attribution 13 24	Featured In
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 61 83	A clip of Donald Trump
+T6	Cue 84 98	is featured in
+T7	Source 99 193	a purported new recruitment video released by Al-Shabaab, the terrorist group based in Somalia
+T8	Attribution 84 98	is featured in
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Cue 227 235	is shown
+T10	Content 196 226;236 314	The GOP presidential candidate discussing his plan to temporarily ban Muslims from entering the United States
+T11	Attribution-no-source 227 235	is shown
+E3	Attribution-no-source:T11 
+E4	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Source 378 483	the al Qaeda-linked Islamic extremist cleric Anwar al-Awlaki, who was killed in a 2011 U.S. drone strike,
+T13	Cue 484 503	is shown lecturing:
+T14	Content 504 794	“Muslims of the West, take heed and learn from the lessons of history. There are ominous clouds gathering in your horizon. Yesterday, America was a land of slavery, segregation, lynching and Ku Klux Klan. And tomorrow, it will be a land of religious discrimination and concentration camps.”
+T15	Attribution 484 503	is shown lecturing:
+E5	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 796 801	Trump
+T17	Cue 802 853	then appears in a clip from a stump speech, saying,
+T18	Content 854 1038	“Donald J. Trump is calling for a total and complete shutdown of Muslims entering the United States until our country’s representatives can figure out what the [censored] is going on.”
+T19	Attribution 802 853	then appears in a clip from a stump speech, saying,
+E6	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1039 1048	The crowd
+T21	Cue 1049 1072	enthusiastically cheers
+T22	Content 1073 1086	Trump’s words
+T23	Attribution 1049 1072	enthusiastically cheers
+E7	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 1138 1198	“The West will eventually turn against its Muslim citizens,”
+T25	Source 1199 1201	he
+T26	Cue 1202 1206	says
+T27	Attribution 1202 1206	says
+E8	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 1208 1210	He
+T29	Cue 1211 1215	adds
+T30	Content 1216 1288	that American Muslims have two choices: “You either leave or you fight.”
+T31	Attribution 1211 1215	adds
+E9	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1289 1298	Al-Awlaki
+T33	Cue 1299 1305	extols
+T34	Content 1306 1394	Nidal Hasan, the former U.S. Army psychiatrist who killed 13 people at Fort Hood in 2009
+T35	Attribution 1299 1305	extols
+E10	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1542 1557	Hillary Clinton
+T37	Cue 1558 1564	called
+T38	Content 1565 1615	the Republican frontrunner “ISIS’ best recruiter.”
+T39	Attribution 1558 1564	called
+E11	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1616 1619	She
+T41	Cue 1620 1629	also said
+T42	Content 1649 1784	that “they are going to people, showing videos of Donald Trump insulting Islam and Muslims in order to recruit more radical jihadists.”
+T43	Attribution 1620 1629	also said
+E12	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1785 1812	A Clinton campaign official
+T45	Cue 1813 1830	later walked back
+T46	Content 1831 1843	the comments
+T47	Attribution 1813 1830	later walked back
+E13	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Cue 1845 1851	saying
+T49	Content 1852 1952	that Clinton “didn’t have a particular video in mind, but he [Trump] is being used in social media.”
+T50	Attribution 1845 1851	saying
+E14	Attribution:T50 Source:T44 Cue:T48 Content:T49

@@ -1,0 +1,150 @@
+T1	Cue 138 153	aren't expected
+T2	Content 127 137;154 192	the "bugs" to hurt Intel and most computer makers
+T3	Attribution-no-source 138 153	aren't expected
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Source 196 236	Computer experts familiar with the flaws
+T5	Cue 267 270	say
+T6	Content 271 439	the defects don't affect the average user and are likely to be cleared up before most computers using the chip as their "brains" appear on the market sometime next year
+T7	Attribution 267 270	say
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Source 443 448	Intel
+T9	Cue 449 453	said
+T10	Content 454 557	that last week a customer discovered two flaws in its 80486 microprocessor chip's "floating-point unit"
+T11	Attribution 449 453	said
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 618 623	Intel
+T13	Cue 624 639	began notifying
+T14	Content 650 742	about the bugs which cause the chip to give wrong answers for some mathematical calculations
+T15	Attribution 624 639	began notifying
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 756 819	International Business Machines Corp. and Compaq Computer Corp.
+T17	Cue 820 823	say
+T18	Content 824 852	the bugs will delay products
+T19	Attribution 820 823	say
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 854 878	most big computer makers
+T21	Cue 879 883	said
+T22	Content 884 911	the flaws don't affect them
+T23	Attribution 879 883	said
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 913 976	"Bugs like this are just a normal part of product development,"
+T25	Cue 977 981	said
+T26	Source 982 1064	Richard Archuleta, director of Hewlett-Packard Co. 's advanced systems development
+T27	Attribution 977 981	said
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Source 1066 1073	Hewlett
+T29	Cue 1074 1093	announced last week
+T30	Content 1094 1166	that it planned to ship a computer based on the 486 chip early next year
+T31	Attribution 1074 1093	announced last week
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1215 1217	he
+T33	Cue 1218 1222	said
+T34	Content 1168 1214	"These bugs don't affect our schedule at all,"
+T35	Attribution 1218 1222	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1236 1279	AST Research Inc. and Sun Microsystems Inc.
+T37	Cue 1280 1284	said
+T38	Content 1285 1345	the bugs won't delay their development of 486-based machines
+T39	Attribution 1280 1284	said
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1395 1399	said
+T41	Source 1400 1415	a Sun spokesman
+T42	Content 1347 1394	"We haven't modified our schedules in any way,"
+T43	Attribution 1395 1399	said
+E11	Attribution:T43 Content:T42 Source:T41 Cue:T40
+T44	Source 1491 1493	he
+T45	Cue 1494 1498	said
+T46	Content 1417 1490	To switch to another vendor's chips, "would definitely not be an option,"
+T47	Attribution 1494 1498	said
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Cue 1515 1528	concern about
+T49	Content 1529 1537	the chip
+T50	Attribution-no-source 1515 1528	concern about
+E13	Attribution-no-source:T50 Content:T49 Cue:T48
+T51	Cue 1943 1965	is being attributed to
+T52	Content 1918 1942;1966 2051	Most of Compaq's decline a third-quarter earnings report that came in at the low end of analysts' expectations
+T53	Attribution-no-source 1943 1965	is being attributed to
+E14	Attribution-no-source:T53 Content:T52 Cue:T51
+T54	Source 2055 2060	Intel
+T55	Cue 2061 2065	said
+T56	Content 2066 2145	it had corrected the problems and would start producing bugless chips next week
+T57	Attribution 2061 2065	said
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Cue 2183 2187	said
+T59	Source 2188 2232	Bill Rash, Intel's director for the 486 chip
+T60	Content 2147 2182	"We should not be seeing any more,"
+T61	Attribution 2183 2187	said
+E16	Attribution:T61 Content:T60 Source:T59 Cue:T58
+T62	Source 2354 2356	he
+T63	Cue 2357 2361	said
+T64	Content 2236 2352;2363 2383	What's more, the bugs only emerge on esoteric applications such as computer-aided design and scientific calculations and then very seldom
+T65	Attribution 2357 2361	said
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Source 2433 2435	he
+T67	Cue 2436 2440	said
+T68	Content 2385 2432	"These errata do not affect business programs,"
+T69	Attribution 2436 2440	said
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Cue 2594 2598	said
+T71	Source 2599 2650	Michael Slater, editor of the Microprocessor Report
+T72	Content 2442 2592	The bugs will cause problems in "specific and rare circumstances that will not occur in typical applications" such as word-processing and spreadsheets
+T73	Attribution 2594 2598	said
+E19	Attribution:T73 Content:T72 Source:T71 Cue:T70
+T74	Source 2678 2709	Sun, Hewlett-Packard and others
+T75	Cue 2710 2713	say
+T76	Content 2714 2755	Intel isn't wholly to blame for the snafu
+T77	Attribution 2710 2713	say
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Source 2776 2780	they
+T79	Cue 2781 2785	said
+T80	Content 2757 2774;2787 2872	The real culprits are computer makers such as IBM that have jumped the gun to unveil 486-based products
+T81	Attribution 2781 2785	said
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T88	Source 3259 3277	An IBM spokeswoman
+T89	Cue 3278 3282	said
+T90	Content 3283 3376	the company told customers Monday about the bugs and temporarily stopped shipping the product
+T82	Attribution 3278 3282	said
+E22	Attribution:T82 Content:T90 Cue:T89 Source:T88
+T83	Source 3566 3569	she
+T86	Cue 3570 3574	said
+T87	Content 3515 3565	"We don't look at this as a major problem for us,"
+T91	Attribution 3570 3574	said
+E23	Attribution:T91 Content:T87 Cue:T86 Source:T83
+T92	Source 3586 3591	which
+T93	Cue 3592 3596	said
+T94	Content 3597 3619	it discovered the bugs
+T95	Attribution 3592 3596	said
+E24	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T84	Cue 3717 3721	said
+T85	Source 3706 3716	he company
+T96	Content 3722 3785	it doesn't know when its machine will be commercially available
+T97	Attribution 3717 3721	said
+E25	Attribution:T97 Content:T96 Source:T85 Cue:T84
+T98	Source 3833 3844	the company
+T99	Cue 3845 3861	doesn't announce
+T100	Content 3862 3908	products until they're actually at the dealers
+T101	Attribution 3845 3861	doesn't announce
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Source 3945 3952	experts
+T103	Cue 3953 3956	say
+T104	Content 3912 3943;3958 4000	The problem is being ballyhooed because the 486 is Intel's future flagship
+T105	Attribution 3953 3956	say
+E27	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Cue 4314 4318	said
+T107	Source 4319 4352	Mr. Slater, the newsletter editor
+T108	Content 4212 4313	"Although these sorts of bugs are not at all uncommon, the 486 is an extremely high-profile product,"
+T109	Attribution 4314 4318	said
+E28	Attribution:T109 Content:T108 Source:T107 Cue:T106
+T110	Cue 4839 4851	are expected
+T111	Content 4816 4838;4852 5026	Machines using the 486 to challenge higher-priced work stations and minicomputers in applications such as so-called servers, which connect groups of computers together, and in computer-aided design
+T112	Cue 5784 5796	are expected
+T113	Content 5778 5783;5797 5832	which to reach the market early next year
+T114	Attribution 4839 4851	are expected
+E29	Attribution:T114 Cue:T110 Content:T111
+T115	Attribution-no-source 5784 5796	are expected
+E30	Attribution-no-source:T115 Content:T113 Cue:T112
+T116	Cue 5991 5995	said
+T117	Source 5996 6027	Hewlett-Packard's Mr. Archuleta
+T119	Attribution 5991 5995	said
+E31	Attribution:T119 Source:T117 Cue:T116 Content:T118
+T118	Content 5934 5990;6029 6119;6121 6178	"The 486 is going to have a big impact on the industry," "It's going to be the leading edge technology in personal computers for the next few years This bug is not going to have any affect on that at all."

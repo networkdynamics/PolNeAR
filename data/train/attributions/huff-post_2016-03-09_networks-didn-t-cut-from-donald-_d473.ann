@@ -1,0 +1,78 @@
+T1	Source 0 8	Networks
+T2	Cue 52 58	To Air
+T3	Content 59 74	Hillary Clinton
+T4	Attribution 52 58	To Air
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discuss 0 74	Networks Didn’t Cut From Donald Trump’s Speech Once To Air Hillary Clinton
+T6	Source 181 184	you
+T7	Cue 185 195	didn’t see
+T8	Content 196 198	it
+T9	Attribution 185 195	didn’t see
+E2	Attribution:T9 Content:T8 Cue:T7 Source:T6
+T10	Source 206 235	none of the major TV networks
+T11	Cue 236 243	covered
+T12	Content 244 246	it
+T13	Attribution 236 243	covered
+E3	Attribution:T13 Content:T12 Cue:T11 Source:T10
+T14	Source 248 252	They
+T15	Cue 253 270	were all glued to
+T16	Content 271 398	GOP presidential front-runner Donald Trump’s rambling speech/press conference/self-promotional event happening at the same time
+T17	Attribution 253 270	were all glued to
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 523 530	Clinton
+T19	Cue 550 564	talked through
+T20	Content 565 635	policy issues that matter to this crowd: Her vote for the auto bailout
+T21	Attribution 550 564	talked through
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Source 637 640	Her
+T23	Cue 641 644	vow
+T24	Content 645 721	to go after companies that ship jobs overseas while claiming U.S. tax breaks
+T25	Attribution 641 644	vow
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 723 726	Her
+T27	Cue 727 736	fight for
+T28	Content 737 755	quality child care
+T29	Attribution 727 736	fight for
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 765 768	you
+T31	Cue 769 775	wanted
+T32	Content 776 792	to see her event
+T33	Attribution 769 775	wanted
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 883 956	The cable news networks — MSNBC, CNN, Fox Business Network and Fox News —
+T35	Cue 957 971	all stuck with
+T36	Content 972 1235	Trump talking at length about his financial successes, taking shots at Marco Rubio (“Little Marco”) and Ted Cruz (“Lyin Ted”), insulting reporters while taking questions from them, and promoting Trump-branded steaks, wine, magazines, golf courses, vodka and water
+T37	Attribution 957 971	all stuck with
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Discard 1238 1393	<tweet pic="pic.twitter.com/f" author="existentialfish" timestamp="1457542800" tweet_id="707395353688018944">clinton speaking. meanwhile DJPzHmuDP</tweet>.
+T39	Source 1395 1400	MSNBC
+T40	Cue 1411 1421	did replay
+T41	Content 1422 1438	Clinton’s speech
+T42	Attribution 1411 1421	did replay
+E10	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1447 1450	CNN
+T44	Cue 1451 1472	barely even mentioned
+T45	Content 1473 1490	Clinton’s remarks
+T46	Attribution 1451 1472	barely even mentioned
+E11	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Cue 1495 1513	went right back to
+T48	Content 1514 1533	its panel of guests
+T49	Attribution 1495 1513	went right back to
+E12	Attribution:T49 Cue:T47 Content:T48 Source:T43
+T50	Discuss 1495 1533	went right back to its panel of guests
+T51	Source 1536 1556	Fox News’ Bret Baier
+T52	Cue 1557 1564	noticed
+T53	Content 1565 1611	that none of the networks cut away for Clinton
+T54	Attribution 1557 1564	noticed
+E13	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Source 1613 1615	He
+T56	Cue 1616 1630	commented that
+T57	Content 1631 1675	his network “held on” Trump during her event
+T58	Attribution 1616 1630	commented that
+E14	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 1681 1684	Fox
+T60	Cue 1685 1698	didn’t replay
+T61	Content 1699 1715	Clinton’s speech
+T62	Attribution 1685 1698	didn’t replay
+E15	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Discard 1752 1760	[10:29.]

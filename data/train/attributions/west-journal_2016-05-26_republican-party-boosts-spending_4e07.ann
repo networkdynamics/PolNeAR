@@ -1,0 +1,45 @@
+T1	Source 321 364	a high percentage of voters in both parties
+T2	Cue 365 384	continue to express
+T3	Content 385 424	negative feelings toward each candidate
+T4	Attribution 365 384	continue to express
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 441 459	nationwide surveys
+T6	Cue 460 468	indicate
+T7	Content 469 543	that — at least for now — Republicans seem to be unifying at a faster pace
+T8	Attribution 460 468	indicate
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 546 579	The Republican National Committee
+T10	Cue 590 599	announced
+T11	Content 600 735	another step it will be taking to ensure Trump is in the best position possible to take on the Democratic nominee in a general election
+T12	Attribution 590 599	announced
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 794 821	RNC Chairman Reince Priebus
+T14	Cue 822 836	has authorized
+T15	Content 837 926	a significant staffing increase in the states expected to be most pivotal on Election Day
+T16	Attribution 822 836	has authorized
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T19	Content 1009 1127	it will more than double the 216 paid staffers currently working in the 11 battleground states identified by the party
+T17	Source 929 976	Chris Carr, the committee’s political director,
+T18	Cue 977 1008	released a statement confirming
+T20	Attribution 977 1008	released a statement confirming
+E5	Attribution:T20 Cue:T18 Source:T17 Content:T19
+T21	Source 1306 1310	Carr
+T22	Cue 1311 1320	explained
+T24	Content 1296 1304;1322 1508	The move was the result of nearly three years of preparation — an investment he concludes has constituted a “head-start on Clinton and the DNC (and their primary is still technically raging on).”
+T25	Attribution 1311 1320	explained
+E6	Attribution:T25 Cue:T22 Source:T21 Content:T24
+T23	Source 1779 1809	RNC Chief of Staff Katie Walsh
+T26	Cue 1810 1819	explained
+T29	Content 1821 1833	is by design
+T28	Attribution 1810 1819	explained
+E7	Attribution:T28 Content:T29 Cue:T26 Source:T23
+T30	Source 1952 1955	she
+T31	Cue 1956 1960	said
+T32	Content 1836 1951;1984 2122	“Trump heads into the general election with a head start on the ground because of the operation the RNC has built,” “And no matter how you slice it, or how much Democrats scramble to put staff in now, they are playing catch up and we have the advantage.”
+T33	Attribution 1956 1960	said
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 2164 2169	Walsh
+T35	Cue 2170 2175	noted
+T36	Content 2176 2242	that Ohio boasted only one paid staffer ahead of the 2012 election
+T37	Attribution 2170 2175	noted
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34

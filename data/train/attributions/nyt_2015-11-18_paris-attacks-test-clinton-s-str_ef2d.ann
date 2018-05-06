@@ -1,0 +1,203 @@
+T1	Cue 40 52	New focus on
+T2	Content 53 62	terrorism
+T3	Attribution-no-source 40 52	New focus on
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Source 88 93	Obama
+T5	Cue 94 96	on
+T6	Content 97 111	foreign policy
+T7	Attribution 94 96	on
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Discard 114 123	ABSTRACT.
+T9	Discard 267 277	FULL TEXT.
+T10	Source 338 360	Hillary Rodham Clinton
+T11	Cue 361 375	has emphasized
+T12	Content 376 403	her ties to President Obama
+T13	Attribution 361 375	has emphasized
+E3	Attribution:T13 Content:T12 Cue:T11 Source:T10
+T14	Source 405 408	She
+T15	Cue 409 437	regularly tells the story of
+T16	Content 438 493	how he wooed her into serving as his secretary of state
+T17	Attribution 409 437	regularly tells the story of
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Cue 498 549	recites, typically to a roar of applause, the line:
+T19	Content 550 605	''President Obama doesn't get the credit he deserves.''
+T20	Attribution 498 549	recites, typically to a roar of applause, the line:
+E5	Attribution:T20 Source:T14 Cue:T18 Content:T19
+T21	Discuss 607 610	But
+T22	Source 752 766	Mrs. Clinton's
+T23	Cue 767 778	strategy of
+T24	Content 779 948	aligning herself closely with Mr. Obama, who is widely popular among Democratic primary voters and whose support she will need should she advance to the general election
+T25	Attribution 767 778	strategy of
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 996 1008	Mrs. Clinton
+T27	Cue 1009 1017	declined
+T28	Content 1018 1218	to directly respond to a question about whether she thought Mr. Obama had underestimated the Islamic State, also known as ISIS or ISIL, which French officials have said was responsible for the attacks
+T29	Attribution 1009 1017	declined
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 1225 1228	she
+T31	Cue 1229 1269	did - indirectly and deftly - contradict
+T32	Content 1270 1421	Mr. Obama's comments, made in a television interview recorded a day before the attacks, that the Islamic State had been ''contained'' in Iraq and Syria
+T33	Attribution 1229 1269	did - indirectly and deftly - contradict
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Content 1424 1509;1529 1577	''We have to look at ISIS as the leading threat of an international terror network,'' ''It cannot be contained; it must be defeated.''
+T35	Source 1510 1522	Mrs. Clinton
+T36	Cue 1523 1527	said
+T37	Attribution 1523 1527	said
+E9	Attribution:T37 Cue:T36 Source:T35 Content:T34
+T38	Source 1579 1602	Mrs. Clinton's campaign
+T39	Cue 1603 1611	has said
+T40	Content 1623 1669	that it sees no reason to break with Mr. Obama
+T41	Attribution 1603 1611	has said
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Source 1671 1683	Mrs. Clinton
+T43	Cue 1684 1717	has instead positioned her agenda
+T44	Content 1718 1787	around plans to ''build on the progress'' of the Obama administration
+T45	Attribution 1684 1717	has instead positioned her agenda
+E11	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 1825 1848	African-American voters
+T47	Cue 1865 1887	overwhelmingly support
+T48	Content 1888 1901	the president
+T49	Attribution 1865 1887	overwhelmingly support
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 1903 1915	Mrs. Clinton
+T51	Cue 1916 1971	devotes much of her stump speech to effusively praising
+T52	Content 1972 2047	Mr. Obama's success in reviving the economy after the 2008 financial crisis
+T53	Attribution 1916 1971	devotes much of her stump speech to effusively praising
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Cue 2050 2052	In
+T55	Source 2053 2108	a New York Times/CBS News survey released last Thursday
+T56	Content 2110 2288	79 percent of Democrats said they were satisfied or very satisfied with Mr. Obama's presidency and 60 percent said they would like to see the next president continue his policies
+T57	Attribution 2050 2052	In
+E14	Attribution:T57 Content:T56 Source:T55 Cue:T54
+T58	Content 2591 2605	foreign policy
+T59	Cue 2606 2611	issue
+T60	Attribution-no-source 2606 2611	issue
+E15	Attribution-no-source:T60 Cue:T59 Content:T58
+T61	Source 2708 2711	She
+T62	Cue 2712 2717	urged
+T63	Content 2718 2778;2779 2806	the administration to join a NATO-led coalition to oust Col. Muammar el-Qaddafi in Libya
+T64	Attribution 2712 2717	urged
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Cue 2808 2816	proposed
+T66	Content 2817 2849	that more forces be left in Iraq
+T67	Attribution 2808 2816	proposed
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T61
+T68	Cue 2855 2861	pushed
+T69	Content 2862 2902	to funnel arms to moderate Syrian rebels
+T70	Attribution 2855 2861	pushed
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T61
+T71	Content 2905 2997	''I assume she and her advisers are trying to calibrate Obama's approval rating right now,''
+T72	Cue 2998 3002	said
+T73	Source 3003 3079	Paul R. Pillar, a former C.I.A. analyst who teaches at Georgetown University
+T74	Attribution 2998 3002	said
+E19	Attribution:T74 Source:T73 Cue:T72 Content:T71
+T75	Source 3085 3087	he
+T76	Cue 3088 3093	added
+T77	Content 3095 3268	''I think the conventional wisdom, that Hillary Clinton is a more hawkish person and would be a more hawkish president, with everything that adjective implies, is correct.''
+T78	Attribution 3088 3093	added
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 3270 3282	Mrs. Clinton
+T80	Cue 3283 3336	has gone further than Mr. Obama on Syria by proposing
+T81	Content 3337 3414	that a coalition put in place a no-fly zone to provide safe areas for Syrians
+T82	Attribution 3283 3336	has gone further than Mr. Obama on Syria by proposing
+E21	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Content 3416 3427	an approach
+T84	Source 3428 3470	several Republican presidential candidates
+T85	Cue 3471 3489	have also embraced
+T86	Attribution 3471 3489	have also embraced
+E22	Attribution:T86 Cue:T85 Source:T84 Content:T83
+T87	Source 3495 3498	she
+T88	Cue 3499 3521	frequently talks about
+T89	Content 3522 3572	how she pushed Mr. Obama to arm some Syrian rebels
+T90	Attribution 3499 3521	frequently talks about
+E23	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Content 3575 3672;3701 3774	''I did early on say we needed to try to find a way to train and equip moderates very early on,'' ''Because I thought there would be extremist groups filling the vacuum.''
+T92	Source 3673 3685	Mrs. Clinton
+T93	Cue 3686 3699	said Saturday
+T94	Attribution 3686 3699	said Saturday
+E24	Attribution:T94 Cue:T93 Source:T92 Content:T91
+T95	Source 3838 3841	his
+T96	Cue 3842 3857	deep reluctance
+T97	Content 3858 3910	to send additional American troops to Iraq and Syria
+T98	Attribution 3842 3857	deep reluctance
+E25	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Content 3913 3976;4056 4198	''We don't believe U.S. troops are the answer to the problem,'' ''The further introduction of U.S. troops to fully re-engage in ground combat in the Middle East is not the way to deal with this challenge.''
+T100	Source 3977 4042	Benjamin J. Rhodes, Mr. Obama's deputy national security adviser,
+T101	Cue 4043 4054	said Sunday
+T102	Attribution 4043 4054	said Sunday
+E26	Attribution:T102 Cue:T101 Source:T100 Content:T99
+T103	Source 4242 4252	Mr. Rhodes
+T104	Cue 4253 4270	sought to clarify
+T105	Content 4271 4332	Mr. Obama's comment that the Islamic State had been contained
+T106	Attribution 4253 4270	sought to clarify
+E27	Attribution:T106 Content:T105 Cue:T104 Source:T103
+T107	Source 4334 4344	Mr. Rhodes
+T108	Cue 4345 4349	said
+T109	Content 4351 4507	''The fact is, we have been able to stop that geographic advance and take back significant amounts of territory in both northern Iraq and northern Syria.'.'
+T110	Attribution 4345 4349	said
+E28	Attribution:T110 Content:T109 Cue:T108 Source:T107
+T111	Content 4510 4555;4591 4801	Mr. Obama's reaction to the attacks in France the gulf between the president and Mrs. Clinton, which first emerged in their 2008 primary contest as Mr. Obama contrasted his antiwar message with Mrs. Clinton's 2002 vote to authorize the use of force in Iraq
+T112	Cue 4556 4564	reminded
+T113	Source 4565 4587	foreign policy experts
+T114	Attribution 4556 4564	reminded
+E29	Attribution:T114 Source:T113 Cue:T112 Content:T111
+T115	Content 4804 4945;5088 5186	''Both when she was secretary of state and since, she has had a sense of focusing not just on the cost of action, but the cost of inaction,'' ''President Obama has been much more inclined to the cost of action versus the cost of inaction.''
+T116	Cue 4946 4950	said
+T117	Source 4951 5086	Dennis B. Ross, a former senior adviser to Mr. Obama who is now a distinguished fellow at the Washington Institute for Near East Policy
+T118	Attribution 4946 4950	said
+E30	Attribution:T118 Source:T117 Cue:T116 Content:T115
+T119	Cue 5210 5219	embracing
+T120	Content 5220 5254	an inclination toward intervention
+T121	Attribution-no-source 5210 5219	embracing
+E31	Attribution-no-source:T121 Content:T120 Cue:T119
+T122	Content 5391 5396;5421 5434	which was a mistake
+T123	Source 5397 5400	she
+T124	Cue 5401 5420	has repeatedly said
+T125	Attribution 5401 5420	has repeatedly said
+E32	Attribution:T125 Cue:T124 Source:T123 Content:T122
+T126	Source 5536 5590	Senator Bernie Sanders of Vermont, a Democratic rival,
+T127	Cue 5591 5599	assailed
+T128	Content 5600 5626	her for supporting the war
+T129	Attribution 5591 5599	assailed
+E33	Attribution:T129 Content:T128 Cue:T127 Source:T126
+T130	Content 5629 5772	''I don't think any sensible person would disagree that the invasion of Iraq led to the massive level of instability we are seeing right now,''
+T131	Source 5773 5784	Mr. Sanders
+T132	Cue 5785 5789	said
+T135	Attribution 5785 5789	said
+E34	Attribution:T135 Content:T130 Source:T131 Cue:T132
+T137	Discuss 5792 5801	Appearing
+T138	Source 5898 5910	Mrs. Clinton
+T139	Cue 5911 5915	said
+T133	Content 5928 6048	that ''this cannot be an American fight'' and that the United States should not bear ''the bulk of the responsibility.''
+T134	Attribution 5911 5915	said
+E35	Attribution:T134 Content:T133 Cue:T139 Source:T138
+T136	Source 6130 6134	they
+T140	Content 6125 6129;6147 6192	that as ineffective in combating the Islamic State
+T141	Cue 6135 6146	widely view
+T142	Attribution 6135 6146	widely view
+E36	Attribution:T142 Cue:T141 Content:T140 Source:T136
+T143	Content 6195 6276;6366 6437	''The president has admitted he does not have a strategy as it relates to ISIS,'' ''Hillary Clinton last night said that it's not - it's not our fight.''
+T144	Source 6277 6355	Jeb Bush, the former Florida governor and a Republican presidential candidate,
+T145	Cue 6356 6360	told
+T146	Attribution 6356 6360	told
+E37	Attribution:T146 Cue:T145 Source:T144 Content:T143
+T147	Source 6439 6441	He
+T148	Cue 6442 6447	added
+T149	Content 6449 6554	''It is our fight, and without our leadership in building a coalition to destroy ISIS, it won't happen.''
+T150	Attribution 6442 6447	added
+E38	Attribution:T150 Content:T149 Cue:T148 Source:T147
+T151	Source 6602 6614	Mrs. Clinton
+T152	Cue 6657 6663	saying
+T153	Content 6664 6798	that the United States should play a leadership role and ''be rallying our partners and allies, pulling countries off the sidelines.''
+T154	Attribution 6657 6663	saying
+E39	Attribution:T154 Content:T153 Cue:T152 Source:T151
+T155	Content 6800 6979	Her seemingly incongruous comments on the issue speak to the reality that there may be no real political upside for Mrs. Clinton in coming out early with a detailed plan for Syria
+T156	Cue 6981 6985	said
+T157	Source 6986 7048	Michael O'Hanlon, a senior fellow at the Brookings Institution
+T158	Attribution 6981 6985	said
+E40	Attribution:T158 Source:T157 Cue:T156 Content:T155
+T159	Content 7051 7177;7197 7342	''Even if she could convince people she's right today, by a year from now, on Election Day, the situation will have morphed,'' ''And in the meantime, she would have scared a lot of people with a little too much of what the Democratic base doesn't want to hear right now.''
+T160	Source 7178 7190	Mr. O'Hanlon
+T161	Cue 7191 7195	said
+T162	Attribution 7191 7195	said
+E41	Attribution:T162 Cue:T161 Source:T160 Content:T159

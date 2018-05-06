@@ -1,0 +1,30 @@
+T1	Source 0 4	Poll
+T2	Cue 5 10	finds
+T3	Content 11 48	Clinton would beat out Trump and Cruz
+T4	Attribution 5 10	finds
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 250 252	In
+T6	Source 253 305	an NBC News/Wall Street Journal poll released Monday
+T7	Content 307 375	50 percent of respondents chose Clinton while 40 percent chose Trump
+T8	Attribution 250 252	In
+E2	Attribution:T8 Content:T7 Source:T6 Cue:T5
+T9	Source 644 654	56 percent
+T10	Cue 655 669	would vote for
+T11	Content 670 677	Clinton
+T12	Attribution 655 669	would vote for
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 693 713	Thirty-seven percent
+T14	Cue 714 728	would vote for
+T15	Content 729 754	Sen. Bernie Sanders, I-Vt
+T16	Attribution 714 728	would vote for
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 763 780	only four percent
+T18	Cue 781 795	would vote for
+T19	Content 796 832	former Maryland Gov. Martin O’Malley
+T20	Attribution 781 795	would vote for
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 854 864	27 percent
+T22	Cue 865 879	would vote for
+T23	Content 880 885	Trump
+T24	Attribution 865 879	would vote for
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21

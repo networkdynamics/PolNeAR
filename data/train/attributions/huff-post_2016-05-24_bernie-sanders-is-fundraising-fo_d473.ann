@@ -1,0 +1,60 @@
+T1	Discard 1534 1551	ASSOCIATED PRESS.
+T2	Source 65 103	Presidential candidate Hillary Clinton
+T3	Cue 104 125	frequently emphasizes
+T4	Content 126 196	that she is a “proud Democrat” who wants to help elect other Democrats
+T5	Attribution 104 125	frequently emphasizes
+E1	Attribution:T5 Content:T4 Cue:T3 Source:T2
+T6	Cue 198 209	contrasting
+T7	Content 210 243	herself with rival Bernie Sanders
+T8	Attribution 198 209	contrasting
+E2	Attribution:T8 Cue:T6 Content:T7 Source:T2
+T9	Source 360 378	Clinton’s campaign
+T10	Cue 379 393	has criticized
+T11	Content 394 527	him for not doing more to help raise the profile of progressive candidates for federal and state offices as he rallies his supporters
+T12	Attribution 379 393	has criticized
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 529 536	Sanders
+T14	Cue 537 556	had previously said
+T15	Content 558 570	“We’ll see,”
+T16	Attribution 537 556	had previously said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 576 581	asked
+T18	Content 582 638	whether he would fundraise on behalf of other candidates
+T19	Attribution-no-source 576 581	asked
+E5	Attribution-no-source:T19 Content:T18 Cue:T17
+T20	Source 645 652	Sanders
+T21	Cue 653 671	has begun to rebut
+T22	Content 672 686	that criticism
+T23	Attribution 653 671	has begun to rebut
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 781 788	Sanders
+T25	Cue 803 812	endorsing
+T26	Content 813 900	eight state legislative candidates “who embody the spirit of our political revolution.”
+T27	Attribution 803 812	endorsing
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 1090 1187;902 1033	“And that’s because change never happens from the top down, it always occurs from the bottom up.” “No president, not Bernie Sanders, not the greatest president you could possibly imagine, can take on the billionaire class alone,”
+T29	Source 1034 1041	Sanders
+T30	Cue 1042 1047	wrote
+T31	Attribution 1042 1047	wrote
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Source 1203 1210	Sanders
+T33	Cue 1211 1216	named
+T34	Content 1188 1202	The candidates
+T35	Attribution 1211 1216	named
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1553 1561	Sanders’
+T37	Cue 1562 1603	fundraising email to his supporters notes
+T38	Content 1604 1773	that San Francisco Supervisor Jane Kim, who is running for the state Senate, “is a civil rights attorney who’s fought for affordable housing and fair wages in her city.”
+T39	Attribution 1562 1603	fundraising email to his supporters notes
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Discuss 1553 1773	Sanders’ fundraising email to his supporters notes that San Francisco Supervisor Jane Kim, who is running for the state Senate, “is a civil rights attorney who’s fought for affordable housing and fair wages in her city.”
+T41	Source 1775 1782	Sanders
+T42	Cue 1783 1788	noted
+T43	Content 1789 1862	that the next round of congressional redistricting in 2020 is approaching
+T44	Attribution 1783 1788	noted
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Content 2045 2209;2271 2393	“Bernie believes that the path toward bold change requires leaders to take back control of state capitols around the country and ensure fair redistricting in 2020,” “The leaders we’re raising money for today are the members of Congress, senators and presidential candidates of tomorrow.”
+T46	Source 2210 2249	Jeff Weaver, Sanders’ campaign manager,
+T47	Cue 2250 2254	said
+T48	Attribution 2250 2254	said
+E12	Attribution:T48 Cue:T47 Source:T46 Content:T45

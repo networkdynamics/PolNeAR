@@ -1,0 +1,24 @@
+T1	Source 9 29	Comair Holdings Inc.
+T2	Cue 30 48	said in Cincinnati
+T3	Content 49 166	that it bought Airline Aviation Academy, a pilot training school based at Sanford Regional Airport near Orlando, Fla.
+T4	Attribution 30 48	said in Cincinnati
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 167 173	Comair
+T6	Cue 174 178	said
+T7	Content 179 191	it paid cash
+T8	Attribution 174 178	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 196 216	declined to disclose
+T10	Content 217 226	the price
+T11	Attribution 196 216	declined to disclose
+E3	Attribution:T11 Cue:T9 Content:T10 Source:T5
+T12	Content 302 318;374 466	Airline Aviation has great growth potential because of the large number of U.S. pilots nearing retirement age
+T13	Source 468 474	Comair
+T14	Cue 475 479	said
+T15	Attribution 475 479	said
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Content 481 601	The unit will be renamed Comair Aviation Academy and will continue to be headed by Scott Williams, a son of its founder,
+T17	Source 602 608	Comair
+T18	Cue 609 613	said
+T19	Attribution 609 613	said
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16

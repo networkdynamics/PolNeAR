@@ -1,0 +1,29 @@
+T1	Source 0 15	Sheldon Adelson
+T2	Cue 16 23	Commits
+T3	Content 24 72	$25 Million for Corruption Ads Targeting Clinton
+T4	Attribution 16 23	Commits
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 75 102	Billionaire Sheldon Adelson
+T6	Cue 103 127	is reportedly committing
+T7	Content 128 161	at least $25 million to Future 45
+T8	Attribution 103 127	is reportedly committing
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 216 228	According to
+T10	Source 229 248	Fox News’s Ed Henry
+T11	Content 250 375	the money will be used to focus on corruption ads targeting Hillary Clinton in the final week ahead of the election on Nov. 8
+T12	Attribution 216 228	According to
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Content 378 543	“It helps Republicans down ballot, but also is a sign big money Republicans who doubted Trump are now betting big as revelations from the FBI and WikiLeaks heat up,”
+T14	Source 544 549	Henry
+T15	Cue 550 575	reports on Monday evening
+T16	Attribution 550 575	reports on Monday evening
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Cue 577 583	noting
+T18	Content 584 633	that Trump and Adelson met in Las Vegas on Sunday
+T19	Attribution 577 583	noting
+E5	Attribution:T19 Source:T14 Cue:T17 Content:T18
+T20	Content 636 697	“The $25 million from Adelson — it’s a floor, not a ceiling,”
+T21	Source 698 703	Henry
+T22	Cue 704 708	adds
+T23	Attribution 704 708	adds
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20

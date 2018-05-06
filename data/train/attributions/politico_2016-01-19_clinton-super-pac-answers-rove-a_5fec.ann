@@ -1,0 +1,63 @@
+T1	Source 384 388	that
+T2	Cue 389 396	attacks
+T3	Content 397 429	Clinton as a tool of Wall Street
+T4	Attribution 389 396	attacks
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 110 147	the super PAC backing Hillary Clinton
+T6	Cue 148 212	is using some of its muscle to try and undo a damaging narrative
+T7	Content 213 272	that the Democratic front-runner is beholden to Wall Street
+T8	Attribution 148 212	is using some of its muscle to try and undo a damaging narrative
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 508 519	The Rove ad
+T10	Cue 520 524	hits
+T11	Content 525 614	Clinton for taking “54 times more money from Wall Street interests than from all of Iowa”
+T12	Attribution 520 524	hits
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 619 625	claims
+T14	Content 626 732	that “Wall Street made her a multi-millionaire. ... Does Iowa really want Wall Street in the White House?”
+T15	Attribution 619 625	claims
+E4	Attribution:T15 Source:T9 Content:T14 Cue:T13
+T16	Content 817 910;921 1116	“I think it shows how desperate the Republicans are to prevent me from becoming the nominee,” “I find that, in a perverse way, an incredibly flattering comment on their anxiety, because they know that not only will I stand up for what the country needs, I will take it to the Republicans.”
+T17	Source 911 914	she
+T18	Cue 915 919	said
+T19	Attribution 915 919	said
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Source 782 789	Clinton
+T21	Cue 790 801	laughed off
+T22	Content 802 815	the attack ad
+T23	Attribution 790 801	laughed off
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 1368 1486;1518 1676	“They know Hillary’s the only one strong enough to stop Wall Street abuses and make the wealthy pay their fair share,” “She’ll stand up to the gun lobby and take on the NRA. And Hillary Clinton will protect funding for Planned Parenthood and protect a woman’s right to choose.”
+T25	Source 1487 1509	a voice-over in the ad
+T26	Cue 1510 1516	states
+T27	Attribution 1510 1516	states
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 1800 1816	the Sanders camp
+T29	Cue 1817 1831	has identified
+T30	Content 1832 1929	Clinton's Wall Street connection as one of her biggest weaknesses among Democratic primary voters
+T31	Attribution 1817 1831	has identified
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1958 1965	Sanders
+T33	Cue 1966 2001	compared himself to Clinton, saying
+T34	Content 2003 2059	"I don’t get personal speaking fees from Goldman Sachs.”
+T35	Attribution 1966 2001	compared himself to Clinton, saying
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1695 1702	Clinton
+T37	Cue 1703 1731	actually wants to talk about
+T38	Content 1688 1694	topics
+T39	Attribution 1703 1731	actually wants to talk about
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1747 1756	defending
+T41	Content 1757 1787	her connections to Wall Street
+T42	Attribution 1747 1756	defending
+E11	Attribution:T42 Source:T36 Content:T41 Cue:T40
+T43	Source 2077 2118	Priorities USA chief strategist Guy Cecil
+T44	Cue 2119 2124	said:
+T45	Content 2125 2313	“Karl Rove and the Republicans are trying to interfere in the Iowa Democratic caucus because they don’t want to run against Hillary Clinton in November. We're not going to let that stand.”
+T46	Attribution 2119 2124	said:
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1216 1223	the PAC
+T48	Cue 1224 1315	tries to shift the conversation from one that has proved to be a loser topic for Clinton to
+T49	Content 1316 1365	more fertile ground: guns and reproductive rights
+T50	Attribution 1224 1315	tries to shift the conversation from one that has proved to be a loser topic for Clinton to
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47

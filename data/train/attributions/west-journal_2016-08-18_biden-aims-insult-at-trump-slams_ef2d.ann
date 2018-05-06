@@ -1,0 +1,84 @@
+T1	Source 0 5	Biden
+T2	Cue 6 20	Aims Insult At
+T3	Content 21 26	Trump
+T4	Attribution 6 20	Aims Insult At
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 28 33	Slams
+T6	Content 34 48	Japanese Pride
+T7	Attribution 28 33	Slams
+E2	Attribution:T7 Source:T1 Cue:T5 Content:T6
+T8	Source 247 252	Biden
+T9	Cue 253 264	took aim at
+T10	Content 265 455	comments by Republican presidential candidate Donald Trump that Japan might need to join the world’s nuclear club to defend itself instead of relying upon America to defend the island nation
+T11	Attribution 253 264	took aim at
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 488 493	Trump
+T13	Cue 494 511	was talking about
+T14	Content 512 541	America’s defense commitments
+T15	Attribution 494 511	was talking about
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 547 549	he
+T17	Cue 550 554	told
+T18	Content 582 767	“So, North Korea has nukes. Japan has a problem with that. I mean, they have a big problem with that. Maybe they would in fact be better off if they defend themselves form North Korea.”
+T19	Attribution 550 554	told
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 769 776	Wallace
+T21	Cue 782 787	asked
+T22	Content 789 802	“With nukes?”
+T23	Attribution 782 787	asked
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 804 854	“Including with nukes, yes, including with nukes,”
+T25	Source 855 860	Trump
+T26	Cue 861 870	responded
+T27	Attribution 861 870	responded
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 886 891	Biden
+T29	Cue 892 907	tried to attack
+T30	Content 908 913	Trump
+T31	Attribution 892 907	tried to attack
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Content 964 1065	“Does he not understand we wrote Japan’s Constitution to say that they could not be a nuclear power?”
+T33	Source 1066 1071	Biden
+T34	Cue 1072 1076	said
+T35	Attribution 1072 1076	said
+E9	Attribution:T35 Cue:T34 Source:T33 Content:T32
+T36	Source 1317 1365	A popular column in the national Asahi newspaper
+T37	Cue 1366 1374	attacked
+T38	Content 1375 1386	the comment
+T39	Attribution 1366 1374	attacked
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Content 1389 1573	“Amid the trading of insults between the opposing camps on the U.S. presidential campaign trail, a remark made by Vice President Joe Biden on Aug. 15 was quite rough around the edges,”
+T41	Cue 1574 1578	said
+T42	Source 1579 1622	the Vox Populi (Voice of the People) column
+T43	Attribution 1574 1578	said
+E11	Attribution:T43 Source:T42 Cue:T41 Content:T40
+T44	Content 1625 1741;1760 1894	“As a statement made by a sitting vice president of the United States, it was unprecedented in its ‘insensitivity,'” “Biden’s remark in Pennsylvania, made as if in deliberate disregard of postwar historical reality, could even be considered arrogant.”
+T45	Source 1742 1752	the column
+T46	Cue 1753 1758	noted
+T47	Attribution 1753 1758	noted
+E12	Attribution:T47 Cue:T46 Source:T45 Content:T44
+T48	Source 1896 1936	Japanese journalist and author Hiro Aida
+T49	Cue 1937 1941	said
+T50	Content 1942 2122	the timing of Biden’s remark makes it seem particularly insensitive, considering the ruling party under Prime Minister Shinzo Abe is considering revising the country’s constitution
+T51	Attribution 1937 1941	said
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Content 2125 2172;2248 2334	“We thought only Trump was an insensitive guy,” Biden “kind of misspoke. This is not something he should talk openly about in public.”
+T53	Cue 2173 2177	said
+T54	Source 2178 2246	Aida, who recently published a book in Japan on the Trump phenomenon
+T55	Attribution 2173 2177	said
+E14	Attribution:T55 Source:T54 Cue:T53 Content:T52
+T56	Content 2336 2361	Japan’s 1947 constitution
+T57	Cue 2408 2429	extensively redrafted
+T58	Source 2433 2451	American occupiers
+T59	Attribution 2408 2429	extensively redrafted
+E15	Attribution:T59 Source:T58 Cue:T57 Content:T56
+T60	Source 2510 2535	The Japanese constitution
+T61	Cue 2536 2564	makes no specific mention of
+T62	Content 2565 2580	nuclear weapons
+T63	Attribution 2536 2564	makes no specific mention of
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 2591 2593	it
+T65	Cue 2594 2602	does say
+T66	Content 2603 2639	that Japan agrees to “renounce war.”
+T67	Attribution 2594 2602	does say
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64

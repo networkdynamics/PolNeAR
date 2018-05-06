@@ -1,0 +1,126 @@
+T1	Source 21 28	Sanders
+T2	Cue 29 34	calls
+T3	Content 35 54	Clinton unqualified
+T4	Attribution 29 34	calls
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discard 132 141	ABSTRACT.
+T6	Discard 332 342	FULL TEXT.
+T7	Source 143 178	The two Democratic Party contenders
+T8	Cue 179 194	are questioning
+T9	Content 195 222	the other's fitness to lead
+T10	Attribution 179 194	are questioning
+E2	Attribution:T10 Content:T9 Cue:T8 Source:T7
+T11	Source 229 251	Senator Bernie Sanders
+T12	Cue 252 275	now pressing his attack
+T13	Content 276 329	that Hillary Clinton is not qualified to be president
+T14	Attribution 252 275	now pressing his attack
+E3	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Source 432 446	each candidate
+T16	Cue 447 458	questioning
+T17	Content 459 486	the other's fitness to lead
+T18	Attribution 447 458	questioning
+E4	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 491 513	Senator Bernie Sanders
+T20	Cue 514 533	pressing his attack
+T21	Content 534 587	that Hillary Clinton is not qualified to be president
+T22	Attribution 514 533	pressing his attack
+E5	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 700 711	Mr. Sanders
+T24	Cue 712 727	took issue with
+T25	Content 728 798	recent criticism over his understanding of financial regulation policy
+T26	Attribution 712 727	took issue with
+E6	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Cue 803 811	assailed
+T28	Content 812 824	Mrs. Clinton
+T29	Attribution 803 811	assailed
+E7	Attribution:T29 Source:T23 Content:T28 Cue:T27
+T30	Content 848 951;970 1157	''She has been saying lately that she thinks that I am, quote-unquote, not qualified to be president,'' ''Let me just say in response to Secretary Clinton, I don't believe that she is qualified if she is, through her super PAC, taking tens of millions of dollars in special interest funds.''
+T31	Source 952 963	Mr. Sanders
+T32	Cue 964 968	said
+T33	Attribution 964 968	said
+E8	Attribution:T33 Cue:T32 Source:T31 Content:T30
+T34	Source 1159 1161	He
+T35	Cue 1162 1168	added:
+T36	Content 1169 1336	''I don't think you are qualified if you have voted for the disastrous war in Iraq. I don't think you are qualified if you supported the Panama free-trade agreement.''
+T37	Attribution 1162 1168	added:
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Source 1566 1658	Mrs. Clinton, who did not explicitly say that Mr. Sanders was not qualified to be president,
+T39	Cue 1659 1663	said
+T40	Content 1677 1781	that he had not done his ''homework'' when it comes to Wall Street reform - his signature campaign issue
+T41	Attribution 1659 1663	said
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T43	Cue 1795 1814	has been criticized
+T42	Content 1783 1794;1815 1956	Mr. Sanders for offering vague responses to questions on the subject during an interview this week in New York with the editorial board of The Daily News
+T44	Attribution-no-source 1795 1814	has been criticized
+E11	Attribution-no-source:T44 
+E12	Attribution-no-source:T44 Content:T42 Cue:T43
+T45	Source 1959 1979	The Clinton campaign
+T46	Cue 1980 1999	pushed back against
+T47	Content 2000 2042	Mr. Sanders's attack on her qualifications
+T48	Attribution 1980 1999	pushed back against
+E13	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Cue 2044 2054	calling it
+T50	Content 2055 2088	the mark of a desperate candidate
+T51	Attribution 2044 2054	calling it
+E14	Attribution:T51 Source:T45 Cue:T49 Content:T50
+T52	Source 2090 2133	Brian Fallon, a spokesman for Mrs. Clinton,
+T53	Cue 2134 2143	called on
+T54	Content 2164 2186	to take back his words
+T55	Attribution 2134 2143	called on
+E15	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Cue 2191 2195	said
+T57	Content 2196 2225	he had reached a ''new low.''
+T58	Attribution 2191 2195	said
+E16	Attribution:T58 Source:T52 Cue:T56 Content:T57
+T59	Source 2285 2296	Mr. Sanders
+T60	Cue 2297 2311	showed no sign
+T61	Content 2312 2345	that he was planning to apologize
+T62	Attribution 2297 2311	showed no sign
+E17	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Cue 2353 2359	saying
+T64	Content 2360 2393	that he does respect Mrs. Clinton
+T65	Source 2395 2397	he
+T66	Attribution 2353 2359	saying
+E18	Attribution:T66 Source:T65 Content:T64 Cue:T63
+T67	Cue 2398 2418	continued to express
+T68	Content 2419 2450	doubts about her qualifications
+T69	Attribution 2398 2418	continued to express
+E19	Attribution:T69 Source:T65 Cue:T67 Content:T68
+T70	Cue 2455 2465	made clear
+T71	Content 2466 2501	that he did not intend to hold back
+T72	Attribution 2455 2465	made clear
+E20	Attribution:T72 Source:T65 Cue:T70 Content:T71
+T73	Content 2504 2647;2666 2754	''If Secretary Clinton thinks that I just come from a small state of Vermont, 'They are not used to this.' Well, we will get used to it fast,'' ''I'm not going to get beaten up. I'm not going to get lied about. We will fight back.''
+T74	Source 2648 2659	Mr. Sanders
+T75	Cue 2660 2664	said
+T76	Attribution 2660 2664	said
+E21	Attribution:T76 Cue:T75 Source:T74 Content:T73
+T77	Source 2759 2771	her campaign
+T78	Cue 2772 2814	sent out fund-raising pitches highlighting
+T79	Content 2815 2836	Mr. Sanders's remarks
+T80	Attribution 2772 2814	sent out fund-raising pitches highlighting
+E22	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Source 2838 2850	Mrs. Clinton
+T82	Cue 2851 2873	tried to make light of
+T83	Content 2874 2885	the dispute
+T84	Attribution 2851 2873	tried to make light of
+E23	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Content 2971 3015;3035 3131	''Well, it's kind of a silly thing to say,'' ''But I'm going to trust the voters of New York who know me and have voted for me three times.''
+T86	Source 3016 3028	Mrs. Clinton
+T87	Cue 3029 3033	said
+T88	Attribution 3029 3033	said
+E24	Attribution:T88 Cue:T87 Source:T86 Content:T85
+T89	Cue 3137 3168	in a halfhearted endorsement of
+T90	Content 3169 3213	Mr. Sanders's qualifications to be president
+T91	Source 3215 3227	Mrs. Clinton
+T92	Attribution 3137 3168	in a halfhearted endorsement of
+E25	Attribution:T92 Source:T91 Content:T90 Cue:T89
+T93	Cue 3228 3233	added
+T94	Content 3234 3289	that he was better than the Republicans who are running
+T95	Attribution 3228 3233	added
+E26	Attribution:T95 Source:T91 Cue:T93 Content:T94
+T96	Content 3292 3400	''I don't know why he's saying that, but I will take Bernie Sanders over Donald Trump or Ted Cruz anytime,''
+T97	Source 3401 3404	she
+T98	Cue 3405 3409	said
+T99	Attribution 3405 3409	said
+E27	Attribution:T99 Cue:T98 Source:T97 Content:T96

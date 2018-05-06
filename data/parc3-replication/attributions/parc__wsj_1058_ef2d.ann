@@ -1,0 +1,221 @@
+T1	Cue 201 207	peruse
+T2	Content 208 268	the ads for sneaky tape recorders and other snooping gadgets
+T3	Attribution-no-source 201 207	peruse
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Source 291 301	James Bond
+T5	Cue 302 317	green with envy
+T6	Content 270 274	Some
+T7	Attribution 302 317	green with envy
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Content 592 676;755 808	"New technologies are changing the way we deal with each other and the way we work," "Our expectation of confidentiality is being eroded."
+T9	Cue 677 681	says
+T10	Source 682 753	Janlori Goldman, a staff attorney at the American Civil Liberties Union
+T11	Source 834 843	companies
+T12	Cue 844 849	claim
+T13	Content 850 968	that monitoring employee phone conversations is both legal and necessary to gauge productivity and ensure good service
+T14	Content 970 1059	The practice is common at catalog, insurance and phone companies, banks and telemarketers
+T15	Cue 1061 1073	according to
+T16	Source 1074 1111	trade groups and worker organizations
+T17	Attribution 844 849	claim
+E3	Attribution:T17 Source:T11 Cue:T12 Content:T13
+T18	Attribution 677 681	says
+E4	Attribution:T18 Content:T8 Cue:T9 Source:T10
+T19	Attribution 1061 1073	according to
+E5	Attribution:T19 Source:T16 Cue:T15 Content:T14
+T20	Source 1219 1288	The Communications Workers of America, which opposes such monitoring,
+T21	Cue 1289 1293	says
+T22	Content 1294 1359	supervisors listen in on an estimated 400 million calls each year
+T23	Attribution 1289 1293	says
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1367 1376	companies
+T25	Cue 1377 1383	saying
+T26	Content 1384 1406	they monitor employees
+T27	Attribution 1377 1383	saying
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1608 1624	Dictaphone Corp.
+T29	Cue 1625 1629	says
+T30	Content 1630 1698	there's a big business demand for its voice-activated taping systems
+T31	Attribution 1625 1629	says
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Content 1879 1939	Businesses "want to verify information and ensure accuracy,"
+T33	Cue 1940 1944	says
+T34	Source 1945 1999	John Hiltunen, Dictaphone's manager of media relations
+T35	Content 2001 2056;2067 2105	The state of Alaska recently bought the Veritrac system "to monitor the Exxon cleanup effort."
+T36	Source 2058 2060	he
+T37	Cue 2061 2065	says
+T38	Attribution 1940 1944	says
+E9	Attribution:T38 Content:T32 Cue:T33 Source:T34
+T39	Attribution 2061 2065	says
+E10	Attribution:T39 Cue:T37 Source:T36 Content:T35
+T40	Source 2108 2159	Merrill Lynch & Co. and Shearson Lehman Hutton Inc.
+T41	Cue 2160 2163	say
+T42	Content 2164 2253	they use voice-activated systems to record and verify orders between salesmen and traders
+T43	Attribution 2160 2163	say
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 2255 2263	Shearson
+T45	Cue 2264 2268	says
+T46	Content 2269 2376	it has taped some of its institutional trading desks, such as commodities and futures, for about four years
+T47	Attribution 2264 2268	says
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 2378 2392	Both companies
+T49	Cue 2393 2399	stress
+T50	Content 2400 2488	that employees know they are being recorded and that customer conversations aren't taped
+T51	Attribution 2393 2399	stress
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 2492 2512	Kidder Peabody & Co.
+T53	Cue 2513 2517	says
+T54	Content 2518 2614	it monitors bond-trading conversations between brokers and customers to safeguard order accuracy
+T55	Attribution 2513 2517	says
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Content 3081 3138	The most common use of spying devices is in divorce cases
+T57	Cue 3140 3143	say
+T58	Source 3144 3165	private investigators
+T59	Attribution 3140 3143	say
+E15	Attribution:T59 Source:T58 Cue:T57 Content:T56
+T60	Cue 3287 3301	Concerned with
+T61	Content 3302 3377	the increased availability of surveillance technology and heavier use of it
+T62	Source 3379 3388	lawmakers
+T63	Attribution 3287 3301	Concerned with
+E16	Attribution:T63 Source:T62 Content:T61 Cue:T60
+T64	Cue 3389 3418	have proposed laws addressing
+T65	Content 3419 3428	the issue
+T66	Attribution 3389 3418	have proposed laws addressing
+E17	Attribution:T66 Source:T62 Cue:T64 Content:T65
+T67	Source 3430 3441	Nine states
+T68	Cue 3442 3478	have introduced bills requiring that
+T69	Content 3479 3528	workers and customers be made aware of monitoring
+T70	Attribution 3442 3478	have introduced bills requiring that
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Source 3534 3598	four states -- California, Florida, Michigan and Pennsylvania --
+T72	Cue 3599 3617	have adopted rules
+T73	Content 3618 3686	that all parties involved must consent when phone calls are recorded
+T74	Attribution 3599 3617	have adopted rules
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Source 3690 3711	Two bills in Congress
+T76	Cue 3712 3716	hope
+T77	Content 3717 3751	to make such restrictions national
+T78	Attribution 3712 3716	hope
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 3761 3781;3782 3789	Rep. Don Edwards (D. Calif.)
+T80	Cue 3790 3845	introduced congressional legislation that would require
+T81	Content 3846 3937	an audible beeping during any employee monitoring, warning people that they are being heard
+T82	Attribution 3790 3845	introduced congressional legislation that would require
+E21	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Source 4080 4109	Rep. Ron Dellums (D., Calif.)
+T84	Cue 4111 4138	introduced a bill requiring
+T85	Content 4139 4225	universal two-party consent to any tapings in cases that don't involve law enforcement
+T86	Attribution 4111 4138	introduced a bill requiring
+E22	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Cue 4435 4446	remembering
+T88	Content 4447 4462	the 1987 defeat
+T89	Attribution-no-source 4435 4446	remembering
+E23	Attribution-no-source:T89 Content:T88 Cue:T87
+T90	Source 4464 4497	The ACLU and worker organizations
+T91	Cue 4498 4502	back
+T92	Content 4503 4515	tighter laws
+T93	Attribution 4498 4502	back
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Content 4566 4620;4752 4830	"I'm sympathetic with workers who feel under the gun," "But the only way you can find out how your people are doing is by listening."
+T95	Cue 4621 4625	says
+T96	Source 4626 4750	Richard Barton of the Direct Marketing Association of America, which is lobbying strenuously against the Edwards beeper bill
+T97	Attribution 4621 4625	says
+E25	Attribution:T97 Source:T96 Cue:T95 Content:T94
+T98	Source 4951 4958	Spiegel
+T99	Cue 4959 4971	also opposes
+T100	Content 4972 4987	the beeper bill
+T101	Attribution 4959 4971	also opposes
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Cue 4989 4995	saying
+T103	Content 4996 5090	the noise it requires would interfere with customer orders, causing irritation and even errors
+T104	Attribution 4989 4995	saying
+E27	Attribution:T104 Source:T98 Cue:T102 Content:T103
+T105	Source 5092 5180	Laura Dale, center manager at the catalog company's customer order center in Reno, Nev.,
+T106	Cue 5181 5188	defends
+T107	Content 5189 5199	monitoring
+T108	Attribution 5181 5188	defends
+E28	Attribution:T108 Content:T107 Cue:T106 Source:T105
+T109	Content 5201 5295	"We like to follow up and make sure operators are achieving our standards of company service,"
+T110	Cue 5296 5300	says
+T111	Source 5301 5309	Ms. Dale
+T112	Attribution 5296 5300	says
+E29	Attribution:T112 Source:T111 Cue:T110 Content:T109
+T113	Source 5343 5374	John Bonomo, a Nynex spokesman,
+T114	Cue 5375 5379	says
+T115	Content 5380 5491	the telephone company needs to monitor operators to evaluate performance during the first six months on the job
+T116	Attribution 5375 5379	says
+E30	Attribution:T116 Content:T115 Cue:T114 Source:T113
+T117	Content 5493 5505;5515 5569	"Sometimes," "we'll pull someone off the phones for more training."
+T118	Source 5506 5508	he
+T119	Cue 5509 5513	says
+T120	Attribution 5509 5513	says
+E31	Attribution:T120 Cue:T119 Source:T118 Content:T117
+T121	Source 5572 5596	Federal wiretap statutes
+T122	Cue 5597 5606	recognize
+T123	Content 5607 5675	the right of employers to monitor employees' for evaluation purposes
+T124	Attribution 5597 5606	recognize
+E32	Attribution:T124 Content:T123 Cue:T122 Source:T121
+T125	Source 5694 5702	Congress
+T126	Cue 5703 5713	has viewed
+T127	Content 5714 5771	monitoring as an issue best handled in union negotiations
+T128	Attribution 5703 5713	has viewed
+E33	Attribution:T128 Content:T127 Cue:T126 Source:T125
+T129	Source 5777 5803	opponents, led by the CWA,
+T130	Cue 5804 5807	say
+T131	Content 5808 5950	new laws are needed because monitoring is heavily concentrated in service industries and 81% of monitored workers aren't represented by unions
+T132	Attribution 5804 5807	say
+E34	Attribution:T132 Content:T131 Cue:T130 Source:T129
+T133	Source 5952 5959	The CWA
+T134	Cue 5960 5966	claims
+T135	Content 5967 6043	that monitoring not only infringes on employee privacy, but increases stress
+T136	Source 6109 6113	that
+T137	Cue 6114 6122	supports
+T138	Content 6123 6138	the beeper bill
+T139	Attribution 5960 5966	claims
+E35	Attribution:T139 Source:T133 Cue:T134 Content:T135
+T140	Attribution 6114 6122	supports
+E36	Attribution:T140 Content:T138 Cue:T137 Source:T136
+T141	Source 6244 6292	supporters of the Dellums two-party consent bill
+T142	Cue 6293 6296	say
+T143	Content 6297 6366	it is needed because of a giant loophole in the one-party consent law
+T144	Attribution 6293 6296	say
+E37	Attribution:T144 Content:T143 Cue:T142 Source:T141
+T145	Source 6638 6662	The electronics industry
+T146	Cue 6663 6683	is closely following
+T147	Content 6684 6700	the Dellums bill
+T148	Attribution 6663 6683	is closely following
+E38	Attribution:T148 Content:T147 Cue:T146 Source:T145
+T149	Source 6702 6839	Some marketers of surveillance gear -- including Communication Control System Ltd., which owns the Counter Spy Shop and others like it --
+T150	Cue 6840 6894	already put warning labels in their catalogs informing
+T151	Content 6905 6925	of the one-party law
+T152	Attribution 6840 6894	already put warning labels in their catalogs informing
+E39	Attribution:T152 Content:T151 Cue:T150 Source:T149
+T153	Source 6931 6938	vendors
+T154	Cue 6939 6946	contend
+T155	Content 6947 6998	that they can't control how their products are used
+T156	Attribution 6939 6946	contend
+E40	Attribution:T156 Content:T155 Cue:T154 Source:T153
+T157	Source 7002 7013	Radio Shack
+T158	Cue 7014 7018	says
+T159	Content 7019 7113	it has a policy against selling products if a salesperson suspects they will be used illegally
+T160	Attribution 7014 7018	says
+E41	Attribution:T160 Content:T159 Cue:T158 Source:T157
+T161	Content 7115 7168	"Everything sold at Radio Shack has a legal purpose,"
+T162	Cue 7169 7173	says
+T163	Source 7174 7228	Bernard Appel, president of the Tandy Corp. subsidiary
+T164	Attribution 7169 7173	says
+E42	Attribution:T164 Source:T163 Cue:T162 Content:T161
+T165	Source 7230 7232	He
+T166	Cue 7233 7237	says
+T167	Content 7238 7346	he hasn't yet studied the Dellums bill, but that requiring a beeping tone on recorders "would be ludicrous."
+T168	Attribution 7233 7237	says
+E43	Attribution:T168 Content:T167 Cue:T166 Source:T165
+T169	Source 7356 7367	Radio Shack
+T170	Cue 7368 7376	is aware
+T171	Content 7377 7420	that some of its products are controversial
+T172	Attribution 7368 7376	is aware
+E44	Attribution:T172 Content:T171 Cue:T170 Source:T169
+T173	Content 7517 7633;7650 7752	With its ability to pick up rustlings and flapping wings, "it was meant to be a toy for children for bird watching," "But we were getting too many complaints that people were using them to eavesdrop on their neighbors."
+T174	Cue 7634 7638	says
+T175	Source 7639 7648	Mr. Appel
+T176	Attribution 7634 7638	says
+E45	Attribution:T176 Source:T175 Cue:T174 Content:T173

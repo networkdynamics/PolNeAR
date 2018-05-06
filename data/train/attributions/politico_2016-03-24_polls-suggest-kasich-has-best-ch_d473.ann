@@ -1,0 +1,39 @@
+T1	Source 0 5	Polls
+T2	Cue 6 13	suggest
+T3	Content 14 55	Kasich has best chance of beating Clinton
+T4	Attribution 6 13	suggest
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 135 231	John Kasich appears to have the best odds of beating Hillary Clinton in a general election fight
+T6	Cue 233 245	according to
+T7	Source 246 322	three recent polls, including one from Monmouth University released Thursday
+T8	Attribution 233 245	according to
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Content 1003 1042;894 956	by 8 points and 11 points, respectively Kasich also finished ahead of Clinton in hypothetical matchups
+T10	Cue 957 959	in
+T11	Source 960 1001	recent polls from Quinnipiac and Fox News
+T12	Attribution 957 959	in
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Source 1050 1140	Lindsey Graham, who has endorsed Cruz despite their own colorful history of disagreements,
+T14	Cue 1141 1154	said Thursday
+T15	Content 1155 1230	that Kasich would be the best presidential candidate and a better president
+T16	Attribution 1141 1154	said Thursday
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 1233 1311	“I think John Kasich would be the best nominee, but he doesn't have a chance,”
+T18	Source 1312 1318	Graham
+T19	Cue 1319 1323	said
+T20	Attribution 1319 1323	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Cue 1350 1356	adding
+T22	Content 1358 1460	“John Kasich's problem is he is an insider in an outsider year, and nobody seems to want to buy that."
+T23	Attribution 1350 1356	adding
+E6	Attribution:T23 Cue:T21 Source:T18 Content:T22
+T24	Source 1626 1643	The Monmouth poll
+T25	Cue 1644 1657	also suggests
+T26	Content 1658 1767	that Kasich and Bernie Sanders are the only candidates still in the race who are seen more favorably than not
+T27	Attribution 1644 1657	also suggests
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 2011 2021	32 percent
+T29	Cue 2022 2026	said
+T30	Content 2027 2053	they had no opinion of him
+T31	Attribution 2022 2026	said
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28

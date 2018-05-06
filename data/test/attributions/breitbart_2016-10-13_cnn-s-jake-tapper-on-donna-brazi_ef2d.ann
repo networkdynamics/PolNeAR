@@ -1,0 +1,76 @@
+T1	Source 0 17	CNN’s Jake Tapper
+T2	Content 18 59;61 87	on Donna Brazile Leak to Clinton Campaign ‘Unethical,’ ‘Horrifying.’
+T3	Cue 59 60	:
+T4	Discuss 3 4	’
+T5	Attribution 59 60	:
+E1	Attribution:T5 Cue:T3 Content:T2 Source:T1
+T6	Source 89 109	A WikiLeaks document
+T7	Cue 110 118	suggests
+T8	Content 119 291	former adviser to President Bill Clinton and current Democrat National Chairperson Donna Brazile provided a question to Clinton’s aides during the recent Democrat primaries
+T9	Attribution 110 118	suggests
+E2	Attribution:T9 Content:T8 Cue:T7 Source:T6
+T10	Source 297 334	Brazile’s CNN colleague, Jake Tapper,
+T11	Cue 335 342	insists
+T12	Content 343 395	Brazile’s actions were “unethical” and “horrifying.”
+T13	Attribution 335 342	insists
+E3	Attribution:T13 Content:T12 Cue:T11 Source:T10
+T14	Source 454 460	Tapper
+T15	Cue 461 465	told
+T16	Content 486 599	that the evidence that Brazile leaked debate questions to Hillary’s campaign was a journalistically unethical act
+T17	Attribution 461 465	told
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 602 608	Tapper
+T19	Cue 609 613	told
+T20	Content 623 674	that the WikiLeaks news was “very, very troubling,”
+T21	Attribution 609 613	told
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Cue 682 688	noting
+T23	Content 689 721	that Brazile is “a good person.”
+T24	Attribution 682 688	noting
+E6	Attribution:T24 Source:T18 Cue:T22 Content:T23
+T25	Source 723 764	The CNN host of The Lead with Jake Tapper
+T26	Cue 765 783	went on to express
+T27	Content 784 849	dismay over the leak purportedly emanating from his cable network
+T28	Attribution 765 783	went on to express
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 852 904;918 1176	“It’s horrifying. Journalistically it’s horrifying,” “and I’m sure it will have an impact on partnering with this organization in the future and I’m sure it will have an effect on… Donna Brazile is no longer with CNN because she’s with the DNC right now, but I’m sure it will have some impact on Donna Brazile.”
+T30	Source 905 911	Tapper
+T31	Cue 912 916	said
+T32	Attribution 912 916	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Source 1178 1184	Tapper
+T34	Cue 1185 1197	also assured
+T35	Content 1203 1246	that CNN takes this “very, very seriously.”
+T36	Attribution 1185 1197	also assured
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1260 1272	the CNN host
+T38	Cue 1273 1283	reiterated
+T39	Content 1285 1413	“it’s horrifying and very, very upsetting and I can’t condemn it any more than… I condemn it in no uncertain terms, it’s awful.”
+T40	Attribution 1273 1283	reiterated
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Cue 1415 1427	According to
+T42	Source 1428 1463	the documents released by WikiLeaks
+T43	Content 1465 1754	on March 12 — just one day before a Democratic presidential town hall debate between Sen. Bernie Sanders (I-VT) and Hillary Clinton — Brazile allegedly sent an email titled “From time to time I get the questions in advance,” to Jennifer Palmieri, Clinton’s campaign communications director
+T44	Attribution 1415 1427	According to
+E11	Attribution:T44 Content:T43 Source:T42 Cue:T41
+T45	Source 1756 1765	The email
+T46	Cue 1766 1774	provided
+T47	Content 1775 1847	a question about the death penalty that she said “worries me about HRC.”
+T48	Attribution 1766 1774	provided
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 1908 1938	Brazile and Hillary’s staffers
+T50	Cue 1939 1948	discussed
+T51	Content 1949 1991	how to handle the expected debate question
+T52	Attribution 1939 1948	discussed
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 2042 2049	Brazile
+T54	Cue 2050 2064	later insisted
+T55	Content 2065 2115	she never sent the questions to Hillary’s campaign
+T56	Attribution 2050 2064	later insisted
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Content 2118 2214	“I never had access to questions and would never have shared them with the candidates if I did,”
+T58	Source 2215 2222	Brazile
+T59	Cue 2223 2292	said in a statement supplied to the press after the WikiLeaks release
+T60	Attribution 2223 2292	said in a statement supplied to the press after the WikiLeaks release
+E15	Attribution:T60 Cue:T59 Source:T58 Content:T57
+T61	Discard 2295 2392	Follow Warner Todd Huston on Twitter @warnerthuston or email the author at igcolonel@hotmail.com.

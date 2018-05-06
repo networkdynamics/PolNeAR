@@ -1,0 +1,14 @@
+T1	Source 0 12	Obama, Biden
+T2	Cue 13 28	to campaign for
+T3	Content 29 36	Clinton
+T4	Attribution 13 28	to campaign for
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 210 243	the Democratic nominee's campaign
+T6	Cue 244 260	announced Friday
+T7	Content 52 208	President Barack Obama and Vice President Joe Biden will campaign for Hillary Clinton and Tim Kaine in September at separate events in Pennsylvania and Ohio
+T8	Attribution 244 260	announced Friday
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 547 553	urging
+T10	Content 587 636	to register to vote ahead of the Oct. 11 deadline
+T11	Attribution-no-source 547 553	urging
+E3	Attribution-no-source:T11 Content:T10 Cue:T9

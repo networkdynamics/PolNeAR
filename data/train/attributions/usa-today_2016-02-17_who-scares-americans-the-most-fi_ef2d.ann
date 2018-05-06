@@ -1,0 +1,102 @@
+T1	Content 0 3	Who
+T2	Cue 4 10	scares
+T3	Source 11 20	Americans
+T4	Attribution 4 10	scares
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Discuss 0 3	Who
+T6	Source 33 41	Findings
+T7	Cue 42 46	show
+T8	Content 47 117	voters fear unwelcome policies coming from either party in White House
+T9	Attribution 42 46	show
+E2	Attribution:T9 Content:T8 Cue:T7 Source:T6
+T10	Source 120 129	Americans
+T11	Cue 130 156	aren't just for or against
+T12	Content 157 180	presidential candidates
+T13	Attribution 130 156	aren't just for or against
+E3	Attribution:T13 Content:T12 Cue:T11 Source:T10
+T14	Cue 212 214	In
+T15	Source 215 259	a national USA TODAY/Suffolk University Poll
+T16	Content 261 520	likely voters given the choice of four options -- enthusiastic, satisfied, dissatisfied or scared -- are most inclined to say the prospect of Donald Trump winning the Republican nomination or Hillary Clinton winning the Democratic one would leave them fearful
+T17	Attribution 212 214	In
+E4	Attribution:T17 Content:T16 Source:T15 Cue:T14
+T18	Source 599 622	Partisans on both sides
+T19	Cue 623 627	warn
+T20	Content 628 812	that the leading candidate on the other side would not only pursue unwelcome policies in the White House but would imperil the nation's fundamental values and constitutional principles
+T21	Attribution 623 627	warn
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Content 1127 1182;1276 1362	"Both Donald Trump and (Texas Sen.) Ted Cruz scare me," "We need people who will bring people together rather than further alienate everyone."
+T23	Source 1183 1244	Harry Bond, 30, of Raleigh, N.C., who was among those polled,
+T24	Cue 1245 1249	said
+T25	Attribution 1245 1249	said
+E6	Attribution:T25 Cue:T24 Source:T23 Content:T22
+T26	Content 1364 1400	"I'm voting for anyone but Hillary,"
+T27	Cue 1401 1409	declared
+T28	Source 1410 1451	Alyssa Van Wagenen, 29, of Meridian, Ind.
+T29	Attribution 1401 1409	declared
+E7	Attribution:T29 Source:T28 Cue:T27 Content:T26
+T30	Source 1485 1491	voters
+T31	Cue 1492 1542	were inclined to have a positive reaction only for
+T32	Content 1543 1570	Vermont Sen. Bernie Sanders
+T33	Attribution 1492 1542	were inclined to have a positive reaction only for
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1572 1608	Thirty-one percent of those surveyed
+T35	Cue 1609 1612	say
+T36	Content 1613 1672	they would be satisfied if he won the Democratic nomination
+T37	Attribution 1609 1612	say
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Discuss 1674 1717	a bit more than the 28% who would be scared
+T39	Source 1731 1751	38% of likely voters
+T40	Cue 1752 1767	would be scared
+T41	Content 1768 1815	if the real estate mogul won the GOP nomination
+T42	Attribution 1752 1767	would be scared
+E10	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1885 1914	A third of independents, 33%,
+T44	Cue 1915 1918	say
+T45	Content 1919 1937	they feel that way
+T46	Attribution 1915 1918	say
+E11	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1982 1985	33%
+T48	Cue 1986 2001	would be scared
+T49	Content 1940 1981	For Clinton, a former secretary of State,
+T50	Attribution 1986 2001	would be scared
+E12	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Content 2112 2119;2187 2199	Sanders than Clinton
+T52	Cue 2120 2154	is viewed somewhat more positively
+T53	Source 2155 2186	by Republicans and independents
+T54	Attribution 2120 2154	is viewed somewhat more positively
+E13	Attribution:T54 Source:T53 Cue:T52 Content:T51
+T55	Source 2205 2214	Democrats
+T56	Cue 2215 2246	are more likely to be scared by
+T57	Content 2247 2261	his nomination
+T58	Attribution 2215 2246	are more likely to be scared by
+E14	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 2263 2323	45% of Republicans, 28% of independents and 12% of Democrats
+T60	Cue 2324 2327	say
+T61	Content 2328 2356	that would be their reaction
+T62	Attribution 2324 2327	say
+E15	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 2359 2367	The poll
+T64	Cue 2368 2379	makes clear
+T65	Content 2380 2454	the headwinds ahead for Trump and Clinton if they prevail in the primaries
+T66	Attribution 2368 2379	makes clear
+E16	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Source 2468 2501	a majority of likely voters, 56%,
+T68	Cue 2502 2529	have a negative response to
+T69	Content 2530 2556	his prospective nomination
+T70	Attribution 2502 2529	have a negative response to
+E17	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Source 2572 2575	who
+T72	Cue 2576 2579	say
+T73	Content 2580 2606	they would be dissatisfied
+T74	Attribution 2576 2579	say
+E18	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Source 2722 2725	54%
+T76	Cue 2726 2753	have a negative response to
+T77	Content 2754 2768	her nomination
+T78	Attribution 2726 2753	have a negative response to
+E19	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Cue 2904 2919	The response to
+T80	Content 2920 2939	Sanders' nomination
+T81	Attribution-no-source 2904 2919	The response to
+E20	Attribution-no-source:T81 Content:T80 Cue:T79
+T82	Discard 3059 3162	Percentage of likely voters who say they would be scared if the candidate won their party's nomination:

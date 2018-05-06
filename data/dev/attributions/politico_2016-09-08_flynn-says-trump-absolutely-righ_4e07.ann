@@ -1,0 +1,44 @@
+T1	Source 0 5	Flynn
+T2	Cue 6 10	says
+T3	Content 11 72	Trump 'absolutely right' in saying generals reduced to rubble
+T4	Attribution 6 10	says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 75 105	Retired Lt. Gen. Michael Flynn
+T6	Cue 106 110	said
+T7	Content 111 254	Donald Trump was “absolutely right” when he said Wednesday night that under President Barack Obama, “the generals have been reduced to rubble.”
+T8	Attribution 106 110	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 256 377;463 616	“He's absolutely right. There's a severe disconnect between this White House and frankly the president and our military,” “I mean, there's a lot of frustration within the ranks and there's a lot of frustration I know in the senior leadership about what we're not able to do.”
+T10	Source 378 407	Flynn, a top Trump surrogate,
+T11	Cue 408 429	said Thursday morning
+T12	Attribution 408 429	said Thursday morning
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 829 874	Hillary Clinton’s campaign manager Robby Mook
+T14	Cue 875 879	said
+T15	Content 880 887	as much
+T16	Attribution 875 879	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 930 937	arguing
+T18	Content 938 1017	that Trump “lashed out at our nation's generals when he was asked for details.”
+T19	Attribution 930 937	arguing
+E5	Attribution:T19 Cue:T17 Content:T18 Source:T13
+T20	Source 1023 1028	Flynn
+T21	Cue 1029 1033	said
+T22	Content 1034 1220	Trump has “enormous respect” for the military and his rubble comment was instead an expression of frustration with the strategy the U.S. has taken in its battle against the Islamic State
+T23	Attribution 1029 1033	said
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 1223 1443;1456 1798	“I mean, there's no enemy that's unbeatable. And what we have right now, is we have over four-and-a-half, five years of fighting ISIS now as though they're some unbeatable enemy. There's, again, an enormous frustration,” “Donald Trump has enormous respect for our military, for our military leaders and he also said last night for our intelligence professionals. I know I have been in a couple of these intelligence briefings that have been in stark contrast to the policy decisions we are seeing coming out of this White House. So this is a very dangerous time.”
+T25	Source 1444 1449	Flynn
+T26	Cue 1450 1454	said
+T27	Attribution 1450 1454	said
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 777 780	who
+T29	Cue 781 784	saw
+T30	Content 785 827	the comment as a dig at America’s military
+T31	Attribution 781 784	saw
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 747 771	have drawn scrutiny from
+T33	Source 772 776	some
+T34	Content 618 634	Trump’s comments
+T35	Attribution 747 771	have drawn scrutiny from
+E9	Attribution:T35 Content:T34 Source:T33 Cue:T32

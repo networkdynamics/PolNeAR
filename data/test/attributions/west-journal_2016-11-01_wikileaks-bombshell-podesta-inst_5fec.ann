@@ -1,0 +1,111 @@
+T1	Source 0 19	Wikileaks Bombshell
+T2	Cue 19 20	:
+T3	Content 21 80	Podesta Instructed Clinton Aide To ‘Dump All Those Emails.’
+T4	Attribution 19 20	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 82 91	Wikileaks
+T6	Cue 92 100	released
+T7	Content 101 177	yet another round of emails from Clinton campaign chair John Podesta Tuesday
+T8	Attribution 92 100	released
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 294 302	Podesta 
+T10	Cue 302 308	saying
+T11	Content 310 454	“On another matter….and not to sound like Lanny, but we are going to have to dump all those emails so better to do so sooner rather than later.”
+T12	Attribution 302 308	saying
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 603 621	the New York Times
+T14	Cue 621 640	’ initial report on
+T15	Content 641 679	Hillary Clinton’s private email server
+T16	Attribution 621 640	’ initial report on
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 701 749	the former secretary of state’s press conference
+T18	Cue 750 760	addressing
+T19	Content 761 770	the issue
+T20	Attribution 750 760	addressing
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 473 482	seemingly
+T22	Content 467 472;483 495	which shows intent
+T23	Attribution-no-source 473 482	seemingly
+E6	Attribution-no-source:T23 Content:T22 Cue:T21
+T24	Source 499 501	it
+T25	Cue 502 517	is referring to
+T26	Content 518 563	the emails housed on Clinton’s private server
+T27	Attribution 502 517	is referring to
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Discuss 886 947	spokesperson for the president and the White House on matters
+T29	Content 1356 1473	“We gotta zap Lanny out of our universe. Can’t believe he committed her to a private review of her hard drive on TV,”
+T30	Source 1474 1476	he
+T31	Cue 1477 1482	wrote
+T32	Attribution 1477 1482	wrote
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T34	Content 1016 1021	Davis
+T35	Cue 1022 1029	appears
+T33	Source 1030 1061	elsewhere in the Podesta emails
+T36	Attribution 1022 1029	appears
+E9	Attribution:T36 Source:T33 Cue:T35 Content:T34
+T37	Source 1208 1224	he Podesta-Mills
+T38	Cue 1225 1239	exchange about
+T39	Content 1240 1250	the emails
+T40	Attribution 1225 1239	exchange about
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Cue 1266 1273	appears
+T42	Content 1261 1265;1274 1353	Mook unhappy with the attorney’s promise of transparency from the Democratic nominee
+T43	Attribution-no-source 1266 1273	appears
+E11	Attribution-no-source:T43 Content:T42 Cue:T41
+T44	Cue 1485 1504	It is still unknown
+T45	Content 1505 1560	if there are more details to come in future email dumps
+T46	Attribution-no-source 1485 1504	It is still unknown
+E12	Attribution-no-source:T46 Content:T45 Cue:T44
+T47	Source 1654 1661	Clinton
+T48	Cue 1661 1669	’s story
+T49	Content 1670 1719	that she only deleted emails of a personal nature
+T50	Attribution 1661 1669	’s story
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T52	Content 1566 1578;1596 1633	the exchange to be a deliberate attempt to mislead
+T51	Cue 1579 1595	at least appears
+T53	Attribution-no-source 1579 1595	at least appears
+E14	Attribution-no-source:T53 Cue:T51 Content:T52
+T54	Source 1819 1826	Clinton
+T55	Cue 1827 1834	claimed
+T56	Discuss 1725 1752	nstead was pursuing a strat
+T57	Content 1847 1895	that she had turned over everything work-related
+T58	Attribution 1827 1834	claimed
+E15	Attribution:T58 Content:T57 Cue:T55 Source:T54
+T60	Content 1930 1976	the thousands of emails she reportedly deleted
+T61	Cue 1897 1929	even attempting to make light of
+T59	Attribution 1897 1929	even attempting to make light of
+E16	Attribution:T59 Source:T54 Content:T60 Cue:T61
+T62	Source 2033 2059	Fox News reporter Ed Henry
+T63	Cue 1984 1994	confronted
+T64	Content 2066 2147	whether or not she “wiped” her server so the FBI could not recover certain emails
+T65	Attribution 1984 1994	confronted
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Source 2149 2171	the Democratic nominee
+T67	Cue 2172 2191	mockingly responded
+T68	Content 2193 2232	“What? Like with a cloth or something?”
+T69	Attribution 2172 2191	mockingly responded
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Content 2234 2279	“I don’t know how it works digitally at all,”
+T71	Source 2280 2287	Clinton
+T72	Cue 2288 2292	said
+T73	Attribution 2288 2292	said
+E19	Attribution:T73 Cue:T72 Source:T71 Content:T70
+T74	Source 2307 2341	Another thread released last month
+T75	Cue 2342 2357	appears to show
+T76	Content 2358 2517	that President Obama wasn’t being truthful when he initially claimed to have no knowledge of Clinton’s use of a private server while she was secretary of state
+T77	Attribution 2342 2357	appears to show
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Source 2520 2642	An email sent out in the first week of March 2015 by Clinton campaign communications director Jennifer Palmieri to Podesta
+T79	Cue 2643 2652	indicates
+T80	Content 2653 2739	Obama not only knew, but actually emailed Clinton at the private address she was using
+T81	Attribution 2643 2652	indicates
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Content 2742 2971;3074 3270	“Suggest Philippe talk to Josh or Eric. They know POTUS and HRC emailed. Josh has been asked about that. Standard practice is not to confirm anything about his email, so his answer to press was that he would not comment/confirm,” “I recollect that Josh was also asked if POTUS ever noticed her personal email account and he said something like POTUS likely had better things to do than focus on his Cabinet’s email addresses.”
+T83	Source 2972 2975	she
+T84	Cue 2976 2981	wrote
+T85	Attribution 2976 2981	wrote
+E22	Attribution:T85 Cue:T84 Source:T83 Content:T82
+T86	Cue 2983 2994	speaking of
+T87	Content 2995 3071	Clinton adviser Philippe Reines and White House Press Secretary Josh Earnest
+T88	Attribution 2983 2994	speaking of
+E23	Attribution:T88 Source:T83 Content:T87 Cue:T86

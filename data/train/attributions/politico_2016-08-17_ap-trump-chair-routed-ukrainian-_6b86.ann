@@ -1,0 +1,234 @@
+T1	Source 0 2	AP
+T2	Cue 2 3	:
+T3	Content 4 56	Trump chair routed Ukrainian money to D.C. lobbyists
+T4	Attribution 2 3	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 352 366	The revelation
+T6	Cue 368 376	provided
+T7	Attribution-no-source 368 376	provided
+E2	Attribution-no-source:T7 Cue:T6 Content:T5
+T8	Cue 489 498	criticism
+T9	Content 499 561	for his friendly overtures to Russian President Vladimir Putin
+T10	Attribution-no-source 489 498	criticism
+E3	Attribution-no-source:T10 Content:T9 Cue:T8
+T11	Discuss 571 589	casts new light on
+T12	Source 669 683	U.S. lobbyists
+T13	Cue 684 705	must declare publicly
+T14	Content 706 766	if they represent foreign leaders or their political parties
+T15	Attribution 684 705	must declare publicly
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 771 778	provide
+T17	Content 779 841	detailed reports about their actions to the Justice Department
+T18	Attribution 771 778	provide
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T12
+T19	Source 1407 1450	People with direct knowledge of Gates' work
+T20	Cue 1451 1455	said
+T21	Content 1456 1730	that, during the period when Gates and Manafort were consultants to the Ukraine president's political party, Gates was also helping steer the advocacy work done by a pro-Yanukovych nonprofit that hired a pair of Washington lobbying firms, Podesta Group Inc. and Mercury LLC.
+T22	Attribution 1451 1455	said
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 1952 1970	the lobbying firms
+T24	Cue 1971 1982	to advocate
+T25	Content 1983 2048	positions generally in line with those of Yanukovych's government
+T26	Attribution 1971 1982	to advocate
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Cue 2065 2073	included
+T28	Source 2051 2064	That lobbying
+T29	Content 2074 2209	downplaying the necessity of a congressional resolution meant to pressure the Ukrainian leader to release an imprisoned political rival
+T30	Attribution 2065 2073	included
+E8	Attribution:T30 Content:T29 Source:T28 Cue:T27
+T31	Source 2440 2443	who
+T32	Cue 2444 2453	described
+T33	Content 2454 2508	Manafort's and Gates's relationship with the nonprofit
+T34	Attribution 2444 2453	described
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 2738 2743	Gates
+T36	Cue 2744 2748	told
+T37	Content 2756 2903	that he and Manafort introduced the lobbying firms to the European Centre nonprofit and occasionally consulted with the firms on Ukrainian politics
+T38	Attribution 2744 2748	told
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 2905 2907	He
+T40	Cue 2908 2914	called
+T41	Content 2915 2933	the actions lawful
+T42	Attribution 2908 2914	called
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Cue 2939 2943	said
+T44	Content 2944 3049	there was no attempt to circumvent the reporting requirements of the U.S. Foreign Agents Registration Act
+T45	Attribution 2939 2943	said
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T39
+T46	Source 3052 3084	The heads of both lobbying firms
+T47	Cue 3085 3089	told
+T48	Content 3093 3186	they concluded there was no obligation to disclose their activities to the Justice Department
+T49	Attribution 3085 3089	told
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 3188 3196	Manafort
+T51	Cue 3197 3224	did not directly respond to
+T52	Content 3225 3258	AP's requests to discuss the work
+T53	Attribution 3197 3224	did not directly respond to
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 3304 3309	Gates
+T55	Cue 3310 3314	said
+T56	Content 3315 3368	he spoke to Manafort before providing answers to them
+T57	Attribution 3310 3314	said
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Cue 3393 3415	are generally leery of
+T59	Source 3371 3392	Political consultants
+T60	Content 3416 3456	registering under the foreign agents law
+T61	Attribution 3393 3415	are generally leery of
+E16	Attribution:T61 Content:T60 Source:T59 Cue:T58
+T62	Source 4067 4072	Weber
+T63	Cue 4073 4082	announced
+T64	Content 4102 4132	that he will not support Trump
+T65	Attribution 4073 4082	announced
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Content 4135 4383	After being introduced to the lobbying firms, the European nonprofit paid the Podesta Group $1.13 million between June 2012 and April 2014 to lobby Congress, the White House National Security Council, the State Department and other federal agencies
+T67	Cue 4385 4397	according to
+T68	Source 4398 4419	U.S. lobbying records
+T69	Attribution 4385 4397	according to
+E18	Attribution:T69 Source:T68 Cue:T67 Content:T66
+T70	Source 4539 4546	Mercury
+T71	Cue 4547 4554	opposed
+T72	Content 4555 4656	congressional efforts to pressure Ukraine to release one of Yanukovych's political rivals from prison
+T73	Attribution 4547 4554	opposed
+E19	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Source 4659 4686	One former Podesta employee
+T75	Cue 4762 4766	said
+T76	Content 4767 4947	Gates described the nonprofit's role in an April, 2012 meeting as supplying a source of money that could not be traced to the Ukrainian politicians who were paying him and Manafort
+T77	Attribution 4762 4766	said
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Source 4974 5016	three current and former Podesta employees
+T79	Cue 5017 5021	said
+T80	Content 5022 5082	disagreements broke out within the firm over the arrangement
+T81	Attribution 5017 5021	said
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Source 5090 5118	at least one former employee
+T83	Content 5084 5089;5130 5147	which obviously illegal
+T84	Cue 5119 5129	considered
+T85	Attribution 5119 5129	considered
+E22	Attribution:T85 Cue:T84 Content:T83 Source:T82
+T86	Source 5158 5161	who
+T87	Cue 5162 5166	said
+T88	Content 5167 5211	the project was vetted by his firm's counsel
+T89	Attribution 5162 5166	said
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Source 5149 5156	Podesta
+T91	Cue 5213 5217	said
+T92	Content 5218 5258	he was unaware of any such disagreements
+T93	Attribution 5213 5217	said
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 5261 5324	A legal opinion drafted for the project for Mercury in May 2012
+T95	Cue 5346 5355	concluded
+T96	Content 5356 5520	that the European Centre qualified as a "foreign principal" under the Foreign Agents Registration Act but said disclosure to the Justice Department was not required
+T97	Attribution 5346 5355	concluded
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 5558 5569	nonprofit's
+T99	Cue 5570 5580	assurances
+T100	Content 5581 5758	that none of its activities was directly or indirectly supervised, directed, controlled, financed or subsidized by Ukraine's government or any of the country's political parties
+T101	Attribution 5570 5580	assurances
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Source 5761 5803	The Podesta Group's CEO, Kimberley Fritts,
+T103	Cue 5804 5808	said
+T104	Content 5809 5931	the two lobbying firms had coordinated on the legal conclusion that disclosure was not necessary to the Justice Department
+T105	Attribution 5804 5808	said
+E27	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Content 5934 6029	"If counsel had determined FARA was the way to go, we would have gladly registered under FARA,"
+T107	Source 6030 6033	she
+T108	Cue 6034 6063	said in a statement to the AP
+T109	Attribution 6034 6063	said in a statement to the AP
+E28	Attribution:T109 Cue:T108 Source:T107 Content:T106
+T110	Source 6065 6068	She
+T111	Cue 6069 6073	said
+T112	Content 6074 6168	the nonprofit provided a signed statement affirming its independence from Ukraine's government
+T113	Attribution 6069 6073	said
+E29	Attribution:T113 Content:T112 Cue:T111 Source:T110
+T114	Source 6171 6210	People involved in the lobbying project
+T115	Cue 6211 6218	offered
+T116	Content 6219 6266	contradictory descriptions of how it came about
+T117	Attribution 6211 6218	offered
+E30	Attribution:T117 Content:T116 Cue:T115 Source:T114
+T118	Source 6269 6276	Podesta
+T119	Cue 6277 6281	told
+T120	Content 6289 6361	his firm worked closely with the nonprofit and with Gates simultaneously
+T121	Attribution 6277 6281	told
+E31	Attribution:T121 Content:T120 Cue:T119 Source:T118
+T122	Source 6367 6374	Podesta
+T123	Cue 6375 6379	said
+T124	Content 6380 6434	Gates was not working for Yanukovych's political party
+T125	Attribution 6375 6379	said
+E32	Attribution:T125 Content:T124 Cue:T123 Source:T122
+T126	Cue 6439 6443	said
+T127	Content 6444 6469	Manafort was not involved
+T128	Attribution-no-source 6439 6443	said
+E33	Attribution-no-source:T128 Content:T127 Cue:T126
+T129	Content 6472 6553;6669 6736	"I was never given any reason to believe Rick was a Party of Regions consultant," "My assumption was that he was working for the Centre, as we were."
+T130	Cue 6554 6558	said
+T131	Source 6559 6631	John Ward Anderson, a current Podesta employee who attended the meeting,
+T132	Attribution 6554 6558	said
+E34	Attribution:T132 Source:T131 Cue:T130 Content:T129
+T133	Source 6738 6743	Gates
+T134	Cue 6758 6762	told
+T135	Content 6766 6860	he was working with Manafort and that both he and Manafort were working for Yanukovych's party
+T136	Attribution 6758 6762	told
+E35	Attribution:T136 Content:T135 Cue:T134 Source:T133
+T137	Source 6899 6904	Weber
+T138	Cue 6905 6909	told
+T139	Content 6913 7010	that Manafort discussed the project before it began in a conference call with Podesta and himself
+T140	Attribution 6905 6909	told
+E36	Attribution:T140 Content:T139 Cue:T138 Source:T137
+T141	Source 7013 7061	The director of the European Centre, Ina Kirsch,
+T142	Cue 7062 7066	told
+T143	Content 7074 7119	her group never worked with Manafort or Gates
+T144	Attribution 7062 7066	told
+E37	Attribution:T144 Content:T143 Cue:T142 Source:T141
+T145	Cue 7124 7128	said
+T146	Content 7129 7180	the group hired the Washington lobbyists on its own
+T147	Attribution 7124 7128	said
+E38	Attribution:T147 Content:T146 Cue:T145 Source:T141
+T148	Source 7182 7185	She
+T149	Cue 7186 7190	said
+T150	Content 7191 7222	she had met with Manafort twice
+T151	Attribution 7186 7190	said
+E39	Attribution:T151 Content:T150 Cue:T149 Source:T148
+T152	Cue 7227 7231	said
+T153	Content 7232 7299	neither Manafort nor Gates played a role in its lobbying activities
+T154	Attribution 7227 7231	said
+E40	Attribution:T154 Content:T153 Cue:T152 Source:T148
+T155	Source 7302 7312	The center
+T156	Cue 7313 7325	has declined
+T157	Content 7336 7377	to reveal specific sources of its funding
+T158	Attribution 7313 7325	has declined
+E41	Attribution:T158 Content:T157 Cue:T156 Source:T155
+T159	Source 7464 7515	a former U.S. congressman, Mark Siljander, R-Mich.,
+T160	Cue 7516 7530	pleaded guilty
+T161	Content 7544 7651	to illegal lobbying under the law and obstruction of justice for his work with a charity in Khartoum, Sudan
+T162	Attribution 7516 7530	pleaded guilty
+E42	Attribution:T162 Content:T161 Cue:T160 Source:T159
+T163	Source 7658 7669	prosecutors
+T164	Cue 7670 7674	said
+T165	Content 7675 7723	was suspected of funding international terrorism
+T166	Attribution 7670 7674	said
+E43	Attribution:T166 Content:T165 Cue:T164 Source:T163
+T167	Source 7763 7772	Lobbyists
+T168	Cue 7784 7790	prefer
+T169	Content 7791 7887	not to register under the foreign agents law because its requirements are so much more demanding
+T170	Attribution 7784 7790	prefer
+E44	Attribution:T170 Content:T169 Cue:T168 Source:T167
+T171	Source 8322 8330	the ones
+T172	Cue 8331 8341	describing
+T173	Content 8342 8406	payments to the Podesta Group and Mercury by the European Centre
+T174	Attribution 8331 8341	describing
+E45	Attribution:T174 Content:T173 Cue:T172 Source:T171
+T175	Source 8432 8481	The Justice Department's own published guidelines
+T176	Cue 8482 8490	describe
+T177	Content 8491 8541	foreign political parties as covered under the law
+T178	Attribution 8482 8490	describe
+E46	Attribution:T178 Content:T177 Cue:T176 Source:T175
+T179	Source 8544 8558	Podesta's firm
+T180	Cue 8559 8584	has previously registered
+T181	Content 8585 8814	its activities with the Justice Department over its work for Albania, the Republic of Azerbaijan, Cyprus, Georgia, India, Japan, Kenya, Kosovo, the Maldives, Moldova, Morocco, Somalia, South Korea, South Sudan, Vietnam and others
+T182	Attribution 8559 8584	has previously registered
+E47	Attribution:T182 Content:T181 Cue:T180 Source:T179
+T183	Source 8816 8823	Mercury
+T184	Cue 8824 8837	has disclosed
+T185	Content 8864 9013	its work on behalf of government interests in the Cayman Islands, Nigeria, Qatar, Somalia, Turkey, one of the United Arab Emirates, Uganda and others
+T186	Attribution 8824 8837	has disclosed
+E48	Attribution:T186 Content:T185 Cue:T184 Source:T183

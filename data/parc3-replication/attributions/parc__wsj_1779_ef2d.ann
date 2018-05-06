@@ -1,0 +1,19 @@
+T1	Source 9 30	Georgia-Pacific Corp.
+T2	Cue 71 75	said
+T3	Content 76 206	third-quarter earnings rose 56% to $178 million, or $2.03 a share, from $114 million, or $1.19 a share, in the year-earlier period
+T4	Attribution 71 75	said
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 570 578	analysts
+T6	Cue 579 591	had expected
+T7	Content 592 609	a roaring quarter
+T8	Attribution 579 591	had expected
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 645 657	estimates of
+T10	Content 658 678	around $1.90 a share
+T11	Attribution-no-source 645 657	estimates of
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Content 949 1044	strikes, both at Georgia-Pacific and other lumber companies also cut supplies and raised prices
+T13	Source 1046 1054	analysts
+T14	Cue 1055 1059	said
+T15	Attribution 1055 1059	said
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12

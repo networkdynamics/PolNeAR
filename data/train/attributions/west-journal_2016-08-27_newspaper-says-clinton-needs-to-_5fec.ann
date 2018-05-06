@@ -1,0 +1,78 @@
+T1	Source 0 9	Newspaper
+T2	Cue 10 14	Says
+T3	Content 15 90	Clinton Needs To Quit Political Calculations, Show Compassion For Louisiana
+T4	Attribution 10 14	Says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 251 274	a Baton Rouge newspaper
+T7	Content 285 344	Democrat candidate Hillary Clinton to at least do something
+T9	Source 347 359	The Advocate
+T10	Cue 360 370	had chided
+T11	Content 371 590	President Barack Obama on Aug. 17 for continuing his vacation in Martha’s Vineyard instead of making an immediate visit to Louisiana to help bring the state the support it needed after the floods of the previous weekend
+T12	Attribution 360 370	had chided
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 653 674	newspaper’s editorial
+T14	Cue 675 682	telling
+T15	Content 683 795	him to leave his “playground for the posh and well-connected” and visit “the most anguished state in the union.”
+T16	Attribution 675 682	telling
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 845 852	Clinton
+T18	Cue 853 861	had said
+T19	Content 862 896	she would visit at some later time
+T20	Attribution 853 861	had said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T22	Content 940 949	the state
+T23	Cue 910 939	has only issued a tweet about
+T21	Attribution 910 939	has only issued a tweet about
+E6	Attribution:T21 Source:T17 Content:T22 Cue:T23
+T6	Cue 275 284	called on
+T8	Attribution 275 284	called on
+E2	Attribution:T8 Cue:T6 Content:T7 Source:T5
+T24	Source 1106 1109	who
+T25	Cue 1110 1141	aimed their Friday editorial at
+T26	Content 1142 1149	Clinton
+T27	Attribution 1110 1141	aimed their Friday editorial at
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 1152 1252	“If she wants to be the next president, Hillary Clinton should act like one, and come to Louisiana,”
+T29	Source 1253 1266	the editorial
+T30	Cue 1267 1271	read
+T31	Attribution 1267 1271	read
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Source 1274 1287	The newspaper
+T33	Cue 1288 1292	said
+T34	Content 1293 1401	that given the extensive nature of the damage, whoever the next president is should know about it first hand
+T35	Attribution 1288 1292	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Content 1404 1567	“That’s reason enough for Clinton to visit the state and see the damage for herself, and she’s made a bad decision in avoiding Louisiana since the waters receded,”
+T37	Source 1568 1581	the editorial
+T38	Cue 1582 1586	said
+T39	Attribution 1582 1586	said
+E10	Attribution:T39 Cue:T38 Source:T37 Content:T36
+T40	Source 1589 1602	The editorial
+T41	Cue 1603 1608	noted
+T42	Content 1609 1704	Clinton’s comment that she wanted to visit when she would not interfere with the relief efforts
+T43	Attribution 1603 1608	noted
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Cue 1710 1721	did not buy
+T45	Content 1722 1734	her argument
+T46	Attribution 1710 1721	did not buy
+E12	Attribution:T46 Source:T40 Content:T45 Cue:T44
+T47	Content 1737 1947	” … if the incumbent president of the United States can visit Louisiana without doing apparent harm to flood response operations, then surely the woman who’s a leading contender to succeed him can do the same,”
+T48	Source 1948 1950	it
+T49	Cue 1951 1955	read
+T50	Attribution 1951 1955	read
+E13	Attribution:T50 Cue:T49 Source:T48 Content:T47
+T51	Source 1958 1971	The newspaper
+T52	Cue 1972 1977	urged
+T53	Content 1978 2062	Clinton to make a decision on a basis other than its impact on the Electoral College
+T54	Attribution 1972 1977	urged
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Content 2065 2200	“Louisiana is a reliably red state with few electoral votes, and Clinton isn’t likely to flip it to her column in the coming election,”
+T56	Source 2201 2214	the newspaper
+T57	Cue 2215 2223	admitted
+T58	Attribution 2215 2223	admitted
+E15	Attribution:T58 Cue:T57 Source:T56 Content:T55
+T59	Content 2226 2338	“But Louisiana’s crisis should be a call to conscience and compassion, not the cold calculus of electoral math,”
+T60	Source 2339 2341	it
+T61	Cue 2342 2347	added
+T62	Attribution 2342 2347	added
+E16	Attribution:T62 Cue:T61 Source:T60 Content:T59

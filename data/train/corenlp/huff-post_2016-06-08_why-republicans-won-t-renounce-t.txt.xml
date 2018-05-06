@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Why</word>
+            <lemma>why</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>WRB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>Republicans</word>
+            <lemma>Republicans</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>Wo</word>
+            <lemma>will</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>n't</word>
+            <lemma>not</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>Renounce</word>
+            <lemma>renounce</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>Trump</word>
+            <lemma>Trump</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (ADVP (WRB Why)) (NP (NNPS Republicans)) (VP (MD Wo) (RB n't) (VP (VB Renounce) (NP (NNP Trump)))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">Renounce</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="1">Why</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="2">Republicans</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="3">Wo</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="4">n't</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="6">Trump</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="7">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">Renounce</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="1">Why</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="2">Republicans</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="3">Wo</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="4">n't</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="6">Trump</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="7">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">Renounce</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="1">Why</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="2">Republicans</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="3">Wo</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="4">n't</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="6">Trump</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="7">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">Renounce</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="1">Why</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="2">Republicans</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="3">Wo</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="4">n't</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="6">Trump</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="7">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">Renounce</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="1">Why</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="2">Republicans</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="3">Wo</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="4">n't</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="6">Trump</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Renounce</governor>
+            <dependent idx="7">.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>When</word>
+            <lemma>when</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>WRB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>Donald</word>
+            <lemma>Donald</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>Trump</word>
+            <lemma>Trump</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>attacked</word>
+            <lemma>attack</lemma>
+            <CharacterOffsetBegin>57</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>66</CharacterOffsetBegin>
+            <CharacterOffsetEnd>67</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>federal</word>
+            <lemma>federal</lemma>
+            <CharacterOffsetBegin>68</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>judge</word>
+            <lemma>judge</lemma>
+            <CharacterOffsetBegin>76</CharacterOffsetBegin>
+            <CharacterOffsetEnd>81</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>whose</word>
+            <lemma>whose</lemma>
+            <CharacterOffsetBegin>82</CharacterOffsetBegin>
+            <CharacterOffsetEnd>87</CharacterOffsetEnd>
+            <POS>WP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>parents</word>
+            <lemma>parent</lemma>
+            <CharacterOffsetBegin>88</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>were</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>born</word>
+            <lemma>bear</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>105</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>106</CharacterOffsetBegin>
+            <CharacterOffsetEnd>108</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>Mexico</word>
+            <lemma>Mexico</lemma>
+            <CharacterOffsetBegin>109</CharacterOffsetBegin>
+            <CharacterOffsetEnd>115</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>115</CharacterOffsetBegin>
+            <CharacterOffsetEnd>116</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>Hispanic</word>
+            <lemma>Hispanic</lemma>
+            <CharacterOffsetBegin>117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>125</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>Americans</word>
+            <lemma>Americans</lemma>
+            <CharacterOffsetBegin>126</CharacterOffsetBegin>
+            <CharacterOffsetEnd>135</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>were</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>136</CharacterOffsetBegin>
+            <CharacterOffsetEnd>140</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>outraged</word>
+            <lemma>outraged</lemma>
+            <CharacterOffsetBegin>141</CharacterOffsetBegin>
+            <CharacterOffsetEnd>149</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>149</CharacterOffsetBegin>
+            <CharacterOffsetEnd>150</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (NNP Donald) (NNP Trump)) (VP (VBD attacked) (NP (NP (DT a) (JJ federal) (NN judge)) (SBAR (WHNP (WP$ whose) (NNS parents)) (S (VP (VBD were) (VP (VBN born) (PP (IN in) (NP (NNP Mexico))))))))))) (, ,) (NP (NNP Hispanic) (NNPS Americans)) (VP (VBD were) (ADJP (JJ outraged))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="18">outraged</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">attacked</governor>
+            <dependent idx="1">When</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Trump</governor>
+            <dependent idx="2">Donald</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">attacked</governor>
+            <dependent idx="3">Trump</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="18">outraged</governor>
+            <dependent idx="4">attacked</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">judge</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">judge</governor>
+            <dependent idx="6">federal</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">attacked</governor>
+            <dependent idx="7">judge</dependent>
+          </dep>
+          <dep type="nmod:poss">
+            <governor idx="9">parents</governor>
+            <dependent idx="8">whose</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="11">born</governor>
+            <dependent idx="9">parents</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="11">born</governor>
+            <dependent idx="10">were</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="7">judge</governor>
+            <dependent idx="11">born</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">Mexico</governor>
+            <dependent idx="12">in</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="11">born</governor>
+            <dependent idx="13">Mexico</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="18">outraged</governor>
+            <dependent idx="14">,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">Americans</governor>
+            <dependent idx="15">Hispanic</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">outraged</governor>
+            <dependent idx="16">Americans</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="18">outraged</governor>
+            <dependent idx="17">were</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="18">outraged</governor>
+            <dependent idx="19">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="18">outraged</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">attacked</governor>
+            <dependent idx="1">When</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Trump</governor>
+            <dependent idx="2">Donald</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">attacked</governor>
+            <dependent idx="3">Trump</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="18">outraged</governor>
+            <dependent idx="4">attacked</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">judge</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">judge</governor>
+            <dependent idx="6">federal</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">attacked</governor>
+            <dependent idx="7">judge</dependent>
+          </dep>
+          <dep type="nmod:poss">
+            <governor idx="9">parents</governor>
+            <dependent idx="8">whose</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="11">born</governor>
+            <dependent idx="9">parents</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="11">born</governor>
+            <dependent idx="10">were</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="7">judge</governor>
+            <dependent idx="11">born</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">Mexico</governor>
+            <dependent idx="12">in</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="11">born</governor>
+            <dependent idx="13">Mexico</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="18">outraged</governor>
+            <dependent idx="14">,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">Americans</governor>
+            <dependent idx="15">Hispanic</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">outraged</governor>
+            <dependent idx="16">Americans</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="18">outraged</governor>
+            <dependent idx="17">were</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="18">outraged</governor>
+            <dependent idx="19">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="18">outraged</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">attacked</governor>
+            <dependent idx="1">When</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Trump</governor>
+            <dependent idx="2">Donald</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">attacked</governor>
+            <dependent idx="3">Trump</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="18">outraged</governor>
+            <dependent idx="4">attacked</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">judge</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">judge</governor>
+            <dependent idx="6">federal</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">attacked</governor>
+            <dependent idx="7">judge</dependent>
+          </dep>
+          <dep type="nmod:poss">
+            <governor idx="9">parents</governor>
+            <dependent idx="8">whose</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="11">born</governor>
+            <dependent idx="9">parents</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="11">born</governor>
+            <dependent idx="10">were</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="7">judge</governor>
+            <dependent idx="11">born</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">Mexico</governor>
+            <dependent idx="12">in</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="11">born</governor>
+            <dependent idx="13">Mexico</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="18">outraged</governor>
+            <dependent idx="14">,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">Americans</governor>
+            <dependent idx="15">Hispanic</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">outraged</governor>
+            <dependent idx="16">Americans</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="18">outraged</governor>
+            <dependent idx="17">were</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="18">outraged</governor>
+            <dependent idx="19">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="18">outraged</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">attacked</governor>
+            <dependent idx="1">When</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Trump</governor>
+            <dependent idx="2">Donald</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">attacked</governor>
+            <dependent idx="3">Trump</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="18">outraged</governor>
+            <dependent idx="4">attacked</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">judge</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">judge</governor>
+            <dependent idx="6">federal</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">attacked</governor>
+            <dependent idx="7">judge</dependent>
+          </dep>
+          <dep type="nmod:poss" extra="true">
+            <governor idx="9">parents</governor>
+            <dependent idx="7">judge</dependent>
+          </dep>
+          <dep type="ref">
+            <governor idx="7">judge</governor>
+            <dependent idx="8">whose</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="11">born</governor>
+            <dependent idx="9">parents</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="11">born</governor>
+            <dependent idx="10">were</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="7">judge</governor>
+            <dependent idx="11">born</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">Mexico</governor>
+            <dependent idx="12">in</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="11">born</governor>
+            <dependent idx="13">Mexico</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="18">outraged</governor>
+            <dependent idx="14">,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">Americans</governor>
+            <dependent idx="15">Hispanic</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">outraged</governor>
+            <dependent idx="16">Americans</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="18">outraged</governor>
+            <dependent idx="17">were</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="18">outraged</governor>
+            <dependent idx="19">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="18">outraged</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">attacked</governor>
+            <dependent idx="1">When</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Trump</governor>
+            <dependent idx="2">Donald</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">attacked</governor>
+            <dependent idx="3">Trump</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="18">outraged</governor>
+            <dependent idx="4">attacked</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">judge</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">judge</governor>
+            <dependent idx="6">federal</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">attacked</governor>
+            <dependent idx="7">judge</dependent>
+          </dep>
+          <dep type="nmod:poss" extra="true">
+            <governor idx="9">parents</governor>
+            <dependent idx="7">judge</dependent>
+          </dep>
+          <dep type="ref">
+            <governor idx="7">judge</governor>
+            <dependent idx="8">whose</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="11">born</governor>
+            <dependent idx="9">parents</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="11">born</governor>
+            <dependent idx="10">were</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="7">judge</governor>
+            <dependent idx="11">born</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">Mexico</governor>
+            <dependent idx="12">in</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="11">born</governor>
+            <dependent idx="13">Mexico</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="18">outraged</governor>
+            <dependent idx="14">,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">Americans</governor>
+            <dependent idx="15">Hispanic</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">outraged</governor>
+            <dependent idx="16">Americans</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="18">outraged</governor>
+            <dependent idx="17">were</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="18">outraged</governor>
+            <dependent idx="19">.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

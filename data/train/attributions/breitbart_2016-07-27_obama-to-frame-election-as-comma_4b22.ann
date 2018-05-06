@@ -1,0 +1,107 @@
+T1	Source 0 5	Obama
+T2	Cue 6 14	to frame
+T3	Content 15 52	election as ‘commander-in-chief’ test
+T4	Attribution 6 14	to frame
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 76 101	US President Barack Obama
+T6	Cue 102 145	will spearhead a Democratic effort to paint
+T7	Content 146 202	Donald Trump as unfit to be commander-in-chief Wednesday
+T8	Attribution 102 145	will spearhead a Democratic effort to paint
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 204 215	contrasting
+T10	Content 216 293	the Republican nominee with his vastly more experienced rival Hillary Clinton
+T11	Attribution 204 215	contrasting
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T5
+T12	Source 296 301	Obama
+T13	Cue 386 404	will make the case
+T14	Content 473 523	that Clinton is uniquely qualified to be president
+T15	Attribution 386 404	will make the case
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 624 636	according to
+T17	Source 637 687	excerpts of his speech released by the White House
+T18	Content 526 622	“Nothing truly prepares you for the demands of the Oval Office,” the two-term president will say
+T19	Attribution 624 636	according to
+E5	Attribution:T19 Content:T18 Source:T17 Cue:T16
+T20	Source 808 810	he
+T21	Cue 811 819	will say
+T23	Content 690 807;821 890;892 1048	“Until you’ve sat at that desk, you don’t know what it’s like to manage a global crisis or send young people to war,” “But Hillary’s been in the room; she’s been part of those decisions.” “I can say with confidence there has never been a man or a woman more qualified than Hillary Clinton to serve as President of the United States of America.”
+T24	Attribution 811 819	will say
+E6	Attribution:T24 Content:T23 Cue:T21 Source:T20
+T22	Source 1126 1131	Obama
+T25	Cue 1132 1168	could offer a potent testimony about
+T26	Content 1169 1218	how a rival became an ally and evenhanded advisor
+T27	Attribution 1132 1168	could offer a potent testimony about
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T22
+T28	Source 1356 1371	The White House
+T29	Cue 1372 1382	would like
+T30	Content 1383 1521	to make November’s crunch election a battle about competence versus incompetence, steady versus capricious, knowledge versus entertainment
+T31	Attribution 1372 1382	would like
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 1721 1758	to explicitly and implicitly question
+T33	Source 1683 1686	who
+T34	Content 1759 1778	Trump’s temperament
+T35	Attribution 1721 1758	to explicitly and implicitly question
+E9	Attribution:T35 Content:T34 Source:T33 Cue:T32
+T36	Source 1816 1821	Trump
+T37	Cue 1822 1859	launched a pre-emptive attack against
+T38	Content 1860 1865	Obama
+T39	Attribution 1822 1859	launched a pre-emptive attack against
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1867 1874	calling
+T41	Content 1875 1924	him “the most ignorant president in our history.”
+T42	Attribution 1867 1874	calling
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T36
+T43	Source 1926 1935	Democrats
+T44	Cue 1936 1945	will hope
+T45	Content 1946 2080	to capitalize on a string of perceived foreign policy missteps, culminating in Trump’s suggestion that Russia spy on his rival Clinton
+T46	Attribution 1936 1945	will hope
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Cue 2146 2160	a reference to
+T48	Content 2161 2231	thousands of Clinton emails held on a private server that were deleted
+T49	Source 2083 2105	The Republican nominee
+T50	Attribution 2146 2160	a reference to
+E13	Attribution:T50 Source:T49 Content:T48 Cue:T47
+T51	Source 2328 2333	Trump
+T52	Cue 2334 2338	said
+T53	Content 2234 2327	“Russia, if you’re listening, I hope you’re able to find the 30,000 emails that are missing.”
+T54	Attribution 2334 2338	said
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Source 2341 2348	Clinton
+T56	Cue 2349 2353	says
+T57	Content 2354 2398	the mails were personal and not work-related
+T58	Attribution 2349 2353	says
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Cue 2404 2407	for
+T60	Source 2408 2419	Republicans
+T61	Content 2421 2533	it is a smoking gun for a cover-up involving her use of a private server during her time at the State Department
+T62	Attribution 2404 2407	for
+E16	Attribution:T62 Content:T61 Source:T60 Cue:T59
+T63	Source 2536 2543	The FBI
+T64	Cue 2544 2553	concluded
+T65	Content 2565 2673	that Clinton had been “extremely careless” in her handling of classified material via a private email server
+T66	Attribution 2544 2553	concluded
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Cue 2679 2696	did not recommend
+T68	Content 2697 2727	that she face criminal charges
+T69	Attribution 2679 2696	did not recommend
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T63
+T70	Cue 2891 2895	said
+T71	Source 2896 2943	Clinton’s top foreign policy aide Jake Sullivan
+T72	Content 2730 2890;2946 3057	“This has to be the first time that a major presidential candidate has actively encouraged a foreign power to conduct espionage against his political opponent,” “This has gone from being a matter of curiosity, and a matter of politics, to being a national security issue.”
+T73	Attribution 2891 2895	said
+E19	Attribution:T73 Content:T72 Source:T71 Cue:T70
+T74	Source 3653 3668	The White House
+T75	Cue 3669 3673	says
+T76	Content 3674 3738	Obama has been working on the roughly 30-minute speech for weeks
+T77	Attribution 3669 3673	says
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Source 4000 4005	Aides
+T79	Cue 4006 4010	said
+T80	Content 4011 4148	Obama will make a familiar case for what has been achieved during his two terms, highlighting America’s recovery from the Great Recession
+T81	Attribution 4006 4010	said
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Source 3286 3289	she
+T83	Cue 3290 3294	said
+T84	Content 3212 3284	Democrats had “put the biggest crack” yet in the glass ceiling for women
+T85	Attribution 3290 3294	said
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82

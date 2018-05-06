@@ -1,0 +1,79 @@
+T1	Source 130 153	parades in those cities
+T2	Cue 154 172	paused to remember
+T3	Content 173 224	the victims of the June 12 Orlando nightclub attack
+T4	Attribution 154 172	paused to remember
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 285 313	many marchers and spectators
+T6	Cue 314 322	chanting
+T7	Content 323 358	"We are Orlando" and "Disarm hate."
+T8	Attribution 314 322	chanting
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 443 458	President Obama
+T10	Cue 469 477	declared
+T11	Content 437 442;478 571	which as the first national monument dedicated "to tell the story of the struggle for LGBT rights."
+T12	Attribution 469 477	declared
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 654 662	protests
+T14	Cue 663 671	fighting
+T15	Content 672 740	discrimination against gay, lesbian, bisexual and transgender people
+T16	Attribution 663 671	fighting
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 1121 1211	Presumptive Democratic presidential nominee Hillary Clinton marched in the New York parade
+T18	Source 1213 1216	CNN
+T19	Cue 1217 1225	reported
+T20	Attribution 1217 1225	reported
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 1413 1423	organizers
+T22	Cue 1424 1439	paid tribute to
+T23	Content 1440 1469	the 49 people killed at Pulse
+T24	Attribution 1424 1439	paid tribute to
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Cue 1560 1569	were read
+T26	Content 1540 1559	The names of all 49
+T27	Attribution-no-source 1560 1569	were read
+E7	Attribution-no-source:T27 Content:T26 Cue:T25
+T28	Source 1800 1807	reports
+T29	Cue 1808 1810	of
+T30	Content 1811 1858	a possible attempt to attack the LA Pride event
+T31	Attribution 1808 1810	of
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Content 1879 1955	In Seattle, marchers honored the Orlando victims with white roses held aloft
+T33	Source 1957 1964	KING-TV
+T34	Cue 1965 1973	reported
+T35	Attribution 1965 1973	reported
+E9	Attribution:T35 Cue:T34 Source:T33 Content:T32
+T36	Content 1981 2033	in Chicago the parade began with a moment of silence
+T37	Source 2035 2056	the Chicago Sun-Times
+T38	Cue 2057 2065	reported
+T39	Attribution 2057 2065	reported
+E10	Attribution:T39 Cue:T38 Source:T37 Content:T36
+T40	Content 2262 2301	"I pretty much cried the whole parade,"
+T41	Source 2302 2304	he
+T42	Cue 2305 2309	said
+T43	Attribution 2305 2309	said
+E11	Attribution:T43 Cue:T42 Source:T41 Content:T40
+T44	Source 2548 2559	Manny Gomez
+T45	Cue 2560 2564	said
+T46	Content 2565 2624	seeing so many police officers at Pride was a welcome sight
+T47	Attribution 2560 2564	said
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 2672 2676	they
+T49	Cue 2677 2691	wanted to show
+T50	Content 2692 2740	that "they can't scare us back into the closet."
+T51	Attribution 2677 2691	wanted to show
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Content 2742 2838	In Chicago, organizers added 160 security personnel along the parade route, up from 90 last year
+T53	Source 2840 2853	the Sun-Times
+T54	Cue 2854 2862	reported
+T55	Attribution 2854 2862	reported
+E14	Attribution:T55 Cue:T54 Source:T53 Content:T52
+T56	Source 3126 3144	Black Lives Matter
+T57	Cue 3145 3170	issued a statement saying
+T58	Content 3171 3272	it took the action "because of the unsafe conditions created for our communities by law enforcement."
+T59	Attribution 3145 3170	issued a statement saying
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Content 3274 3429	"For us, celebrating Pride this year meant choosing between the threat of homophobic and transphobic vigilante violence and the threat of police violence,"
+T61	Source 3430 3439	the group
+T62	Cue 3440 3459	said in a statement
+T63	Attribution 3440 3459	said in a statement
+E16	Attribution:T63 Cue:T62 Source:T61 Content:T60

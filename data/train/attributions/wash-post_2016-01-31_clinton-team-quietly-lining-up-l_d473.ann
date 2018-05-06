@@ -1,0 +1,152 @@
+T1	Source 0 12	Clinton team
+T2	Cue 13 30	quietly lining up
+T3	Content 31 45	long-term plan
+T4	Attribution 13 30	quietly lining up
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 69 84	the strategy is
+T6	Content 85 110	to swamp Sanders in March
+T7	Attribution-no-source 69 84	the strategy is
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Discuss 69 110	the strategy is to swamp Sanders in March
+T9	Source 204 219	Hillary Clinton
+T10	Cue 326 335	confident
+T11	Content 336 454	that she can deny insurgent Bernie Sanders the Democratic nomination by swamping him in a state-by-state delegate slog
+T12	Attribution 326 335	confident
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 503 515	are expected
+T14	Content 457 502;516 598	Many in Clinton's Iowa staff of more than 100 to quickly fan out to the two dozen states holding primaries and caucuses in March
+T15	Attribution-no-source 503 515	are expected
+E4	Attribution-no-source:T15 Content:T14 Cue:T13
+T16	Cue 833 849	mounting anxiety
+T17	Source 856 896	senior Democrats and some Clinton allies
+T18	Content 897 1014	that the "March firewall" she had been counting on to stop Sanders would be vulnerable if he were to score early wins
+T19	Attribution 833 849	mounting anxiety
+E5	Attribution:T19 Content:T18 Source:T17 Cue:T16
+T20	Source 1022 1031	Clinton's
+T21	Cue 1032 1056	recent focus squarely on
+T22	Content 1057 1129	the first four states - Iowa, New Hampshire, Nevada and South Carolina -
+T23	Attribution 1032 1056	recent focus squarely on
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Cue 1188 1215	have gone largely unnoticed
+T25	Content 1130 1187	her campaign's activities to organize in the March states
+T26	Attribution-no-source 1188 1215	have gone largely unnoticed
+E7	Attribution-no-source:T26 Content:T25 Cue:T24
+T27	Source 1217 1232	Her strategists
+T28	Cue 1233 1262	have been reluctant to reveal
+T29	Content 1263 1298	too much of their playbook publicly
+T30	Attribution 1233 1262	have been reluctant to reveal
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 1340 1373	senior Clinton campaign officials
+T32	Cue 1374 1392	this week detailed
+T33	Content 1393 1452	the breadth of the operation in the March states and beyond
+T34	Attribution 1374 1392	this week detailed
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Cue 1454 1459	eager
+T36	Content 1460 1583	to show that their efforts are sophisticated and that her campaign is durable enough to withstand any early loss to Sanders
+T37	Attribution 1454 1459	eager
+E10	Attribution:T37 Cue:T35 Content:T36 Source:T31
+T38	Content 1683 1819;1854 2034	"The early states are obviously very important in terms of kick-starting the primary, but they [award] only 4 percent of the delegates," "Over half the delegates will be chosen by the end of March. So we've always been focused on making sure that we can build the delegate lead that we need over the course of March."
+T39	Source 1820 1847	campaign manager Robby Mook
+T40	Cue 1848 1852	said
+T41	Attribution 1848 1852	said
+E11	Attribution:T41 Cue:T40 Source:T39 Content:T38
+T42	Source 2036 2081	Many Democrats, including Clinton's advisers,
+T43	Cue 2082 2096	are mindful of
+T44	Content 2097 2180	how quickly the landscape changed for her in 2008 after Barack Obama's Iowa victory
+T45	Attribution 2082 2096	are mindful of
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 2366 2386	Some Clinton backers
+T47	Cue 2387 2400	are concerned
+T48	Content 2401 2481;2555 2596	that momentum could carry him to a better-than-expected finish in South Carolina and across the South and Midwest in March
+T49	Attribution 2387 2400	are concerned
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Content 2489 2498	Clinton's
+T51	Cue 2499 2511	deep support
+T52	Source 2518 2530	black voters
+T53	Attribution 2499 2511	deep support
+E14	Attribution:T53 Source:T52 Cue:T51 Content:T50
+T54	Content 2599 2801	"If Sanders wins Iowa and New Hampshire, the energy and the media coverage are going to be substantial - and all of a sudden that idea that organizational strength outweighs energy starts to disappear,"
+T55	Cue 2802 2806	said
+T56	Source 2807 2884	one well-connected Democrat familiar with the Clinton campaign's organization
+T57	Source 2886 2889	who
+T58	Cue 2890 2899	requested
+T59	Content 2900 2909	anonymity
+T60	Attribution 2890 2899	requested
+E15	Attribution:T60 Cue:T58 Content:T59 Source:T57
+T61	Source 2986 2997	some allies
+T62	Cue 2998 3006	to worry
+T63	Content 3007 3075	whether she could lose her dominance in the South - even in Arkansas
+T64	Attribution 2998 3006	to worry
+E16	Attribution:T64 Cue:T62 Content:T63 Source:T61
+T65	Attribution 2802 2806	said
+E17	Attribution:T65 Source:T56 Cue:T55 Content:T54
+T66	Source 3257 3267	her allies
+T67	Cue 3268 3280	have spotted
+T68	Content 3281 3330	a smattering of Sanders yard signs in Little Rock
+T69	Attribution 3268 3280	have spotted
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Content 3333 3446;3610 3756	"There were a lot more Arkansas voters in 2008 that were acquainted with Hillary Clinton than there are in 2016," "The population here has changed. I think she will carry the state on the Democratic side, but I would be surprised if it was by the same margin."
+T71	Cue 3447 3451	said
+T72	Source 3452 3608	Skip Rutherford, a longtime Clinton loyalist and dean of the University of Arkansas Clinton School of Public Service, who has known the Clintons for decades
+T73	Attribution 3447 3451	said
+E19	Attribution:T73 Source:T72 Cue:T71 Content:T70
+T74	Source 3758 3838	Marlon Marshall, Clinton's director of state campaigns and political engagement,
+T75	Cue 3839 3843	said
+T76	Content 3844 3886	the campaign is taking nothing for granted
+T77	Attribution 3839 3843	said
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Content 3889 3920;3936 4111	"I don't believe in firewalls," "We have strong support in certain demographics, but that doesn't mean it's a firewall. We have to go out and earn support. We can't just say, 'Oh, I think we're good here.'."
+T79	Source 3921 3929	Marshall
+T80	Cue 3930 3934	said
+T81	Attribution 3930 3934	said
+E21	Attribution:T81 Cue:T80 Source:T79 Content:T78
+T82	Source 4113 4131	Some top Democrats
+T83	Cue 4132 4148	are confident in
+T84	Content 4149 4170	the Clinton operation
+T85	Attribution 4132 4148	are confident in
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Cue 4177 4199	openly skeptical about
+T87	Content 4200 4298	Sanders's ability to translate the energy of his large crowds into votes at caucuses and primaries
+T88	Attribution 4177 4199	openly skeptical about
+E23	Attribution:T88 Cue:T86 Content:T87 Source:T82
+T89	Content 4301 4432;4508 4548	"Enthusiasm is not to be underestimated, but enthusiasm that isn't channeled into actual voting is really just a bunch of rallies," "That's not enough to win a nomination."
+T90	Cue 4433 4437	said
+T91	Source 4438 4506	David Axelrod, the top strategist on Obama's 2008 and 2012 campaigns
+T92	Attribution 4433 4437	said
+E24	Attribution:T92 Source:T91 Cue:T90 Content:T89
+T93	Content 5240 5309;5387 5627	"We are on fire to make her the next president of the United States," "We have an unprecedented [number of] volunteers going into Iowa and New Hampshire and Nevada, Minnesota, Colorado and Virginia. And then we're getting ready for our volunteer program in Pennsylvania, Ohio, Florida, Michigan and Wisconsin."
+T94	Cue 5310 5314	said
+T95	Source 5315 5385	Mary Kay Henry, president of the Service Employees International Union
+T96	Attribution 5310 5314	said
+E25	Attribution:T96 Source:T95 Cue:T94 Content:T93
+T97	Source 5924 5931	Axelrod
+T98	Cue 5932 5936	said
+T99	Content 5937 6074	this was a "fatal miscalculation" and that she has learned her lesson: "They are fortified for a longer fight if they need to be in one."
+T100	Attribution 5932 5936	said
+E26	Attribution:T100 Content:T99 Cue:T98 Source:T97
+T101	Source 6076 6094	Clinton's advisers
+T102	Cue 6095 6113	have long insisted
+T103	Content 6114 6163	they thought the primary would become competitive
+T104	Attribution 6095 6113	have long insisted
+E27	Attribution:T104 Content:T103 Cue:T102 Source:T101
+T105	Source 6179 6186	Sanders
+T106	Cue 6187 6196	announced
+T107	Content 6197 6210	his candidacy
+T108	Attribution 6187 6196	announced
+E28	Attribution:T108 Content:T107 Cue:T106 Source:T105
+T111	Content 6224 6369	Mook was holding a meeting in his office at the campaign's Brooklyn, N.Y., headquarters and told aides that he viewed Sanders as a genuine threat
+T109	Cue 6371 6383	according to
+T110	Source 6384 6405	someone in attendance
+T112	Attribution 6371 6383	according to
+E29	Attribution:T112 Source:T110 Cue:T109 Content:T111
+T113	Source 6533 6535	he
+T114	Cue 6536 6545	had hired
+T115	Content 6546 6575	staff in many of those states
+T116	Attribution 6536 6545	had hired
+E30	Attribution:T116 Content:T115 Cue:T114 Source:T113
+T117	Discuss 6533 6575	he had hired staff in many of those states
+T118	Content 7114 7213;7266 7333	"To be successful in a caucus, you need to build an organization, and you can't do that overnight," "You can't arrive two weeks beforehand and expect to have success."
+T119	Cue 7214 7218	said
+T120	Source 7219 7264	Brad Komar, Clinton's Colorado state director
+T121	Attribution 7214 7218	said
+E31	Attribution:T121 Source:T120 Cue:T119 Content:T118

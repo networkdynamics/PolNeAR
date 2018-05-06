@@ -1,0 +1,153 @@
+T1	Source 185 207	a famous TV journalist
+T2	Cue 208 217	intent on
+T3	Content 218 233	getting answers
+T4	Attribution 208 217	intent on
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 537 542	Trump
+T6	Cue 543 552	shot back
+T7	Content 553 595	that the journalist had not been called on
+T8	Attribution 543 552	shot back
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 416 440	The anchor for Univision
+T10	Cue 473 519	was trying insistently to ask a question about
+T11	Content 520 531	immigration
+T12	Attribution 473 519	was trying insistently to ask a question about
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 598 621	“Go back to Univision,”
+T14	Source 622 627	Trump
+T15	Cue 628 634	barked
+T16	Attribution 628 634	barked
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 718 740	the real estate tycoon
+T18	Cue 793 810	harsh words about
+T19	Content 811 829	Mexican immigrants
+T20	Attribution 793 810	harsh words about
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 831 838	calling
+T22	Content 839 851	them rapists
+T23	Attribution 831 838	calling
+E6	Attribution:T23 Source:T17 Content:T22 Cue:T21
+T24	Cue 856 862	vowing
+T25	Content 863 907	to make Mexico pay for a massive border wall
+T26	Attribution 856 862	vowing
+E7	Attribution:T26 Source:T17 Content:T25 Cue:T24
+T27	Content 910 985	“We were tremendously wrong to not have confronted him from the beginning,”
+T28	Source 986 991	Ramos
+T29	Cue 997 1001	told
+T30	Attribution 997 1001	told
+E8	Attribution:T30 Cue:T29 Source:T28 Content:T27
+T31	Content 1049 1175	“Many governments and many media simply did not react to the danger of someone who was attacking migrants, Muslims and women,”
+T32	Source 1176 1178	he
+T33	Cue 1179 1183	said
+T34	Attribution 1179 1183	said
+E9	Attribution:T34 Cue:T33 Source:T32 Content:T31
+T35	Cue 1185 1197	referring to
+T36	Content 1198 1261	other controversial comments made by the Republican frontrunner
+T37	Attribution 1185 1197	referring to
+E10	Attribution:T37 Source:T32 Content:T36 Cue:T35
+T38	Source 1264 1269	Ramos
+T39	Cue 1270 1278	lamented
+T40	Content 1279 1490	that the “danger” came from Trump’s ability to capitalize on anti-establishment anger in the United States while “allowing racist and discriminatory sentiments, which many thought no longer existed, to surface.”
+T41	Attribution 1270 1278	lamented
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Content 1492 1618;1731 1845	“There’s a real demographic revolution in the United States, a revolution in which whites will become minorities in 30 years,” “So I think that there’s resistance among many Americans against seeing their country, accents and colors change.”
+T43	Source 1619 1624	Ramos
+T44	Cue 1625 1629	said
+T45	Attribution 1625 1629	said
+E12	Attribution:T45 Cue:T44 Source:T43 Content:T42
+T46	Cue 1631 1643	referring to
+T47	Content 1644 1679	the ever-growing Hispanic community
+T48	Attribution 1631 1643	referring to
+E13	Attribution:T48 Source:T43 Content:T47 Cue:T46
+T49	Source 1874 1879	Ramos
+T50	Cue 1901 1910	considers
+T51	Content 1911 1931	himself an immigrant
+T52	Attribution 1901 1910	considers
+E14	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Cue 2029 2041	according to
+T54	Source 2042 2045	him
+T55	Content 2047 2107	Mexico’s powerful Televisa network censured his first report
+T56	Attribution 2029 2041	according to
+E15	Attribution:T56 Content:T55 Source:T54 Cue:T53
+T57	Source 2525 2538	Time magazine
+T58	Cue 2539 2544	named
+T59	Content 2545 2603	him on its list of the world’s 100 most influential people
+T60	Attribution 2539 2544	named
+E16	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 2605 2610	Ramos
+T62	Cue 2611 2649	used his acceptance speech to call for
+T63	Content 2650 2697	the resignation of President Enrique Pena Nieto
+T64	Attribution 2611 2649	used his acceptance speech to call for
+E17	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 2812 2817	Ramos
+T66	Cue 2757 2769	Horrified at
+T67	Content 2770 2810	the prospect of Trump becoming president
+T68	Attribution 2757 2769	Horrified at
+E18	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Cue 2818 2829	believes in
+T70	Content 2830 2860	journalism that “takes sides.”
+T71	Attribution 2818 2829	believes in
+E19	Attribution:T71 Source:T65 Content:T70 Cue:T69
+T72	Source 2888 2893	Trump
+T73	Cue 2894 2898	said
+T74	Content 2917 2988	that he was willing to accept an interview with the “anchor (not) baby”
+T75	Attribution 2894 2898	said
+E20	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 3147 3152	Ramos
+T77	Cue 3153 3157	said
+T78	Content 3158 3205	Trump has not replied to his interview requests
+T79	Attribution 3153 3157	said
+E21	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Content 3208 3364	“I am ready whenever he’s ready to speak, but I think that he knows that it will be a tough, confrontational interview, and he doesn’t want that right now,”
+T81	Source 3365 3370	Ramos
+T82	Cue 3371 3375	said
+T83	Attribution 3371 3375	said
+E22	Attribution:T83 Cue:T82 Source:T81 Content:T80
+T84	Source 3387 3392	Ramos
+T85	Cue 3393 3399	warned
+T86	Content 3400 3487	that “nobody, absolutely nobody can get to the White House without Latinos (who vote).”
+T87	Attribution 3393 3399	warned
+E23	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Source 3514 3517	who
+T89	Cue 3518 3530	is promoting
+T90	Content 3531 3573	his 12th book, “Sin Miedo” (Without Fear),
+T91	Attribution 3518 3530	is promoting
+E24	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Source 3493 3512	the star journalist
+T93	Cue 3574 3584	downplayed
+T94	Content 3585 3614	his influence among Hispanics
+T95	Attribution 3574 3584	downplayed
+E25	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Content 3617 3793	“I don’t have the power to change a president, I don’t have the power to give anybody a visa. Our power, as journalists, is to ask questions and question those who have power,”
+T97	Cue 3794 3798	said
+T98	Source 3799 3804	Ramos
+T99	Attribution 3794 3798	said
+E26	Attribution:T99 Source:T98 Cue:T97 Content:T96
+T100	Content 3893 3938	“A journalist’s place is as a counterweight,”
+T101	Source 3939 3941	he
+T102	Cue 3942 3946	said
+T103	Attribution 3942 3946	said
+E27	Attribution:T103 Cue:T102 Source:T101 Content:T100
+T104	Source 3955 3960	Ramos
+T105	Cue 3961 3965	said
+T106	Content 3966 4020	that journalists cannot have any political affiliation
+T107	Attribution 3961 3965	said
+E28	Attribution:T107 Content:T106 Cue:T105 Source:T104
+T108	Source 4195 4200	Ramos
+T109	Cue 4201 4223	reminded viewers about
+T110	Content 4224 4242	his daughter’s job
+T111	Attribution 4201 4223	reminded viewers about
+E29	Attribution:T111 Content:T110 Cue:T109 Source:T108
+T112	Cue 4025 4032	appears
+T113	Content 4022 4024;4033 4048	he somewhat uneasy
+T114	Attribution-no-source 4025 4032	appears
+E30	Attribution-no-source:T114 Content:T113 Cue:T112
+T115	Cue 4054 4065	asked about
+T116	Content 4066 4130	his daughter’s work for the campaign of Democrat Hillary Clinton
+T117	Attribution-no-source 4054 4065	asked about
+E31	Attribution-no-source:T117 Content:T116 Cue:T115
+T118	Source 3044 3079	backers of tougher immigration laws
+T119	Cue 3087 3095	refer to
+T120	Content 3096 3140	children born on US soil to illegal migrants
+T121	Attribution 3087 3095	refer to
+E32	Attribution:T121 Content:T120 Cue:T119 Source:T118

@@ -1,0 +1,141 @@
+T1	Source 0 5	China
+T2	Cue 6 12	rebuts
+T3	Content 13 47	American criticism on overcapacity
+T4	Attribution 6 12	rebuts
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 50 60;77 126	Investment helped global economy after 2008 financial crisis
+T6	Source 62 70	official
+T7	Cue 71 75	says
+T8	Attribution 71 75	says
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Discard 129 138	ABSTRACT.
+T10	Content 140 210	Washington did not complain when China's spending helped global growth
+T11	Source 212 230	a Chinese official
+T12	Cue 231 235	said
+T13	Attribution 231 235	said
+E3	Attribution:T13 Cue:T12 Source:T11 Content:T10
+T14	Cue 237 243	adding
+T15	Content 244 301	that the impact of closing factories was hard to estimate
+T16	Attribution 237 243	adding
+E4	Attribution:T16 Source:T11 Cue:T14 Content:T15
+T17	Discard 304 314	FULL TEXT.
+T18	Source 316 344	The Chinese finance minister
+T19	Cue 345 356	jabbed back
+T20	Content 370 550	complaints from his American counterpart that China's glut of factories making unwanted mountains of steel, aluminum and other products were overwhelming foreign markets and makers
+T21	Attribution 345 356	jabbed back
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Source 553 585	The finance minister, Lou Jiwei,
+T23	Cue 586 595	suggested
+T24	Content 596 805	that foreign officials should curb their complaints about industrial production surpluses because their governments had cheered on China's investment spree during the global financial crisis that began in 2008
+T25	Attribution 586 595	suggested
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Content 832 852	the production gluts
+T27	Cue 853 865	now worrying
+T28	Source 866 933	policy makers in Beijing and, increasingly, others around the world
+T29	Attribution 853 865	now worrying
+E7	Attribution:T29 Source:T28 Cue:T27 Content:T26
+T30	Content 1127 1211;1212 1248;936 998	''Now they're saying that China has a production glut that is a drag upon the world. But what did they say at the time?'' ''At that time, the whole world applauded and thanked China,''
+T31	Source 999 1006	Mr. Lou
+T32	Cue 1007 1011	told
+T33	Attribution 1007 1011	told
+E8	Attribution:T33 Cue:T32 Source:T31 Content:T30
+T34	Source 1250 1257	Mr. Lou
+T35	Cue 1258 1275	was responding to
+T36	Content 1276 1345;1346 1475	questions about complaints by the secretary of the Treasury, Jacob J. Lew, that China's huge surpluses were being sold so cheaply on international markets that they were distorting the global economy
+T37	Source 1478 1485	Mr. Lew
+T38	Cue 1486 1494	stressed
+T39	Content 1495 1508	those worries
+T40	Attribution 1258 1275	was responding to
+E9	Attribution:T40 Source:T34 Cue:T35 Content:T36
+T41	Attribution 1486 1494	stressed
+E10	Attribution:T41 Content:T39 Cue:T38 Source:T37
+T42	Source 1557 1559	he
+T43	Cue 1560 1566	raised
+T44	Content 1567 1571	them
+T45	Attribution 1560 1566	raised
+E11	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Content 1608 1701	''The United States supports efforts to reduce excess capacity and leverage in the economy,''
+T47	Source 1702 1709	Mr. Lew
+T48	Cue 1710 1714	said
+T49	Attribution 1710 1714	said
+E12	Attribution:T49 Cue:T48 Source:T47 Content:T46
+T50	Content 1866 1941	''Excess capacity has a distorting and damaging effect on global markets,''
+T51	Source 1942 1949	Mr. Lew
+T52	Cue 1950 1954	said
+T53	Attribution 1950 1954	said
+E13	Attribution:T53 Cue:T52 Source:T51 Content:T50
+T54	Source 1956 1958	He
+T55	Cue 1959 1964	added
+T56	Content 1965 2063	that defusing the problem was ''critical to the function and stability of international markets.''
+T57	Attribution 1959 1964	added
+E14	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 2065 2074	The talks
+T59	Cue 2099 2109	also cover
+T60	Content 2110 2270	foreign policy and international security tensions, such as North Korea's nuclear weapons and China's territorial disputes with neighbors in the South China Sea
+T61	Attribution 2099 2109	also cover
+E15	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 2442 2451	Mr. Kerry
+T63	Cue 2452 2456	said
+T64	Content 2457 2677	the annual talks, which started in a smaller form a decade ago, remained ''one of the best opportunities that we have to discuss our differences and to seek creative ways to narrow them or to eliminate them altogether.''
+T65	Attribution 2452 2456	said
+E16	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Source 2870 2912	Donald J. Trump and Senator Bernie Sanders
+T67	Cue 2913 2929	have both argued
+T68	Content 2931 3002	that blue-collar workers have lost jobs because of skewed trading rules
+T69	Attribution 2913 2929	have both argued
+E17	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Source 3127 3134	Mr. Lou
+T71	Cue 3135 3139	said
+T72	Content 3140 3227	there was nothing wrong with Mr. Lew's raising the excess capacity problem in the talks
+T73	Attribution 3135 3139	said
+E18	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Source 3233 3235	he
+T75	Cue 3236 3245	suggested
+T76	Content 3246 3308	that Mr. Lew had his eyes on critics back in the United States
+T77	Attribution 3236 3245	suggested
+E19	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Content 3310 3350	''They're under pressure domestically,''
+T79	Source 3351 3353	he
+T80	Cue 3354 3358	said
+T81	Attribution 3354 3358	said
+E20	Attribution:T81 Cue:T80 Source:T79 Content:T78
+T82	Source 3361 3368	Mr. Lou
+T83	Cue 3369 3373	said
+T84	Content 3374 3480	the Chinese government was now ''squarely facing up'' to the massive amounts of unwanted industrial output
+T85	Attribution 3369 3373	said
+E21	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Source 3507 3531	Mr. Xi and other leaders
+T87	Cue 3532 3541	have said
+T88	Content 3542 3620	cutting that output must be a key part of their program to reinvigorate growth
+T89	Attribution 3532 3541	have said
+E22	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Source 3623 3661	The Chinese Communist Party leadership
+T91	Cue 3662 3667	fears
+T92	Content 3668 3814	that sweeping industrial closures could kindle widespread worker protests like those that erupted in several northeastern rust belt cities in 2002
+T93	Attribution 3662 3667	fears
+E23	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 3817 3824	Mr. Lou
+T95	Cue 3825 3834	also told
+T96	Content 3845 4029	that the Chinese government had no precise estimate of the numbers of workers who would have to be laid off from steel mills, mines and other industrial plants as party of that program
+T97	Attribution 3825 3834	also told
+E24	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 4031 4047	A labor official
+T99	Cue 4048 4052	said
+T100	Content 4063 4157	that cutbacks in the steel and coal sectors alone could lead to layoffs of 1.8 million workers
+T101	Attribution 4048 4052	said
+E25	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Source 4160 4167	Mr. Lou
+T103	Cue 4168 4176	declined
+T104	Content 4177 4212	to offer his own figure for layoffs
+T105	Attribution 4168 4176	declined
+E26	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Content 4214 4303	The government cannot control the economy through central planning in the way it once did
+T107	Source 4305 4312	Mr. Lou
+T108	Cue 4313 4317	said
+T109	Attribution 4313 4317	said
+E27	Attribution:T109 Cue:T108 Source:T107 Content:T106
+T110	Content 4319 4426	''So it's very hard to estimate how many people you reduce if you reduce steel production by 10,000 tons,''
+T111	Source 4427 4429	he
+T112	Cue 4430 4434	said
+T113	Attribution 4430 4434	said
+E28	Attribution:T113 Cue:T112 Source:T111 Content:T110

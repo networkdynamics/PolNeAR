@@ -1,0 +1,76 @@
+T1	Cue 386 392	reads:
+T2	Content 393 479	“Repeat after me: Obama is not admitting 100,000, 200,000 or 250,000 Syrian refugees.”
+T3	Source 335 385	The snarky, anti-GOP/Obama water-carrying headline
+T4	Attribution 386 392	reads:
+E1	Attribution:T4 Source:T3 Content:T2 Cue:T1
+T5	Content 481 514	Oh, okay. I guess that settles it
+T6	Cue 516 520	said
+T7	Source 521 571	six-million people who lost their health insurance
+T8	Attribution 516 520	said
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Source 1038 1043	Obama
+T10	Cue 1043 1051	’s word:
+T13	Attribution 1043 1051	’s word:
+T14	Source 1348 1353	Kerry
+T15	Cue 1354 1358	said
+T16	Content 1359 1390;1393 1432;1433 1520	that 100,000 would be accepted. That adds up to 185,000 over two years. But this would be the total number of refugees, not the number of refugees from Syria."
+T17	Attribution 1354 1358	said
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 1581 1597	the fact-checker
+T19	Cue 1598 1603	knows
+T20	Content 1617 1670	that they won’t be because Obama is awesome and stuff
+T21	Attribution 1598 1603	knows
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Source 1691 1696	Kerry
+T23	Cue 1697 1714	s announcement of
+T24	Content 1715 1736	this increased number
+T25	Attribution 1697 1714	s announcement of
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 2953 2972	the Washington Post
+T27	Cue 2973 2983	will brand
+T28	Content 2984 2994	you a liar
+T29	Attribution 2973 2983	will brand
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 2999 3007	NBC News
+T31	Cue 3008 3019	will accuse
+T32	Content 3020 3053	you of engaging in a “freak out.”
+T33	Attribution 3008 3019	will accuse
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Discuss 2907 2951	If you don’t believe your federal government
+T35	Source 2148 2189	the Washington Post’s phony fact-checkers
+T36	Cue 2237 2245	ridicule
+T37	Content 2246 2358	the idea that President Executive Order might use an Executive Order to flood America with additional immigrants
+T38	Attribution 2237 2245	ridicule
+E9	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 2407 2439	the Washington Post fact checker
+T40	Cue 2507 2511	told
+T41	Content 2512 2572;2601 2617	that the baseline for truth in this presidential campaign is Obama’s promises
+T42	Attribution 2507 2511	told
+E10	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 574 595	This phony fact check
+T44	Cue 607 622	openly ridicule
+T45	Content 623 737	Donald Trump, Ben Carson, and Carly Fiorina for criticizing Obama’s decision to take in additional Syrian refugees
+T46	Attribution 607 622	openly ridicule
+E11	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 0 20	Wash Post Fact-Check
+T48	Cue 20 21	:
+T49	Content 22 49	If Obama Says It, It’s True
+T50	Attribution 20 21	:
+E12	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Content 1908 2024;2106 2107	"By law, the president every fiscal year sets the maximum number of refugees the United States can accept in a year. "
+T52	Cue 1905 1906	:
+T53	Attribution 1905 1906	:
+E13	Attribution:T53 Cue:T52 Source:T22 Content:T51
+T54	Discuss 52 118	If Republicans choose to not believe Liar-of the Year Barack Obama
+T11	Content 1053 1332	"As we have explained before, the only thing close to a 200,000 figure is an announcement in September by Secretary of State John Kerry that the United States was prepared to boost the number of total refugees accepted from around the world in fiscal 2016, from 70,000 to 85,000.
+E3	Attribution:T13 Content:T11 Cue:T10 Source:T9
+T12	Source 739 754	The candidates’
+T55	Cue 755 778	respective estimates of
+T56	Content 779 857	the number of Syrian refugees Obama will accept ranges from 100,000 to 250,000
+T57	Attribution 755 778	respective estimates of
+E14	Attribution:T57 Content:T56 Cue:T55 Source:T12
+T58	Source 55 66	Republicans
+T59	Cue 67 88	choose to not believe
+T60	Content 89 118	Liar-of the Year Barack Obama
+T61	Attribution 67 88	choose to not believe
+E15	Attribution:T61 Content:T60 Cue:T59 Source:T58

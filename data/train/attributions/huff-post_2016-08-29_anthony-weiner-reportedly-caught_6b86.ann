@@ -1,0 +1,39 @@
+T1	Discuss 281 290	allegedly
+T2	Content 214 220;281 350	Weiner allegedly sent lurid tweets and photos of his crotch to another woman
+T3	Source 352 369	the New York Post
+T4	Cue 370 378	reported
+T5	Attribution 370 378	reported
+E1	Attribution:T5 Cue:T4 Source:T3 Content:T2
+T6	Cue 508 518	reportedly
+T7	Content 449 507;519 567	The woman who received the former congressman’s photos has been chatting with him online since January 2015
+T8	Attribution-no-source 508 518	reportedly
+E2	Attribution-no-source:T8 Content:T7 Cue:T6
+T9	Source 693 699	Weiner
+T10	Cue 700 708	admitted
+T11	Content 726 781	that he and the woman had “been friends for some time,”
+T12	Attribution 700 708	admitted
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 782 784	he
+T14	Cue 785 792	claimed
+T15	Content 793 821	they had never met in person
+T16	Attribution 785 792	claimed
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 919 921	he
+T18	Cue 922 941	accidentally posted
+T19	Content 942 978	a sexually explicit image of himself
+T20	Attribution 922 941	accidentally posted
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1298 1300	He
+T22	Cue 1301 1310	announced
+T23	Content 1311 1341	that he was undergoing therapy
+T24	Attribution 1301 1310	announced
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Cue 1346 1351	vowed
+T26	Content 1352 1385	to focus on being a better father
+T27	Attribution 1346 1351	vowed
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T21
+T28	Content 1388 1417	“Being a dad, that’s my job,”
+T29	Source 1418 1424	Weiner
+T30	Cue 1425 1429	said
+T31	Attribution 1425 1429	said
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28

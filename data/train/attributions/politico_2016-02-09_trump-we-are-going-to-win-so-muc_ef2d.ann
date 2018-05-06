@@ -1,0 +1,129 @@
+T1	Source 0 5	Trump
+T2	Cue 5 6	:
+T3	Content 7 37	'We are going to win so much.'
+T4	Attribution 5 6	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 39 51	Donald Trump
+T6	Cue 52 80	was magnanimous in declaring
+T7	Content 81 88	victory
+T8	Attribution 52 80	was magnanimous in declaring
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 176 178	he
+T10	Cue 179 205	was back to boasting about
+T11	Content 206 215	"winning"
+T12	Attribution 179 205	was back to boasting about
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 220 228	pledging
+T14	Content 229 257	to make American great again
+T15	Attribution 220 228	pledging
+E4	Attribution:T15 Source:T9 Cue:T13 Content:T14
+T16	Cue 265 280	taking slams at
+T17	Content 281 313	Democratic winner Bernie Sanders
+T18	Attribution 265 280	taking slams at
+E5	Attribution:T18 Source:T9 Cue:T16 Content:T17
+T19	Cue 318 334	totally ignoring
+T20	Content 335 350	Hillary Clinton
+T21	Attribution 318 334	totally ignoring
+E6	Attribution:T21 Source:T9 Content:T20 Cue:T19
+T22	Content 353 423;558 589	“We are going to start winning again and we are going to win so much," "You are going to be so happy.”
+T23	Source 424 429	Trump
+T24	Cue 430 434	said
+T25	Attribution 430 434	said
+E7	Attribution:T25 Cue:T24 Source:T23 Content:T22
+T26	Source 487 499	news outlets
+T27	Cue 500 508	declared
+T28	Content 509 556	him the victor in the New Hampshire GOP primary
+T29	Attribution 500 508	declared
+E8	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 591 593	He
+T31	Cue 594 613	immediately blasted
+T32	Content 614 675	Sanders, who had given his own victory speech just before him
+T33	Attribution 594 613	immediately blasted
+E9	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Content 678 713;726 769	“I heard parts of Bernie’s speech," "He wants to give away our country, folks.”
+T35	Source 714 719	Trump
+T36	Cue 720 724	said
+T37	Attribution 720 724	said
+E10	Attribution:T37 Cue:T36 Source:T35 Content:T34
+T38	Source 775 780	Trump
+T39	Cue 781 792	also struck
+T40	Content 793 801	populist
+T41	Discuss 771 774	But
+T42	Attribution 781 792	also struck
+E11	Attribution:T42 Content:T40 Cue:T39 Source:T38
+T43	Cue 846 856	trumpeting
+T44	Content 857 954	what he called his self-funded campaign and his independence from lobbyists and special interests
+T45	Attribution 846 856	trumpeting
+E12	Attribution:T45 Source:T38 Cue:T43 Content:T44
+T46	Content 956 1033	“I think one of the things that really caught on — self-funding my campaign,”
+T47	Source 1034 1039	Trump
+T48	Cue 1040 1044	said
+T49	Attribution 1040 1044	said
+E13	Attribution:T49 Cue:T48 Source:T47 Content:T46
+T50	Content 1047 1099;1110 1167	“We are now going to make [deals] for your benefit," "We are going to make the deals for the American people.”
+T51	Source 1100 1102	he
+T52	Cue 1103 1108	added
+T53	Attribution 1103 1108	added
+E14	Attribution:T53 Cue:T52 Source:T51 Content:T50
+T54	Source 1169 1174	Trump
+T55	Cue 1175 1190	never mentioned
+T56	Content 1191 1198	Clinton
+T57	Attribution 1175 1190	never mentioned
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 1293 1295	He
+T59	Cue 1296 1320	nodded only obliquely to
+T60	Content 1321 1368	his second-place finish in Iowa behind Ted Cruz
+T61	Attribution 1296 1320	nodded only obliquely to
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Content 1371 1451	"You know, we learned a lot about ground games in one week, I have to tell you,”
+T63	Source 1452 1454	he
+T64	Cue 1455 1459	said
+T65	Attribution 1455 1459	said
+E17	Attribution:T65 Cue:T64 Source:T63 Content:T62
+T66	Source 1462 1467	Trump
+T67	Cue 1535 1543	thanking
+T68	Content 1544 1597	Republican National Committee Chairman Reince Priebus
+T69	Attribution 1535 1543	thanking
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Cue 1602 1616	congratulating
+T71	Content 1617 1664	the Republicans who had finished far behind him
+T72	Attribution 1602 1616	congratulating
+E19	Attribution:T72 Source:T66 Cue:T70 Content:T71
+T73	Content 1695 1730	“Now that I got that over with...,”
+T74	Source 1731 1733	he
+T75	Cue 1734 1738	said
+T76	Attribution 1734 1738	said
+E20	Attribution:T76 Cue:T75 Source:T74 Content:T73
+T77	Source 1741 1746	Trump
+T78	Cue 1747 1757	reiterated
+T79	Content 1758 1939	many of the campaign pledges he's been making for months: rebuilding the military, taking care of veterans, protecting the Second Amendment and building a wall on the Mexican border
+T80	Attribution 1747 1757	reiterated
+E21	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Content 1942 1972;1982 2065	“We’re going to build a wall," "It’s going to be built. Believe it or not, it’s not even a difficult thing to do.”
+T82	Source 1973 1975	he
+T83	Cue 1976 1980	said
+T84	Attribution 1976 1980	said
+E22	Attribution:T84 Cue:T83 Source:T82 Content:T81
+T85	Source 2067 2069	He
+T86	Cue 2070 2077	pledged
+T87	Content 2078 2135	to be "the greatest jobs president that God ever created"
+T88	Attribution 2070 2077	pledged
+E23	Attribution:T88 Content:T87 Cue:T86 Source:T85
+T89	Cue 2140 2153	cast doubt on
+T90	Content 2154 2199	the official unemployment rate of 4.9 percent
+T91	Attribution 2140 2153	cast doubt on
+E24	Attribution:T91 Source:T85 Cue:T89 Content:T90
+T92	Cue 2201 2210	suggested
+T93	Content 2211 2273	that the real unemployment rate could be as high as 42 percent
+T94	Attribution 2201 2210	suggested
+E25	Attribution:T94 Source:T85 Cue:T92 Content:T93
+T95	Source 2276 2281	Trump
+T96	Cue 2282 2289	thanked
+T97	Content 2290 2427	his parents, his siblings, his wife and his children, as well as his campaign manager, Corey Lewandowski, and his spokeswoman, Hope Hicks
+T98	Attribution 2282 2289	thanked
+E26	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Source 2430 2432	He
+T100	Cue 2433 2437	said
+T101	Content 2438 2542	his wife, Melania, "said right from the beginning, 'You know, if you run you know you’re going to win.'”
+T102	Attribution 2433 2437	said
+E27	Attribution:T102 Content:T101 Cue:T100 Source:T99

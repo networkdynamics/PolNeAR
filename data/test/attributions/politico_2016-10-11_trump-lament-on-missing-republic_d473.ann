@@ -1,0 +1,88 @@
+T1	Source 0 5	Trump
+T2	Cue 6 15	lament on
+T3	Content 16 79	missing Republican supporters:  ‘Why aren't they on the shows?'
+T4	Attribution 6 15	lament on
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 81 110	Republicans have gone missing
+T6	Source 112 124	Donald Trump
+T7	Cue 125 166	suggested at a private fundraiser Tuesday
+T8	Attribution 125 166	suggested at a private fundraiser Tuesday
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Cue 168 174	musing
+T10	Content 175 212	why they aren’t “all over the place.”
+T11	Attribution 168 174	musing
+E3	Attribution:T11 Cue:T9 Source:T6 Content:T10
+T12	Content 214 381;433 531	“I think they forgot that there was an election, because something happened in the last month where you didn't see them, right?” Trump said at a San Antonio fundraiser “You didn’t see them. I said, ‘Why aren't they on the shows? Why aren’t they all over the place?’”
+T13	Cue 383 395	according to
+T14	Source 396 431	audio obtained by the Texas Tribune
+T15	Attribution 383 395	according to
+E4	Attribution:T15 Source:T14 Cue:T13 Content:T12
+T16	Discuss 214 531	“I think they forgot that there was an election, because something happened in the last month where you didn't see them, right?” Trump said at a San Antonio fundraiser, according to audio obtained by the Texas Tribune. “You didn’t see them. I said, ‘Why aren't they on the shows? Why aren’t they all over the place?’”
+T17	Source 533 538	Trump
+T18	Cue 539 565	spoke for about 15 minutes
+T19	Content 567 625	echoing his Twitter account with more attacks on the party
+T20	Attribution 539 565	spoke for about 15 minutes
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 627 632	Trump
+T22	Cue 633 637	told
+T23	Content 645 704	that “our own party gets in the way” of his White House bid
+T24	Attribution 633 637	told
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 707 801	“Sometimes it’s harder to beat our own party than it is to beat the person on the other side,”
+T26	Source 802 804	he
+T27	Cue 805 809	said
+T28	Attribution 805 809	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 812 814	He
+T30	Cue 815 830	also maintained
+T31	Content 831 923	that House Speaker Paul Ryan should focus on the budget, not criticizing his party’s nominee
+T32	Attribution 815 830	also maintained
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 929 935	mocked
+T34	Content 936 997	him for losing in 2012 alongside then-GOP nominee Mitt Romney
+T35	Attribution 929 935	mocked
+E9	Attribution:T35 Cue:T33 Source:T29 Content:T34
+T36	Content 1000 1031;1041 1063	“This guy lost four years ago,” “in like a landslide.”
+T37	Source 1032 1034	he
+T38	Cue 1035 1039	said
+T39	Attribution 1035 1039	said
+E10	Attribution:T39 Cue:T38 Source:T37 Content:T36
+T40	Source 1065 1070	Trump
+T41	Cue 1071 1094	has repeatedly hammered
+T42	Content 1095 1124	Ryan and the GOP more broadly
+T43	Attribution 1071 1094	has repeatedly hammered
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1156 1161	Trump
+T45	Cue 1162 1170	lamented
+T46	Content 1171 1248	how difficult it is to succeed “when Paul Ryan and others give zero support!”
+T47	Attribution 1162 1170	lamented
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 1250 1252	He
+T49	Cue 1253 1259	called
+T50	Content 1260 1301	Ryan a “very weak and ineffective leader”
+T51	Attribution 1253 1259	called
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Cue 1306 1319	boasted about
+T53	Content 1320 1434	how “nice” it is now “that the shackles have been taken off me and I can now fight for America the way I want to.”
+T54	Attribution 1306 1319	boasted about
+E14	Attribution:T54 Cue:T52 Source:T48 Content:T53
+T55	Content 1436 1455	“It feels so good,”
+T56	Source 1456 1458	he
+T57	Cue 1459 1463	told
+T58	Attribution 1459 1463	told
+E15	Attribution:T58 Cue:T57 Source:T56 Content:T55
+T59	Source 1500 1505	Trump
+T60	Cue 1506 1518	also slammed
+T61	Content 1519 1550	other establishment Republicans
+T62	Attribution 1506 1518	also slammed
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 1556 1558	he
+T64	Cue 1559 1563	said
+T65	Content 1552 1555;1564 1707	who are “far” less loyal than Democrats are to one another and “far more difficult than Crooked Hillary” because they “come at you from all sides.”
+T66	Attribution 1559 1563	said
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Content 1708 1757	“They don’t know how to win – I will teach them!”
+T68	Source 1758 1760	he
+T69	Cue 1761 1768	tweeted
+T70	Attribution 1761 1768	tweeted
+E18	Attribution:T70 Cue:T69 Source:T68 Content:T67

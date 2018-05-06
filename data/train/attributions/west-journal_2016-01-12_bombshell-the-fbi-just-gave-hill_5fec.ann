@@ -1,0 +1,40 @@
+T1	Source 29 44	Hillary Clinton
+T2	Cue 64 77	To Be Worried
+T3	Content 45 63	A WHOLE New Reason
+T4	Attribution 64 77	To Be Worried
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 340 436	the FBI is looking into whether Clinton was guilty of public corruption while secretary of state
+T6	Cue 438 450	according to
+T7	Source 451 546	three intelligence sources who spoke to Fox News but were not authorized to speak on the record
+T8	Attribution 438 450	according to
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Source 563 573	the bureau
+T10	Cue 574 589	is looking into
+T11	Content 590 673	whether State Department business illegally intersected with the Clinton Foundation
+T12	Attribution 574 589	is looking into
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 676 699	One intelligence source
+T14	Cue 700 704	said
+T15	Content 705 884	FBI agents would be “screaming” if a prosecution is not pursued because “many previous public corruption cases have been made and successfully prosecuted with much less evidence.”
+T16	Attribution 700 704	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 886 908	The Clinton Foundation
+T18	Cue 909 947	describes itself in the following way:
+T19	Content 949 1306	“Everywhere we go, we’re trying to work ourselves out of a job. Whether it’s improving global health, increasing opportunity for girls and women, reduce childhood obesity and preventable diseases, creating economic opportunity and growth, or helping communities address the effects of climate change, we keep score by the lives that are saved and improved.”
+T20	Attribution 909 947	describes itself in the following way:
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1442 1449	the FBI
+T22	Cue 1450 1455	lists
+T23	Content 1456 1511	“public corruption as the FBI’s top criminal priority.”
+T24	Attribution 1450 1455	lists
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Cue 1513 1525	According to
+T26	Source 1526 1567	Jack Kelly, writing for RealClearPolitics
+T27	Content 1570 1760;1761 2053	The Clinton Foundation “received as much as $26.4 million in previously undisclosed payments” from corporations, foreign sources, and other groups, the Washington Post reported ten days ago. That’s in addition to “millions” in foreign donations from the years 2010 to 2013 that were not reported until Reuters asked about them in April. Which were in addition to millions in foreign donations the Clinton Foundation acknowledged after the Washington Post asked about them in February
+T28	Attribution 1513 1525	According to
+E7	Attribution:T28 Content:T27 Source:T26 Cue:T25
+T29	Source 2056 2083	Another intelligence source
+T30	Cue 2105 2109	said
+T31	Content 2111 2292	“The agents are investigating the possible intersection of Clinton Foundation donations, the dispensation of State Department contracts and whether regular processes were followed.”
+T32	Attribution 2105 2109	said
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29

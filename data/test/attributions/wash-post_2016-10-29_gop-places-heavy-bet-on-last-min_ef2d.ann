@@ -1,0 +1,117 @@
+T1	Source 0 3	GOP
+T2	Discuss 0 3	GOP
+T3	Cue 4 23	places heavy bet on
+T4	Content 24 74	last-minute super PAC cash to hold Senate majority
+T5	Attribution 4 23	places heavy bet on
+E1	Attribution:T5 Content:T4 Cue:T3 Source:T1
+T6	Content 189 218;235 254	one group of party operatives geniuses - or fools
+T7	Cue 219 234	could look like
+T8	Attribution-no-source 219 234	could look like
+E2	Attribution-no-source:T8 Cue:T7 Content:T6
+T9	Source 257 266	Democrats
+T10	Cue 267 289	made an early decision
+T11	Content 290 357	to hold on to their most precious campaign cash for the final weeks
+T12	Attribution 267 289	made an early decision
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 359 365	hoping
+T14	Content 366 444	their liberal super PAC allies would help out wherever and whenever they could
+T15	Attribution 359 365	hoping
+E4	Attribution:T15 Source:T9 Cue:T13 Content:T14
+T16	Source 446 457	Republicans
+T17	Cue 458 468	calculated
+T18	Content 469 640	that, given the head winds their incumbents faced with Donald Trump's emergence as their presidential nominee, they needed to drain their party treasury earlier than usual
+T19	Attribution 458 468	calculated
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 730 740	Republican
+T21	Cue 741 748	leaning
+T22	Source 749 759	super PACs
+T23	Attribution 741 748	leaning
+E6	Attribution:T23 Source:T22 Cue:T21 Content:T20
+T24	Content 760 764;772 827	that cannot coordinate with GOP candidates and party leaders
+T25	Cue 765 767	by
+T26	Source 768 771	law
+T27	Attribution 765 767	by
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Content 830 841;906 1012	By Sept. 30 the National Republican Senatorial Committee had spent $28.3 million from its independent advertising unit
+T29	Cue 843 855	according to
+T30	Source 856 904	new filings with the Federal Election Commission
+T31	Attribution 843 855	according to
+E8	Attribution:T31 Source:T30 Cue:T29 Content:T28
+T32	Content 1662 1778	Combined, the candidate and the DSCC are spending about $5 million in the final four weeks on the Las Vegas airwaves
+T33	Cue 1780 1792	according to
+T34	Source 1793 1901	an ad overview provided to The Washington Post by a Republican not directly connected to any Senate campaign
+T35	Attribution 1780 1792	according to
+E9	Attribution:T35 Source:T34 Cue:T33 Content:T32
+T36	Content 1903 1911	The data
+T37	Cue 1912 1925	was confirmed
+T38	Source 1929 1956	strategists in both parties
+T39	Attribution 1912 1925	was confirmed
+E10	Attribution:T39 Source:T38 Cue:T37 Content:T36
+T40	Content 2713 2782	The DSCC has somewhere near $3 million in ads reserved over that span
+T41	Cue 2784 2796	according to
+T42	Source 2797 2833	a GOP strategist monitoring the race
+T43	Attribution 2784 2796	according to
+E11	Attribution:T43 Source:T42 Cue:T41 Content:T40
+T44	Source 3414 3427	the super PAC
+T45	Cue 3428 3447	designed to support
+T46	Content 3448 3500	Majority Leader Mitch McConnell's (R-Ky.) candidates
+T47	Attribution 3428 3447	designed to support
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 3703 3711	Politico
+T49	Cue 3712 3720	reported
+T50	Content 3736 3843	the PAC will more than level the overall playing field of advertising in the final weeks of these campaigns
+T51	Attribution 3712 3720	reported
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 4237 4245	The DSCC
+T53	Cue 4246 4253	derided
+T54	Content 4254 4372	the move as a last-minute bid to prop up campaigns wounded by Trump's limping candidacy in several battleground states
+T55	Attribution 4246 4253	derided
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Content 4375 4415	"Republicans have hit the panic button,"
+T57	Source 4416 4451	Sadie Weiner, the DSCC spokeswoman,
+T58	Cue 4452 4471	said in a statement
+T59	Attribution 4452 4471	said in a statement
+E15	Attribution:T59 Cue:T58 Source:T57 Content:T56
+T60	Source 4474 4483	Democrats
+T61	Cue 4484 4501	are quick to note
+T62	Content 4502 4712	that, over the entire course of the 2016 cycle, Republican outside groups have spent far more than Democratic-aligned groups, particularly those affiliated with the industrialist brothers Charles and David Koch
+T63	Attribution 4484 4501	are quick to note
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 4735 4744	Democrats
+T65	Cue 4745 4756	acknowledge
+T66	Content 4757 4835	that they feel better off financially than they expected for the final stretch
+T67	Attribution 4745 4756	acknowledge
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 4848 4857	Democrats
+T69	Cue 4858 4861	say
+T70	Content 4862 4899	they've spent their money more wisely
+T71	Attribution 4858 4861	say
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Content 4901 4911;4929 5101	Candidates get the cheapest advertising rates available and also get preferential placement on ad timing- whether it be during local TV news or marquee events such as the World Series
+T73	Cue 4913 4915	by
+T74	Source 4916 4927	federal law
+T75	Attribution 4913 4915	by
+E19	Attribution:T75 Source:T74 Cue:T73 Content:T72
+T76	Source 5605 5616	Republicans
+T77	Cue 5617 5633	privately defend
+T78	Content 5634 5648	their strategy
+T79	Attribution 5617 5633	privately defend
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Cue 5650 5659	insisting
+T81	Content 5660 5793	they had no choice but to spend early from the NRSC's campaign coffers because they needed to defend their candidates in Trump's wake
+T82	Attribution 5650 5659	insisting
+E21	Attribution:T82 Source:T76 Cue:T80 Content:T81
+T83	Content 5946 5995	has a sizable lead over his Democratic challenger
+T84	Source 5935 5940	polls
+T85	Cue 5941 5945	show
+T86	Attribution 5941 5945	show
+E22	Attribution:T86 Cue:T85 Source:T84 Content:T83
+T87	Content 6006 6038;6053 6086	the official party organizations from coordinating with super PACs
+T88	Cue 6039 6052	are forbidden
+T89	Attribution-no-source 6039 6052	are forbidden
+E23	Attribution-no-source:T89 Cue:T88 Content:T87
+T90	Content 6162 6186;6197 6230	what messages and themes pounded home in the final stretch
+T91	Source 6187 6191	they
+T92	Cue 6192 6196	want
+T93	Attribution 6192 6196	want
+E24	Attribution:T93 Cue:T92 Source:T91 Content:T90

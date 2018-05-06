@@ -1,0 +1,208 @@
+T1	Source 45 57	Donald Trump
+T2	Cue 58 69	joked about
+T3	Content 70 88	Jewish stereotypes
+T4	Attribution 58 69	joked about
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 0 13	Trump, Carson
+T7	Source 24 42	Jewish Republicans
+T9	Cue 90 98	declined
+T10	Content 99 143	to affirm his support for a united Jerusalem
+T11	Attribution 90 98	declined
+E3	Attribution:T11 Cue:T9 Content:T10 Source:T1
+T12	Cue 149 153	told
+T13	Content 167 225	they wouldn’t back him because he did not want their money
+T14	Attribution 149 153	told
+E4	Attribution:T14 Cue:T12 Source:T1 Content:T13
+T15	Source 257 267	Ben Carson
+T16	Cue 268 289	repeatedly pronounced
+T17	Content 290 384	the name of the Palestinian group “Hamas” as if it were a delicious spread made with chickpeas
+T18	Attribution 268 289	repeatedly pronounced
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 441 506	attendees at Thursday’s summit of the Republican Jewish Coalition
+T20	Cue 436 440	left
+T21	Content 387 435;507 532	The performance of these two outsider candidates amused, but not impressed
+T22	Attribution 436 440	left
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 593 597	that
+T24	Cue 598 609	prioritizes
+T25	Content 610 639	American policy toward Israel
+T26	Attribution 598 609	prioritizes
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 759 762	one
+T28	Cue 763 782	more concerned with
+T29	Content 783 812	the nuances of foreign policy
+T30	Attribution 763 782	more concerned with
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Content 815 873	“I don’t think either one helped themselves particularly,”
+T32	Cue 874 878	said
+T33	Source 879 970	Ari Fleischer, former White House press secretary to George W. Bush, who attended the event
+T34	Attribution 874 878	said
+E9	Attribution:T34 Source:T33 Cue:T32 Content:T31
+T6	Cue 14 18	flop
+T8	Attribution 14 18	flop
+E2	Attribution:T8 Cue:T6 Source:T7 Content:T5
+T35	Source 979 983	many
+T36	Cue 984 995	agreed with
+T37	Content 996 1040	much of the substance of his Carson’s speech
+T38	Attribution 984 995	agreed with
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 1046 1060	neurosurgeon’s
+T40	Cue 1061 1069	decision
+T41	Content 1070 1098	to read from a prepared text
+T42	Attribution 1061 1069	decision
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1103 1106	his
+T44	Cue 1107 1136	repeated mispronunciations of
+T45	Content 1137 1144	“Hamas”
+T46	Attribution 1107 1136	repeated mispronunciations of
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Cue 1161 1176	the perceptions
+T48	Source 1180 1197	those in the hall
+T49	Content 1198 1270	that he does not fully grasp the complicated dynamics of the Middle East
+T50	Attribution 1161 1176	the perceptions
+E13	Attribution:T50 Content:T49 Source:T48 Cue:T47
+T51	Source 1273 1278	Trump
+T52	Cue 1325 1336	questioning
+T53	Content 1337 1387	Israel’s commitment to making peace with Palestine
+T54	Attribution 1325 1336	questioning
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Content 1425 1572;1647 1665	"A lot will have to do with Israel and whether or not Israel wants to make the deal — whether or not Israel's willing to sacrifice certain things," "They may not be.”
+T56	Source 1573 1578	Trump
+T57	Cue 1579 1583	told
+T58	Attribution 1579 1583	told
+E15	Attribution:T58 Cue:T57 Source:T56 Content:T55
+T59	Source 1689 1691	he
+T60	Cue 1692 1703	joked about
+T61	Content 1704 1775	Hillary Clinton’s “interesting friendship” with Muslim aide Huma Abedin
+T62	Attribution 1692 1703	joked about
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Cue 1777 1782	cited
+T64	Content 1783 1860	his appearance in a campaign ad for Israeli Prime Minister Benjamin Netanyahu
+T65	Attribution 1777 1782	cited
+E17	Attribution:T65 Cue:T63 Source:T59 Content:T64
+T66	Cue 1865 1873	led with
+T67	Content 1874 1903	his daughter’s Jewish husband
+T68	Attribution 1865 1873	led with
+E18	Attribution:T68 Cue:T66 Content:T67 Source:T59
+T69	Content 2003 2082;2118 2126;2128 2211	“He’s funny. And if I went to the Catskills for vacation, I’d love to see him,” of Trump “But as president, his lack of knowledge is disturbing to me. … He’s a circus act.”
+T70	Source 2083 2112	New York attorney Eric Levine
+T71	Cue 2113 2117	said
+T72	Attribution 2113 2117	said
+E19	Attribution:T72 Cue:T71 Source:T70 Content:T69
+T73	Content 2212 2221;2273 2350	Of Carson “He’s flat-out scary. I think he’s a wonderful man … But he’s totally vapid.”
+T74	Source 2223 2266	Levine, who has given money to Marco Rubio,
+T75	Cue 2267 2271	said
+T76	Attribution 2267 2271	said
+E20	Attribution:T76 Cue:T75 Source:T74 Content:T73
+T77	Source 2359 2367	Carson’s
+T78	Cue 2368 2379	mangling of
+T79	Content 2380 2388	“Hamas,”
+T80	Attribution 2368 2379	mangling of
+E21	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Source 2389 2395	Levine
+T82	Cue 2396 2417	found comic relief in
+T83	Content 2418 2420	it
+T84	Attribution 2396 2417	found comic relief in
+E22	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Content 2422 2453	“I needed some carrots to dip,”
+T86	Source 2454 2456	he
+T87	Cue 2457 2461	said
+T88	Attribution 2457 2461	said
+E23	Attribution:T88 Cue:T87 Source:T86 Content:T85
+T89	Source 2464 2469	Trump
+T90	Cue 2485 2495	winking at
+T91	Content 2496 2514	Jewish stereotypes
+T92	Attribution 2485 2495	winking at
+E24	Attribution:T92 Content:T91 Cue:T90 Source:T89
+T93	Cue 2516 2523	telling
+T94	Content 2535 2681	“I’m a negotiator like you, folks,” and, “Is there anyone in this room who doesn’t negotiate deals? Probably more than any room I’ve ever spoken.”
+T95	Attribution 2516 2523	telling
+E25	Attribution:T95 Cue:T93 Source:T89 Content:T94
+T96	Source 2781 2793	the audience
+T98	Content 2803 2812	the jokes
+T97	Cue 2813 2819	warmly
+T99	Discuss 2781 2819	the audience received the jokes warmly
+T100	Attribution 2813 2819	warmly
+E26	Attribution:T100 Cue:T97 Content:T98 Source:T96
+T101	Source 2838 2845	Trump’s
+T102	Cue 2846 2856	suggestion
+T103	Content 2857 2942	that the people in the room would not support him because he did not want their money
+T104	Attribution 2846 2856	suggestion
+E27	Attribution:T104 Content:T103 Cue:T102 Source:T101
+T105	Content 2943 2947	that
+T106	Cue 2948 2962	raised hackles
+T107	Attribution-no-source 2948 2962	raised hackles
+E28	Attribution-no-source:T107 Cue:T106 Content:T105
+T108	Content 2964 2983	“It was offensive,”
+T109	Cue 2984 2988	said
+T110	Source 2989 2998	Fleischer
+T111	Attribution 2984 2988	said
+E29	Attribution:T111 Source:T110 Cue:T109 Content:T108
+T112	Cue 3006 3015	troubling
+T113	Source 3019 3035	many in the room
+T114	Content 3040 3131	Trump’s unwillingness to affirm his support for a united Jerusalem as the capital of Israel
+T115	Attribution 3006 3015	troubling
+E30	Attribution:T115 Content:T114 Source:T113 Cue:T112
+T116	Source 3142 3157	the businessman
+T117	Cue 3158 3170	has insisted
+T118	Content 3171 3253	that his negotiating position will be strongest if he refuses to divulge his plans
+T119	Attribution 3158 3170	has insisted
+E31	Attribution:T119 Content:T118 Cue:T117 Source:T116
+T120	Content 3255 3350	"You know what I want to do? I want to wait until I meet with Bibi” before discussing specifics
+T121	Source 3352 3354	he
+T122	Cue 3355 3359	said
+T123	Attribution 3355 3359	said
+E32	Attribution:T123 Cue:T122 Source:T121 Content:T120
+T124	Content 3361 3371	The answer
+T125	Cue 3372 3395	received scattered boos
+T126	Attribution-no-source 3372 3395	received scattered boos
+E33	Attribution-no-source:T126 Cue:T125 Content:T124
+T127	Content 3398 3493	“He said, ‘Trust me, I’ll do good for you.’ That may be of concern to people in the community,”
+T128	Cue 3494 3498	said
+T129	Source 3499 3554	Alan Berger, a gynecologist from Englewood, New Jersey,
+T130	Attribution 3494 3498	said
+E34	Attribution:T130 Source:T129 Cue:T128 Content:T127
+T131	Source 3555 3558	who
+T132	Cue 3559 3563	said
+T133	Content 3564 3619	he is friendly with Trump’s Jewish in-laws the Kushners
+T134	Attribution 3559 3563	said
+E35	Attribution:T134 Content:T133 Cue:T132 Source:T131
+T135	Cue 3624 3639	took issue with
+T136	Content 3640 3699	his reluctance to affirm his support for a united Jerusalem
+T137	Attribution 3624 3639	took issue with
+E36	Attribution:T137 Cue:T135 Content:T136 Source:T131
+T138	Source 3701 3707	Berger
+T139	Cue 3708 3712	said
+T140	Content 3713 3773	he is partial to Arkansas Gov. Mike Huckabee and to Ted Cruz
+T141	Attribution 3708 3712	said
+E37	Attribution:T141 Content:T140 Cue:T139 Source:T138
+T142	Content 3868 3917	Trump’s comments about Israel ahead of his speech
+T143	Cue 3918 3929	had angered
+T144	Source 3930 3947	conservative Jews
+T145	Attribution 3918 3929	had angered
+E38	Attribution:T145 Source:T144 Cue:T143 Content:T142
+T146	Content 3949 4313	“Donald Trump’s absurd and factually inaccurate claim that a successful peace deal with the Palestinian Authority dictatorship “has to do with Israel and whether or not Israel’s willing to sacrifice certain things” makes clear that Trump doesn’t have a clue, knowledge or understanding about what has transpired during the ongoing Arab/Islamic war against Israel,”
+T147	Cue 4314 4319	wrote
+T148	Source 4320 4382	Morton Klein, president of the Zionist Organization of America
+T149	Attribution 4314 4319	wrote
+E39	Attribution:T149 Source:T148 Cue:T147 Content:T146
+T150	Source 4566 4618	Rachel Berg, a philanthropist from Monsey, New York,
+T151	Cue 4619 4623	said
+T152	Content 4624 4714	Thursday's speeches have led her to count Trump and Carson out and focus on Rubio and Cruz
+T153	Attribution 4619 4623	said
+E40	Attribution:T153 Content:T152 Cue:T151 Source:T150
+T154	Source 4770 4773	she
+T155	Cue 4808 4813	plans
+T156	Content 4814 4842	to narrow her support to one
+T157	Attribution 4808 4813	plans
+E41	Attribution:T157 Content:T156 Cue:T155 Source:T154
+T158	Source 4844 4847	She
+T159	Cue 4848 4854	called
+T160	Content 4855 4881	Carson a “special person.”
+T161	Attribution 4848 4854	called
+E42	Attribution:T161 Content:T160 Cue:T159 Source:T158
+T162	Content 4883 4906;4917 4952	“I feel bad to say it,” “I don’t see him as the president.”
+T163	Source 4907 4910	she
+T164	Cue 4911 4915	said
+T165	Attribution 4911 4915	said
+E43	Attribution:T165 Cue:T164 Source:T163 Content:T162

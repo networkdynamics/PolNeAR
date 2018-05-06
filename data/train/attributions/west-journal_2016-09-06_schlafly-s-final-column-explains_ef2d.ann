@@ -1,0 +1,88 @@
+T1	Content 46 76	Reagan-like Qualities In Trump
+T2	Source 37 40	She
+T3	Cue 41 45	Sees
+T4	Attribution 41 45	Sees
+E1	Attribution:T4 Cue:T3 Source:T2 Content:T1
+T5	Source 79 148	Conservative icon Phyllis Schlafly, who died Monday at the age of 92,
+T6	Cue 149 178	used her final column to link
+T7	Content 179 303	one of the great conservatives of America’s recent past with the candidate she regards as America’s best hope for its future
+T8	Attribution 149 178	used her final column to link
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 306 519	“Donald Trump’s surprise visit to Mexico, where he met the Mexican president and discussed the many contentious issues between our two countries, reminds me of President Reagan’s important trip to Geneva in 1985,”
+T10	Source 520 523	she
+T11	Cue 524 529	wrote
+T12	Attribution 524 529	wrote
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Cue 531 540	recalling
+T14	Content 541 757	the meeting between Reagan and Soviet leader Mikhail Gorbachev, where Reagan went with a willingness “to build a personal connection between the two men without sacrificing America’s vital interests in the Cold War.”
+T15	Attribution 531 540	recalling
+E4	Attribution:T15 Source:T10 Cue:T13 Content:T14
+T16	Source 759 767	Schlafly
+T17	Cue 768 798	had been a strong supporter of
+T18	Content 799 828	Trump’s presidential campaign
+T19	Attribution 768 798	had been a strong supporter of
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 830 832	He
+T21	Cue 833 845	acknowledged
+T22	Content 846 857	her backing
+T23	Attribution 833 845	acknowledged
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Discard 870 916	<tweet tweet-id="773113752271060992"><tweet/>.
+T25	Cue 997 1003	Noting
+T26	Content 1004 1072	that both Reagan and Trump battled staunch opposition from the media
+T27	Source 1074 1082	Schlafly
+T28	Attribution 997 1003	Noting
+E7	Attribution:T28 Source:T27 Content:T26 Cue:T25
+T29	Cue 1083 1100	put her finger on
+T30	Content 1101 1159	one facet of Trump’s campaign that, to her, invokes Reagan
+T31	Attribution 1083 1100	put her finger on
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T27
+T32	Content 1162 1261;1262 1402	“Trump is the first candidate since Reagan who is comfortable using Reagan’s vocabulary of winning. Trump has pledged to make America ‘win’ again, instead of being cheated and outmaneuvered by our adversaries and even our so-called allies,”
+T33	Source 1403 1406	she
+T34	Cue 1407 1412	wrote
+T35	Attribution 1407 1412	wrote
+E9	Attribution:T35 Cue:T34 Source:T33 Content:T32
+T36	Source 1415 1423	Schlafly
+T37	Cue 1424 1434	also noted
+T38	Content 1435 1582	that Reagan and Trump have shown they are willing to negotiate, but never compromise, on the core ideas they believe vital to the nation’s security
+T39	Attribution 1424 1434	also noted
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Content 1585 1780;1781 1886	“Reagan’s no-surrender pledge was his unwavering commitment to the Strategic Defense Initiative, that is, to build and deploy a system to shoot down Soviet nuclear missiles headed for our cities. With Trump, it’s his rock-solid promise to build ‘an impenetrable physical wall” on our southern border,’
+T41	Source 1887 1890	she
+T42	Cue 1891 1896	wrote
+T43	Attribution 1891 1896	wrote
+E11	Attribution:T43 Cue:T42 Source:T41 Content:T40
+T44	Source 1899 1907	Schlafly
+T45	Cue 1908 1922	then discussed
+T46	Content 1923 1944	Trump’s proposed wall
+T47	Attribution 1908 1922	then discussed
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Cue 1949 1958	explained
+T49	Content 1959 1973	its importance
+T50	Attribution 1949 1958	explained
+E13	Attribution:T50 Source:T44 Cue:T48 Content:T49
+T51	Content 1976 2126;2138 2331	“Donald Trump’s wall is not a provocative, but a neighborly idea to stop the rampant illegality that harms both nations along the U.S.-Mexico border,” “With no legitimate objection to erecting a fence, wall or other physical barrier between our two countries, Mexico should be grateful for Trump’s leadership and even agree to help pay for it.”
+T52	Source 2127 2130	she
+T53	Cue 2131 2136	wrote
+T54	Attribution 2131 2136	wrote
+E14	Attribution:T54 Cue:T53 Source:T52 Content:T51
+T55	Content 2333 2409;2421 2455	A wall would not only address the flow of criminals coming across the border but also the flow of illegal drugs
+T56	Source 2411 2414	she
+T57	Cue 2415 2419	said
+T58	Attribution 2415 2419	said
+E15	Attribution:T58 Cue:T57 Source:T56 Content:T55
+T59	Content 2458 2649	“Voters finally have the opportunity to choose a president who will make America first by securing our border and ending one-sided trade deals that favor foreign workers rather than our own,”
+T60	Source 2650 2653	she
+T61	Cue 2654 2658	said
+T62	Attribution 2654 2658	said
+E16	Attribution:T62 Cue:T61 Source:T60 Content:T59
+T63	Source 2661 2669	Schlafly
+T64	Cue 2670 2677	invoked
+T65	Content 2678 2831	the title of the book she wrote that helped lay the intellectual foundation for America’s grassroots conservative movement as she closed her final column
+T66	Attribution 2670 2677	invoked
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Content 2834 2960	“Trump’s strong stance in his meeting with the Mexican president demonstrates that Donald Trump is the ‘choice, not an echo,'”
+T68	Source 2961 2964	she
+T69	Cue 2965 2970	wrote
+T70	Attribution 2965 2970	wrote
+E18	Attribution:T70 Cue:T69 Source:T68 Content:T67

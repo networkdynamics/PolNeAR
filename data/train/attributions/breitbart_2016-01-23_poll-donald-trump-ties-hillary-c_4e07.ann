@@ -1,0 +1,29 @@
+T1	Source 0 4	Poll
+T2	Cue 4 5	:
+T3	Content 6 85	Donald Trump Ties Hillary Clinton With Michael Bloomberg in a Three-Way Contest
+T4	Attribution 4 5	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 88 276	GOP frontrunner Donald Trump does better in a match up against Hillary Clinton or Michael Bloomberg than fellow GOP presidential candidates Sen. Ted Cruz (R-TX) and Sen. Marco Rubio (R-FL)
+T6	Cue 278 290	according to
+T7	Source 291 301	a new poll
+T8	Attribution 278 290	according to
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Content 309 353;365 413	former New York City Mayor Michael Bloomberg considering a presidential run as an Independent
+T10	Cue 354 364	reportedly
+T11	Attribution-no-source 354 364	reportedly
+E3	Attribution-no-source:T11 Cue:T10 Content:T9
+T12	Source 415 437	a Morning Consult Poll
+T13	Cue 438 443	found
+T14	Content 444 549	that he would draw from Clinton’s support in a three-candidate matchup among Bloomberg, Clinton and Trump
+T15	Attribution 438 443	found
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Content 552 634	Trump received 37 percent, Clinton had 36 percent and Bloomberg snagged 13 percent
+T17	Cue 636 648	according to
+T18	Source 649 660	the results
+T19	Attribution 636 648	according to
+E5	Attribution:T19 Source:T18 Cue:T17 Content:T16
+T20	Cue 904 916	According to
+T21	Source 917 928	the results
+T22	Content 930 1008	Clinton increases her lead by one point in a match up with Rubio and Bloomberg
+T23	Attribution 904 916	According to
+E6	Attribution:T23 Content:T22 Source:T21 Cue:T20

@@ -1,0 +1,30 @@
+T1	Source 9 18	BSN Corp.
+T2	Cue 19 23	said
+T3	Content 24 229	it will begin an offer tomorrow to exchange up to one million of its common shares and all of its $16.6 million in 7 3/4% convertible debentures due 2001 for a package of new debt and common stock warrants
+T4	Attribution 19 23	said
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 555 558	BSN
+T6	Cue 559 575	also is offering
+T7	Content 576 698	$850 face amount of new notes and 64 common-stock warrants for each $1,000 face amount of its convertible debt outstanding
+T8	Attribution 559 575	also is offering
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 702 713	The company
+T10	Cue 714 718	said
+T11	Content 719 771	it can redeem the warrants at its option for $1 each
+T12	Attribution 714 718	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 856 859	BSN
+T14	Cue 860 864	said
+T15	Content 865 940	it is making the offer to shrink its capital and increase shareholder value
+T16	Attribution 860 864	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 942 1137	If all the bondholders and holders of one million common shares accept the offer, BSN will increase its debt by $9 million, but it also will recognize a $2 million gain from retiring the old debt
+T18	Cue 1139 1143	said
+T19	Source 1144 1176	Michael J. Blumenfeld, president
+T20	Attribution 1139 1143	said
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Content 1178 1224	"We have sufficient cash flow to handle that,"
+T22	Source 1225 1227	he
+T23	Cue 1228 1232	said
+T24	Attribution 1228 1232	said
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21

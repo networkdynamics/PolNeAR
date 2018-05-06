@@ -1,0 +1,87 @@
+T1	Source 0 7	Trump's
+T2	Cue 8 14	threat
+T3	Content 15 27	to sue women
+T4	Attribution 8 14	threat
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 169 181	Donald Trump
+T6	Cue 182 190	lit into
+T7	Content 191 200;225 276	the women who have accused him of sexually predatory behavior
+T8	Attribution 182 190	lit into
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 278 284	vowing
+T10	Content 285 315	to sue them after the election
+T11	Attribution 278 284	vowing
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T5
+T12	Source 332 339	Trump's
+T13	Cue 340 354	recent threats
+T14	Content 355 556	to sue The New York Times for publishing accounts by some of the women, and for disclosing a portion of his 1995 tax returns that strongly suggested he has avoided paying federal income taxes for years
+T15	Attribution 340 354	recent threats
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 704 709	Trump
+T17	Cue 710 732	would undoubtedly want
+T18	Content 733 741	to avoid
+T19	Attribution 710 732	would undoubtedly want
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 1001 1004	for
+T21	Source 1005 1010	Trump
+T22	Content 1012 1112	lawsuits and threats of lawsuits are a way to deflect negative publicity and certainly fit a pattern
+T23	Attribution 1001 1004	for
+E6	Attribution:T23 Content:T22 Source:T21 Cue:T20
+T24	Source 1377 1447	A series of USA TODAY Network investigative articles published in June
+T25	Cue 1448 1453	found
+T26	Content 1454 1537	that Trump has been involved in at least 3,500 lawsuits over the past three decades
+T27	Attribution 1448 1453	found
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1751 1756	Trump
+T29	Cue 1757 1769	to castigate
+T30	Content 1770 1808	the  judge in the case, Gonzalo Curiel
+T31	Attribution 1757 1769	to castigate
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1909 1912	who
+T33	Cue 1913 1918	claim
+T34	Content 1919 1949	to not have been paid by Trump
+T35	Attribution 1913 1918	claim
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1992 2020	The USA TODAY Network report
+T37	Cue 2021 2026	found
+T38	Content 2027 2271	at least 60 lawsuits, along with hundreds of liens, judgments and government filings, that involved very small businesses and contract employees who said they were not paid and had little ability to fight back against a Trump litigation machine
+T39	Attribution 2021 2026	found
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 2644 2662	to plausibly argue
+T41	Content 2663 2759	that all these cases were brought by disgruntled workers or contractors who had done shoddy work
+T42	Attribution-no-source 2644 2662	to plausibly argue
+E11	Attribution-no-source:T42 Content:T41 Cue:T40
+T43	Source 2945 2951	Voters
+T44	Cue 2952 2967	should consider
+T45	Content 2968 2979	many things
+T46	Attribution 2952 2967	should consider
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 3180 3183	his
+T48	Cue 3184 3189	claim
+T49	Content 3190 3231	to be a champion of working men and women
+T50	Attribution 3184 3189	claim
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Cue 1623 1633	best known
+T52	Content 1634 1638	case
+T53	Attribution-no-source 1623 1633	best known
+E14	Attribution-no-source:T53 Content:T52 Cue:T51
+T54	Source 1687 1734	disgruntled former students of Trump University
+T55	Cue 1646 1679	class action suit brought against
+T56	Content 1680 1683	him
+T57	Attribution 1646 1679	class action suit brought against
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Discuss 1646 1734	class action suit brought against him by disgruntled former students of Trump University
+T59	Cue 871 881	publishing
+T60	Content 882 933	matters of public interest involving public figures
+T61	Attribution-no-source 871 881	publishing
+E16	Attribution-no-source:T61 Content:T60 Cue:T59
+T63	Cue 636 654	Litigation against
+T64	Content 655 664	the women
+T62	Attribution-no-source 636 654	Litigation against
+E17	Attribution-no-source:T62 Content:T64 Cue:T63
+T65	Cue 747 767	legal action against
+T66	Content 768 777	the Times
+T67	Attribution-no-source 747 767	legal action against
+E18	Attribution-no-source:T67 Content:T66 Cue:T65
+T68	Discuss 747 777	legal action against the Times
+T69	Discuss 636 664	Litigation against the women

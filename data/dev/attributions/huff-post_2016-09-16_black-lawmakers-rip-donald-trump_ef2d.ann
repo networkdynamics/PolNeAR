@@ -1,0 +1,72 @@
+T1	Source 0 15	Black Lawmakers
+T2	Cue 16 19	Rip
+T3	Content 20 57	Donald Trump As A ‘Disgusting Fraud.’
+T4	Attribution 16 19	Rip
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 72 180	Donald Trump’s yearslong obsession with President Barack Obama’s birth is an insult to all African-Americans
+T6	Source 182 201	top black lawmakers
+T7	Cue 202 206	said
+T8	Attribution 202 206	said
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Source 228 232	they
+T10	Cue 233 244	bristled at
+T11	Content 245 318	the continued questions about the legitimacy of the first black president
+T12	Attribution 233 244	bristled at
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T14	Cue 349 353	said
+T15	Source 354 424	Rep. G.K. Butterfield (D-N.C.), head of the Congressional Black Caucus
+T17	Content 321 348;426 462;463 607;608 634;635 680;681 797	“This is a disgusting day,” “Donald Trump is a disgusting fraud. By any definition, Donald Trump is a disgusting fraud! He started this silliness years ago by saying President Obama is not an American citizen. He had no proof of it. ... He would not have done that to a Mitt Romney. He would not have done that to a John McCain or any other white who was running for president of the United States.”
+T18	Source 896 901	Trump
+T19	Cue 902 906	said
+T20	Content 907 1023	he finally believes Obama was born in the United States and was therefore constitutionally qualified to be president
+T13	Attribution 349 353	said
+E4	Attribution:T13 Content:T17 Cue:T14 Source:T15
+T16	Attribution 902 906	said
+E5	Attribution:T16 Content:T20 Cue:T19 Source:T18
+T21	Source 1304 1306	he
+T22	Cue 1307 1314	claimed
+T23	Content 1315 1465	that Democratic nominee Hillary Clinton was the one who started the birther controversy and he was simply doing everyone a favor by putting it to rest
+T24	Attribution 1307 1314	claimed
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1471 1476	Trump
+T26	Cue 1477 1497	didn’t apologize for
+T27	Content 1498 1517	his past statements
+T28	Attribution 1477 1497	didn’t apologize for
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1519 1593;1594 1609	“Hillary Clinton and her campaign of 2008 started the birther controversy. I finished it,”
+T30	Source 1610 1615	Trump
+T31	Cue 1616 1620	said
+T32	Attribution 1616 1620	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Source 1646 1668	Many African-Americans
+T34	Cue 1669 1673	take
+T35	Content 1674 1697	the birther controversy
+T36	Attribution 1669 1673	take
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Discuss 1646 1650	Many
+T38	Content 1814 1882	“It’s a dog whistle to all Americans, especially African-Americans,”
+T39	Source 1883 1907	Rep. Gwen Moore (D-Wis.)
+T40	Cue 1908 1912	said
+T41	Attribution 1908 1912	said
+E10	Attribution:T41 Cue:T40 Source:T39 Content:T38
+T43	Cue 2336 2341	added
+T44	Source 2342 2414	Rep. Jim Clyburn (D-S.C.), the assistant leader of the Democratic caucus
+T46	Content 1921 2172;2173 2335;2416 2492;2493 2604;2605 2621;2622 2646	“If indeed Barack Obama is not intelligent, if indeed Barack Obama is not legitimate, then you striving up the corporate ladder, or striving to achieve something ... how can you feel good about yourself as a sixth-grader if you’re an African-American. “I have been doing a lot of thinking recently about where we are as a country, where we have been as a country and what we can expect in the future as a country,” “One of the things that we all are used to in this business is dog whistles. But the thing that we are not used to and I’m finding it very difficult to get used to are the howls of wolves. These are howls. These are not whistles.”
+T42	Attribution 2336 2341	added
+E11	Attribution:T42 Content:T46 Source:T44 Cue:T43
+T45	Discuss 2647 2714	Trump has record low support from black voters, with just 1 percent
+T47	Source 2716 2718	He
+T48	Cue 2719 2735	recently pitched
+T49	Content 2736 2743	himself
+T50	Attribution 2719 2735	recently pitched
+E12	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Cue 2768 2775	telling
+T52	Content 2781 2893	that their lives are about as terrible as can be and they can’t go down any further, so they should vote for him
+T53	Attribution 2768 2775	telling
+E13	Attribution:T53 Source:T47 Cue:T51 Content:T52
+T54	Content 2896 2982;3002 3093;3094 3119;3120 3229;3230 3265	“Look at how much African-American communities are suffering from Democratic control,” “To those I say the following: What do you have to lose by trying something new like Trump? What do you have to lose? You live in your poverty, your schools are no good, you have no jobs, 58 percent of your youth is unemployed. What the hell do you have to lose?”
+T55	Source 2983 2985	he
+T56	Cue 2986 2990	said
+T57	Attribution 2986 2990	said
+E14	Attribution:T57 Cue:T56 Source:T55 Content:T54
+T58	Discard 3268 3519	Editor’s note: Donald Trump regularly incites political violence and is a serial liar, rampant xenophobe, racist, misogynist and birther who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S.

@@ -1,0 +1,40 @@
+T1	Source 10 23	Federal Judge
+T2	Cue 24 33	Just Gave
+T3	Content 42 64	Some Of The Worst News
+T4	Attribution 24 33	Just Gave
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 67 70	She
+T6	Cue 70 86	’s Going To HATE
+T7	Content 87 89	It
+T8	Attribution 70 86	’s Going To HATE
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 665 735	Judge Sullivan made his ruling over objections by the State Department
+T10	Cue 737 749	according to
+T11	Source 750 785	a press release from Judicial Watch
+T12	Attribution 737 749	according to
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Source 787 796	The judge
+T14	Cue 797 816	is also considering
+T15	Content 817 903	whether to order the department to subpoena all emails on the clinton.com email system
+T16	Attribution 797 816	is also considering
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 1120 1300;906 1077	“The court-ordered discovery will help determine why the State Department and Mrs. Clinton, even despite receiving numerous FOIA requests, kept the record system secret for years.” “Judge Sullivan’s ruling granting Judicial Watch’s request for discovery is a major victory for the public’s right to know the truth about Hillary Clinton’s email system,”
+T18	Cue 1078 1082	said
+T19	Source 1083 1118	Judicial Watch president Tom Fitton
+T20	Attribution 1078 1082	said
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Content 1302 1579	“Sullivan set an April 15 deadline for parties to litigate a detailed investigative plan — subject to court approval — that would reach well beyond the limited and carefully worded explanations of the use of the private server that department and Clinton officials have given,”
+T22	Source 1580 1599	the Washington Post
+T23	Cue 1600 1608	reported
+T24	Attribution 1600 1608	reported
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Content 1611 1707;1732 1780	“There has been a constant drip, drip, drip of declarations. When does it stop?,” the judge said “This case is about the public’s right to know.”
+T26	Cue 1709 1721	according to
+T27	Source 1722 1730	the Post
+T28	Attribution 1709 1721	according to
+E7	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Source 1782 1790	Sullivan
+T30	Cue 1791 1800	also said
+T31	Content 1801 1967	the State Department’s handling of the email controversy has created at least a “reasonable suspicion” the public’s access to documents under FOIA has been undermined
+T32	Attribution 1791 1800	also said
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29

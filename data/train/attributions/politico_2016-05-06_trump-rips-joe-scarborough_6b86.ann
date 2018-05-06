@@ -1,0 +1,34 @@
+T1	Content 169 270;303 331	"Joe Scarborough initially endorsed Jeb Bush and Jeb crashed, then John Kasich and that didn't work," "Not much power or insight!"
+T2	Source 271 276	Trump
+T3	Cue 277 284	tweeted
+T4	Attribution 277 284	tweeted
+E1	Attribution:T4 Cue:T3 Source:T2 Content:T1
+T5	Source 333 344	Scarborough
+T6	Cue 345 354	retweeted
+T7	Content 355 366	the message
+T8	Attribution 345 354	retweeted
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 397 402	Trump
+T10	Cue 403 408	wrote
+T11	Content 410 552	"I hear @JoeNBC of rapidly fading @Morning_Joe is pushing hard for a third party candidate to run. This will guarantee a Crooked Hillary win."
+T12	Attribution 403 408	wrote
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 957 990	has also flirted with the idea of
+T14	Content 991 1017	being Trump's running mate
+T15	Source 901 956	Scarborough, who served in the House from 1995 to 2001,
+T16	Attribution 957 990	has also flirted with the idea of
+E4	Attribution:T16 Source:T15 Content:T14 Cue:T13
+T17	Source 1026 1028	he
+T18	Cue 1029 1039	has denied
+T19	Content 1040 1075	that he would seriously consider it
+T20	Attribution 1029 1039	has denied
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 656 683	have forcefully struck down
+T22	Source 616 655	Scarborough and co-host Mika Brzezinski
+T23	Content 684 748	assertions that their show has beaten the drum in favor of Trump
+T24	Attribution 656 683	have forcefully struck down
+E6	Attribution:T24 Content:T23 Source:T22 Cue:T21
+T25	Cue 750 775	taking pains to emphasize
+T26	Content 840 898	that every candidate has a standing invitation to the show
+T27	Attribution 750 775	taking pains to emphasize
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T22

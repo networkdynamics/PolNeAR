@@ -1,0 +1,84 @@
+T1	Source 0 8	Columbia
+T2	Cue 9 16	defends
+T3	Content 17 31	Exxon articles
+T4	Attribution 9 16	defends
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 45 59	The university
+T6	Cue 60 68	rebutted
+T7	Content 69 192	Exxon's accusation that articles about the company, produced by journalists from the school, were misleading and inaccurate
+T8	Attribution 60 68	rebutted
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 207 259	The dean of Columbia's Graduate School of Journalism
+T10	Cue 260 301	has published a letter strongly disputing
+T11	Content 302 470	accusations by Exxon Mobil that journalists from the school had produced inaccurate and misleading articles about the company's knowledge of the risks of climate change
+T12	Attribution 260 301	has published a letter strongly disputing
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 621 625	that
+T14	Cue 626 634	examined
+T15	Content 635 742	''the gap between Exxon Mobil's public position and its internal planning on the issue of climate change.''
+T16	Attribution 626 634	examined
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 922 931	criticism
+T18	Source 937 984	politicians like John Kerry and Hillary Clinton
+T19	Content 895 906	the company
+T20	Attribution 922 931	criticism
+E5	Attribution:T20 Content:T19 Source:T18 Cue:T17
+T21	Source 1004 1015	the company
+T22	Cue 1016 1100	wrote a detailed, six-page letter to Columbia's president, Lee C. Bollinger, calling
+T23	Content 1101 1181	the two lengthy investigative reports ''inaccurate and deliberately misleading.'
+T24	Attribution 1016 1100	wrote a detailed, six-page letter to Columbia's president, Lee C. Bollinger, calling
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1201 1247	Steve Coll, the dean of the journalism school,
+T26	Cue 1248 1252	said
+T27	Content 1264 1339	that he had carefully examined the detailed allegations made by Exxon Mobil
+T28	Attribution 1248 1252	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1342 1487;1504 1575	''Your letter disputes the substance of the two articles in a number of respects, but consists largely of attacks on the project's journalists,'' ''I have concluded that your allegations are unsupported by evidence.''
+T30	Source 1488 1496	Mr. Coll
+T31	Cue 1497 1502	wrote
+T32	Attribution 1497 1502	wrote
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Source 1715 1726	The dispute
+T34	Cue 1727 1742	also highlights
+T35	Content 1743 1902	the possibility that some of the new ways that expensive accountability reporting is being funded can, in terms of perception at least, be called into question
+T36	Attribution 1727 1742	also highlights
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1905 1916	Exxon Mobil
+T38	Cue 1917 1940	contended in its letter
+T39	Content 2025 2209	that some of the foundations that supported the reporting of the articles, including the Rockefeller Brothers Fund, had ''a stated position and bias against the oil and gas industry.''
+T40	Attribution 1917 1940	contended in its letter
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 2211 2221	The letter
+T42	Cue 2222 2234	also accuses
+T43	Content 2235 2503	one of the journalists, Susanne Rust, of ignoring information favorable to the company or not giving it proper emphasis, of misrepresenting certain materials and of not giving the company access to documents she cited or adequate time to provide a substantive response
+T44	Attribution 2222 2234	also accuses
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 2505 2507	It
+T46	Cue 2508 2520	also accused
+T47	Content 2521 2578	another reporter of misrepresenting herself in interviews
+T48	Attribution 2508 2520	also accused
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 2598 2606	Mr. Coll
+T50	Cue 2607 2611	said
+T51	Content 2612 2837	he had been troubled to discover that Mr. Cohen had ''made serious allegations of professional misconduct'' even though ''you or your media relations colleagues possess email records showing that your allegations are false.''
+T52	Attribution 2607 2611	said
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 2838 2840	He
+T54	Cue 2841 2857	went on to rebut
+T55	Content 2858 2909	many of the detailed points in Exxon Mobil's letter
+T56	Attribution 2841 2857	went on to rebut
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Cue 2911 2918	writing
+T58	Content 2919 3064	that Ms. Rust gave the company plenty of time to respond to her questions and that the reporters had clearly identified themselves as journalists
+T59	Attribution 2911 2918	writing
+E15	Attribution:T59 Source:T53 Content:T58 Cue:T57
+T60	Source 3067 3112	Alan T. Jeffers, a spokesman for Exxon Mobil,
+T61	Cue 3113 3117	said
+T62	Content 3129 3219	that the company felt the articles still fundamentally misrepresented the source documents
+T63	Attribution 3113 3117	said
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 3222 3243	The Los Angeles Times
+T65	Cue 3244 3248	said
+T66	Content 3249 3609	that its editors had ''carefully reviewed Exxon Mobil's complaints and concluded that the articles we published in collaboration with Susanne Rust and her team at Columbia University Graduate School of Journalism were accurate, fair and balanced. We will continue working with the Columbia reporting team to publish journalism on this very important subject.''
+T67	Attribution 3244 3248	said
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64

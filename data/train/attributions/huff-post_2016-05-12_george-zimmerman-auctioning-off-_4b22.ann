@@ -1,0 +1,100 @@
+T1	Source 438 440	he
+T2	Cue 441 445	told
+T3	Content 415 437;465 508	“I’m a free American,” “I can do what I like with my possessions.”
+T4	Attribution 441 445	told
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 510 519	Zimmerman
+T6	Cue 520 584	wrote in the auction description of the Kel-Tec PF-9 9mm handgun
+T7	Content 585 788	that he plans to use some of the money to “fight BLM violence against Law Enforcement officers, ensure the demise of Angela Correy’s [sic] persecution career and Hillary Clinton’s anti-firearm rhetoric.”
+T8	Attribution 520 584	wrote in the auction description of the Kel-Tec PF-9 9mm handgun
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 194 196	It
+T10	Cue 197 216	has now been posted
+T11	Attribution-no-source 197 216	has now been posted
+E3	Attribution-no-source:T11 Cue:T10 Content:T9
+T12	Cue 1012 1019	claimed
+T13	Content 1020 1032	self-defense
+T14	Source 927 943	George Zimmerman
+T15	Attribution 1012 1019	claimed
+E4	Attribution:T15 Source:T14 Content:T13 Cue:T12
+T16	Source 1463 1472	Zimmerman
+T17	Cue 1473 1477	said
+T18	Content 1478 1597	he had received offers for the gun, but “the offers were to use the gun in a fashion I did not feel comfortable with.” 
+T19	Attribution 1473 1477	said
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1991 1993	he
+T21	Cue 1994 1999	added
+T22	Content 1800 1990	“The firearm is fully functional as the attempts by the Department of Justice on behalf of B. Hussein Obama to render the firearm inoperable were thwarted by my phenomenal Defense Attorney,”
+T23	Attribution 1994 1999	added
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 2001 2003	He
+T25	Cue 2004 2038	ended the auction description with
+T26	Content 2039 2066	“Si Vis Pacem Para Bellum,”
+T27	Attribution 2004 2038	ended the auction description with
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 2232 2238	Fusion
+T29	Cue 2218 2228	documented
+T30	Content 2198 2217	a number of arrests
+T31	Attribution 2218 2228	documented
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 2342 2349	calling
+T33	Content 2350 2394	President Barack Obama an “ignorant baboon” 
+T34	Attribution 2342 2349	calling
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T35
+T35	Source 2240 2242	He
+T36	Cue 2398 2406	tweeting
+T37	Content 2407 2431	a photo of Martin’s body
+T38	Attribution 2398 2406	tweeting
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Cue 2502 2509	telling
+T40	Content 2517 2585	that the organization is focused on “ending senseless gun violence.”
+T41	Source 2433 2462	The Trayvon Martin Foundation
+T42	Attribution 2502 2509	telling
+E11	Attribution:T42 Source:T41 Content:T40 Cue:T39
+T43	Cue 2463 2475	did not want
+T44	Content 2476 2501	to address “that person,”
+T45	Attribution 2463 2475	did not want
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T41
+T46	Source 2659 2668	the group
+T47	Cue 2669 2673	said
+T48	Content 2586 2658;2675 2746	“This election season, we are laser focused on furthering that mission,” “As such, the foundation has no comment on the actions of that person.”
+T49	Attribution 2669 2673	said
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2786 2810	Hakeem Jeffries (D-N.Y.)
+T52	Content 2840 2899	“Trayvon Martin’s cold-blooded killer should be in prison.”
+T53	Cue 2832 2839	saying:
+T51	Source 3012 3014	he
+T54	Cue 3015 3020	added
+T55	Content 2900 3011;3022 3084	“It should shock the conscience of every decent American that this man is peddling his murder weapon for sale,” “America must reject this merchant of death once and for all.”
+T56	Attribution 3015 3020	added
+E14	Attribution:T56 Cue:T54 Source:T51 Content:T55
+T57	Discard 3085 3232	This article has been updated with additional information on Hakeem Jeffries’ statement and the Smithsonian’s response about auctioning the firearm
+T58	Discuss 1156 1461	"It has recently been returned to me by the Department of Justice. The pistol currently has the case number written on it in silver permanent marker. Many have expressed interest in owning and displaying the firearm including The Smithsonian Museum in Washington D.C. This is a piece of American History."
+T59	Source 1306 1310	Many
+T60	Cue 1311 1337	have expressed interest in
+T61	Content 1338 1371	owning and displaying the firearm
+T62	Attribution 1311 1337	have expressed interest in
+E15	Attribution:T62 Cue:T60 Source:T59 Content:T61
+T63	Source 140 153	GunBroker.com
+T64	Cue 155 166	has removed
+T65	Content 167 178	the listing
+T66	Attribution 155 166	has removed
+E16	Attribution:T66 Cue:T64 Source:T63 Content:T65
+T67	Attribution 2832 2839	saying:
+E17	Attribution:T67 Cue:T53 Content:T52 Source:T50
+T68	Source 93 97	that
+T69	Cue 98 115	originally listed
+T70	Content 116 138	the weapon for auction
+T71	Attribution 98 115	originally listed
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Discuss 140 178	GunBroker.com, has removed the listing
+T73	Source 836 839	who
+T74	Cue 840 847	charged
+T75	Content 848 906	Zimmerman with second-degree murder in the Martin shooting
+T76	Attribution 840 847	charged
+E19	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Discuss 836 906	who charged Zimmerman with second-degree murder in the Martin shooting
+T78	Cue 2243 2261	has also attempted
+T79	Content 2262 2284	to provoke his critics
+T80	Attribution 2243 2261	has also attempted
+E20	Attribution:T80 Content:T79 Cue:T78 Source:T35

@@ -1,0 +1,140 @@
+T1	Discard 67 76	ABSTRACT.
+T2	Discard 184 194;196 216	FULL TEXT. CORRECTION APPENDED.
+T3	Source 1409 1420	the company
+T4	Cue 1421 1425	said
+T5	Content 1426 1493	it would not be able to file its annual financial statement in time
+T6	Attribution 1421 1425	said
+E1	Attribution:T6 Content:T5 Cue:T4 Source:T3
+T7	Cue 1495 1502	warning
+T8	Content 1503 1556	that it could default on some of its debt as a result
+T9	Attribution 1495 1502	warning
+E2	Attribution:T9 Cue:T7 Content:T8 Source:T3
+T10	Source 1641 1656	Hillary Clinton
+T11	Cue 1657 1663	called
+T12	Content 1664 1681	it ''predatory.''
+T13	Attribution 1657 1663	called
+E3	Attribution:T13 Content:T12 Cue:T11 Source:T10
+T14	Source 1811 1821	Mr. Ackman
+T15	Cue 1842 1849	telling
+T16	Content 1855 1915	Valeant was ''worth multiples of the current market price.''
+T17	Attribution 1842 1849	telling
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 1930 1932	he
+T19	Cue 1933 1939	sought
+T20	Content 1940 1965	to reassure his investors
+T21	Attribution 1933 1939	sought
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Content 1968 2087	''We are going to take a much more proactive role at the company to protect and maximize the value of our investment,''
+T23	Source 2088 2090	he
+T24	Cue 2091 2095	said
+T25	Cue 2097 2103	adding
+T26	Content 2104 2240	that Steve Fraidin, Pershing Square's vice chairman, joined the board of Valeant last week in an effort to take control of the situation
+T27	Attribution 2097 2103	adding
+E6	Attribution:T27 Cue:T25 Source:T23 Content:T26
+T28	Attribution 2091 2095	said
+E7	Attribution:T28 Cue:T24 Source:T23 Content:T22
+T29	Source 2243 2253	Mr. Ackman
+T30	Cue 2300 2311	to persuade
+T31	Content 2312 2343	the company to acquire Allergan
+T32	Attribution 2300 2311	to persuade
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 2365 2372	Valeant
+T34	Cue 2373 2384	was spurned
+T35	Attribution-no-source 2373 2384	was spurned
+E9	Attribution-no-source:T35 Cue:T34 Content:T33
+T36	Source 2390 2398	Allergan
+T37	Cue 2399 2410	then agreed
+T38	Content 2411 2468	to be acquired by another pharmaceutical company, Actavis
+T39	Attribution 2399 2410	then agreed
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 2537 2539	he
+T41	Cue 2540 2583	held a three-hour conference call to defend
+T42	Content 2584 2591	Valeant
+T43	Attribution 2540 2583	held a three-hour conference call to defend
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Cue 2645 2659	concerns about
+T45	Content 2660 2683	a federal investigation
+T46	Attribution-no-source 2645 2659	concerns about
+E12	Attribution-no-source:T46 Content:T45 Cue:T44
+T47	Content 2686 2738	''It will take some time for the stock to recover,''
+T48	Source 2739 2749	Mr. Ackman
+T49	Cue 2750 2754	said
+T50	Attribution 2750 2754	said
+E13	Attribution:T50 Cue:T49 Source:T48 Content:T47
+T51	Cue 2768 2774	adding
+T52	Content 2775 2837	that investors did not appreciate how valuable the company was
+T53	Attribution 2768 2774	adding
+E14	Attribution:T53 Cue:T51 Content:T52 Source:T48
+T54	Content 2840 2927	''The biggest regret I have with Valeant is that we're not in a position to buy more,''
+T55	Source 2928 2930	he
+T56	Cue 2931 2935	said
+T57	Attribution 2931 2935	said
+E15	Attribution:T57 Cue:T56 Source:T55 Content:T54
+T58	Cue 3285 3299	once known for
+T59	Content 3300 3329	its ties to Warren E. Buffett
+T60	Attribution-no-source 3285 3299	once known for
+E16	Attribution-no-source:T60 Content:T59 Cue:T58
+T61	Source 3858 3869	Mr. Paulson
+T62	Cue 3937 3941	told
+T63	Content 3952 4030	that concerns about specialty pharmaceuticals like Valeant were ''overblown,''
+T64	Attribution 3937 3941	told
+E17	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Cue 4031 4037	adding
+T66	Content 4038 4078	that Valeant had ''significant upside.''
+T67	Attribution 4031 4037	adding
+E18	Attribution:T67 Cue:T65 Content:T66 Source:T61
+T68	Source 4193 4271	Mr. Ubben, who has a 4.4 percent stake and also has a seat on Valeant's board,
+T69	Cue 4272 4284	has defended
+T70	Content 4285 4296	the company
+T71	Attribution 4272 4284	has defended
+E19	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Source 4345 4354	Mr. Ubben
+T73	Cue 4355 4361	called
+T74	Content 4362 4430	Valeant's chief executive, J. Michael Pearson, ''incredibly driven''
+T75	Attribution 4355 4361	called
+E20	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Cue 4435 4443	asserted
+T77	Content 4444 4493	that things were being resolved behind the scenes
+T78	Attribution 4435 4443	asserted
+E21	Attribution:T78 Cue:T76 Content:T77 Source:T72
+T79	Source 4500 4524	investors in these firms
+T80	Cue 4526 4543	it is hard to see
+T81	Content 4544 4592	the silver lining in the headlines about Valeant
+T82	Attribution 4526 4543	it is hard to see
+E22	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Source 4595 4599	Some
+T84	Cue 4600 4610	may recall
+T85	Content 4611 4647	other Ackman investments that soured
+T86	Attribution 4600 4610	may recall
+E23	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Cue 4740 4758	the appointment of
+T88	Content 4759 4770	Ron Johnson
+T89	Attribution-no-source 4740 4758	the appointment of
+E24	Attribution-no-source:T89 Content:T88 Cue:T87
+T90	Source 5151 5166	Pershing Square
+T91	Cue 5167 5187	puts restrictions on
+T92	Content 5188 5244	how much and how soon investors can withdraw their money
+T93	Attribution 5167 5187	puts restrictions on
+E25	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 5342 5350	anyone's
+T95	Cue 5351 5356	guess
+T96	Content 5357 5423	whether the company recovers or falls further in a downward spiral
+T97	Attribution 5351 5356	guess
+E26	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Discuss 5342 5423	anyone's guess whether the company recovers or falls further in a downward spiral
+T99	Source 5430 5440	Mr. Ackman
+T100	Cue 5441 5453	is convinced
+T101	Content 5454 5491	that Valeant will be a comeback story
+T102	Source 5521 5523	he
+T103	Cue 5524 5551	will have more to say about
+T104	Content 5552 5554	it
+T105	Attribution 5441 5453	is convinced
+E27	Attribution:T105 Cue:T100 Content:T101 Source:T99
+T106	Attribution 5524 5551	will have more to say about
+E28	Attribution:T106 Content:T104 Cue:T103 Source:T102
+T107	Content 5578 5647;5712 5785	''The most powerful tool available to the manager is communication,'' ''Being open - intelligent and thoughtful communication with investors.''
+T108	Cue 5648 5652	said
+T109	Source 5653 5710	Ron Geffner, a lawyer for hedge funds at Sadis & Goldberg
+T110	Attribution 5648 5652	said
+E29	Attribution:T110 Source:T109 Cue:T108 Content:T107
+T111	Discard 5787 5798;5800 5849;5851 6232;6234 6259	CORRECTION: As published in the International New York Times. An article on Thursday about a sharp drop in the value of Valeant Pharmaceutical International shares and the effect on a major investor, Pershing Square Capital Management, misstated the year Pershing Square's founder, William A. Ackman, first began to buy Valeant shares. It was 2015 - not 2014, which is the year Mr. Ackman teamed up with the company in a joint takeover effort. Saturday, March 19, 2016.

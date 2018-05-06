@@ -1,0 +1,99 @@
+T1	Source 0 2	IG
+T2	Cue 3 10	report:
+T3	Content 11 42	State was inaccurate on Clinton
+T4	Attribution 3 10	report:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 45 60	2013 FOIA reply
+T6	Cue 61 69	reported
+T7	Content 70 107	'no records' from nongovernment email
+T8	Attribution 61 69	reported
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 386 398	according to
+T10	Source 399 453	a report from the State Department's inspector general
+T11	Content 110 384	Two years before the public learned of Hillary Clinton's private server, the State Department gave an "inaccurate and incomplete" response about her email use when it told an outside group that it had no documents about Clinton's email accounts beyond her government address
+T12	Attribution 386 398	according to
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Content 655 783	The response came even though Clinton's chief of staff, who knew about the secretary's private account, was aware of the inquiry
+T14	Source 785 795	the report
+T15	Cue 796 800	says
+T16	Source 815 828	the IG review
+T17	Cue 829 834	found
+T18	Content 835 900	that agency staffers had not searched Clinton's office for emails
+T19	Attribution 829 834	found
+E4	Attribution:T19 Cue:T17 Source:T16 Content:T18
+T20	Source 943 953	the report
+T21	Content 903 915;965 1056	The incident as examples of flawed responses to public-records requests made while Clinton was in office
+T22	Cue 954 964	highlights
+T23	Attribution 796 800	says
+E5	Attribution:T23 Cue:T15 Source:T14 Content:T13
+T24	Attribution 954 964	highlights
+E6	Attribution:T24 Cue:T22 Content:T21 Source:T20
+T25	Source 1058 1068	The report
+T26	Cue 1069 1074	found
+T27	Content 1075 1162	it was part of a long-standing problem stretching back through previous administrations
+T28	Attribution 1069 1074	found
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1552 1566	the new report
+T30	Cue 1567 1579	demonstrates
+T31	Content 1580 1634	the potential peril Clinton still faces over the issue
+T32	Attribution 1567 1579	demonstrates
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1666 1719	the State Department inspector general, Steve Linick,
+T34	Cue 1720 1729	indicated
+T35	Content 1730 1755	that his work is not done
+T36	Attribution 1720 1729	indicated
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1992 2004	the report's
+T38	Cue 2005 2028	broad conclusions about
+T39	Content 2029 2052	weak records management
+T40	Attribution 2005 2028	broad conclusions about
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 2054 2080	State Department officials
+T42	Cue 2081 2095	concurred with
+T43	Content 2096 2199	the inspector general's findings and recommendations to boost staff, training, procedures and oversight
+T44	Attribution 2081 2095	concurred with
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Content 2202 2366	"The Department is committed to transparency, and the issues addressed in this report have the full attention of Secretary Kerry and the Department's senior staff,"
+T46	Cue 2367 2371	said
+T47	Source 2372 2392	spokesman John Kirby
+T48	Attribution 2367 2371	said
+E12	Attribution:T48 Source:T47 Cue:T46 Content:T45
+T49	Source 2444 2495	Brian Fallon, a spokesman for the Clinton campaign,
+T50	Cue 2496 2500	said
+T51	Content 2502 2715	"The Department had a preexisting process in place to handle the tens of thousands of requests it received annually, and that established process was followed by the Secretary and her staff throughout her tenure."
+T52	Attribution 2496 2500	said
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 2717 2728	The inquiry
+T54	Cue 2729 2734	found
+T55	Content 2735 2837	that the secretary's office almost never searched its own email in public-records requests before 2011
+T56	Attribution 2729 2734	found
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 3082 3090	an alias
+T58	Cue 3105 3118	with the name
+T59	Content 3119 3137	"Richard Windsor,"
+T60	Attribution 3105 3118	with the name
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 3176 3180	CREW
+T62	Cue 3181 3252	filed a public-records request with the State Department that month for
+T63	Content 3253 3366	"records sufficient to show the number of email accounts of or associated with Secretary Hillary Rodham Clinton."
+T64	Attribution 3181 3252	filed a public-records request with the State Department that month for
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 3603 3623	the State Department
+T66	Cue 3624 3628	told
+T67	Content 3634 3692	that "no records responsive to your request were located."
+T68	Attribution 3624 3628	told
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T70	Cue 3708 3713	cited
+T69	Source 3694 3707	The IG report
+T71	Content 3714 3881	no evidence that Mills intervened in the CREW inquiry or approved the final response - only that she knew about the request and wanted a close aide to keep track of it
+T72	Attribution 3708 3713	cited
+E18	Attribution:T72 Content:T71 Source:T69 Cue:T70
+T73	Source 3368 3373	Staff
+T74	Cue 3374 3392	soon after alerted
+T75	Content 3393 3417	Clinton's chief of staff
+T76	Attribution 3374 3392	soon after alerted
+E19	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Cue 2394 2406	referring to
+T78	Content 2407 2441	Clinton's successor, John F. Kerry
+T79	Attribution 2394 2406	referring to
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T47

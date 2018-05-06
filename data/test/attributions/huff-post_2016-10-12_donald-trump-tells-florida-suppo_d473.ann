@@ -1,0 +1,21 @@
+T1	Source 0 12	Donald Trump
+T2	Cue 13 18	Tells
+T3	Content 38 69	The Wrong Date For Election Day
+T4	Attribution 13 18	Tells
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 72 116	Republican presidential nominee Donald Trump
+T6	Cue 117 121	told
+T7	Content 163 194	that the election is on Nov. 28
+T8	Attribution 117 121	told
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 225 239;256 296	“Go register,” “Make sure you go out and vote Nov. 28.”
+T10	Source 240 245	Trump
+T11	Cue 246 254	implored
+T12	Attribution 246 254	implored
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 348 353	Trump
+T14	Cue 354 371	may have confused
+T15	Content 372 445	Election Day and the fact that the election is 28 days away as of Tuesday
+T16	Attribution 354 371	may have confused
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Discard 447 698	Editor’s note: Donald Trump regularly incites political violence and is a serial liar, rampant xenophobe, racist, misogynist and birther who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S.

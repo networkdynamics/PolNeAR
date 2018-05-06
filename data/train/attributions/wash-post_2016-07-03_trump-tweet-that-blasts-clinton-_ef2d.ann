@@ -1,0 +1,63 @@
+T1	Source 12 16	that
+T2	Cue 17 23	blasts
+T3	Content 24 31	Clinton
+T4	Attribution 17 23	blasts
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 74 120	Republican presidential candidate Donald Trump
+T6	Cue 133 140	tweeted
+T7	Content 141 273	an image of rival Hillary Clinton alongside $100 bills and a shape of a Jewish star bearing the words "most corrupt candidate ever!"
+T8	Attribution 133 140	tweeted
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 274 283	prompting
+T10	Content 284 322	outrage and bafflement on social media
+T11	Attribution 274 283	prompting
+E3	Attribution:T11 Source:T5 Cue:T9 Content:T10
+T12	Source 360 365	Trump
+T13	Cue 366 373	tweeted
+T14	Content 374 588	a similar image in which the shape of the six-pointed Star of David - which appears on Israel's flag and which Jews were forced to wear on their clothing by the Nazis during the Holocaust - was replaced by a circle
+T15	Attribution 366 373	tweeted
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 623 630	Critics
+T17	Cue 631 635	said
+T18	Content 636 765	the image featuring the star shape harked back to centuries-old anti-Semitic stereotypes, such as the belief that Jews are greedy
+T19	Attribution 631 635	said
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 768 904	"Just saw #DonaldTrump's Star of David tweet. I'm impressed by his ability to find a way to insult literally every kind of human being,"
+T21	Source 905 929	screenwriter Cole Haddon
+T22	Cue 930 946	wrote on Twitter
+T23	Attribution 930 946	wrote on Twitter
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Content 949 1066	"A Star of David, a pile of cash, and suggestions of corruption. Donald Trump again plays to the white supremacists,"
+T25	Cue 1067 1072	wrote
+T26	Source 1073 1145	Erick Erickson, a conservative radio host who has been critical of Trump
+T27	Attribution 1067 1072	wrote
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Cue 1229 1243	were mentioned
+T29	Content 1214 1228	no other users
+T30	Attribution-no-source 1229 1243	were mentioned
+E8	Attribution-no-source:T30 
+E9	Attribution-no-source:T30 Content:T29 Cue:T28
+T31	Source 1538 1540	he
+T32	Cue 1541 1603	is alienating potential voters with offensive statements about
+T33	Content 1604 1630	Muslims, Latinos and women
+T34	Attribution 1541 1603	is alienating potential voters with offensive statements about
+E10	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Content 1775 1779;1789 1859	that as an attempt to appear more presidential ahead of the Nov. 8 election
+T36	Cue 1780 1788	was seen
+T37	Attribution-no-source 1780 1788	was seen
+E11	Attribution-no-source:T37 
+E12	Attribution-no-source:T37 Cue:T36 Content:T35
+T38	Source 1929 1942	The candidate
+T39	Cue 1943 1953	has mocked
+T40	Content 1954 1983	a disabled newspaper reporter
+T41	Attribution 1943 1953	has mocked
+E13	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Cue 1985 1996	referred to
+T43	Content 1997 2045	undocumented immigrants from Mexico as "rapists"
+T44	Attribution 1985 1996	referred to
+E14	Attribution:T44 Source:T38 Cue:T42 Content:T43
+T45	Cue 2121 2127	called
+T46	Content 2128 2154	him "my African American."
+T47	Attribution 2121 2127	called
+E15	Attribution:T47 Source:T38 Cue:T45 Content:T46
+T48	Discard 2156 2166	- Reuters.

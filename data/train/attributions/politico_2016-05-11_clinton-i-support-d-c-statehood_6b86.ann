@@ -1,0 +1,62 @@
+T1	Source 0 7	Clinton
+T2	Cue 7 8	:
+T3	Content 9 33	I support D.C. statehood
+T4	Attribution 7 8	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 87 113	The Democratic frontrunner
+T6	Cue 114 147	wrote for The Washington Informer
+T7	Content 148 281	that "the District of Columbia is often neglected when it comes to federal appropriations" because it doesn't have a vote in Congress
+T8	Attribution 114 147	wrote for The Washington Informer
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 283 286	She
+T10	Cue 287 295	promised
+T11	Content 296 360	to "be a vocal champion for D.C. statehood" if elected president
+T12	Attribution 287 295	promised
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 363 514;530 792	"Many of the District’s decisions are also at the mercy of right-wing ideologues in Congress, and as you can imagine, they don’t show very much of it," "Everything from commonsense gun laws to providing women’s health care and efforts to cut down on drug abuse has been halted by Republicans, who claim the District is an exception to their long-held notion that communities ought to be able to govern themselves."
+T14	Source 515 522	Clinton
+T15	Cue 523 528	wrote
+T16	Attribution 523 528	wrote
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 794 797	She
+T18	Cue 806 815	to attack
+T19	Content 816 828	Donald Trump
+T20	Attribution 806 815	to attack
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 830 836	saying
+T22	Content 837 911	the presumptive Republican nominee "hasn’t given this issue much thought."
+T23	Attribution 830 836	saying
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T17
+T24	Source 970 975	Trump
+T25	Cue 976 981	said:
+T26	Content 982 1163	"I think statehood is a tough thing for D.C. I think it’s a tough thing. I don’t have a position on it yet. I would form a position. But I think statehood is a tough thing for D.C."
+T27	Attribution 976 981	said:
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 1165 1236;1249 1389	"I think it’s just something that I don’t think I’d be inclined to do," "I’d like to study it. It’s not a question really – maybe Chuck [Todd] didn’t ask me like you’re asking me – I don’t see statehood for D.C."
+T29	Source 1237 1242	Trump
+T30	Cue 1243 1247	said
+T31	Attribution 1243 1247	said
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Cue 1396 1401	asked
+T33	Content 1402 1446	whether D.C. should have a vote in the House
+T34	Attribution-no-source 1396 1401	asked
+E9	Attribution-no-source:T34 Content:T33 Cue:T32
+T35	Source 1448 1450	he
+T36	Cue 1451 1456	said:
+T37	Content 1457 1503	"I think that’s something that would be okay."
+T38	Attribution 1451 1456	said:
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Cue 1505 1518	Responding to
+T40	Content 1519 1534	Trump's remarks
+T41	Source 1536 1543	Clinton
+T42	Attribution 1505 1518	Responding to
+E11	Attribution:T42 Source:T41 Content:T40 Cue:T39
+T43	Cue 1544 1550	wrote:
+T44	Content 1551 1660	"Well, I think what’s been tough for the District is having virtually no say in its own affairs for decades."
+T45	Attribution 1544 1550	wrote:
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T41
+T46	Source 1701 1715	Bernie Sanders
+T47	Cue 1716 1727	has pledged
+T48	Content 1728 1782	to stay in the Democratic primary through that contest
+T49	Attribution 1716 1727	has pledged
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46

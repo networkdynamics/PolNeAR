@@ -1,0 +1,84 @@
+T1	Source 0 17	Hillary Clinton’s
+T2	Cue 18 23	Claim
+T3	Content 24 70	That Donald Trump Is In ISIS Recruiting Videos
+T4	Attribution 18 23	Claim
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 221 224	she
+T6	Cue 225 232	claimed
+T7	Content 233 347	that the self-described Islamic State, or ISIS, has used real estate mogul Donald Trump in its recruitment efforts
+T8	Attribution 225 232	claimed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 350 389;400 530	“He is becoming ISIS’s best recruiter,” “They are going to people, showing videos of Donald Trump insulting Islam and Muslims in order to recruit more radical jihadists.”
+T10	Source 390 393	she
+T11	Cue 394 398	said
+T12	Attribution 394 398	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Discard 532 534	X.
+T14	Source 536 549	Fact-checkers
+T15	Cue 550 560	soon noted
+T16	Content 561 625	that Clinton may have been referring to a hypothetical situation
+T17	Attribution 550 560	soon noted
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Cue 631 647	an article cited
+T19	Source 651 663	her campaign
+T20	Content 664 732	quoted a few experts who have found no evidence of the videos so far
+T21	Attribution 631 647	an article cited
+E5	Attribution:T21 Content:T20 Source:T19 Cue:T18
+T22	Discuss 631 633	an
+T23	Content 776 798	“She just made it up,”
+T24	Source 799 801	he
+T25	Cue 802 806	said
+T26	Attribution 802 806	said
+E6	Attribution:T26 Cue:T25 Source:T24 Content:T23
+T27	Source 857 915	Clinton campaign communications director Jennifer Palmieri
+T28	Cue 916 928	acknowledged
+T29	Content 929 956	that the candidate misspoke
+T30	Attribution 916 928	acknowledged
+E7	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Cue 961 966	noted
+T32	Content 967 1029	that experts say that ISIS has mentioned Trump on social media
+T33	Attribution 961 966	noted
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T27
+T34	Content 1032 1115	“She didn’t have a particular video in mind, but he is being used in social media,”
+T35	Source 1116 1124	Palmieri
+T36	Cue 1125 1129	said
+T37	Attribution 1125 1129	said
+E9	Attribution:T37 Cue:T36 Source:T35 Content:T34
+T38	Source 1150 1157	Clinton
+T39	Cue 1158 1173	wrongly claimed
+T40	Content 1174 1195	that the videos exist
+T41	Attribution 1158 1173	wrongly claimed
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Source 1197 1219	foreign policy experts
+T43	Cue 1220 1226	affirm
+T44	Content 1227 1310	that it is highly likely that Trump will be used as a recruiting tool in the future
+T45	Attribution 1220 1226	affirm
+E11	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 1312 1319	Trump’s
+T47	Cue 1345 1370	offensive rhetoric toward
+T48	Content 1371 1378	Muslims
+T49	Attribution 1345 1370	offensive rhetoric toward
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 1390 1393	his
+T51	Cue 1394 1405	recent call
+T52	Content 1406 1457	to ban all Muslim immigrants from entering the U.S.
+T53	Attribution 1394 1405	recent call
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 1551 1554	his
+T55	Content 1555 1567	Islamophobic
+T56	Cue 1568 1575	remarks
+T57	Attribution 1568 1575	remarks
+E14	Attribution:T57 Cue:T56 Content:T55 Source:T54
+T58	Cue 1662 1684	In a fiery takedown of
+T59	Content 1685 1700	the businessman
+T60	Source 1702 1729	Sen. Bernie Sanders (I-Vt.)
+T61	Attribution 1662 1684	In a fiery takedown of
+E15	Attribution:T61 Source:T60 Content:T59 Cue:T58
+T62	Cue 1730 1736	called
+T63	Content 1737 1749	him divisive
+T64	Attribution 1730 1736	called
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T60
+T65	Cue 1754 1761	accused
+T66	Content 1762 1873	him of preventing Americans from being able to “stand together to address the real issues facing this country.”
+T67	Attribution 1754 1761	accused
+E17	Attribution:T67 Source:T60 Cue:T65 Content:T66

@@ -1,0 +1,112 @@
+T1	Source 0 10	Republican
+T2	Cue 11 16	seeks
+T3	Content 17 36	new Clinton inquiry
+T4	Attribution 11 16	seeks
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 39 47	Chaffetz
+T6	Cue 48 52	asks
+T7	Content 53 103	for probeof email deletions bytech company staffer
+T8	Attribution 48 52	asks
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 106 155	House Oversight Committee Chairman Jason Chaffetz
+T10	Cue 167 176	requested
+T11	Content 177 410	yet another Justice Department investigation of Democratic presidential candidate Hillary Clinton - this one focused on emails that a tech company staffer deleted in spite of a congressional committee's request that they be preserved
+T12	Attribution 167 176	requested
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 513 532	the Utah Republican
+T14	Cue 533 541	asks for
+T15	Content 542 811	an investigation to determine whether "Secretary Clinton or her employees and contractors violated statutes that prohibit destruction of records, obstruction of congressional inquiries, and concealment or cover up of evidence material to a congressional investigation."
+T16	Attribution 533 541	asks for
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 1056 1094	the House Select Committee on Benghazi
+T18	Cue 1030 1035	asked
+T19	Content 1036 1052	to preserve them
+T20	Attribution 1030 1035	asked
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 1096 1107	The episode
+T22	Cue 1108 1133	was revealed last week in
+T23	Source 1134 1257	documents made public by the FBI about its investigation into Clinton's use of a private email server as secretary of state
+T24	Attribution 1108 1133	was revealed last week in
+E6	Attribution:T24 Source:T23 Cue:T22 Content:T21
+T25	Source 1260 1267	The FBI
+T26	Cue 1268 1277	concluded
+T27	Content 1291 1442	that while Clinton and her staffers were careless in how they handled classified information, no reasonable prosecutor would bring charges against them
+T28	Attribution 1268 1277	concluded
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1444 1466	Republican legislators
+T30	Cue 1467 1482	have questioned
+T31	Content 1483 1501	that determination
+T32	Attribution 1467 1482	have questioned
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 1503 1509	waging
+T34	Content 1510 1627	an aggressive campaign to get the FBI to release more information about the probe while requesting new investigations
+T35	Attribution 1503 1509	waging
+E9	Attribution:T35 Cue:T33 Content:T34 Source:T29
+T36	Source 1630 1670	Chaffetz and Rep. Bob Goodlatte (R-Va.),
+T37	Cue 1684 1697	earlier asked
+T38	Content 1724 1849	whether Clinton committed perjury when she testified before a congressional committee about her use of a private email server
+T39	Attribution 1684 1697	earlier asked
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1852 1884	A Justice Department spokeswoman
+T41	Cue 1885 1907	declined to comment on
+T42	Content 1908 1933	Chaffetz's latest request
+T43	Attribution 1885 1907	declined to comment on
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1935 1942	Clinton
+T45	Cue 2006 2010	said
+T46	Content 2041 2177	"The FBI resolved all of this. Their report answered all the questions. The findings included debunking his latest conspiracy theories."
+T47	Attribution 2006 2010	said
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 2179 2207	A spokesman for Platte River
+T49	Cue 2208 2227	declined to address
+T50	Content 2228 2257	the FBI's report specifically
+T51	Attribution 2208 2227	declined to address
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Cue 2262 2266	said
+T53	Content 2282 2532	that "Platte River Networks did not, at any time, treat the server belonging to the Clintons differently than we did any other client. We maintain all security precautions were in place, and continued to be so, throughout our service to said client."
+T54	Attribution 2262 2266	said
+E14	Attribution:T54 Cue:T52 Content:T53 Source:T48
+T55	Cue 2534 2546	According to
+T56	Source 2547 2582	an FBI summary of its investigation
+T57	Content 2584 2819	Cheryl Mills, a top Clinton aide, sent the Platte River employee an email referencing the preservation request weeks before he made the deletions, and Mills and Clinton told investigators they were unaware of what the employee had done
+T58	Attribution 2534 2546	According to
+E15	Attribution:T58 Content:T57 Source:T56 Cue:T55
+T59	Cue 2873 2885	According to
+T60	Source 2886 2901	the FBI summary
+T61	Content 2903 3075	Mills and another Clinton aide asked the Platte River employee to delete emails in December 2014 or January 2015 and also to modify the period in which emails were retained
+T62	Attribution 2873 2885	According to
+E16	Attribution:T62 Content:T61 Source:T60 Cue:T59
+T63	Content 3077 3124	The employee, though, did not do so immediately
+T64	Cue 3126 3138	according to
+T65	Source 3139 3150	the summary
+T66	Attribution 3126 3138	according to
+E17	Attribution:T66 Source:T65 Cue:T64 Content:T63
+T67	Source 3171 3189	the New York Times
+T68	Cue 3190 3198	revealed
+T69	Content 3199 3357	that Clinton used a personal email account as secretary of state, and the following day, the Benghazi committee requested documents related to it be preserved
+T70	Attribution 3190 3198	revealed
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Content 3359 3482	On March 25, Platte River, which then managed Clinton's private server, had a conference call with staffers of Bill Clinton
+T72	Cue 3484 3496	according to
+T73	Source 3497 3508	the summary
+T74	Attribution 3484 3496	according to
+E19	Attribution:T74 Source:T73 Cue:T72 Content:T71
+T75	Source 3511 3536	The Platte River employee
+T76	Cue 3537 3541	told
+T77	Content 3553 3664	that sometime in the week that followed, he realized he had not made the changes Mills requested months earlier
+T78	Attribution 3537 3541	told
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 3674 3676	he
+T80	Cue 3677 3681	gave
+T81	Content 3682 3722	varying stories as to what happened next
+T82	Attribution 3677 3681	gave
+E21	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Source 3724 3736	The employee
+T84	Cue 3737 3747	first said
+T85	Content 3748 3809	he did not recall making deletions based upon his realization
+T86	Attribution 3737 3747	first said
+E22	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Cue 3836 3840	said
+T88	Content 3841 3984	he had an "Oh, s---" moment and deleted a Hillary Clinton email archive using a program called BleachBit, which is designed to prevent recovery
+T89	Attribution 3836 3840	said
+E23	Attribution:T89 Cue:T87 Content:T88 Source:T83

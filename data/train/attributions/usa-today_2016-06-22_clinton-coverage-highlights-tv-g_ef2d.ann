@@ -1,0 +1,43 @@
+T1	Source 74 86	news outlets
+T2	Cue 87 96	call upon
+T3	Content 97 277	individuals with unique understanding of the circumstances to interpret the significance of the milestone and explain its consequences -- people whom viewers would consider experts
+T4	Attribution 87 96	call upon
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 788 799	Megyn Kelly
+T6	Cue 800 816	speculated about
+T7	Content 817 841	the cost of her wardrobe
+T8	Attribution 800 816	speculated about
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 843 854	referred to
+T10	Content 855 886	Clinton's supposed divisiveness
+T11	Attribution 843 854	referred to
+E3	Attribution:T11 Source:T5 Cue:T9 Content:T10
+T12	Cue 891 901	considered
+T13	Content 902 1029	whether President Obama's endorsement would create a conflict of interest with the investigation of her State Department emails
+T14	Attribution 891 901	considered
+E4	Attribution:T14 Source:T5 Cue:T12 Content:T13
+T15	Content 1461 1464;1494 1538	who to comment on the 2016 presidential election
+T16	Cue 1485 1493	is asked
+T17	Attribution-no-source 1485 1493	is asked
+E5	Attribution-no-source:T17 Cue:T16 Content:T15
+T18	Source 1752 1768	all-male lineups
+T19	Cue 1769 1779	discussing
+T20	Content 1780 1816	Donald Trump's "woman's card" remark
+T21	Attribution 1769 1779	discussing
+E6	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Source 1862 1909	Research conducted for the Women's Media Center
+T23	Cue 1910 1916	showed
+T24	Content 1917 1972	that men reported 65% of U.S. political stories in 2014
+T25	Attribution 1910 1916	showed
+E7	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Cue 2364 2374	discussing
+T27	Content 2375 2454	the economy, women's health, the environment or a woman candidate for president
+T28	Source 2247 2251	They
+T29	Attribution 2364 2374	discussing
+E8	Attribution:T29 Source:T28 Content:T27 Cue:T26
+T30	Source 2697 2702	women
+T31	Cue 2703 2727	should be able to expect
+T32	Content 2728 2758	a better balance of commentary
+T33	Attribution 2703 2727	should be able to expect
+E9	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Discard 2761 2954	Gina Glantz is founder of GenderAvenger.com. Julie Burton is president of the Women's Media Center. Debbie Walsh is director of the Center for American Women and Politics at Rutgers University.

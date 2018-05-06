@@ -1,0 +1,35 @@
+T1	Source 0 7	Axelrod
+T2	Cue 8 21	calls on Dean
+T3	Content 22 68	to apologize for suggesting Trump uses cocaine
+T4	Attribution 8 21	calls on Dean
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 71 84	David Axelrod
+T6	Cue 98 119	called on Howard Dean
+T7	Content 120 189	to apologize to Donald Trump for accusing him of being a cocaine user
+T8	Attribution 98 119	called on Howard Dean
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 192 227;309 405	“My reaction, that was outrageous,” “He, like Donald Trump, has refused to apologize for an outrageous statement. He really should.”
+T10	Source 228 262	Obama's former campaign strategist
+T11	Cue 263 307	said in an interview with CNN’s Wolf Blitzer
+T12	Attribution 263 307	said in an interview with CNN’s Wolf Blitzer
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 407 487	Dean, a former Democratic National Committee chairman and presidential candidate
+T14	Cue 558 566	tweeting
+T15	Content 568 616	“Notice Trump sniffing all the time. Coke user?”
+T16	Attribution 558 566	tweeting
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 689 695	saying
+T18	Content 696 748	he would “never” diagnose someone through television
+T19	Source 618 641	Dean, a medical doctor,
+T20	Attribution 689 695	saying
+E5	Attribution:T20 Source:T19 Content:T18 Cue:T17
+T21	Source 751 753	He
+T22	Cue 759 787	defended the remark, saying,
+T23	Content 788 1113	“I don’t think this is a ridiculous idea. Something funny was going on with Trump last night. Do I think it was cocaine? Probably not. But, you know, again, the sniffling, the grandiosity, the delusions, the pressured speech. You know, this guy has already proven himself to be unstable, the question is, why is he unstable?”
+T24	Attribution 759 787	defended the remark, saying,
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 1115 1247;1262 1398	“There are plenty of ways and valid reasons to attack and critique Donald Trump, but that was a really — a really outrageous tweet,” “And, you know, I don't think Howard Dean has done anything since the great scream in 2004 quite like this. He ought to pull that back."
+T26	Source 1248 1255	Axelrod
+T27	Cue 1256 1260	said
+T28	Attribution 1256 1260	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25

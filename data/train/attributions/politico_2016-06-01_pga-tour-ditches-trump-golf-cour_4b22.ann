@@ -1,0 +1,30 @@
+T1	Cue 535 553	was first reported
+T2	Source 557 573	the Miami Herald
+T4	Source 674 679	Trump
+T5	Cue 680 687	said of
+T6	Content 576 673;688 696;744 902	"I just heard that the PGA Tour is taking their tournament out of Miami and moving it to Mexico," the move “Cadillac's been a great sponsor, but they're moving it to Mexico. They're moving it to Mexico City which, by the way, I hope they have kidnapping insurance.”
+T7	Content 512 534	News of the PGA’s move
+T3	Attribution 535 553	was first reported
+E1	Attribution:T3 Cue:T1 Content:T7 Source:T2
+T8	Attribution 680 687	said of
+E2	Attribution:T8 Content:T6 Cue:T5 Source:T4
+T9	Source 940 945	Trump
+T10	Cue 946 955	continued
+T11	Content 1006 1070;904 939;957 1005	It is so sad when you look at what's going on with our country." “They're moving it to Mexico City,” “And I'm saying, you know, what's going on here?
+T12	Attribution 946 955	continued
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T14	Source 1368 1370	he
+T13	Cue 1371 1379	reported
+T15	Content 1380 1447	earning $132 million from the club on his financial disclosure form
+T16	Attribution 1371 1379	reported
+E4	Attribution:T16 Content:T15 Cue:T13 Source:T14
+T17	Source 1175 1196	The real estate mogul
+T18	Cue 1197 1203	listed
+T19	Content 1204 1214;1243 1301	the resort as a liability with a mortgage worth more than $50 million
+T20	Attribution 1197 1203	listed
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 399 407	Cadillac
+T22	Cue 408 416	declined
+T23	Content 417 454	to renew its sponsorship of the event
+T24	Attribution 408 416	declined
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21

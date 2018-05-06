@@ -1,0 +1,157 @@
+T1	Source 0 11	Republicans
+T2	Cue 12 17	blast
+T3	Content 18 61	Obama after North Korea claims nuclear test
+T4	Attribution 12 17	blast
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 64 103	Presidential candidates in both parties
+T6	Cue 104 113	condemned
+T7	Content 114 203	North Korea's claim to have conducted the successful test of a hydrogen bomb on Wednesday
+T8	Attribution 104 113	condemned
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 264 280	Sen. Marco Rubio
+T10	Cue 281 296	responded first
+T11	Content 298 352	ripping into President Barack Obama late Tuesday night
+T12	Attribution 281 296	responded first
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 355 522	"I have been warning throughout this campaign that North Korea is run by a lunatic who has been expanding his nuclear arsenal while President Obama has stood idly by,"
+T14	Source 523 580	the Florida senator and Republican presidential candidate
+T15	Cue 581 600	said in a statement
+T16	Attribution 581 600	said in a statement
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Content 603 710;720 937	“If this test is confirmed, it will be just the latest example of the failed Obama-Clinton foreign policy," "Our enemies around the world are taking advantage of Obama's weakness. We need new leadership that will stand up to people like Kim Jong-un and ensure our country has the capabilities necessary to keep America safe."
+T18	Source 711 713	he
+T19	Cue 714 718	said
+T20	Attribution 714 718	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 942 945	her
+T22	Cue 946 966	statement condemning
+T23	Content 967 975	the test
+T24	Attribution 946 966	statement condemning
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 977 992	Hillary Clinton
+T26	Cue 993 1001	defended
+T27	Content 1002 1034	her record as secretary of state
+T28	Attribution 993 1001	defended
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1037 1350	“As Secretary I championed the United States’ pivot to the Asia Pacific — including shifting additional military assets to the theater — in part to confront threats like North Korea and to support our allies. I worked to get not just our allies but also Russia and China on board for the strongest sanctions yet,"
+T30	Source 1351 1358	Clinton
+T31	Cue 1359 1363	said
+T32	Attribution 1359 1363	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Source 1366 1379	Sen. Ted Cruz
+T34	Cue 1392 1398	warned
+T35	Content 1399 1553	that the incident could foreshadow the future with Iran, remarking that it put into clear relief the need to scrap the nuclear agreement reached last year
+T36	Attribution 1392 1398	warned
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1555 1565	Ben Carson
+T38	Cue 1622 1628	called
+T39	Content 1629 1696	the incident a reason for the U.S. to reinvest in its space program
+T40	Attribution 1622 1628	called
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1739 1751	Donald Trump
+T42	Cue 1752 1762	pointed to
+T43	Content 1763 1793	China as the regional enforcer
+T44	Attribution 1752 1762	pointed to
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Cue 1795 1804	remarking
+T46	Content 1805 1893	that the U.S. should make things harder on Beijing if it does not lean in on North Korea
+T47	Attribution 1795 1804	remarking
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T41
+T48	Source 1896 1915	Sen. Bernie Sanders
+T49	Cue 1937 1953	also called upon
+T50	Content 1954 2034	the U.S. to press China into forcing North Korea to abide by international norms
+T51	Attribution 1937 1953	also called upon
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Content 2037 2142;2248 2331	"China is equally concerned about what North Korea is doing. North Korea is a paranoid, isolated nation," "When you have a hydrogen bomb, if that’s true, you are a threat to China as well.”
+T53	Source 2143 2212	the independent Vermont senator and Democratic presidential candidate
+T54	Cue 2213 2217	told
+T55	Attribution 2213 2217	told
+E14	Attribution:T55 Cue:T54 Source:T53 Content:T52
+T56	Source 2357 2372	the White House
+T57	Cue 2373 2378	cited
+T58	Content 2379 2498	initial analysis that showed inconsistencies with North Korea's claim that it had successfully tested a hydrogen weapon
+T59	Attribution 2373 2378	cited
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Content 2501 2679;2737 3152	"There’s nothing that’s occurred in the last 24 hours that has caused the United States government to change our assessment of North Korea’s technical and military capabilities," "Now, I hasten to add that we’re continuing the work necessary to learn more about the nuclear test that North Korea conducted last night. But you’ve probably seen by now the extensive independent analysis that’s been done in the United States and in other countries that includes significant and understandable skepticism about the claims of the North Korean — skepticism of the claims of the North Korean regime."
+T61	Source 2680 2720	White House press secretary Josh Earnest
+T62	Cue 2721 2725	told
+T63	Attribution 2721 2725	told
+E16	Attribution:T63 Cue:T62 Source:T61 Content:T60
+T64	Source 3154 3180	The U.S. Geological Survey
+T65	Cue 3181 3185	said
+T66	Content 3186 3262	it detected a 5.1-magnitude earthquake about 30 miles from a known test site
+T67	Attribution 3181 3185	said
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 3324 3359	the United Nations Security Council
+T69	Cue 3373 3379	called
+T70	Content 3380 3400	an emergency session
+T71	Attribution 3373 3379	called
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Source 3613 3631	a Pentagon readout
+T73	Cue 3600 3612	according to
+T74	Content 3427 3599	Defense Secretary Ash Carter spoke with his South Korean counterpart Han Min-koo "to discuss potential alliance responses to the recent apparent North Korean nuclear test,"
+T75	Attribution 3600 3612	according to
+E19	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 3634 3658	NATO's secretary general
+T77	Cue 3671 3680	called on
+T78	Content 3681 3779	the North Korean regime to abandon its nuclear weapons and comply with the international community
+T79	Attribution 3671 3680	called on
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Content 3782 3940;3987 4198	"The nuclear weapons test announced by North Korea undermines regional and international security, and is in clear breach of UN Security Council resolutions," "North Korea should abandon nuclear weapons and existing nuclear and ballistic missile programs in a complete, verifiable and irreversible manner, and engage in credible and authentic talks on denuclearization."
+T81	Source 3941 3980	NATO Secretary General Jens Stoltenberg
+T82	Cue 3981 3985	said
+T83	Attribution 3981 3985	said
+E21	Attribution:T83 Cue:T82 Source:T81 Content:T80
+T84	Source 4200 4273	Yukiya Amano, director general of the International Atomic Energy Agency,
+T85	Cue 4274 4293	said in a statement
+T86	Content 4294 4392	Wednesday that, if its claims are true, North Korea is violating U.N. Security Council resolutions
+T87	Attribution 4274 4293	said in a statement
+E22	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Source 4401 4403	he
+T89	Cue 4404 4409	added
+T90	Content 4395 4400;4410 4434	which “is deeply regrettable.”
+T91	Attribution 4404 4409	added
+E23	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Content 4436 4584;4594 4814	“I strongly urge the [Democratic People’s Republic of Korea] to implement fully all relevant resolutions of the U.N. Security Council and the IAEA,” “The IAEA remains ready to contribute to the peaceful resolution of the DPRK nuclear issue by resuming its nuclear verification activities in the DPRK once a political agreement is reached among the countries concerned.”
+T93	Source 4585 4587	he
+T94	Cue 4588 4592	said
+T95	Attribution 4588 4592	said
+E24	Attribution:T95 Cue:T94 Source:T93 Content:T92
+T96	Source 4829 4844	the White House
+T97	Cue 4845 4860	expressed doubt
+T98	Content 4861 4921	that North Korea had the capability to build a hydrogen bomb
+T99	Attribution 4845 4860	expressed doubt
+E25	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Content 5030 5267	"At this point, the information that we have access to calls into serious question those claims, but we take very seriously the risk and the threat that is posed by the North Korean regime in their ambitions to develop a nuclear weapon,"
+T101	Source 5268 5275	Earnest
+T102	Cue 5276 5280	told
+T103	Attribution 5276 5280	told
+E26	Attribution:T103 Cue:T102 Source:T101 Content:T100
+T104	Source 5305 5334	Nuclear proliferation experts
+T105	Cue 5335 5360	have similarly discounted
+T106	Content 5361 5379	Pyongyang's claims
+T107	Attribution 5335 5360	have similarly discounted
+E27	Attribution:T107 Content:T106 Cue:T105 Source:T104
+T108	Cue 5385 5400	have speculated
+T109	Content 5401 5482	that North Korea might be able to boost its "explosive yield" through other means
+T110	Attribution 5385 5400	have speculated
+E28	Attribution:T110 Content:T109 Cue:T108 Source:T104
+T111	Content 5497 5499;5507 5518	so fusion fuel
+T112	Cue 5500 5506	called
+T113	Attribution-no-source 5500 5506	called
+E29	Attribution-no-source:T113 Cue:T112 Content:T111
+T114	Content 5537 5688;5836 5997	“Tritium would enable nuclear weapons designs that could have a greater explosive yield than weapons made from only plutonium or weapon-grade uranium,” “Whether North Korea can make nuclear weapons using tritium is unknown although we believe that it remains a technical problem North Korea still needs to solve.”
+T115	Source 5689 5815	nuclear experts David Albright and Serena Kelleher-Vergantini of Washington's Institute for Science and International Security
+T116	Cue 5816 5821	wrote
+T117	Attribution 5816 5821	wrote
+E30	Attribution:T117 Cue:T116 Source:T115 Content:T114
+T118	Content 5999 6199	"Building a staged thermonuclear weapon—one in which the radiation from a fission primary compresses a secondary stage of thermonuclear fuel—would seem to be a bit of a stretch for the North Koreans,"
+T119	Source 6200 6269	Jeffrey Lewis of the James Martin Center for Nonproliferation Studies
+T120	Cue 6270 6275	wrote
+T121	Attribution 6270 6275	wrote
+E31	Attribution:T121 Cue:T120 Source:T119 Content:T118
+T122	Source 6295 6297	he
+T123	Cue 6298 6303	noted
+T124	Content 6305 6573	"while a staged thermonuclear weapon is likely more than North Korea can, at the moment, achieve technically, it is a mistake to rule out the aspiration by Pyongyang. An H-bomb might not conveniently fit our perception of North Korea, but perhaps that is Kim’s point."
+T125	Attribution 6298 6303	noted
+E32	Attribution:T125 Content:T124 Cue:T123 Source:T122

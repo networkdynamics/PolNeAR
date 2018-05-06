@@ -1,0 +1,187 @@
+T1	Discard 115 124	ABSTRACT.
+T2	Discard 271 281	FULL TEXT.
+T3	Content 283 332	The surprisingly robust United States jobs report
+T4	Cue 333 340	cheered
+T5	Source 341 350	Democrats
+T6	Attribution 333 340	cheered
+E1	Attribution:T6 Source:T5 Cue:T4 Content:T3
+T7	Cue 351 357	hoping
+T8	Content 358 416	to retain the White House and capture the Senate next year
+T9	Attribution 351 357	hoping
+E2	Attribution:T9 Source:T5 Content:T8 Cue:T7
+T10	Discuss 283 286	The
+T11	Source 422 424	it
+T12	Cue 425 433	heralded
+T13	Content 434 465	a new atmosphere of uncertainty
+T14	Attribution 425 433	heralded
+E3	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Cue 469 477	flashing
+T16	Content 478 538	a green light to the Federal Reserve to raise interest rates
+T17	Attribution 469 477	flashing
+E4	Attribution:T17 Source:T11 Cue:T15 Content:T16
+T18	Source 742 765	average hourly earnings
+T19	Cue 789 796	showing
+T20	Content 797 808	no increase
+T21	Attribution 789 796	showing
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Content 824 926	''We finally may be seeing some wage acceleration, and if it sticks, that would be a very big story,''
+T23	Source 927 1000	the economist Jared Bernstein, a former adviser in the Obama White House,
+T24	Cue 1001 1006	wrote
+T25	Source 1095 1098	who
+T26	Cue 1099 1103	want
+T27	Content 1104 1209	to keep the White House after two terms under a president who has struggled with a slow economic recovery
+T28	Attribution 1001 1006	wrote
+E6	Attribution:T28 Content:T22 Source:T23 Cue:T24
+T29	Attribution 1099 1103	want
+E7	Attribution:T29 Content:T27 Cue:T26 Source:T25
+T30	Source 1226 1238	Republicans'
+T31	Cue 1239 1262	generalized demands for
+T32	Content 1263 1269	change
+T33	Attribution 1239 1262	generalized demands for
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1281 1285	them
+T35	Cue 1286 1297	to focus on
+T36	Content 1298 1394	more granular issues, such as which party can better address wage growth and economic inequality
+T37	Attribution 1286 1297	to focus on
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Content 1397 1583	''Good economic news for the country is bad political news for the Republicans, because it takes the air out of their argument that we need a big change from Obama's economic policies,''
+T39	Cue 1584 1588	said
+T40	Source 1589 1697	Geoff Garin, a Democratic pollster working for Priorities USA, a super PAC supporting Hillary Rodham Clinton
+T41	Attribution 1584 1588	said
+E10	Attribution:T41 Source:T40 Cue:T39 Content:T38
+T42	Content 1700 1797;1816 1991	Whether the issue is the Keystone XL pipeline, climate change policies or the Affordable Care Act ''it becomes harder and harder for the Republicans to successfully attack Obama as a job killer, and easier for Hillary Clinton and other Democrats to defend those policies.''
+T43	Source 1799 1808	Mr. Garin
+T44	Cue 1809 1814	added
+T45	Attribution 1809 1814	added
+E11	Attribution:T45 Cue:T44 Source:T43 Content:T42
+T46	Source 2046 2068	much of the electorate
+T47	Cue 2069 2102	has remained in a sour mood about
+T48	Content 2103 2188	the economy's ability to deliver fatter paychecks to anyone but the richest Americans
+T49	Attribution 2069 2102	has remained in a sour mood about
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2233 2285	Senator Bernie Sanders, an independent from Vermont,
+T51	Cue 2286 2293	against
+T52	Content 2294 2336	Mrs. Clinton, the Democratic front-runner,
+T53	Attribution 2286 2293	against
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 2396 2434	political outsiders such as Ben Carson
+T55	Cue 2435 2442	against
+T56	Content 2443 2486	party-establishment favorites like Jeb Bush
+T57	Attribution 2435 2442	against
+E14	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Discuss 2191 2195	That
+T59	Source 2489 2595	Bill McInturff, the Republican half of a bipartisan polling team for The Wall Street Journal and NBC News,
+T60	Cue 2596 2625	sounded a cautious note about
+T61	Content 2626 2641	the jobs report
+T62	Attribution 2596 2625	sounded a cautious note about
+E15	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Content 2643 2701;2712 2870	While consumer confidence is at its highest level in years ''this has done nothing to lower the almost 12 straight years that a majority of Americans say they believe the country is headed off on the 'wrong track.'.''
+T64	Source 2703 2705	he
+T65	Cue 2706 2710	said
+T66	Attribution 2706 2710	said
+E16	Attribution:T66 Cue:T65 Source:T64 Content:T63
+T67	Content 2872 3015	''It is going to take a lot more than one positive jobs report to seriously dent the pessimism people feel about where the country is headed,''
+T68	Source 3016 3018	he
+T69	Cue 3019 3023	said
+T70	Attribution 3019 3023	said
+E17	Attribution:T70 Cue:T69 Source:T68 Content:T67
+T72	Source 3614 3737	Douglas Holtz-Eakin, an economic adviser to Republicans and former director of the nonpartisan Congressional Budget Office,
+T73	Cue 3738 3743	wrote
+T71	Content 3488 3613;3780 3852;3853 3906	''The now-closely watched hourly earnings data showed the largest year-over-year increase since July 2009 - up 2.5 percent,'' ''This represents real wage growth, which has been a missing ingredient. The only nit to pick was flat average weekly hours.''
+T74	Attribution 3738 3743	wrote
+E18	Attribution:T74 Content:T71 Cue:T73 Source:T72
+T75	Content 3908 3943;3967 4200	But ''the more interesting issue,'' ''is whether the strong October report represents a one-time blip in the aftermath of the weak August and September performance, or is an early sign of growth that will remain above the 2.2 percent average since the recovery began.''
+T76	Source 3944 3959	Mr. Holtz-Eakin
+T77	Cue 3960 3965	added
+T78	Attribution 3960 3965	added
+E19	Attribution:T78 Cue:T77 Source:T76 Content:T75
+T79	Content 4402 4482;4495 4546	The central bank, which has held short-term rates near zero since December 2008, to act at its final meeting of the year in December
+T80	Cue 4483 4494	is expected
+T81	Attribution-no-source 4483 4494	is expected
+E20	Attribution-no-source:T81 Cue:T80 Content:T79
+T82	Source 4549 4556	The Fed
+T83	Cue 4557 4570	does not want
+T84	Content 4571 4629	to stall growth, only to prevent the economy's overheating
+T85	Attribution 4557 4570	does not want
+E21	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Source 4631 4633	It
+T87	Cue 4634 4639	plans
+T88	Content 4640 4704	to raise rates more slowly than it has in past periods of growth
+T89	Attribution 4634 4639	plans
+E22	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Source 4706 4715	Officials
+T91	Cue 4716 4722	expect
+T92	Content 4723 4791	it to raise rates by roughly one percentage point over the next year
+T93	Attribution 4716 4722	expect
+E23	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 4803 4892	some liberal economists - including a minority of the Fed's own policy-making committee -
+T95	Cue 4893 4897	warn
+T96	Content 4898 4971	that the central bank could undermine growth by raising rates prematurely
+T97	Attribution 4893 4897	warn
+E24	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Discuss 4973 4978	There
+T99	Content 5116 5200	''We should not take the continued strength of domestic demand growth for granted,''
+T100	Source 5201 5231	Lael Brainard, a Fed governor,
+T101	Cue 5232 5236	said
+T102	Attribution 5232 5236	said
+E25	Attribution:T102 Cue:T101 Source:T100 Content:T99
+T103	Source 5261 5264	She
+T104	Cue 5265 5269	said
+T105	Content 5270 5426	the weakness of the global economy made it risky for the United States to raise interest rates, which would strengthen the dollar and cut demand for exports
+T106	Attribution 5265 5269	said
+E26	Attribution:T106 Content:T105 Cue:T104 Source:T103
+T107	Source 5446 5467	candidates and voters
+T108	Cue 5525 5536	focusing on
+T109	Content 5537 5589	economic inequality and the woes of the middle class
+T110	Attribution 5525 5536	focusing on
+E27	Attribution:T110 Content:T109 Cue:T108 Source:T107
+T111	Source 5617 5626	Americans
+T112	Cue 5627 5668	are starting to feel more confident about
+T113	Content 5669 5688	their own prospects
+T114	Attribution 5627 5668	are starting to feel more confident about
+E28	Attribution:T114 Content:T113 Cue:T112 Source:T111
+T115	Content 5803 5884	Consumer sentiment over the last year has been higher than in any year since 2004
+T116	Source 5886 5912	the University of Michigan
+T117	Cue 5913 5921	reported
+T118	Attribution 5913 5921	reported
+E29	Attribution:T118 Cue:T117 Source:T116 Content:T115
+T119	Source 6006 6016	the survey
+T120	Cue 6017 6022	found
+T121	Content 6023 6118	that people had increased confidence that their finances would improve over the next five years
+T122	Attribution 6017 6022	found
+E30	Attribution:T122 Content:T121 Cue:T120 Source:T119
+T123	Content 6121 6280	''The most impressive aspect has been a newfound resilience by consumers to a host of negative developments,'' like the recent volatility of financial markets,
+T124	Cue 6281 6285	said
+T125	Source 6286 6358	Richard Curtin, the chief economist for the Michigan Survey of Consumers
+T126	Attribution 6281 6285	said
+E31	Attribution:T126 Source:T125 Cue:T124 Content:T123
+T127	Source 6590 6597	the Fed
+T128	Cue 6598 6608	would like
+T129	Content 6515 6589	lenders may raise borrowing costs for businesses and consumers faster than
+T130	Attribution 6598 6608	would like
+E32	Attribution:T130 Content:T129 Cue:T128 Source:T127
+T131	Discuss 6515 6522	lenders
+T132	Source 6736 6745	Investors
+T133	Cue 6746 6749	see
+T134	Content 6750 6859	about a one-in-five chance that the Fed, after it begins to raise rates, will return to zero within two years
+T135	Attribution 6746 6749	see
+E33	Attribution:T135 Content:T134 Cue:T133 Source:T132
+T136	Cue 6862 6870	implying
+T137	Content 6871 6934	that they expect higher rates to significantly undermine growth
+T138	Attribution 6862 6870	implying
+E34	Attribution:T138 Source:T132 Cue:T136 Content:T137
+T139	Source 6937 6990	Donald J. Trump, a Republican presidential candidate,
+T140	Cue 6991 6997	shares
+T141	Content 6998 7013	this bleak view
+T142	Attribution 6991 6997	shares
+E35	Attribution:T142 Content:T141 Cue:T140 Source:T139
+T143	Content 7015 7111	''We're in a bubble, and when those rates are raised, a lot of bad things are going to happen,''
+T144	Source 7112 7121	Mr. Trump
+T145	Cue 7122 7126	said
+T146	Attribution 7122 7126	said
+E36	Attribution:T146 Cue:T145 Source:T144 Content:T143
+T147	Source 7149 7151	He
+T148	Cue 7152 7161	suggested
+T149	Content 7162 7261	that the Fed was keeping rates low at the behest of the Obama administration, to postpone the crash
+T150	Attribution 7152 7161	suggested
+E37	Attribution:T150 Content:T149 Cue:T148 Source:T147

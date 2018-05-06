@@ -1,0 +1,47 @@
+T1	Source 368 386	Sanders protesters
+T2	Content 420 440	“she wins, we lose!”
+T3	Cue 411 419	shouting
+T4	Attribution 411 419	shouting
+E1	Attribution:T4 Cue:T3 Content:T2 Source:T1
+T5	Content 442 521	“Oh, I know the Bernie people came to say that. We’re so sorry you’re leaving,”
+T6	Source 522 529	Clinton
+T7	Cue 530 548	said sarcastically
+T8	Attribution 530 548	said sarcastically
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Source 551 569	Clinton supporters
+T10	Cue 570 594	responded with chants of
+T11	Content 595 609	“I’m with her”
+T12	Attribution 570 594	responded with chants of
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 678 827	I have earned 9 million votes in this election. I have 1 million more votes than Donald Trump and I have 2.5 million more votes than Bernie Sanders,”
+T14	Source 828 835	Clinton
+T15	Cue 836 840	said
+T16	Attribution 836 840	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Content 884 960	“Here is what I regret. I regret they don’t want to listen to anybody else.”
+T18	Source 843 846	She
+T19	Source 1069 1137	Eva Resnick-Day, an activist for the environmental group Greenpeace,
+T20	Cue 1138 1154	demanded to know
+T21	Content 1155 1222	whether Clinton would forsake campaign donations from oil companies
+T22	Attribution 1138 1154	demanded to know
+E5	Attribution:T22 Cue:T20 Source:T19 Content:T21
+T23	Content 1313 1445;1447 1609	the Sanders campaign was conflating donations from people who work for oil companies into support from the oil companies themselves. “I do not have — I have money from people who work for fossil fuel companies. I am so sick — I am so sick of the Sanders campaign lying about me. I’m sick of it.”
+T24	Source 1225 1232	Clinton
+T25	Cue 1254 1312	responded by pointing a finger in the woman’s face, saying
+T26	Cue 852 883	addressed the supporters again:
+T27	Attribution 852 883	addressed the supporters again:
+E6	Attribution:T27 Cue:T26 Content:T17 Source:T18
+T28	Discuss 1254 1312	responded by pointing a finger in the woman’s face, saying
+T29	Attribution 1254 1312	responded by pointing a finger in the woman’s face, saying
+E7	Attribution:T29 Cue:T25 Source:T24 Content:T23
+T30	Source 1611 1631	The Sanders campaign
+T31	Cue 1632 1656	responded Friday, saying
+T32	Content 1657 1823	industry lobbyists and fundraisers have donated to a super PAC supporting Clinton, and that the criticism, which is outlined in a report from Greenpeace, is fair game
+T33	Attribution 1632 1656	responded Friday, saying
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Content 1826 1992	“If the Clinton campaign wants to argue that industry lobbyists giving thousands of dollars to her campaign won’t affect her decisions if she’s elected, that’s fine,”
+T35	Source 1993 2029	Sanders campaign manager Jeff Weaver
+T36	Cue 2030 2034	said
+T37	Attribution 2030 2034	said
+E9	Attribution:T37 Cue:T36 Source:T35 Content:T34 Content2:T38
+T38	Content 2036 2163	“But to call us liars for pointing out basic facts about the secretary’s fundraising is deeply cynical and very disappointing.”

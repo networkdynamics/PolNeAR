@@ -1,0 +1,45 @@
+T1	Source 81 96	Hillary Clinton
+T2	Cue 97 120	spoke out Tuesday about
+T3	Content 121 170	the death of Terence Crutcher in Tulsa, Oklahoma,
+T4	Attribution 97 120	spoke out Tuesday about
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 171 178	arguing
+T6	Content 179 283	that the epidemic of police officers killing unarmed black people should be recognized as “intolerable.”
+T7	Attribution 171 178	arguing
+E2	Attribution:T7 Cue:T5 Content:T6 Source:T1
+T8	Source 341 414	the former secretary of state and current Democratic presidential nominee
+T9	Cue 415 419	said
+T10	Content 420 515	she wanted to speak “directly to white people” and let them know that “this is not who we are.”
+T11	Attribution 415 419	said
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Content 516 571;586 696	“How many times do we have to see this in our country?” “In Tulsa, an unarmed man with his hands in the air. This is just unbearable. And it needs to be intolerable.”
+T13	Source 572 579	Clinton
+T14	Cue 580 584	said
+T15	Attribution 580 584	said
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T17	Cue 16 22	Speaks
+T18	Content 23 49	‘Directly To White People’
+T20	Content 697 784;800 890	“Maybe I can, by speaking directly to white people, say, look, this is not who we are,” “We have got to do everything possible to improve policing, to go right at implicit bias.”
+T21	Source 785 788	she
+T22	Cue 789 798	continued
+T23	Attribution 789 798	continued
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 1182 1196	Tulsa police’s
+T25	Cue 1197 1210	earlier claim
+T26	Content 1211 1257	that Crutcher had refused to keep his hands up
+T27	Attribution 1197 1210	earlier claim
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 1367 1444;1490 1654	“I will just make this promise to you: We will achieve justice in this case,” “I want to assure our community and I want to assure all of you and people across the nation who are going to be looking at this: We will achieve justice ― period.”
+T29	Source 1445 1476	Tulsa police Chief Chuck Jordan
+T30	Cue 1477 1488	said Monday
+T31	Attribution 1477 1488	said Monday
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T16	Source 0 15	Hillary Clinton
+T19	Attribution 16 22	Speaks
+E5	Attribution:T19 Source:T16 Content:T18 Cue:T17
+T32	Source 1116 1121	Video
+T33	Cue 1122 1127	shows
+T34	Content 1128 1166	that Crutcher had his hands in the air
+T35	Attribution 1122 1127	shows
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Discuss 1116 1166	Video shows that Crutcher had his hands in the air

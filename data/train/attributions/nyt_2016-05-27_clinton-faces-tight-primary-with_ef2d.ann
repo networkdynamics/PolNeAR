@@ -1,0 +1,61 @@
+T1	Discard 57 66	ABSTRACT.
+T2	Source 68 121	The poll by the Public Policy Institute of California
+T3	Cue 122 128	showed
+T4	Content 129 213	Hillary Clinton leading Bernie Sanders among likely voters, 46 percent to 44 percent
+T5	Attribution 122 128	showed
+E1	Attribution:T5 Content:T4 Cue:T3 Source:T2
+T6	Discard 216 226	FULL TEXT.
+T7	Content 228 406	Hillary Clinton and Bernie Sanders are locked in a tight race in California, the nation's most populous state and one that until recently seemed strongly in Mrs. Clinton's corner
+T8	Source 408 428	a new statewide poll
+T9	Cue 429 438	has found
+T10	Attribution 429 438	has found
+E2	Attribution:T10 Cue:T9 Source:T8 Content:T7
+T11	Source 441 449	The poll
+T12	Cue 525 531	showed
+T13	Content 532 610	Mrs. Clinton leading Mr. Sanders among likely voters, 46 percent to 44 percent
+T14	Attribution 525 531	showed
+E3	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Source 650 687	A survey by the organization in March
+T16	Cue 688 693	found
+T17	Content 694 763	Mrs. Clinton with a lead of 48 percent to 41 percent over Mr. Sanders
+T18	Attribution 688 693	found
+E4	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Cue 945 951	saying
+T20	Source 916 927	Mr. Sanders
+T21	Content 952 1128	he would not advertise on television  in the state - California is one of the most expensive states for television advertising, given its size and the number of media markets -
+T22	Attribution 945 951	saying
+E5	Attribution:T22 Content:T21 Source:T20 Cue:T19
+T23	Source 1525 1544	Mr. Sanders's aides
+T24	Cue 1545 1549	said
+T25	Content 1550 1630	he intended to spend nearly all his time in California until the state's primary
+T26	Attribution 1545 1549	said
+E6	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Content 1758 1762	That
+T28	Cue 1763 1767	said
+T29	Attribution-no-source 1763 1767	said
+E7	Attribution-no-source:T29 Cue:T28 Content:T27
+T30	Source 2067 2081	many Democrats
+T31	Cue 2082 2097	would be asking
+T32	Content 2098 2240	him to step aside and join with Mrs. Clinton in turning the party's attention to defeating the presumptive Republican nominee, Donald J. Trump
+T33	Attribution 2082 2097	would be asking
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 2313 2316	who
+T35	Cue 2317 2321	said
+T36	Content 2322 2363	they would vote in the Democratic primary
+T37	Attribution 2317 2321	said
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Content 2365 2443	Among Democrats alone, Mrs. Clinton leads Mr. Sanders 49 percent to 41 percent
+T39	Cue 2445 2457	according to
+T40	Source 2458 2471	the institute
+T41	Attribution 2445 2457	according to
+E10	Attribution:T41 Source:T40 Cue:T39 Content:T38
+T42	Content 2539 2544;2559 2586	which could be aiding Mr. Sanders
+T43	Source 2545 2554	Democrats
+T44	Cue 2555 2558	say
+T45	Attribution 2555 2558	say
+E11	Attribution:T45 Cue:T44 Source:T43 Content:T42
+T46	Source 2589 2597	The poll
+T47	Cue 2598 2604	showed
+T48	Content 2605 2766	that either  Mrs. Clinton  or Mr. Sanders would defeat Mr. Trump in a hypothetical November contest, though Mr. Sanders appears to have the stronger position now
+T49	Attribution 2598 2604	showed
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46

@@ -1,0 +1,67 @@
+T1	Source 0 12	Clinton Cash
+T2	Cue 13 20	Debunks
+T3	Content 21 28	Hillary
+T4	Attribution 13 20	Debunks
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 28 29	:
+T6	Content 30 103	Only ‘One or Two Instances’ where Donations ‘Slipped through the Cracks.’
+T7	Attribution 28 29	:
+E2	Attribution:T7 Source:T1 Cue:T5 Content:T6
+T8	Source 105 149	Presumptive Democrat nominee Hillary Clinton
+T9	Cue 150 154	said
+T10	Content 155 247	The Clinton Foundation had “overwhelming disclosure,” referencing its donations on Wednesday
+T11	Attribution 150 154	said
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 253 269	multiple reports
+T13	Cue 270 276	reveal
+T14	Content 277 290	that’s untrue
+T15	Attribution 270 276	reveal
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 293 296	She
+T17	Cue 297 310	was defending
+T18	Content 311 399	the organization against recent attacks from presumptive Republican nominee Donald Trump
+T19	Attribution 297 310	was defending
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 405 413	admitted
+T21	Content 414 507	“one or two instances” where the nonprofit’s donations may have “slipped through the cracks.”
+T22	Attribution 405 413	admitted
+E6	Attribution:T22 Source:T16 Cue:T20 Content:T21
+T23	Source 509 617	Multiple news reports and a detailed account from Breitbart News’ editor Peter Schweizer’s book Clinton Cash
+T24	Cue 619 625	reveal
+T25	Content 626 669	there was more than “one or two instances.”
+T26	Attribution 619 625	reveal
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 671 708	Breitbart News’ Michael Patrick Leahy
+T28	Cue 709 728	previously reported
+T29	Content 730 805	The Clinton Foundation refused to release the names of 1,076 foreign donors
+T30	Attribution 709 728	previously reported
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 808 817	Bloomberg
+T32	Cue 818 831	also reported
+T33	Content 832 888	that roughly 1,100 foreign donor names weren’t disclosed
+T34	Attribution 818 831	also reported
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 891 915	Schweizer’s Clinton Cash
+T36	Cue 916 923	details
+T37	Content 924 988	several incidents of foreign donations to The Clinton Foundation
+T38	Attribution 916 923	details
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 990 1041	Both The New York Times and the Wall Street Journal
+T40	Cue 1042 1051	confirmed
+T41	Content 1052 1108	a few of his revelations, which are detailed in the book
+T42	Attribution 1042 1051	confirmed
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1124 1133	Schweizer
+T44	Cue 1134 1139	notes
+T45	Content 1140 1340	the foundation hid four donations that totaled $2.35 million from a Russian uranium company headed by Ian Telfer, which was a violation of the Memorandum of Understanding with the Obama administration
+T46	Attribution 1134 1139	notes
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1343 1361	The New York Times
+T48	Cue 1362 1371	confirmed
+T49	Content 1372 1388	that observation
+T50	Attribution 1362 1371	confirmed
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T52	Content 1402 1917	"As the Russians gradually assumed control of Uranium One in three separate transactions from 2009 to 2013, Canadian records show, a flow of cash made its way to the Clinton Foundation. Uranium One’s chairman used his family foundation to make four donations totaling $2.35 million. Those contributions were not publicly disclosed by the Clintons, despite an agreement Mrs. Clinton had struck with the Obama White House to publicly identify all donors. Other people with ties to the company made donations as well."
+T51	Cue 1390 1400	reporting:
+T53	Attribution 1390 1400	reporting:
+E14	Attribution:T53 Source:T47 Cue:T51 Content:T52

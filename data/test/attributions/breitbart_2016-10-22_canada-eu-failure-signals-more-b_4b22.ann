@@ -1,0 +1,111 @@
+T1	Content 98 108	free trade
+T2	Cue 109 114	talks
+T3	Source 123 152	Canada and the European Union
+T4	Attribution 109 114	talks
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Cue 825 832	refusal
+T6	Source 843 858	the US Congress
+T7	Content 859 871	to ratify it
+T8	Attribution 825 832	refusal
+E2	Attribution:T8 Content:T7 Source:T6 Cue:T5
+T9	Source 883 973	both candidates for the White House, Democrat Hillary Clinton and Republican Donald Trump,
+T10	Cue 974 977	say
+T11	Content 978 1008	they do not support the treaty
+T12	Attribution 974 977	say
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 1366 1370	said
+T14	Source 1371 1433	Edward Alden of the Council on Foreign Relations in Washington
+T15	Content 1243 1365	“We are seeing the results of several decades of failures by political leaders to take the concerns over trade seriously,”
+T16	Attribution 1366 1370	said
+E4	Attribution:T16 Content:T15 Source:T14 Cue:T13
+T17	Cue 1451 1475	accusations have mounted
+T18	Content 1476 1654	that the progressive breaking down of trade barriers and removal of import duties in advanced economies has caused deindustrialization and huge job losses to developing countries
+T19	Attribution-no-source 1451 1475	accusations have mounted
+E5	Attribution-no-source:T19 Content:T18 Cue:T17
+T20	Cue 1733 1737	said
+T21	Source 1738 1837	Alden, author of the book “Failure to Adjust: How Americans Got Left Behind in the Global Economy.”
+T22	Content 1657 1732	“We’re seeing a backlash caused by that neglect for the losers from trade,”
+T23	Attribution 1733 1737	said
+E6	Attribution:T23 Content:T22 Source:T21 Cue:T20
+T24	Source 1839 1914	Debra Steger, a former Canadian negotiator at the World Trade Organization,
+T25	Cue 1915 1919	sees
+T26	Content 1920 1990	a rising tendency to blame a country’s economic problems on foreigners
+T27	Attribution 1915 1919	sees
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 2069 2072	she
+T29	Cue 2073 2077	told
+T30	Content 1993 2068;2084 2206	“People are blaming it all on immigrants or goods coming into the country,” “They want to blame it on something that’s coming from outside, not on technological changes or on bad national policies.”
+T31	Attribution 2073 2077	told
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 2208 2221	Frightened by
+T33	Content 2222 2337	Britain’s vote in June to withdraw from the European Union and the success of Donald Trump’s protectionist speeches
+T34	Source 2339 2367	the world’s economic leaders
+T35	Attribution 2208 2221	Frightened by
+E9	Attribution:T35 Source:T34 Content:T33 Cue:T32
+T36	Cue 2368 2396	have in recent months sought
+T37	Content 2397 2433	to blunt the attack on globalization
+T38	Attribution 2368 2396	have in recent months sought
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T34
+T39	Source 2478 2528	the finance ministers of the G20 leading economies
+T40	Cue 2529 2548	admitted as a group
+T41	Content 2549 2667	that economic growth has not been “equitable” and that more needs to be done to spread the benefits of lowered borders
+T42	Attribution 2529 2548	admitted as a group
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 2747 2751	they
+T44	Cue 2752 2756	said
+T45	Content 2670 2745	A different kind of globalization is needed than the one of the recent past
+T46	Attribution 2752 2756	said
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 2847 2856	Europeans
+T48	Cue 2868 2871	say
+T49	Content 2872 2980	the proposed treaty will erode environmental and health standards to the benefit of multinational businesses
+T50	Attribution 2868 2871	say
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Content 3242 3250;3267 3287	Wallonia in fighting the deal
+T52	Cue 3251 3266	enjoyed support
+T53	Source 3293 3324	activist groups like Greenpeace
+T54	Attribution 3251 3266	enjoyed support
+E14	Attribution:T54 Source:T53 Cue:T52 Content:T51
+T55	Source 3325 3330	which
+T56	Cue 3331 3338	charged
+T57	Content 3339 3472	that the deal risked satisfying “corporate greed” and trampling on people’s rights and health standards on both sides of the Atlantic
+T58	Attribution 3331 3338	charged
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Cue 3503 3511	proposed
+T60	Content 3512 3520	treaties
+T61	Attribution-no-source 3503 3511	proposed
+E16	Attribution-no-source:T61 Content:T60 Cue:T59
+T62	Cue 3968 3972	said
+T63	Source 3973 4034	Steger, now a economics professor at the University of Ottawa
+T64	Content 3862 3967	“There’s been a lack of transparency, a lack of explanation, and a lack of consultation with the public,”
+T65	Attribution 3968 3972	said
+E17	Attribution:T65 Content:T64 Source:T63 Cue:T62
+T66	Source 4037 4040	She
+T67	Cue 4041 4045	said
+T68	Content 4046 4118	the process often leaves legislators and the public with a fait accompli
+T69	Attribution 4041 4045	said
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Source 4343 4346	she
+T71	Cue 4347 4351	said
+T72	Content 4121 4315;4317 4342	“At the end of the negotiations, when the agreement is all finished, that’s the first time that the public is told: ‘oh, we have an agreement. It’s 2,000 pages long and you have to approve it.’” “It can’t work this way,”
+T73	Attribution 4347 4351	said
+E19	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Content 292 307	the CETA Treaty
+T75	Cue 341 355	being rejected
+T76	Source 359 389	the Belgian region of Wallonia
+T77	Attribution 341 355	being rejected
+E20	Attribution:T77 Source:T76 Cue:T75 Content:T74
+T78	Source 416 434	the European Union
+T79	Cue 435 445	to approve
+T80	Content 446 454	the deal
+T81	Attribution 435 445	to approve
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Cue 1092 1099	support
+T83	Source 1103 1132	the world’s leading economies
+T84	Content 1133 1166	for freer trade and globalization
+T85	Attribution 1092 1099	support
+E22	Attribution:T85 Content:T84 Source:T83 Cue:T82
+T86	Cue 1177 1191	enthusiasm for
+T87	Content 1192 1213	breaking down borders
+T88	Attribution-no-source 1177 1191	enthusiasm for
+E23	Attribution-no-source:T88 Content:T87 Cue:T86

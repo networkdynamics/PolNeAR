@@ -1,0 +1,49 @@
+T1	Source 10 24	Trump Campaign
+T2	Cue 25 64	Just Made Unexpected Announcement About
+T3	Content 65 76	Sarah Palin
+T4	Attribution 25 64	Just Made Unexpected Announcement About
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 134 346	that when Wyoming’s Republican Party gathers for its convention on Saturday, there will no one representing the campaign of Republican candidate Donald Trump, effectively surrendering the contest to Sen. Ted Cruz
+T6	Cue 126 133	appears
+T7	Attribution-no-source 126 133	appears
+E2	Attribution-no-source:T7 Cue:T6 Content:T5
+T8	Source 453 484	the Republican Party of Wyoming
+T9	Cue 485 494	announced
+T10	Content 495 512	she wasn’t coming
+T11	Attribution 485 494	announced
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Content 515 714;733 935	“The Donald Trump campaign has informed the Wyoming Republican Party that Sarah Palin, the scheduled surrogate speaker for the presidential candidate, will not be attending the State GOP Convention,” “Former Gov. Palin was scheduled to speak to the convention delegates Saturday morning between 10-11 a.m. along with presidential candidate Ted Cruz and John Kasich surrogate Gov. Butch Otter of Idaho.”
+T13	Source 715 726	the release
+T14	Cue 727 731	said
+T15	Attribution 727 731	said
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Content 937 1058	“The Trump campaign has not indicated whether another one of Trump’s surrogates will be in Casper this Saturday morning,”
+T17	Source 1059 1070	the release
+T18	Cue 1071 1076	added
+T19	Attribution 1071 1076	added
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Cue 1300 1307	favored
+T21	Content 1291 1295;1308 1347	Cruz to win most if not all of the delegates
+T22	Attribution-no-source 1300 1307	favored
+E6	Attribution-no-source:T22 Content:T21 Cue:T20
+T23	Content 1350 1423;1445 1715	” … in the case of Wyoming, the Cruz train has already left the station,” “Cruz’s domination in the county conventions followed his campaign’s aggressive organizing in the state’s March 1 precinct caucuses, and set the stage for another likely rout this weekend. (Of the 1,590 votes cast in the March 12 county convention, 1128 were for Cruz.)”
+T24	Cue 1424 1429	wrote
+T25	Source 1430 1443	Time magazine
+T26	Attribution 1424 1429	wrote
+E7	Attribution:T26 Source:T25 Cue:T24 Content:T23
+T27	Source 1717 1752	The state’s Republican party leader
+T28	Cue 1753 1757	said
+T29	Content 1758 1826	the process was fair, but required candidates to put forth an effort
+T30	Attribution 1753 1757	said
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Content 1829 1997	“There’s no question this process favors people, it favors candidates who are involved—who are willing to put in the time and the effort to participate in the process,”
+T32	Source 1998 2031	Wyoming GOP chairman Matt Micheli
+T33	Cue 2032 2036	said
+T34	Attribution 2032 2036	said
+E9	Attribution:T34 Cue:T33 Source:T32 Content:T31
+T35	Source 1107 1125	the Trump campaign
+T36	Content 1136 1179	Palin will not be present at the convention
+T37	Cue 1079 1103	No reason has been given
+T38	Attribution 1079 1103	No reason has been given
+E10	Attribution:T38 Cue:T37 Content:T36 Source:T35
+T39	Discuss 1079 1179	No reason has been given by the Trump campaign as to why Palin will not be present at the convention

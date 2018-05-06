@@ -1,0 +1,283 @@
+T1	Source 0 10	Ben Carson
+T2	Cue 11 19	hints at
+T3	Content 20 42	major campaign shakeup
+T4	Attribution 11 19	hints at
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 49 54	takes
+T6	Content 55 62	it back
+T7	Attribution 49 54	takes
+E2	Attribution:T7 Cue:T5 Source:T1 Content:T6
+T8	Discuss 49 62	takes it back
+T9	Source 65 75	Ben Carson
+T10	Cue 76 119	moved quickly to shut off speculation about
+T11	Content 120 149	a high-level campaign shakeup
+T12	Attribution 76 119	moved quickly to shut off speculation about
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 178 180	he
+T14	Cue 181 201	stoked the notion of
+T15	Content 202 229	wholesale personnel changes
+T16	Attribution 181 201	stoked the notion of
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 316 322	Carson
+T18	Cue 323 345	distanced himself from
+T19	Content 346 459	interviews he gave to The Washington Post and The Associated Press in which he hinted that a shakeup was imminent
+T20	Attribution 323 345	distanced himself from
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 475 500	were echoed and augmented
+T22	Content 470 474	that
+T23	Source 504 509	aides
+T24	Attribution 475 500	were echoed and augmented
+E6	Attribution:T24 Source:T23 Content:T22 Cue:T21
+T25	Content 571 791;812 861	“I think The Washington Post quite frankly had their story already written before they talked to me and they were convinced that I was going to fire everybody and we were going to go in a completely different direction,” “I think the people that I have are spectacular.”
+T26	Source 792 798	Carson
+T27	Cue 799 803	said
+T28	Attribution 799 803	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 863 869	Carson
+T30	Cue 905 917	pointing out
+T31	Content 918 1010	that the paper's Robert Costa had reported in June that the Carson campaign was coming apart
+T32	Attribution 905 917	pointing out
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1022 1024	he
+T34	Cue 1025 1029	said
+T35	Content 1012 1020;1031 1087	He hoped that the paper would shy away from similar reporting now
+T36	Attribution 1025 1029	said
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 1090 1107;1117 1154	“Apparently not,“ “A leopard doesn’t change its spots.”
+T38	Source 1108 1110	he
+T39	Cue 1111 1115	said
+T40	Attribution 1111 1115	said
+E10	Attribution:T40 Cue:T39 Source:T38 Content:T37
+T41	Content 1156 1267;1329 1653	"Dr. Carson invited both Bob and me to his house today to talk about changes he wanted to make in his campaign" "As we wrote, he told us that 'everything' and 'every job' was on the table. Our story was based on those comments and others he made over the course of a 45-minute interview, as well as additional reporting following it. The story was not written in advance. In fact, Bob wrote it in the car on the way back to Washington."
+T42	Source 1268 1317	the Post's senior politics editor Steven Ginsberg
+T43	Cue 1318 1327	responded
+T44	Attribution 1318 1327	responded
+E11	Attribution:T44 Cue:T43 Source:T42 Content:T41
+T45	Source 1655 1663	Carson’s
+T46	Cue 1664 1686	renewed endorsement of
+T47	Content 1687 1706	his leadership team
+T48	Attribution 1664 1686	renewed endorsement of
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 1726 1786	He may add to his senior leadership or change people’s roles
+T50	Source 1788 1790	he
+T51	Cue 1791 1795	said
+T52	Attribution 1791 1795	said
+E13	Attribution:T52 Cue:T51 Source:T50 Content:T49
+T53	Source 1797 1799	He
+T54	Cue 1800 1817	also acknowledged
+T55	Content 1818 1892	urging his senior staff to adjust salaries to meet campaign industry norms
+T56	Attribution 1800 1817	also acknowledged
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Content 2107 2148;2232 2292	“Everything. Everything is on the table,” “Every single thing is on the table. I’m looking carefully.”
+T58	Source 2149 2155	Carson
+T59	Cue 2156 2160	told
+T60	Attribution 2156 2160	told
+E15	Attribution:T60 Cue:T59 Source:T58 Content:T57
+T61	Cue 2187 2194	hinting
+T62	Content 2195 2230	that “personnel changes” could come
+T63	Attribution 2187 2194	hinting
+E16	Attribution:T63 Cue:T61 Content:T62 Source:T58
+T64	Source 2378 2384	Carson
+T65	Cue 2385 2389	said
+T66	Content 2390 2442	he has “100 percent confidence in my campaign team.”
+T67	Attribution 2385 2389	said
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 2444 2466	Former Carson advisers
+T69	Cue 2467 2471	told
+T70	Content 2481 2655	that a shakeup is necessary and perhaps imminent as the retired neurosurgeon has plunged in recent polls amid questions about his personal narrative and foreign policy acumen
+T71	Attribution 2467 2471	told
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Content 2658 2864	“It is not too late for Ben to turn it around. This is actually an opportunity for him to demonstrate true leadership by making needed adjustments and responding to whatever the issues are in his campaign,”
+T73	Cue 2865 2869	said
+T74	Source 2870 2941	Terry Giles, a longtime Carson friend who left the campaign in October,
+T75	Attribution 2865 2869	said
+E19	Attribution:T75 Source:T74 Cue:T73 Content:T72
+T76	Source 3003 3162	Bill Millis, a North Carolina businessman who had been a member of the campaign’s three-man board before departing last month because of strategic differences,
+T77	Cue 3163 3167	said
+T78	Content 3168 3229	Carson had been led astray by “insiders” running his campaign
+T79	Attribution 3163 3167	said
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Source 3236 3238	he
+T81	Cue 3239 3250	singled out
+T82	Content 3251 3348	Carson campaign manager Barry Bennett, a longtime political operative, as the root of the problem
+T83	Attribution 3239 3250	singled out
+E21	Attribution:T83 Content:T82 Cue:T81 Source:T80
+T84	Content 3351 3465;3479 3548	“It’s really more the Barry Bennetts of the world [who are the problem]. Barry was not Dr. Carson’s first choice,” “I don’t remember which choice Barry was, but it was far from No. 1.”
+T85	Source 3466 3472	Millis
+T86	Cue 3473 3477	said
+T87	Attribution 3473 3477	said
+E22	Attribution:T87 Cue:T86 Source:T85 Content:T84
+T88	Content 3550 3572;3583 3620	A new campaign manager could set a new tone for the campaign
+T89	Source 3574 3576	he
+T90	Cue 3577 3581	said
+T91	Attribution 3577 3581	said
+E23	Attribution:T91 Cue:T90 Source:T89 Content:T88
+T92	Content 3622 3805	“I think a lot of us feel that it could’ve been handled differently with a different person at the helm. Ben would’ve gotten better advice, and if he had I’m convinced he’d be No. 1,”
+T93	Source 3806 3812	Millis
+T94	Cue 3813 3818	added
+T95	Attribution 3813 3818	added
+E24	Attribution:T95 Cue:T94 Source:T93 Content:T92
+T96	Source 3879 3885	the AP
+T97	Cue 3886 3891	asked
+T98	Content 3906 3923	Carson’s comments
+T99	Attribution 3886 3891	asked
+E25	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Source 3925 3945	the campaign manager
+T101	Cue 3946 3950	said
+T102	Content 3951 3992	he needed to speak to the candidate first
+T103	Attribution 3946 3950	said
+E26	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Content 3994 4049	“Why don’t I have that conversation and call you back,”
+T105	Source 4050 4052	he
+T106	Cue 4053 4057	told
+T107	Attribution 4053 4057	told
+E27	Attribution:T107 Cue:T106 Source:T105 Content:T104
+T108	Source 4088 4095	Bennett
+T109	Cue 4096 4113	denied the notion
+T110	Content 4114 4147	that a campaign shakeup is coming
+T111	Attribution 4096 4113	denied the notion
+E28	Attribution:T111 Content:T110 Cue:T109 Source:T108
+T112	Cue 4149 4159	explaining
+T113	Content 4160 4236	that he was unaware of Carson’s interview because he was “taking a day off.”
+T114	Attribution 4149 4159	explaining
+E29	Attribution:T114 Cue:T112 Content:T113 Source:T108
+T115	Source 4237 4239	He
+T116	Cue 4240 4250	pointed to
+T117	Content 4251 4320	Carson’s updated comments expressing confidence in his campaign staff
+T118	Attribution 4240 4250	pointed to
+E30	Attribution:T118 Content:T117 Cue:T116 Source:T115
+T119	Cue 4325 4334	dismissed
+T120	Content 4335 4380	criticism from Giles, Millis and Harold Doley
+T121	Attribution 4325 4334	dismissed
+E31	Attribution:T121 Cue:T119 Content:T120 Source:T115
+T122	Source 4433 4436	who
+T123	Cue 4437 4450	has suggested
+T124	Content 4451 4528	Carson’s aides have been making an unseemly amount of money off his candidacy
+T125	Attribution 4437 4450	has suggested
+E32	Attribution:T125 Content:T124 Cue:T123 Source:T122
+T126	Content 4531 4593;4608 4968	“Three people who aren’t happy doesn’t seem like a lot to me,” “Dr. Carson is putting out a statement expressing full confidence. Terry is a friend. I don‘t really know Millis. I have never met ... Doley. We all took pay cuts to come to work here, so if we are profiteers we are really bad ones. We all have different styles, but in the end it is about raising money and winning. The campaign is getting very good at both.”
+T127	Source 4594 4601	Bennett
+T128	Cue 4602 4606	said
+T129	Attribution 4602 4606	said
+E33	Attribution:T129 Cue:T128 Source:T127 Content:T126
+T130	Cue 4970 4982	Frustrations
+T131	Content 4986 5034	Carson’s inability to stem his nosedive in polls
+T132	Source 5166 5202	Carson’s allies outside the campaign
+T133	Attribution 4970 4982	Frustrations
+E34	Attribution:T133 Source:T132 Content:T131 Cue:T130
+T134	Source 5062 5085	The Wall Street Journal
+T135	Cue 5050 5058	a report
+T136	Content 5102 5135	his campaign “hemorrhaging cash,”
+T137	Attribution 5050 5058	a report
+E35	Attribution:T137 Content:T136 Cue:T135 Source:T134
+T138	Source 5204 5215	The Journal
+T139	Cue 5217 5223	citing
+T140	Content 5224 5242	internal documents
+T141	Attribution 5217 5223	citing
+E36	Attribution:T141 Content:T140 Cue:T139 Source:T138
+T142	Cue 5244 5252	reported
+T143	Content 5253 5380	that the campaign is spending more than it takes in and may even be exaggerating its fundraising numbers for public consumption
+T144	Attribution 5244 5252	reported
+E37	Attribution:T144 Cue:T142 Source:T138 Content:T143
+T145	Content 5383 5521;5579 5746	“I would like to see Ben go the distance. I think that is not possible unless there’s a complete change in the hierarchy of the campaign,” “It’s about to. It has to. If they want to go into the next six months, seven months going into the convention, and then be viable, they have to change the hierarchy.”
+T146	Cue 5522 5526	said
+T147	Source 5527 5577	Doley, who held a fundraiser for Carson in October
+T148	Attribution 5522 5526	said
+E38	Attribution:T148 Source:T147 Cue:T146 Content:T145
+T149	Content 5748 5827	Carson once drew close to, or even slightly ahead of, front-runner Donald Trump
+T150	Cue 5828 5830	in
+T151	Source 5831 5845	national polls
+T152	Attribution 5828 5830	in
+E39	Attribution:T152 Source:T151 Cue:T150 Content:T149
+T153	Content 5907 5928	he fell to 10 percent
+T154	Cue 5929 5931	in
+T155	Source 5932 5974	the latest CNN/ORC poll released Wednesday
+T156	Attribution 5929 5931	in
+E40	Attribution:T156 Source:T155 Cue:T154 Content:T153
+T157	Source 6048 6065	Republican voters
+T158	Cue 6066 6069	see
+T159	Content 6070 6123	national security and terrorism as their top concerns
+T160	Attribution 6066 6069	see
+E41	Attribution:T160 Content:T159 Cue:T158 Source:T157
+T161	Source 6126 6150	The retired neurosurgeon
+T162	Cue 6151 6180	has provided no details about
+T163	Content 6181 6218	how he planned to reboot his campaign
+T164	Attribution 6151 6180	has provided no details about
+E42	Attribution:T164 Content:T163 Cue:T162 Source:T161
+T165	Cue 6220 6226	saying
+T166	Content 6249 6375	that he was “refining some operational practices and streamlining some staff assignments to more aptly match the tasks ahead.”
+T167	Attribution 6220 6226	saying
+E43	Attribution:T167 Cue:T165 Content:T166 Source:T161
+T168	Source 6376 6378	He
+T169	Cue 6379 6385	added:
+T170	Content 6386 6497	“My senior team remains in place with my full confidence, and they will continue to execute our campaign plan.”
+T171	Attribution 6379 6385	added:
+E44	Attribution:T171 Content:T170 Cue:T169 Source:T168
+T172	Source 6499 6556	Armstrong Williams, Carson’s longtime friend and adviser,
+T173	Cue 6557 6566	suggested
+T174	Content 6567 6626	that the candidate was seizing back control of his campaign
+T175	Attribution 6557 6566	suggested
+E45	Attribution:T175 Content:T174 Cue:T173 Source:T172
+T176	Content 6628 6689	“Dr. Carson is back in charge, and I’m so happy to see that,”
+T177	Source 6690 6692	he
+T178	Cue 6693 6697	told
+T179	Attribution 6693 6697	told
+E46	Attribution:T179 Cue:T178 Source:T177 Content:T176
+T180	Source 6707 6713	Millis
+T181	Cue 6714 6718	told
+T182	Content 6728 6916	that he and Giles had been frustrated by Carson's top advisers’ unwillingness to let policy aides ”get close to Ben ... on the things that he needed on national security and other issues.”
+T183	Attribution 6714 6718	told
+E47	Attribution:T183 Content:T182 Cue:T181 Source:T180
+T184	Content 6918 7022	“They reined him in. They said he didn’t need to come out until January and start talking about policy,”
+T185	Source 7023 7025	he
+T186	Cue 7026 7030	said
+T187	Attribution 7026 7030	said
+E48	Attribution:T187 Cue:T186 Source:T185 Content:T184
+T188	Source 7032 7037	Giles
+T189	Cue 7096 7100	said
+T190	Content 7101 7151	he had prepared a slew of policy papers for Carson
+T191	Attribution 7096 7100	said
+E49	Attribution:T191 Content:T190 Cue:T189 Source:T188
+T192	Content 7154 7466;7489 7684	“On the day I went back to civilian life, Oct. 25 , Ben was polling No. 1, the campaign and Super PACs seemed solid, and I had handed over 15 months of research on monetary, military, and foreign policy based on hundreds of hours spent with the best Republican think tanks and some of America’s brightest minds,” “But in the last 6 weeks things have clearly gone in the wrong direction. I am extremely disappointed to see that happening and I am not sure why it is occurring or how it was allowed to happen.”
+T193	Source 7467 7469	he
+T194	Cue 7470 7475	wrote
+T195	Attribution 7470 7475	wrote
+E50	Attribution:T195 Cue:T194 Source:T193 Content:T192
+T196	Content 7686 7692;7699 7756	Carson to recognize his credibility problem on national security
+T197	Cue 7693 7698	seems
+T198	Attribution-no-source 7693 7698	seems
+E51	Attribution-no-source:T198 Cue:T197 Content:T196
+T199	Source 7759 7761	he
+T200	Cue 7762 7766	told
+T201	Content 7774 7872	that his task is to prove to voters that he’s tough and has what it takes to be commander in chief
+T202	Attribution 7762 7766	told
+E52	Attribution:T202 Content:T201 Cue:T200 Source:T199
+T203	Content 7874 8068	“The issue that has been put out is that because you are soft-spoken and nice you can’t possibly be tough, you can’t have the strength to deal with the incredible security problems we now face,”
+T204	Cue 8069 8073	said
+T205	Source 8074 8080	Carson
+T206	Attribution 8069 8073	said
+E53	Attribution:T206 Source:T205 Cue:T204 Content:T203
+T207	Source 8082 8085	who
+T208	Content 8095 8118	his metric for strength
+T209	Cue 8119 8134	a talking point
+T210	Attribution 8119 8134	a talking point
+E54	Attribution:T210 Cue:T209 Content:T208 Source:T207
+T211	Discuss 8082 8134	who has made his metric for strength a talking point
+T212	Source 8159 8165	Carson
+T213	Cue 8166 8170	said
+T214	Content 8171 8227	he plans to preview a strategy for Libya after Christmas
+T215	Attribution 8166 8170	said
+E55	Attribution:T215 Content:T214 Cue:T213 Source:T212
+T216	Cue 8229 8238	insisting
+T217	Content 8239 8403	that U.S. leaders and even his GOP rivals are too concerned about the Islamic State’s actions in Iraq and Syria, failing to see the threat the group poses elsewhere
+T218	Attribution 8229 8238	insisting
+E56	Attribution:T218 Cue:T216 Source:T212 Content:T217
+T219	Content 8405 8435	“They have a global strategy,”
+T220	Source 8436 8438	he
+T221	Cue 8439 8443	said
+T222	Attribution 8439 8443	said
+E57	Attribution:T222 Cue:T221 Source:T220 Content:T219
+T223	Cue 8468 8474	adding
+T224	Content 8475 8518	the U.S. must be equally global to match it
+T225	Attribution 8468 8474	adding
+E58	Attribution:T225 Cue:T223 Content:T224 Source:T220

@@ -1,0 +1,41 @@
+T1	Source 501 504	her
+T2	Cue 505 513	argument
+T3	Content 514 562	that she is popular in states across the country
+T4	Attribution 505 513	argument
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 576 603	just a “regional” candidate
+T6	Source 608 633	Sanders’ campaign manager
+T7	Cue 634 643	suggested
+T8	Attribution 634 643	suggested
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Source 687 726;777 841	Most of Delaware’s top Democratic brass including Gov. Jack Markell and Sens. Tom Carper and Chris Coons
+T10	Cue 727 739	had endorsed
+T11	Content 740 775	the former secretary of state’s bid
+T12	Attribution 727 739	had endorsed
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 1566 1569	she
+T14	Cue 1570 1589	gave a shout out to
+T15	Content 1590 1642	Vice President Joe Biden and his late son Beau Biden
+T16	Attribution 1570 1589	gave a shout out to
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Discuss 1566 1642	she gave a shout out to Vice President Joe Biden and his late son Beau Biden
+T18	Content 1716 1883;1894 2380	“I want to mention someone who’s not here but whose representation and advocacy for this state and for our country is legendary, and that is Vice President Joe Biden,” “And the Vice President’s distinguished record of service and his love of Delaware and his passion for our country is truly inspiring. And we lost an extraordinary young public servant when we lost Beau Biden, and that family has done so much for so many people, and I am just grateful to be in this state and be able to say what’s in my heart about the Biden family because it really is an extraordinary family of service and caring, and thank you, Delaware, for sharing them with us.”
+T19	Source 1884 1887	she
+T20	Cue 1888 1892	said
+T21	Attribution 1888 1892	said
+E5	Attribution:T21 Cue:T20 Source:T19 Content:T18
+T22	Source 2457 2473	The April survey
+T23	Cue 2474 2479	found
+T24	Content 2480 2580	Clinton leading Sanders by seven points, with 17 percent of likely Democratic voters still undecided
+T25	Attribution 2474 2479	found
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 2886 2893	Sanders
+T27	Cue 2894 2910	admitted Tuesday
+T28	Content 2911 3025	that it would be “very hard” for his campaign to win if he has fewer pledged delegates when the primaries conclude
+T29	Attribution 2894 2910	admitted Tuesday
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 3027 3039	his campaign
+T31	Cue 3040 3050	has argued
+T32	Content 3051 3162	that it could still bag the nomination by persuading superdelegates backing Clinton to switch their allegiances
+T33	Attribution 3040 3050	has argued
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30

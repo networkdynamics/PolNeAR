@@ -1,0 +1,145 @@
+T1	Cue 3 13	satirizing
+T2	Content 14 23	the elite
+T3	Source 25 41	a Mexican troupe
+T4	Attribution 3 13	satirizing
+E1	Attribution:T4 Source:T3 Content:T2 Cue:T1
+T5	Cue 42 53	starts with
+T6	Content 54 59	Trump
+T7	Attribution 42 53	starts with
+E2	Attribution:T7 Cue:T5 Content:T6 Source:T3
+T8	Source 123 138	his golden head
+T9	Cue 184 191	calling
+T10	Content 192 221	them "frijoleros" ("beaners")
+T11	Attribution 184 191	calling
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 226 240	bragging about
+T13	Content 241 309	the wall that will block them from setting foot in the United States
+T14	Attribution 226 240	bragging about
+E4	Attribution:T14 Cue:T12 Source:T8 Content:T13
+T15	Source 657 685	A group of Mexican comedians
+T16	Cue 686 699	is performing
+T17	Content 700 763	a popular play called "Los Hijos de Trump," or "Sons of Trump,"
+T18	Attribution 686 699	is performing
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 821 830	Mexicans'
+T20	Cue 831 850	ongoing rebuttal to
+T21	Content 851 954	the candidate who launched his campaign by declaring that Mexican immigrants were criminals and rapists
+T22	Attribution 831 850	ongoing rebuttal to
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Discuss 821 954	Mexicans' ongoing rebuttal to the candidate who launched his campaign by declaring that Mexican immigrants were criminals and rapists
+T24	Content 1074 1108	"Mexicans laugh at our tragedies,"
+T25	Cue 1109 1113	said
+T26	Source 1114 1157	German Ortega, one of the stars of the play
+T27	Attribution 1109 1113	said
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Content 1196 1220	a show called "Brokers,"
+T29	Cue 1221 1228	written
+T30	Source 1232 1255	a Spanish comedy troupe
+T31	Attribution 1221 1228	written
+E8	Attribution:T31 Source:T30 Cue:T29 Content:T28
+T32	Discuss 1160 1297	"Sons of Trump" is an adaptation of a show called "Brokers," written by a Spanish comedy troupe, that skewers the lives of the super-rich
+T33	Source 1299 1318	The actors involved
+T34	Cue 1319 1345	are all quick to point out
+T35	Content 1346 1453	that they aren't representing the antics of the real-life Donald or pursuing an explicitly political agenda
+T36	Attribution 1319 1345	are all quick to point out
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 1456 1513;1719 1749	"This is a social critique, in general, of the elitists," "It's had a marvelous result."
+T38	Cue 1514 1518	said
+T39	Source 1519 1618	Freddy Ortega, German's brother and fellow longtime television comedian, who also stars in the show
+T40	Attribution 1514 1518	said
+E10	Attribution:T40 Source:T39 Cue:T38 Content:T37
+T41	Content 1762 1799	Trump continues to hover near the top
+T42	Cue 1800 1802	of
+T43	Source 1803 1812	the polls
+T44	Attribution 1800 1802	of
+E11	Attribution:T44 Source:T43 Cue:T42 Content:T41
+T45	Discuss 1762 1812	Trump continues to hover near the top of the polls
+T46	Source 1961 1972	a candidate
+T47	Cue 1973 1980	to make
+T48	Content 1981 2014	Mexico so central to his platform
+T49	Attribution 1973 1980	to make
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2022 2027	Trump
+T51	Cue 2028 2038	began with
+T52	Content 2039 2073	insults against Mexican immigrants
+T53	Attribution 2028 2038	began with
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Cue 2083 2114	doubled down with proposals for
+T55	Content 2115 2192	mass deportations and stripping citizenship from illegal immigrants' children
+T56	Attribution 2083 2114	doubled down with proposals for
+E14	Attribution:T56 Cue:T54 Content:T55 Source:T50
+T57	Source 2282 2308	several Mexican businesses
+T58	Cue 2309 2324	have called off
+T59	Content 2325 2342	projects with him
+T60	Attribution 2309 2324	have called off
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 2476 2481	which
+T62	Cue 2482 2497	decided against
+T63	Content 2498 2538	broadcasting his "Miss Universe" pageant
+T64	Attribution 2482 2497	decided against
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 2722 2727	Trump
+T66	Cue 2728 2734	writes
+T67	Content 2735 2876	that he would increase fees for border crossing cards and temporary visas or impound remittances to pay for the border wall he wants to build
+T68	Attribution 2728 2734	writes
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Cue 2904 2921	indignation about
+T70	Content 2922 2936	such proposals
+T71	Attribution-no-source 2904 2921	indignation about
+E18	Attribution-no-source:T71 Content:T70 Cue:T69
+T72	Source 2938 3006	A group of 67 Latin American artists, writers, actors and scientists
+T73	Cue 3007 3047	this week published an open letter about
+T74	Content 3048 3197	the "hateful discourse of Trump" and called on people to "remember the historic campaigns against other ethnic groups that ended with millions dead."
+T75	Attribution 3007 3047	this week published an open letter about
+E19	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 3199 3278	The Nobel-winning Peruvian novelist Mario Vargas Llosa, one of the signatories,
+T77	Cue 3279 3283	told
+T78	Content 3340 3398	that Trump's comments about immigrants were "intolerable."
+T79	Attribution 3279 3283	told
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Content 3400 3556;3576 3819	"Attacking immigrants in a country that was built by immigrants is a contradiction that offends the best tradition of the United States as an open society," "You have to be very critical and severe with someone who at this time, after all the terrible lessons that history has taught us about the consequences of racism, dares to use such arguments that appeal to the worst entrails of human beings."
+T81	Source 3557 3569	Vargas Llosa
+T82	Cue 3570 3574	said
+T83	Attribution 3570 3574	said
+E21	Attribution:T83 Cue:T82 Source:T81 Content:T80
+T84	Source 3879 3881	it
+T85	Cue 3882 3899	goofily satirizes
+T86	Content 3900 3915	capitalist pigs
+T87	Attribution 3882 3899	goofily satirizes
+E22	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Source 3917 3936	The Trump character
+T89	Cue 3999 4010	encouraging
+T90	Content 4011 4032;4082 4134	his look-alike "sons" to cheat, steal or kill their way to pecuniary glory
+T91	Attribution 3999 4010	encouraging
+E23	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Source 4321 4331	the actors
+T93	Cue 4332 4342	agree with
+T94	Content 4343 4408	the widespread Mexican repudiation of Trump's anti-immigrant talk
+T95	Attribution 4332 4342	agree with
+E24	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Discuss 4414 4452	they also don't take him too seriously
+T97	Content 4455 4497;4547 4733	"I don't identify with what the man says," "To think that we have the monopoly on thieves and rapists and drug dealers, I think that's quite wrong. I would answer him: Isn't your country considered the largest consumer of drugs?"
+T98	Source 4498 4511	Freddy Ortega
+T99	Cue 4512 4516	said
+T100	Attribution 4512 4516	said
+E25	Attribution:T100 Cue:T99 Source:T98 Content:T97
+T101	Source 4735 4748	German Ortega
+T102	Cue 4749 4753	says
+T103	Content 4754 4812	that the overwhelming reaction to Trump has been rejection
+T104	Attribution 4749 4753	says
+E26	Attribution:T104 Content:T103 Cue:T102 Source:T101
+T105	Content 4815 4894;4904 4974	"More than anything else, it set off something really cool for Latinos: unity," "He's been able to bring together the Mexican people and all Latinos."
+T106	Source 4895 4897	he
+T107	Cue 4898 4902	said
+T108	Attribution 4898 4902	said
+E27	Attribution:T108 Cue:T107 Source:T106 Content:T105
+T109	Content 5027 5039;5061 5101	In some ways Trump might appreciate their performance
+T110	Source 5041 5053	the brothers
+T111	Cue 5054 5059	noted
+T112	Attribution 5054 5059	noted
+E28	Attribution:T112 Cue:T111 Source:T110 Content:T109
+T113	Content 5104 5160	"His strategy, his media campaign, it's all a show, no?"
+T114	Source 5161 5174	Freddy Ortega
+T115	Cue 5175 5179	said
+T116	Attribution 5175 5179	said
+E29	Attribution:T116 Cue:T115 Source:T114 Content:T113

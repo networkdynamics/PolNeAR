@@ -1,0 +1,116 @@
+T1	Source 0 7	Sanders
+T2	Cue 8 12	says
+T3	Content 13 33	he's riding momentum
+T4	Attribution 8 12	says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 275 282	Sanders
+T6	Cue 283 290	claimed
+T7	Content 291 299	momentum
+T8	Attribution 283 290	claimed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 304 310	argued
+T10	Content 311 367	he is a stronger general election candidate than Clinton
+T11	Attribution 304 310	argued
+E3	Attribution:T11 Cue:T9 Content:T10 Source:T5
+T12	Content 370 430	"We are defeating Donald Trump by very significant numbers,"
+T13	Source 431 438	Sanders
+T14	Cue 439 443	said
+T15	Attribution 439 443	said
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Cue 483 496	taking aim at
+T17	Content 497 559	the billionaire class, the fossil fuel industry and super PACs
+T18	Attribution 483 496	taking aim at
+E5	Attribution:T18 Cue:T16 Content:T17 Source:T13
+T19	Source 562 569	Clinton
+T20	Cue 570 577	tweeted
+T21	Content 578 604	congratulations to Sanders
+T22	Attribution 570 577	tweeted
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Cue 606 612	adding
+T24	Content 613 699	"to all the voters and volunteers who poured your hearts into this campaign: Forward!"
+T25	Attribution 606 612	adding
+E7	Attribution:T25 Cue:T23 Content:T24 Source:T19
+T26	Source 871 905	his campaign manager, Jeff Weaver,
+T27	Cue 906 910	says
+T28	Content 911 989	his streak is proof the candidate can still close the gap in pledged delegates
+T29	Attribution 906 910	says
+E8	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Content 991 1036	which stood at 263 entering Tuesday's primary
+T31	Cue 1038 1050	according to
+T32	Source 1051 1071	the Associated Press
+T33	Attribution 1038 1050	according to
+E9	Attribution:T33 Source:T32 Cue:T31 Content:T30
+T34	Source 1074 1080	Weaver
+T35	Cue 1081 1085	told
+T36	Content 1090 1179	that he believes the battle will continue until the party's nominating convention in July
+T37	Attribution 1081 1085	told
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Content 1225 1307	"He can assert it, but it seems extremely unlikely" that Sanders can catch Clinton
+T39	Cue 1309 1313	said
+T40	Source 1314 1409	Steve Elmendorf, deputy campaign manager for John Kerry's 2004 Democratic presidential campaign
+T41	Attribution 1309 1313	said
+E11	Attribution:T41 Source:T40 Cue:T39 Content:T38
+T42	Content 1411 1438	"The numbers don't add up,"
+T43	Cue 1439 1443	said
+T44	Source 1444 1453	Elmendorf
+T45	Attribution 1439 1443	said
+E12	Attribution:T45 Source:T44 Cue:T43 Content:T42
+T46	Source 1455 1458	who
+T47	Cue 1459 1467	supports
+T48	Content 1468 1475	Clinton
+T49	Attribution 1459 1467	supports
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 1908 1913	Polls
+T51	Cue 1914 1918	show
+T52	Content 1919 2002	Clinton up by 10 points in the next major contest on the primary calendar: New York
+T53	Attribution 1914 1918	show
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Content 2063 2173	"Many would consider that an embarrassment for Hillary Clinton" if she didn't win by a margin larger than that
+T55	Cue 2175 2179	said
+T56	Source 2180 2259	David Wasserman, an elections analyst at the non-partisan Cook Political Report
+T57	Attribution 2175 2179	said
+E15	Attribution:T57 Source:T56 Cue:T55 Content:T54
+T58	Content 2261 2366	"And yet it would seal the deal even more for Hillary Clinton" because she would expand her delegate lead
+T59	Source 2368 2370	he
+T60	Cue 2371 2375	said
+T61	Attribution 2371 2375	said
+E16	Attribution:T61 Cue:T60 Source:T59 Content:T58
+T62	Cue 2431 2443	the forecast
+T63	Content 2462 2522	The race is likely to wrap up in June, when California votes
+T64	Attribution-no-source 2431 2443	the forecast
+E17	Attribution-no-source:T64 Content:T63 Cue:T62
+T65	Source 2568 2570	He
+T66	Cue 2570 2583	's suggesting
+T67	Content 2584 2643	that delegates from states he won should flip to his column
+T68	Attribution 2570 2583	's suggesting
+E18	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 2823 2858	Clinton campaign manager Robby Mook
+T70	Cue 2859 2881	released a memo titled
+T71	Content 2882 2919	"The Facts on Where the Race Stands."
+T72	Attribution 2859 2881	released a memo titled
+E19	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Source 2921 2923	He
+T74	Cue 2924 2930	writes
+T75	Content 2931 3019	Clinton has "built a nearly insurmountable lead among both delegates and actual voters."
+T76	Attribution 2924 2930	writes
+E20	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Source 3057 3064	Clinton
+T78	Cue 3065 3083	took some shots at
+T79	Content 3084 3215	Sanders, particularly on his plan to provide free college tuition and his 2005 vote to provide legal immunity for gun manufacturers
+T80	Attribution 3065 3083	took some shots at
+E21	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Source 3271 3274	she
+T82	Cue 3275 3280	hoped
+T83	Content 3266 3270;3281 3307	that to carry by a large margin
+T84	Attribution 3275 3280	hoped
+E22	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Content 3218 3256;3309 3331	Even as the campaign moves to New York the race will be tight
+T86	Cue 3333 3337	said
+T87	Source 3338 3437	Dan Gerstein, director of Gotham Ghostwriters and an independent political analyst in New York City
+T88	Attribution 3333 3337	said
+E23	Attribution:T88 Source:T87 Cue:T86 Content:T85
+T89	Content 3440 3501;3517 3581	"It's going to be a continuation of the more global dynamic," "She's going to win. It's going to be closer than it should be."
+T90	Source 3502 3510	Gerstein
+T91	Cue 3511 3515	said
+T92	Attribution 3511 3515	said
+E24	Attribution:T92 Cue:T91 Source:T90 Content:T89

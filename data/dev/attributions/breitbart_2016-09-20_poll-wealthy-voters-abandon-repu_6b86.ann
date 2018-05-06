@@ -1,0 +1,35 @@
+T1	Source 0 4	Poll
+T2	Cue 4 5	:
+T3	Content 6 65	Wealthy Voters Abandon Republican Party for Hillary Clinton
+T4	Attribution 4 5	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 68 84	A Bloomberg poll
+T6	Cue 85 90	shows
+T7	Content 209 236;91 186	in favor of Hillary Clinton that Americans living in households making $100,000 or more have abandoned the Republican party
+T8	Attribution 85 90	shows
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 239 286	Clinton beats Trump by 46 percent to 42 percent
+T10	Cue 288 300	according to
+T11	Source 301 309	the poll
+T12	Attribution 288 300	according to
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Source 311 325	Twelve percent
+T14	Cue 326 335	indicated
+T15	Content 336 359	that they were not sure
+T16	Attribution 326 335	indicated
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 362 480	Bloomberg reports that the Republican nominee has either won or tied among the group of voters making $100,000 or more
+T18	Cue 482 494	according to
+T19	Source 495 539	the Roper Center for Public Opinion Research
+T20	Attribution 482 494	according to
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Cue 541 553	According to
+T22	Source 554 564	exit polls
+T23	Content 566 646	Mitt Romney had a ten-point lead over Obama among the high-earning group in 2012
+T24	Attribution 541 553	According to
+E6	Attribution:T24 Content:T23 Source:T22 Cue:T21
+T25	Source 678 687	The group
+T26	Cue 688 698	also views
+T27	Content 699 800	President Barack Obama, Hillary Clinton, Bill Clinton, and Paul Ryan more favorably than Donald Trump
+T28	Attribution 688 698	also views
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25

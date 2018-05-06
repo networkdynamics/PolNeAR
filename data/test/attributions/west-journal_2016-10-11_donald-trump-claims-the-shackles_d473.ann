@@ -1,0 +1,82 @@
+T1	Source 0 12	Donald Trump
+T2	Cue 13 19	Claims
+T3	Content 20 71	‘The Shackles’ Have Now Been Taken Off His Campaign
+T4	Attribution 13 19	Claims
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 74 118	Republican presidential nominee Donald Trump
+T6	Cue 119 137	is now celebrating
+T7	Content 138 176	his freedom from the GOP establishment
+T8	Attribution 119 137	is now celebrating
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 178 200	tweeting out a message
+T10	Content 222 252	it’s “so nice” to be unchained
+T11	Attribution 178 200	tweeting out a message
+E3	Attribution:T11 Cue:T9 Content:T10 Source:T5
+T12	Discard 255 301	<tweet tweet-id="785842546878578688"><tweet/>.
+T13	Source 327 346	several Republicans
+T14	Cue 347 382	have withdrawn their endorsement of
+T15	Content 383 407	the presidential nominee
+T16	Attribution 347 382	have withdrawn their endorsement of
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 443 448	which
+T18	Cue 449 455	showed
+T19	Content 456 523	him bragging about touching and kissing women without their consent
+T20	Attribution 449 455	showed
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 525 530	Trump
+T22	Cue 560 567	calling
+T23	Content 568 591	it “locker room” banter
+T24	Attribution 560 567	calling
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 594 617	House Speaker Paul Ryan
+T26	Cue 618 622	said
+T27	Content 623 654	he would no longer defend Trump
+T28	Attribution 618 622	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 692 697	Trump
+T30	Cue 698 705	accused
+T31	Content 706 788	the nation’s top elected Republican of being a “very weak and ineffective leader.”
+T32	Attribution 698 705	accused
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Discard 790 836	<tweet tweet-id="785828772423561216"><tweet/>.
+T34	Source 838 842	Ryan
+T35	Cue 843 888	has not formally rescinded his endorsement of
+T36	Content 889 894	Trump
+T37	Attribution 843 888	has not formally rescinded his endorsement of
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Source 900 903	his
+T39	Cue 904 928	recent comments indicate
+T40	Content 929 1035	he believes Republican members of the House are better off going their own way as they run for re-election
+T41	Attribution 904 928	recent comments indicate
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Content 1038 1145	“The speaker is going to spend the next month focused entirely on protecting our congressional majorities,”
+T43	Source 1146 1180	Ryan’s spokeswoman, AshLee Strong,
+T44	Cue 1181 1185	said
+T45	Attribution 1181 1185	said
+E11	Attribution:T45 Cue:T44 Source:T43 Content:T42
+T46	Content 1210 1340	“Paul Ryan is focusing the next month on defeating Democrats, and all Republicans running for office should probably do the same,”
+T47	Source 1341 1366	another Ryan spokesperson
+T48	Cue 1367 1380	added Tuesday
+T49	Attribution 1367 1380	added Tuesday
+E12	Attribution:T49 Cue:T48 Source:T47 Content:T46
+T50	Source 1411 1416	Trump
+T51	Cue 1417 1456	continued to tweet out attacks aimed at
+T52	Content 1457 1484	the political establishment
+T53	Attribution 1417 1456	continued to tweet out attacks aimed at
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Discard 1487 1533;1535 1581;1583 1629	<tweet tweet-id="785846205750337537"><tweet/>. <tweet tweet-id="785816454042124288"><tweet/>. <tweet tweet-id="785854588654092290"><tweet/>.
+T55	Source 1631 1654	Some Republican leaders
+T56	Cue 1655 1669	have indicated
+T57	Content 1670 1772	they wanted Trump to step aside so that his running mate, Indiana Gov. Mike Pence, can lead the ticket
+T58	Attribution 1655 1669	have indicated
+E14	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 1778 1783	Pence
+T60	Cue 1784 1788	said
+T61	Content 1815 1854	that he plans on staying loyal to Trump
+T62	Attribution 1784 1788	said
+E15	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Content 1857 1977;2089 2133	“As Trump’s numbers crater, many House and Senate Republicans will find themselves on the wrong side of polling trends,” “They can only distance themselves so much.”
+T64	Cue 1978 1982	said
+T65	Source 1983 2087	Joshua Huder, a senior fellow at the Government Affairs Institute at Georgetown University in Washington
+T66	Attribution 1978 1982	said
+E16	Attribution:T66 Source:T65 Cue:T64 Content:T63

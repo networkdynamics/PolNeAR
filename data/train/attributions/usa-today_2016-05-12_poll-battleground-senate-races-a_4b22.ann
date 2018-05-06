@@ -1,0 +1,30 @@
+T1	Source 0 4	Poll
+T2	Cue 4 5	:
+T3	Content 46 109;6 43	Candidates locked in competition in Ohio, Pennsylvania, Florida 3 battleground Senate races are tight
+T4	Attribution 4 5	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 187 215	a Quinnipiac University poll
+T6	Cue 216 221	shows
+T7	Content 112 185	Battleground Senate races in Ohio, Pennsylvania and Florida are all close
+T8	Attribution 216 221	shows
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 224 232	The poll
+T10	Cue 233 238	found
+T11	Content 239 457	that 43% of Ohio voters support former Democratic governor Ted Strickland, and 42% support Republican Sen. Rob Portman -- a dead heat, and virtually unchanged from the past two Quinnipiac polls, in February and October
+T12	Attribution 233 238	found
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 1435 1443	the poll
+T14	Cue 1444 1454	reaffirmed
+T15	Content 1455 1598	that Portman's biggest liability is his low name recognition: 42% of Ohioans say they don't know enough about the Republican to have an opinion
+T16	Attribution 1444 1454	reaffirmed
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 1601 1609	The poll
+T18	Cue 1610 1616	showed
+T19	Content 1617 1892	a majority of registered Ohio voters say the Senate should take up President Obama's nomination of Merrick Garland to fill the Supreme Court vacancy: 56% of Buckeye State voters want action compared with 38% who support the GOP's refusal to hold hearings or a vote on Garland
+T20	Attribution 1610 1616	showed
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1973 1982	Democrats
+T22	Cue 1983 1988	blast
+T23	Content 1989 1996;2010 2066	Portman for his decision to block a confirmation vote on Garland
+T24	Attribution 1983 1988	blast
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21

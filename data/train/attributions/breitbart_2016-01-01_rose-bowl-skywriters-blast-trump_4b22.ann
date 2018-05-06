@@ -1,0 +1,40 @@
+T1	Source 0 20	Rose Bowl skywriters
+T2	Cue 21 26	blast
+T3	Content 27 32	Trump
+T4	Attribution 21 26	blast
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 68 112	A handful of skywriters in Pasadena, Calif.,
+T6	Cue 113 142	are definitely not voting for
+T7	Content 143 155	Donald Trump
+T8	Attribution 113 142	are definitely not voting for
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 223 226	CNN
+T10	Cue 227 235	reported
+T11	Content 236 308	at least six skywriting planes filled the skies with anti-Trump messages
+T12	Attribution 227 235	reported
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 311 351	“America is great! Trump is disgusting,”
+T14	Cue 352 356	read
+T15	Source 357 360	one
+T16	Attribution 352 356	read
+E4	Attribution:T16 Source:T15 Cue:T14 Content:T13
+T17	Content 362 382	“Anybody but Trump,”
+T18	Cue 383 386	was
+T19	Source 387 394	another
+T20	Attribution 383 386	was
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Source 396 407	One message
+T22	Cue 408 412	read
+T23	Content 413 434	“anybodybuttrump.us,”
+T24	Attribution 408 412	read
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 617 668	One Republican presidential hopeful, Carly Fiorina,
+T26	Cue 669 673	says
+T27	Content 674 733	despite being a Stanford alumna, she plans to root for Iowa
+T28	Attribution 669 673	says
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Discuss 455 501	a group called the “We The People Foundation.”
+T30	Cue 463 469	called
+T31	Content 455 462;470 501	a group the “We The People Foundation.”
+T32	Attribution-no-source 463 469	called
+E8	Attribution-no-source:T32 Content:T31 Cue:T30

@@ -1,0 +1,72 @@
+T1	Cue 19 24	Asked
+T2	Content 0 9;25 43	Tim Allen About Donald Trump
+T3	Attribution-no-source 19 24	Asked
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Content 46 58	His Response
+T5	Cue 59 74	Might Infuriate
+T6	Source 75 92	Most Of Hollywood
+T7	Attribution 59 74	Might Infuriate
+E2	Attribution:T7 Source:T6 Cue:T5 Content:T4
+T8	Source 125 128	his
+T9	Cue 129 141	portrayal of
+T10	Content 142 152	Tim Taylor
+T11	Attribution 129 141	portrayal of
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 361 366	Allen
+T13	Cue 367 390	has been able to insert
+T14	Content 391 421	more than a few partisan lines
+T15	Attribution 367 390	has been able to insert
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 518 528	Discussing
+T17	Content 529 567	the show’s success and political tones
+T18	Source 591 600	the actor
+T19	Attribution 518 528	Discussing
+E5	Attribution:T19 Source:T18 Content:T17 Cue:T16
+T20	Cue 601 610	explained
+T21	Content 611 702	the similarities and differences between him and his highly opinionated on-screen character
+T22	Attribution 601 610	explained
+E6	Attribution:T22 Cue:T20 Source:T18 Content:T21
+T23	Content 705 730;740 799	“I’m not as well worded,” “because Mike Baxter can say this stuff quickly and funny.”
+T24	Source 731 733	he
+T25	Cue 734 738	said
+T26	Attribution 734 738	said
+E7	Attribution:T26 Cue:T25 Source:T24 Content:T23
+T27	Cue 801 807	Noting
+T28	Content 808 847	he majored in philosophy during college
+T29	Source 849 854	Allen
+T30	Attribution 801 807	Noting
+E8	Attribution:T30 Source:T29 Content:T28 Cue:T27
+T31	Cue 855 859	said
+T32	Content 860 901	he tends to give issues more deliberation
+T33	Attribution 855 859	said
+E9	Attribution:T33 Cue:T31 Source:T29 Content:T32
+T34	Content 904 958;968 1102	“I’m always searching upriver for how things started,” “I can be more excessive on either side. I can be really either left-leaning or very, very right-leaning – but I end up center-right.”
+T35	Source 959 961	he
+T36	Cue 962 966	said
+T37	Attribution 962 966	said
+E10	Attribution:T37 Cue:T36 Source:T35 Content:T34
+T38	Source 1188 1190	he
+T39	Cue 1191 1214	offered his thoughts on
+T40	Content 1215 1304	Republican front-runner Donald Trump’s continued appeal among a loyal group of supporters
+T41	Attribution 1191 1214	offered his thoughts on
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Content 1307 1328;1338 1466	“I think it’s funny,” “because Donald Trump is kind of in the spirit of old Greek tyrants, where they used to vote in a guy that had no encumbrances.”
+T43	Source 1329 1331	he
+T44	Cue 1332 1336	said
+T45	Attribution 1332 1336	said
+E12	Attribution:T45 Cue:T44 Source:T43 Content:T42
+T46	Discard 1468 1511	Do you support Donald Trump? Like the page:
+T47	Cue 1513 1526	Acknowledging
+T48	Content 1527 1567	that Trump “says a lot of stupid stuff,”
+T49	Source 1576 1581	Allen
+T50	Attribution 1513 1526	Acknowledging
+E13	Attribution:T50 Source:T49 Content:T48 Cue:T47
+T51	Cue 1582 1593	did suggest
+T52	Content 1594 1662	that the real estate mogul’s wealth does give him a unique advantage
+T53	Attribution 1582 1593	did suggest
+E14	Attribution:T53 Cue:T51 Content:T52 Source:T49
+T54	Content 1665 1782;1800 1938	“So the smartest thing about him, which is probably most overlooked, to me, is that he doesn’t owe anybody anything,” “And if he would just stick to fixing the bridges, roads and infrastructures – that’s what he knows how to do – just keep him doing that.”
+T55	Source 1783 1788	Allen
+T56	Cue 1789 1798	concluded
+T57	Attribution 1789 1798	concluded
+E15	Attribution:T57 Cue:T56 Source:T55 Content:T54

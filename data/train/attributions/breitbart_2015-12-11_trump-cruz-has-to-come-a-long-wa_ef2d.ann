@@ -1,0 +1,21 @@
+T1	Source 0 5	Trump
+T2	Cue 5 6	:
+T3	Content 7 100	Cruz Has ‘To Come a Long Way’ On Ethanol, He’s For Oil Because ‘Oil Pays Him a Lot of Money.’
+T4	Source 102 148	Republican presidential candidate Donald Trump
+T5	Cue 149 155	argued
+T6	Content 156 348	that fellow candidate Texas Senator Ted Cruz has “got to come a long way” on ethanol, “because he’s right now for the oil” because “Oil pays him a lot of money. He’s got to be for oil, right?”
+T7	Source 385 390	Trump
+T8	Cue 391 395	said
+T9	Content 396 583	that “ethanol people” “do a fantastic job. And it’s so important. And it’s another form of, let’s stay away from OPEC, and let’s stay away from that Middle East stuff. It’s so important.”
+T10	Source 585 587	He
+T11	Cue 588 593	added
+T12	Content 595 1408	“actually, what I don’t understand, because the one guy that’s doing pretty good with me in Iowa is Ted Cruz. And he’s a nice guy. I mean, everything I say, he agrees with me. No matter what I say, I was going to do one really wild, but he agrees. But with the ethanol, really, it’s — he’s got to come a long way, because he’s right now for the oil. But I understand it. Oil pays him a lot of money. He’s got to be for oil, right? The oil companies give him a lot of money. So — but, I’m with you. I’m with everybody. Look, I’m self funding. I have no oil company. I have no special interest. I have no lobbyists that want me. And they’re representing countries that are ripping off the country. They’re representing companies that are ripping off our country. All I do is, I’m going to be working for you folks.”
+T13	Discard 1410 1425;1427 1471	(h/t Mediaite.) Follow Ian Hanchett on Twitter @IanHanchett.
+T14	Attribution 5 6	:
+E1	Attribution:T14 Source:T1 Cue:T2 Content:T3
+T15	Attribution 149 155	argued
+E2	Attribution:T15 Source:T4 Cue:T5 Content:T6
+T16	Attribution 391 395	said
+E3	Attribution:T16 Source:T7 Cue:T8 Content:T9
+T17	Attribution 588 593	added
+E4	Attribution:T17 Content:T12 Cue:T11 Source:T10

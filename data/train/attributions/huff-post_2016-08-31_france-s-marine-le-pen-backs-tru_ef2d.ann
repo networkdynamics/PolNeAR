@@ -1,0 +1,62 @@
+T1	Source 0 22	France’s Marine Le Pen
+T2	Cue 23 28	Backs
+T3	Content 29 34	Trump
+T4	Attribution 23 28	Backs
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 39 48	Denounces
+T6	Content 49 56	Clinton
+T7	Attribution 39 48	Denounces
+E2	Attribution:T7 Source:T1 Cue:T5 Content:T6
+T8	Source 85 147	France’s far-right National Front party leader, Marine Le Pen,
+T9	Cue 148 166	voiced support for
+T10	Content 167 218	U.S. Republican presidential candidate Donald Trump
+T11	Attribution 148 166	voiced support for
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 233 239	saying
+T13	Content 240 318	his Democratic rival Hillary Clinton would bring war and hardship to the world
+T14	Attribution 233 239	saying
+E4	Attribution:T14 Source:T8 Cue:T12 Content:T13
+T15	Content 436 452	anti-immigration
+T16	Cue 453 462	sentiment
+T17	Attribution-no-source 453 462	sentiment
+E5	Attribution-no-source:T17 Cue:T16 Content:T15
+T18	Source 464 467	she
+T19	Cue 527 531	keen
+T20	Content 532 565	to make her party more mainstream
+T21	Attribution 527 531	keen
+E6	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Content 567 654;735 993	“As far as France’s best interest is concerned it’s, ‘Everything but Hillary Clinton’,” “It’s everything but Hillary Clinton because I believe Hillary Clinton means war, Hillary Clinton means devastation, destabilizing the world, economic choices that would be devastating for my people, geostrategic choices that would lead to global conflicts.”
+T23	Source 655 661	Le Pen
+T24	Cue 662 666	told
+T25	Attribution 662 666	told
+E7	Attribution:T25 Cue:T24 Source:T23 Content:T22
+T26	Cue 692 697	asked
+T27	Content 698 733	which U.S. candidate she would back
+T28	Attribution-no-source 692 697	asked
+E8	Attribution-no-source:T28 Content:T27 Cue:T26
+T29	Source 994 1007	Opinion polls
+T30	Cue 1008 1011	see
+T31	Content 1012 1226	Le Pen making it to an early May run-off in France’s presidential election but losing that second round to a mainstream candidate as a majority of voters do not want her as president, despite her growing popularity
+T32	Attribution 1008 1011	see
+E9	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T34	Content 1286 1311	herself as “anti-system.”
+T33	Cue 1232 1285	shares with Trump a strategy that banks on presenting
+T35	Source 1228 1231	She
+T36	Attribution 1232 1285	shares with Trump a strategy that banks on presenting
+E10	Attribution:T36 Source:T35 Cue:T33 Content:T34
+T37	Discuss 1228 1231	She
+T38	Content 1312 1484	“What we have in common is that we’re not insiders, we are not taking part in the ‘system’, we depend on no one and do not take our orders from any financial institutions,”
+T39	Source 1485 1488	she
+T40	Cue 1489 1493	told
+T41	Attribution 1489 1493	told
+E11	Attribution:T41 Cue:T40 Source:T39 Content:T38
+T42	Content 1548 1553;1584 1659	Trump for his proposal to temporarily ban Muslims from entering the United States
+T43	Cue 1554 1570	has been rebuked
+T44	Source 1574 1583	opponents
+T45	Attribution 1554 1570	has been rebuked
+E12	Attribution:T45 Source:T44 Cue:T43 Content:T42
+T50	Content 1661 1663;1715 1783	He for comments seen as insulting women, Muslims and Mexican immigrants
+T46	Cue 1664 1683	has faced criticism
+T47	Source 1694 1714	within his own party
+T48	Attribution 1664 1683	has faced criticism
+E13	Attribution:T48 Source:T47 Cue:T46 Content:T50

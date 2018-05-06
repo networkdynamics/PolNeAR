@@ -1,0 +1,56 @@
+T1	Source 0 14	2016 Democrats
+T2	Cue 15 23	Call For
+T3	Content 24 30	Action
+T4	Attribution 15 23	Call For
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 37 48	Republicans
+T6	Cue 49 54	Tweet
+T7	Content 55 62	Prayers
+T8	Attribution 49 54	Tweet
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 108 136	U.S. presidential candidates
+T10	Cue 137 160	on Wednesday reacted to
+T11	Content 161 206	a mass shooting in San Bernardino, California
+T12	Attribution 137 160	on Wednesday reacted to
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 214 225	authorities
+T14	Cue 226 234	reported
+T15	Content 235 336	at least 20 victims at a nonprofit center that works with individuals with developmental disabilities
+T16	Attribution 226 234	reported
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 339 454	Democratic presidential hopefuls former Maryland Gov. Martin O’Malley and former Secretary of State Hillary Clinton
+T18	Cue 455 465	called for
+T19	Content 1031 1158;466 502;594 721;823 930	Mass shootings are becoming an almost-everyday occurrence in this country. This sickening and senseless gun violence must stop. further action to stem gun violence: Horrifying news out of #SanBernardino. Enough is enough: it’s time to stand up to the @NRA and enact meaningful gun safety laws I refuse to accept this as normal. We must take action to stop gun violence now. -H https://t.co/SkKglwQycb
+T20	Discard 504 594	<tweet pic="" author="MartinOMalley" timestamp="1449075600" tweet_id="672137288055398401">
+T21	Discard 721 729	</tweet>
+T22	Discard 732 823	<tweet pic="" author="HillaryClinton" timestamp="1449075600" tweet_id="672149874046083072">
+T23	Discuss 732 939	<tweet pic="" author="HillaryClinton" timestamp="1449075600" tweet_id="672149874046083072">I refuse to accept this as normal. We must take action to stop gun violence now. -H https://t.co/SkKglwQycb</tweet>.
+T24	Discard 930 938	</tweet>
+T25	Discard 941 1031	<tweet pic="" author="BernieSanders" timestamp="1449075600" tweet_id="672160504572452864">
+T26	Discard 1158 1166	</tweet>
+T27	Source 1169 1180	Republicans
+T28	Cue 1201 1208	offered
+T29	Content 1209 1276;1370 1433;1536 1659;1754 1868;1969 2060;2158 2278;2381 2423;2525 2611;2706 2846;2945 3031;3127 3242	their thoughts and prayers to the victims and the first responders: Praying for those impacted by the shooting in California today. California shooting looks very bad. Good luck to law enforcement and God bless. This is when our police are so appreciated! Praying for the victims, their families & the San Bernardino first responders in the wake of this tragic shooting. My thoughts and prayers are with the shooting victims and their families in San Bernardino. My thoughts & prayers go out to those impacted by the shooting in San Bernardino, especially the first responders. -John Thoughts & prayers are with #SanBernardino Praying for the victims and first responders in #SanBernardino for a quick resolution. Our prayers are with the victims, their families, and the first responders in San Bernardino who willingly go into harm’s way to save others Praying for all those victimized by the shootings in San Bernardino, California today. My thoughts and prayers are with the victims, families, and brave first responders during this unspeakable tragedy.
+T30	Discard 1278 1370	<tweet pic="" author="GovMikeHuckabee" timestamp="1449075600" tweet_id="672151859491016704">
+T31	Discard 1433 1441	</tweet>
+T32	Discard 1444 1536	<tweet pic="" author="realDonaldTrump" timestamp="1449075600" tweet_id="672152791717158917">
+T33	Discard 1659 1667	</tweet>
+T34	Discard 1670 1754	<tweet pic="" author="JebBush" timestamp="1449075600" tweet_id="672153025243426816">
+T35	Discard 1868 1876	</tweet>
+T36	Discard 1879 1969	<tweet pic="" author="RealBenCarson" timestamp="1449075600" tweet_id="672154558152491008">
+T37	Discard 2060 2068	</tweet>
+T38	Discard 2071 2158	<tweet pic="" author="JohnKasich" timestamp="1449075600" tweet_id="672157973804941312">
+T39	Discard 2278 2286	</tweet>
+T40	Discard 2289 2381	<tweet pic="" author="LindseyGrahamSC" timestamp="1449075600" tweet_id="672158412554289152">
+T41	Discard 2611 2619	</tweet>
+T42	Discard 2434 2525	<tweet pic="" author="GovernorPataki" timestamp="1449075600" tweet_id="672157632032022528">
+T43	Discard 2622 2706	<tweet pic="" author="tedcruz" timestamp="1449075600" tweet_id="672160155992100864">
+T44	Discard 2846 2854	</tweet>
+T45	Discard 2857 2945	<tweet pic="" author="GovChristie" timestamp="1449075600" tweet_id="672164670267084800">
+T46	Discard 3031 3039	</tweet>
+T47	Discard 3042 3127	<tweet pic="" author="RandPaul" timestamp="1449075600" tweet_id="672176019122458624">
+T48	Discard 3242 3250	</tweet>
+T49	Attribution 455 465	called for
+E5	Attribution:T49 Cue:T18 Source:T17 Content:T19
+T50	Attribution 1201 1208	offered
+E6	Attribution:T50 Content:T29 Cue:T28 Source:T27

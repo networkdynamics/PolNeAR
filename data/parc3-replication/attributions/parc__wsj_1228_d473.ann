@@ -1,0 +1,23 @@
+T1	Source 9 31	Companies listed below
+T2	Cue 32 40	reported
+T3	Content 41 121	quarterly profit substantially different from the average of analysts' estimates
+T4	Attribution 32 40	reported
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 123 136	The companies
+T6	Cue 141 149	followed
+T7	Source 153 176	at least three analysts
+T8	Attribution 141 149	followed
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Cue 473 489	is compared with
+T10	Content 459 472;490 510	actual profit the 300-day estimate
+T11	Attribution-no-source 473 489	is compared with
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Cue 289 300	are omitted
+T13	Content 243 288	Estimated and actual results involving losses
+T14	Attribution-no-source 289 300	are omitted
+E4	Attribution-no-source:T14 Content:T13 Cue:T12
+T15	Source 381 404	at least three analysts
+T16	Cue 405 416	have issues
+T17	Content 417 426	forecasts
+T18	Attribution 405 416	have issues
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15

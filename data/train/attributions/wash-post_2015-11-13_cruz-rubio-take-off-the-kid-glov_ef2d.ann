@@ -1,0 +1,239 @@
+T1	Source 67 219	Sen. Ted Cruz (R-Tex.), who has spent the past few weeks taking oblique swipes at Senate colleague and presidential campaign rival Marco Rubio (R-Fla.),
+T2	Cue 220 242	took a direct swing at
+T3	Content 243 246	him
+T4	Attribution 220 242	took a direct swing at
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 267 271	that
+T6	Cue 342 353	illustrated
+T7	Content 354 415	the GOP field's contentious fault lines on immigration policy
+T8	Attribution 342 353	illustrated
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 272 280	signaled
+T10	Content 281 335	a newly bitter fight between the two rising candidates
+T11	Attribution 272 280	signaled
+E3	Attribution:T11 Source:T5 Content:T10 Cue:T9
+T12	Discuss 67 70	Sen
+T13	Source 418 422	Cruz
+T14	Cue 423 430	blasted
+T15	Content 431 560	Rubio for his support of a failed immigration reform bill that would have granted a pathway to citizenship for illegal immigrants
+T16	Attribution 423 430	blasted
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 562 569	telling
+T18	Content 609 707	that Rubio had opposed  adding provisions to the bill that would have strengthened border security
+T19	Attribution 562 569	telling
+E5	Attribution:T19 Source:T13 Cue:T17 Content:T18
+T20	Content 710 747;748 772;829 900;901 933;934 937;938 979	"He opposed every single one of them. Every single amendment," "It's not like people were quiet in sharing their concerns at the time. It's not like one had to engage. . . . It's not like this was rocket science."
+T21	Cue 773 777	said
+T22	Source 778 827	Cruz, who had introduced some of those amendments
+T23	Attribution 773 777	said
+E6	Attribution:T23 Source:T22 Cue:T21 Content:T20
+T24	Source 981 986	Rubio
+T25	Cue 987 1001	pushed back on
+T26	Content 1002 1014	those claims
+T27	Attribution 987 1001	pushed back on
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 1025 1031	saying
+T29	Content 1032 1115	that the bill had the correct security components but was waylaid by voter mistrust
+T30	Attribution 1025 1031	saying
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T24
+T31	Cue 1122 1129	arguing
+T32	Content 1130 1197	that he and Cruz shared "almost all the same views on immigration."
+T33	Attribution 1122 1129	arguing
+E9	Attribution:T33 Source:T24 Cue:T31 Content:T32
+T34	Content 1199 1276;1329 1411;1412 1471;1472 1559	"Ted is a supporter of legalizing people that are in this country illegally," "In fact, when the Senate bill was proposed, he proposed giving them work permits. He's also supported a massive expansion of the green cards. He's supported a massive expansion of the [H-1B visa] program, a 500 percent increase."
+T35	Source 1277 1282	Rubio
+T36	Cue 1283 1287	said
+T37	Attribution 1283 1287	said
+E10	Attribution:T37 Cue:T36 Source:T35 Content:T34
+T38	Source 1635 1657	Sen. Rand Paul (R-Ky.)
+T39	Cue 1658 1662	said
+T40	Content 1663 1723	Rubio's tax plan would give money to undocumented immigrants
+T41	Attribution 1658 1662	said
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Cue 1729 1735	called
+T43	Content 1736 1824	him "the leading proponent for allowing people in the country illegally to be citizens."
+T44	Attribution 1729 1735	called
+E12	Attribution:T44 Content:T43 Cue:T42 Source:T38
+T45	Source 1825 1863	Former Arkansas governor Mike Huckabee
+T46	Cue 1864 1870	called
+T47	Content 1871 1909	the H1-B program "worse than amnesty."
+T48	Attribution 1864 1870	called
+E13	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 1960 2012	the campaign of the former senator from Pennsylvania
+T50	Cue 2013 2019	saying
+T51	Content 2020 2070	Cruz was "not a real conservative on immigration."
+T52	Attribution 2013 2019	saying
+E14	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 2072 2084	Donald Trump
+T54	Cue 2132 2138	saying
+T55	Content 2139 2189;2190 2233;2234 2257	he is "weak on illegal immigration, you know that. Weak - Rubio - weak on illegal immigration. Like weak like a baby."
+T56	Attribution 2132 2138	saying
+E15	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Cue 2097 2124	ratcheted up his attacks on
+T58	Content 2125 2130	Rubio
+T59	Attribution 2097 2124	ratcheted up his attacks on
+E16	Attribution:T59 Source:T53 Cue:T57 Content:T58
+T60	Source 2410 2444	Cruz spokeswoman Catherine Frazier
+T61	Cue 2445 2449	said
+T62	Content 2459 2554	that Rubio's claim that Cruz is in favor of legalizing illegal immigrants is "simply not true."
+T63	Attribution 2445 2449	said
+E17	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 2555 2559	Cruz
+T65	Cue 2560 2573	has supported
+T66	Content 2574 2647	increasing the number of H-1B visas - at one point, as much as fivefold -
+T67	Attribution 2560 2573	has supported
+E18	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Cue 2652 2666	has since said
+T69	Content 2667 2749	he now believes the system needs to be reformed before the number can be increased
+T70	Attribution 2652 2666	has since said
+E19	Attribution:T70 Source:T64 Cue:T68 Content:T69
+T71	Source 2752 2754	He
+T72	Cue 2755 2774	has also called for
+T73	Content 2775 2807	doubling the caps on green cards
+T74	Attribution 2755 2774	has also called for
+E20	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Source 2835 2854	a YouTube.com video
+T76	Cue 2909 2920	that showed
+T77	Content 2921 3075	Cruz discussing his amendments to the bill, saying that one would prevent illegal immigrants from obtaining citizenship, but would grant them work permits
+T78	Attribution 2909 2920	that showed
+E21	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 3078 3085	Frazier
+T80	Cue 3086 3090	said
+T81	Content 3091 3206	the amendment was a gesture intended to highlight "the hypocrisy of the Democrats" focused on a path to citizenship
+T82	Attribution 3086 3090	said
+E22	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Content 3208 3298	"He had to work within the parameters of something that was already fundamentally flawed,"
+T84	Source 3299 3302	she
+T85	Cue 3303 3307	said
+T86	Attribution 3303 3307	said
+E23	Attribution:T86 Cue:T85 Source:T84 Content:T83
+T87	Source 3310 3314	Cruz
+T88	Cue 3315 3323	has said
+T89	Content 3324 3369	he is a strong supporter of legal immigration
+T90	Attribution 3315 3323	has said
+E24	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Source 3371 3373	He
+T92	Cue 3374 3382	defended
+T93	Content 3383 3413	Trump's remarks on immigration
+T94	Attribution 3374 3382	defended
+E25	Attribution:T94 Content:T93 Cue:T92 Source:T91
+T95	Cue 3476 3497	has also not answered
+T96	Content 3498 3588	the question of what he would do with the 11 million people in the United States illegally
+T97	Attribution 3476 3497	has also not answered
+E26	Attribution:T97 Source:T91 Cue:T95 Content:T96
+T98	Cue 3590 3597	stating
+T99	Content 3598 3635	that the border must be secured first
+T100	Attribution 3590 3597	stating
+E27	Attribution:T100 Content:T99 Cue:T98 Source:T91
+T101	Cue 3643 3648	asked
+T102	Source 3652 3660	Ingraham
+T103	Content 3673 3740	about increasing the number of foreign workers in the United States
+T104	Attribution 3643 3648	asked
+E28	Attribution:T104 Content:T103 Source:T102 Cue:T101
+T105	Source 3742 3746	Cruz
+T106	Cue 3747 3752	said:
+T107	Content 3753 3790	"I don't believe that's a good idea."
+T108	Attribution 3747 3752	said:
+E29	Attribution:T108 Content:T107 Cue:T106 Source:T105
+T109	Source 3833 3837	Cruz
+T110	Cue 3904 3911	drawing
+T111	Content 3912 3934	contrasts between them
+T112	Attribution 3904 3911	drawing
+E30	Attribution:T112 Content:T111 Cue:T110 Source:T109
+T113	Source 3943 3945	he
+T114	Cue 3946 3962	rarely mentioned
+T115	Content 3963 3976	Rubio by name
+T116	Attribution 3946 3962	rarely mentioned
+E31	Attribution:T116 Content:T115 Cue:T114 Source:T113
+T117	Source 4010 4014	Cruz
+T118	Cue 4015 4042	made an unprompted call for
+T119	Content 4043 4068	an end to sugar subsidies
+T120	Attribution 4015 4042	made an unprompted call for
+E32	Attribution:T120 Content:T119 Cue:T118 Source:T117
+T122	Content 4078 4103	them "corporate welfare."
+T123	Cue 4070 4077	calling
+T121	Attribution 4070 4077	calling
+E33	Attribution:T121 Source:T117 Cue:T123 Content:T122
+T124	Source 4104 4109	Rubio
+T125	Cue 4110 4136	has aggressively supported
+T126	Content 4137 4150	the subsidies
+T127	Attribution 4110 4136	has aggressively supported
+E34	Attribution:T127 Content:T126 Cue:T125 Source:T124
+T128	Source 4152 4156	Cruz
+T129	Cue 4157 4186	has made veiled references to
+T130	Content 4187 4263	Rubio's spotty Senate voting record and his support for the immigration bill
+T131	Attribution 4157 4186	has made veiled references to
+E35	Attribution:T131 Content:T130 Cue:T129 Source:T128
+T132	Source 4320 4324	Cruz
+T133	Cue 4325 4332	knocked
+T134	Content 4333 4347	Rubio on trade
+T135	Attribution 4325 4332	knocked
+E36	Attribution:T135 Content:T134 Cue:T133 Source:T132
+T136	Cue 4352 4358	called
+T137	Content 4359 4376	him a "moderate,"
+T138	Attribution 4352 4358	called
+E37	Attribution:T138 Content:T137 Cue:T136 Source:T132
+T139	Cue 4377 4392	a subtle dig at
+T140	Content 4393 4448	a candidate who came into office as a tea party darling
+T141	Attribution-no-source 4377 4392	a subtle dig at
+E38	Attribution-no-source:T141 Content:T140 Cue:T139
+T142	Source 4529 4534	which
+T143	Cue 4535 4555	were pointedly about
+T144	Content 4556 4648	Rubio and the bipartisan "Gang of Eight" coalition that introduced the 2013 immigration bill
+T145	Attribution 4535 4555	were pointedly about
+E39	Attribution:T145 Content:T144 Cue:T143 Source:T142
+T146	Content 4651 4793;4805 4883	"The Gang of Eight, all eight of them, agreed to vote against every amendment that would strengthen the bill from an enforcement perspective," "The Gang of Eight voted as a gang against enforcing and securing the border."
+T147	Source 4794 4798	Cruz
+T148	Cue 4799 4803	said
+T149	Attribution 4799 4803	said
+E40	Attribution:T149 Cue:T148 Source:T147 Content:T146
+T150	Source 4939 4944	Rubio
+T151	Cue 4945 4952	offered
+T152	Content 4953 4991	a defense of the  "Gang of Eight" bill
+T153	Attribution 4945 4952	offered
+E41	Attribution:T153 Content:T152 Cue:T151 Source:T150
+T154	Content 4994 5068;5169 5208;5209 5301;5302 5461	"I was involved in an effort in 2013 to try to fix our immigration issue," "There was a powerful lesson from 2013. The American people do not trust the federal government to enforce our immigration policies. That exists even if you pass a law that says we're going to build more walls, we're going to have e-verify, we're going to have an entry/exit tracking system."
+T155	Source 5069 5074	Rubio
+T156	Cue 5075 5079	said
+T157	Attribution 5075 5079	said
+E42	Attribution:T157 Cue:T156 Source:T155 Content:T154
+T158	Discuss 5081 5095	in response to
+T159	Source 5463 5468	Rubio
+T160	Cue 5469 5482	did not blame
+T161	Content 5483 5575	the collapse of the process on the 2014 migrant crisis or President Obama's executive orders
+T162	Attribution 5469 5482	did not blame
+E43	Attribution:T162 Content:T161 Cue:T160 Source:T159
+T163	Source 5581 5583	he
+T164	Cue 5584 5595	quickly did
+T165	Content 5596 5598	so
+T166	Attribution 5584 5595	quickly did
+E44	Attribution:T166 Content:T165 Cue:T164 Source:T163
+T167	Content 5638 5756;5769 5878	"It's going to be impossible to move forward until you can prove to people that illegal immigration is under control," "If you can prove that it's under control, I honestly believe it opens up the ability to make these changes."
+T168	Source 5757 5762	Rubio
+T169	Cue 5763 5767	said
+T170	Attribution 5763 5767	said
+E45	Attribution:T170 Cue:T169 Source:T168 Content:T167
+T171	Cue 5880 5885	Asked
+T172	Content 5886 5906	about Cruz's charges
+T173	Attribution-no-source 5880 5885	Asked
+E46	Attribution-no-source:T173 Content:T172 Cue:T171
+T174	Source 5908 5913	Rubio
+T175	Cue 5914 5918	said
+T176	Content 5919 6019	that the immigration reforms needed after border security was addressed did not amount to "amnesty."
+T177	Attribution 5914 5918	said
+E47	Attribution:T177 Content:T176 Cue:T175 Source:T174
+T178	Source 6020 6022	He
+T179	Cue 6023 6038	did not discuss
+T180	Content 6039 6182	any ways that foreign-born workers who entered the United States illegally could become citizens, only how some could earn 10-year work permits
+T181	Attribution 6023 6038	did not discuss
+E48	Attribution:T181 Content:T180 Cue:T179 Source:T178
+T182	Source 6188 6190	he
+T183	Cue 6191 6197	argued
+T184	Content 6198 6336	that "every candidate on [the debate] stage" - including Cruz - favored some sort of legalization for workers now in the country illegally
+T185	Attribution 6191 6197	argued
+E49	Attribution:T185 Content:T184 Cue:T183 Source:T182
+T186	Content 6339 6359;6372 6431	"If you look at it," "I don't believe our positions are dramatically different."
+T187	Source 6360 6365	Rubio
+T188	Cue 6366 6370	said
+T189	Attribution 6366 6370	said
+E50	Attribution:T189 Cue:T188 Source:T187 Content:T186

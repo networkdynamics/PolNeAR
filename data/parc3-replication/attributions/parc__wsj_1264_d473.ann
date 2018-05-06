@@ -1,0 +1,92 @@
+T1	Source 214 224	publishers
+T2	Cue 225 249	are plenty worried about
+T3	Content 250 269	the industry's woes
+T4	Attribution 225 249	are plenty worried about
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 275 279	they
+T6	Cue 280 302	are also talking about
+T7	Content 303 316	new magazines
+T8	Attribution 280 302	are also talking about
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T10	Source 345 359	Telemedia Inc.
+T11	Cue 360 372	will publish
+T12	Content 373 436	Eating Well, a new food and health magazine due out next summer
+T13	Attribution 360 372	will publish
+E3	Attribution:T13 Content:T12 Cue:T11 Source:T10
+T14	Source 453 465	Hearst Corp.
+T15	Cue 466 492	this fall plans to publish
+T16	Content 493 554	its first issue of 9 Months, a magazine for expectant mothers
+T17	Attribution 466 492	this fall plans to publish
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Cue 560 580	has already launched
+T19	Content 581 594	American Home
+T20	Attribution 560 580	has already launched
+E5	Attribution:T20 Cue:T18 Source:T14 Content:T19
+T21	Source 600 616	Time Warner Inc.
+T22	Cue 617 630	is developing
+T23	Content 631 671	a spinoff of Time magazine aimed at kids
+T24	Attribution 617 630	is developing
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 735 846	Over the past four years, the number of consumer magazines has increased by an average of 80 magazines annually
+T26	Cue 848 860	according to
+T27	Source 861 927	Donald Kummerfeld, president of the Magazine Publishers of America
+T28	Attribution 848 860	according to
+E7	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Content 1028 1100;929 1006	"Entrepreneurs don't rush to get into a stagnant or declining industry." "This is an impressive show of faith in the future of the magazine industry,"
+T30	Cue 1007 1011	said
+T31	Source 1012 1026	Mr. Kummerfeld
+T32	Attribution 1007 1011	said
+E8	Attribution:T32 Source:T31 Cue:T30 Content:T29
+T33	Source 1153 1193	industry figures released at the meeting
+T34	Cue 1199 1207	indicate
+T35	Content 1208 1236	things may be turning around
+T36	Attribution 1199 1207	indicate
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1926 1945	Lang Communications
+T38	Cue 1946 1959	has announced
+T39	Content 1960 2036	Ms. magazine, after 17 years, will no longer carry advertising as of January
+T40	Attribution 1946 1959	has announced
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Cue 2402 2413	speculation
+T42	Content 2414 2441	that the sale is in trouble
+T43	Attribution-no-source 2402 2413	speculation
+E11	Attribution-no-source:T43 Content:T42 Cue:T41
+T45	Source 2443 2455	Mr. Lipstein
+T46	Cue 2456 2499	said in a telephone interview from New York
+T47	Content 2500 2539	that the sale was proceeding as planned
+T48	Attribution 2456 2499	said in a telephone interview from New York
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 2541 2565;2566 2618	"The magazine is strong. It's simply the right time to do what we are doing,"
+T50	Source 2619 2631	Mr. Lipstein
+T51	Cue 2632 2636	said
+T52	Attribution 2632 2636	said
+E13	Attribution:T52 Cue:T51 Source:T50 Content:T49
+T53	Content 2640 2693	"Magazines can no longer be considered institutions,"
+T54	Cue 2694 2698	said
+T55	Source 2699 2757	James Autry, president of Meredith Corp. 's magazine group
+T56	Attribution 2694 2698	said
+E14	Attribution:T56 Source:T55 Cue:T54 Content:T53
+T57	Content 2759 2843;2854 2932	"Publishers will find that some magazines have served their purpose and should die," "Magazines could, like other brands, find that they have only a limited life."
+T58	Source 2844 2846	he
+T59	Cue 2847 2852	added
+T60	Attribution 2847 2852	added
+E15	Attribution:T60 Cue:T59 Source:T58 Content:T57
+T61	Cue 2950 2961	indications
+T62	Content 2962 3100	that the number of magazine entrepreneurs, traditionally depended upon to break new ground with potentially risky start-ups, are dwindling
+T63	Attribution-no-source 2950 2961	indications
+E16	Attribution-no-source:T63 Content:T62 Cue:T61
+T64	Source 3635 3648	Mr. Ritterman
+T65	Cue 3649 3653	said
+T66	Content 3654 3763	that in the next six months he will take $50 million from the Soap Opera Digest sale to acquire new magazines
+T67	Source 3765 3767	He
+T68	Cue 3768 3784	would not reveal
+T69	Content 3785 3818	which magazines he is considering
+T71	Cue 3875 3879	said
+T72	Source 3880 3893	Mr. Ritterman
+T73	Attribution 3875 3879	said
+E17	Attribution:T73 Cue:T71 Content:T70 Source:T72
+T70	Content 3822 3874;3895 3990;3991 4028	"The magazines I am looking for are underdeveloped," "They could be old or new, but they are magazines whose editorial quality needs to be improved. They will be the next hot magazines."
+T74	Attribution 3768 3784	would not reveal
+E18	Attribution:T74 Cue:T68 Content:T69 Source:T67
+T75	Attribution 3649 3653	said
+E19	Attribution:T75 Cue:T65 Content:T66 Source:T64

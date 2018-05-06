@@ -1,0 +1,38 @@
+T1	Source 0 11	John McCain
+T2	Cue 11 12	:
+T3	Content 13 77	Republican Populist Anger Appeals to ‘Bad Angels Of Our Nature.’
+T4	Attribution 11 12	:
+E1	Attribution:T4 Cue:T2 Source:T1 Content:T3
+T5	Source 79 98	Senator John McCain
+T6	Cue 99 103	says
+T7	Content 104 285	the Republican populist movement that’s sweeping the country and boosting candidates including Donald Trump in the 2016 presidential race appeals to the “bad angels” of human nature
+T8	Attribution 99 103	says
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 288 350	“It’s a reflection of frustration and anger that people feel,”
+T10	Source 351 357	McCain
+T11	Cue 358 362	said
+T12	Attribution 358 362	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Cue 364 370	citing
+T14	Content 371 436	low economic growth, unemployment and growing economic inequality
+T15	Attribution 364 370	citing
+E4	Attribution:T15 Cue:T13 Content:T14 Source:T10
+T16	Content 439 551	“A lot of it is justified because they have not seen a betterment of their lives that they had hoped to expect,”
+T17	Source 552 554	he
+T18	Cue 555 564	continued
+T19	Attribution 555 564	continued
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Cue 566 572	citing
+T21	Content 573 634	the many Americans who had given up looking for work entirely
+T22	Attribution 566 572	citing
+E6	Attribution:T22 Source:T17 Cue:T20 Content:T21
+T23	Source 732 734	He
+T24	Cue 735 743	recalled
+T25	Content 744 882	that the roots of the populist revolt began during the Tea Party uprising in the Republican party in 2010 leading to gridlock and inaction
+T26	Attribution 735 743	recalled
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Content 885 1035	“I think also and I probably shouldn’t say this but some of this appeals to the bad angels of our nature rather than the better angels of our nature,”
+T28	Source 1036 1038	he
+T29	Cue 1039 1048	concluded
+T30	Attribution 1039 1048	concluded
+E8	Attribution:T30 Cue:T29 Source:T28 Content:T27

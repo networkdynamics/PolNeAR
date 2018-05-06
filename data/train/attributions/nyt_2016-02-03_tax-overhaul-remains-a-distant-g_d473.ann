@@ -1,0 +1,82 @@
+T1	Discard 38 47	ABSTRACT.
+T2	Discard 176 186	FULL TEXT.
+T3	Discuss 188 422	From a distance, tax reform reflects the shimmering frontier of American economic policy: bold plans from Republican presidential candidates, hints of interest from the White House and Hillary Clinton, bipartisan whispers in Congress.
+T4	Source 1557 1561	they
+T5	Cue 1562 1570	proposed
+T6	Content 1571 1589	sweeping overhauls
+T7	Attribution 1562 1570	proposed
+E1	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Source 1646 1650	they
+T9	Cue 1651 1660	looked to
+T10	Content 1661 1728	cut the top income tax rate of 39.6 percent to as low as 10 percent
+T11	Attribution 1651 1660	looked to
+E2	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Content 1730 1735	which
+T13	Source 1736 1761	Senator Ted Cruz of Texas
+T14	Cue 1762 1770	proposed
+T15	Attribution 1762 1770	proposed
+E3	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Source 2175 2185	candidates
+T17	Cue 2186 2197	referred to
+T18	Content 2198 2215	''ISIS'' 44 times
+T19	Attribution 2186 2197	referred to
+E4	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 2228 2242	''tax reform''
+T21	Cue 2247 2259	uttered once
+T22	Source 2264 2272	Mr. Cruz
+T23	Attribution 2247 2259	uttered once
+E5	Attribution:T23 Source:T22 Cue:T21 Content:T20
+T24	Source 2341 2346	which
+T25	Cue 2347 2375	has long been lukewarm about
+T26	Content 2376 2406	efforts to change the tax code
+T27	Attribution 2347 2375	has long been lukewarm about
+E6	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 2421 2454	a top adviser for President Obama
+T29	Cue 2455 2469	explained why:
+T30	Content 2470 2532	Potential benefits are not worth the immense political trouble
+T31	Attribution 2455 2469	explained why:
+E7	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Discuss 2408 2533	In a speech, a top adviser for President Obama explained why: Potential benefits are not worth the immense political trouble.
+T33	Source 2534 2599	Jason Furman, who leads Mr. Obama's Council of Economic Advisers,
+T34	Cue 2600 2604	said
+T35	Content 2605 2777	that a commission appointed by President George W. Bush estimated in 2005 that a fundamental tax overhaul would add less than 1 percent to long-run national economic output
+T36	Attribution 2600 2604	said
+E8	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 2999 3030;3051 3071	The allure of simplicity itself is largely a chimera
+T38	Source 3032 3042	Mr. Furman
+T39	Cue 3043 3049	argued
+T40	Attribution 3043 3049	argued
+E9	Attribution:T40 Cue:T39 Source:T38 Content:T37
+T41	Content 3074 3166;3177 3267	''Most of the complexity in the tax code derives from efforts to accurately measure'' income rather than from deductions for things like mortgage interest and charitable contributions
+T42	Source 3168 3170	he
+T43	Cue 3171 3175	said
+T44	Attribution 3171 3175	said
+E10	Attribution:T44 Cue:T43 Source:T42 Content:T41
+T45	Source 3270 3293	Some Republican experts
+T46	Cue 3294 3304	have urged
+T47	Content 3305 3365	party leaders to turn away from rate-slashing overhaul plans
+T48	Attribution 3294 3304	have urged
+E11	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 3368 3475	''Big tax cuts, particularly for the wealthiest, do not work in an age of high inequality and heavy debt,''
+T50	Source 3476 3530	James Pethokoukis of the American Enterprise Institute
+T51	Cue 3531 3545	wrote recently
+T52	Attribution 3531 3545	wrote recently
+E12	Attribution:T52 Cue:T51 Source:T50 Content:T49
+T53	Content 3553 3600;3611 3667	the number of people collecting Social Security to swell to 65 million in 2025, from 49 million in 2015,
+T54	Cue 3601 3610	projected
+T55	Attribution-no-source 3601 3610	projected
+E13	Attribution-no-source:T55 Cue:T54 Content:T53
+T56	Source 3699 3709	Mr. Furman
+T57	Cue 3710 3722	acknowledged
+T58	Content 3723 3754;3850 3892	that overhauling business taxes carried the potential for greater benefits
+T59	Attribution 3710 3722	acknowledged
+E14	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Cue 3941 3951	denouncing
+T61	Content 3952 3997	the ''perversion'' of corporate tax avoidance
+T62	Source 4021 4024	she
+T63	Attribution 3941 3951	denouncing
+E15	Attribution:T63 Source:T62 Content:T61 Cue:T60
+T64	Cue 4025 4047	hasn't outlined a plan
+T65	Content 4048 4075	to overhaul corporate taxes
+T66	Attribution 4025 4047	hasn't outlined a plan
+E16	Attribution:T66 Cue:T64 Source:T62 Content:T65

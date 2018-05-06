@@ -1,0 +1,50 @@
+T1	Source 0 6	McCaul
+T2	Cue 6 7	:
+T3	Content 8 54	If elected, Hillary Clinton could be impeached
+T4	Attribution 6 7	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 57 118	Hillary Clinton could be impeached if she’s elected president
+T6	Source 120 142	Texas Rep. Mike McCaul
+T7	Cue 143 147	said
+T8	Attribution 143 147	said
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Content 160 219;259 559	“This investigation will continue whether she wins or not,” “But assuming she wins and the investigation comes forward and it looks like an indictment is pending, at that point in time under the Constitution, the House of Representatives would engage in an impeachment trial. It would go to the Senate and impeachment proceedings and removal would take place.”
+T10	Source 220 243	the Republican lawmaker
+T11	Cue 244 248	told
+T12	Attribution 244 248	told
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 636 708	the letter FBI Director James Comey sent to congressional leaders Friday
+T14	Cue 709 718	informing
+T15	Content 724 857	that the bureau would be reviewing additional emails related to its investigation into Clinton’s private server as secretary of state
+T16	Attribution 709 718	informing
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 901 904	who
+T18	Cue 905 909	told
+T19	Content 936 1046	that Clinton could be impeached for “willful concealment and destruction” if she’s elected president next week
+T20	Attribution 905 909	told
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1357 1363	McCaul
+T22	Cue 1364 1374	criticized
+T23	Content 1383 1504	for “running around saying she’s been cleared and the investigation is over when in fact that is not a correct statement”
+T24	Attribution 1364 1374	criticized
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Cue 1509 1518	suggested
+T26	Content 1519 1578	that her presidency could create a “constitutional crisis.”
+T27	Attribution 1509 1518	suggested
+E7	Attribution:T27 Source:T21 Content:T26 Cue:T25
+T28	Content 1580 1670;1797 1959	“There is now new evidence reopening the case, and evidence that could be quite damaging,” “Remember, to get a search warrant you have to have probable cause. And they had probable cause to get a search warrant for these emails on Huma Abedin’s laptop.”
+T29	Source 1671 1677	McCaul
+T30	Cue 1678 1682	said
+T31	Attribution 1678 1682	said
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Source 1691 1732	Comey and other law enforcement officials
+T33	Cue 1733 1745	haven’t said
+T34	Content 1746 1795	the FBI is actually “reopening” its investigation
+T35	Attribution 1733 1745	haven’t said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Discuss 1969 2056	the FBI obtained a warrant to search the laptop of disgraced former Rep. Anthony Weiner
+T37	Content 2127 2267;2281 2727	“If we see an email that says, ‘I know that’s classified but send it anyway,’ that would be the kind of smoking gun the FBI is looking for,” “That, then, I think would be the grounds for an indictment. I’ve said all along, this should have gone before a grand jury to take the politics out of this. This would not be a unique case to go before a grand jury, as I’ve done many times in the past. For whatever reason, they chose not to do that. I think there’s ample evidence with the probable cause to get the search warrant now to go before the grand jury and present this new evidence.”
+T38	Source 2268 2274	McCaul
+T39	Cue 2275 2279	said
+T40	Attribution 2275 2279	said
+E10	Attribution:T40 Cue:T39 Source:T38 Content:T37

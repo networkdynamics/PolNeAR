@@ -1,0 +1,47 @@
+T1	Source 0 21	Red Hot Chili Peppers
+T2	Cue 52 60	announce
+T3	Content 61 89	#FeelTheBern benefit concert
+T4	Attribution 52 60	announce
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 120 176	The next Red Hot Chili Peppers record is almost complete
+T6	Source 178 201	frontman Anthony Kiedis
+T7	Cue 202 219	recently revealed
+T8	Attribution 202 219	recently revealed
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Source 272 278	Kiedis
+T10	Cue 279 283	said
+T11	Content 284 390	his band and collaborator Brian Burton, AKA Danger Mouse, wrote a host of new songs for the upcoming album
+T12	Attribution 279 283	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 393 460	“We had written two dozen songs before we got with [Danger Mouse],”
+T14	Source 461 467	Kiedis
+T15	Cue 468 472	said
+T16	Attribution 468 472	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Cue 474 484	mentioning
+T18	Content 485 533	the long-awaited album is “in the home stretch.”
+T19	Attribution 474 484	mentioning
+E5	Attribution:T19 Source:T14 Content:T18 Cue:T17
+T20	Content 535 710;729 889	“[He] is like, ‘Let’s keep a few of those, but let’s go write all new songs in the studio,’ We’re looking at each other like, ‘Dude, we kind of already wrote the songs, bro,’” “He’s like, ‘No, I like to write new ones in the studio.’ So, in honor of accommodating this new process, we wrote all new songs, and it’s a good thing we did.”
+T21	Source 711 717	Keidis
+T22	Cue 718 727	continued
+T23	Attribution 718 727	continued
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 945 966	Red Hot Chili Peppers
+T25	Cue 967 976	announced
+T26	Content 977 1046	a benefit concert in support of presidential candidate Bernie Sanders
+T27	Attribution 967 976	announced
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1049 1065	Band member Flea
+T29	Cue 1066 1072	shared
+T30	Content 1073 1081	the news
+T31	Attribution 1066 1072	shared
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 1109 1116	writing
+T33	Content 1117 1339	“Feels great to support someone I believe in. The Rhcp offered to give him the money to pay for the theater that night but he wouldn’t accept, he only accepts small donations from individuals…This is a man with integrity.”
+T34	Attribution 1109 1116	writing
+E9	Attribution:T34 Source:T28 Content:T33 Cue:T32
+T35	Cue 1432 1445	was announced
+T36	Content 1424 1431;1446 1511	Sanders the second-place winner of the Iowa Caucus behind Hillary Clinton
+T37	Attribution-no-source 1432 1445	was announced
+E10	Attribution-no-source:T37 Content:T36 Cue:T35

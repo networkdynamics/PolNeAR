@@ -1,0 +1,33 @@
+T1	Source 0 7	Drivers
+T2	Cue 8 22	Are So Shocked
+T3	Content 26 63	These 3 Words On Highway Warning Sign
+T4	Attribution 8 22	Are So Shocked
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 138 159	the digital road sign
+T6	Cue 160 170	warning of
+T7	Content 171 199	accidents or road work ahead
+T8	Attribution 160 170	warning of
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 325 351	Local news affiliate ABC 7
+T10	Cue 352 364	is reporting
+T11	Content 365 618	that a husband and wife were surprised to see a California Department of Transportation (Caltrans) sign on Friday night at an exit in Corona (about 45 miles east of L.A.), which read, “Inland Empire supports Donald Trump. Merry Xmas. Vote Donald Trump.”
+T12	Attribution 352 364	is reporting
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 962 970	Caltrans
+T14	Cue 971 975	told
+T15	Content 982 1067	that someone had reprogrammed the sign, which as of Sunday had been reprogrammed back
+T16	Attribution 971 975	told
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 1235 1247	According to
+T18	Source 1248 1257	AZCentral
+T19	Content 1259 1468	one Arizona Department of Transportation sign read, “Trust in the Force, but always buckle up.” Another advised, “Aggressive Driving is the path to the Dark Side,” and “Speeding you are, Arrested you will be.”
+T20	Attribution 1235 1247	According to
+E5	Attribution:T20 Content:T19 Source:T18 Cue:T17
+T21	Discuss 619 728	The Inland Empire refers to those communities east of Los Angeles and west of the Sierra Madre mountain range
+T22	Source 619 636	The Inland Empire
+T23	Cue 637 646	refers to
+T24	Content 647 728	those communities east of Los Angeles and west of the Sierra Madre mountain range
+T25	Attribution 637 646	refers to
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Discard 914 959	<tweet tweet-id="681365594273267717"><tweet/>
+T27	Discard 1470 1516;1518 1564	<tweet tweet-id="677455821534445568"><tweet/>. <tweet tweet-id="677987721273458689"><tweet/>.

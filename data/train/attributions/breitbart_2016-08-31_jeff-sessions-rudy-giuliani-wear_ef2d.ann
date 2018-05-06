@@ -1,0 +1,41 @@
+T1	Source 175 202	a Donald Trump campaign hat
+T2	Cue 203 210	reading
+T3	Content 212 242	“Make Mexico Great Again Also”
+T4	Attribution 203 210	reading
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 271 295	the Republican nominee’s
+T6	Cue 296 305	speech on
+T7	Content 306 317	immigration
+T8	Attribution 296 305	speech on
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Discard 365 434	<tweet id="771156540103417856" author="@cspan" datetime="2016-09-01">
+T10	Discard 545 642	pic.twitter.com/mzvFqiR3zt SIGN UP FOR OUR NEWSLETTER — CSPAN (@cspan) September 1, 2016</tweet>.
+T11	Source 644 658	Many reporters
+T12	Cue 659 664	noted
+T13	Content 676 746	the change from the usual campaign slogan, “Make America Great Again.”
+T14	Attribution 659 664	noted
+E3	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Discuss 748 822	<tweet id="771156940076544000" author="@sahilkapur" datetime="2016-09-01">
+T16	Discard 1001 1009	</tweet>
+T17	Content 822 955	Rudy Giuliani and Jeff Sessions briefly wore MAKE MEXICO GREAT AGAIN ALSO hats at Trump’s AZ rally. Just another day in the campaign.
+T18	Cue 956 957	—
+T19	Source 958 983	Sahil Kapur (@sahilkapur)
+T20	Attribution 956 957	—
+E4	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Discard 1012 1085	<tweet id="771154653060866048" author="@dmartosko" datetime="2016-09-01">
+T22	Content 1085 1189	Rudy Giuliani is now wearing a campaign hat that says "MAKE MEXICO GREAT AGAIN ALSO" … for realz, people
+T23	Discuss 1013 1018	tweet
+T24	Discuss 366 371	tweet
+T25	Cue 1190 1191	—
+T26	Source 1192 1219	David Martosko (@dmartosko)
+T27	Attribution 1190 1191	—
+E5	Attribution:T27 Source:T26 Cue:T25 Content:T22
+T28	Discard 1237 1245	</tweet>
+T29	Discard 1248 1322	<tweet id="771157278636507136" author="@Bencjacobs" datetime="2016-09-01">
+T30	Content 1322 1387	Why isn't Pence wearing a Make Mexico Great Again Also hat? #RINO
+T31	Cue 1388 1389	—
+T32	Source 1390 1414	Ben Jacobs (@Bencjacobs)
+T33	Discard 1432 1440	</tweet>
+T34	Discuss 1249 1254	tweet
+T35	Attribution 1388 1389	—
+E6	Attribution:T35 Source:T32 Cue:T31 Content:T30

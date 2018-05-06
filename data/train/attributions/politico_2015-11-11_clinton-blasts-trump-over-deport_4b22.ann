@@ -1,0 +1,43 @@
+T1	Source 84 98	Donald Trump's
+T2	Cue 99 103	plan
+T3	Content 104 148	to deport 11 million people from the country
+T4	Attribution 99 103	plan
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 388 395	Clinton
+T6	Cue 396 403	tweeted
+T7	Content 276 387	"The idea of tracking down and deporting 11 million people is absurd, inhumane, and un-American. No, Trump. -H"
+T8	Attribution 396 403	tweeted
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 405 412	quoting
+T10	Content 413 503	a New York Times reporter's tweet on Trump's comments made earlier in the morning on MSNBC
+T11	Attribution 405 412	quoting
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T5
+T12	Source 550 573	co-host Mika Brzezinski
+T13	Cue 574 579	asked
+T14	Content 586 705	how he would handle the deportation of everyone in the United States illegally, if he would have a "deportation force."
+T15	Attribution 574 579	asked
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 973 978	Trump
+T17	Cue 979 983	said
+T18	Content 707 972;985 1248	"You're going to have a deportation force, and you're going to do it humanely and you’re going to bring the country -- and, frankly, the people, because you have some excellent, wonderful people, some fantastic people that have been here for a long period of time," "Don't forget, Mika, that you have millions of people that are waiting in line to come into this country and they’re waiting to come in legally. And I always say the wall, we're going to build the wall. It's going to be a real deal. It’s going to be a real wall."
+T19	Attribution 979 983	said
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 53 68	Hillary Clinton
+T21	Cue 69 79	has a word
+T22	Content 150 152	No
+T23	Attribution 69 79	has a word
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 155 192	The Democratic presidential candidate
+T25	Cue 193 200	blasted
+T26	Content 201 252	Trump's call for a "deportation force" on Wednesday
+T27	Attribution 193 200	blasted
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 254 261	calling
+T29	Content 262 274	it "absurd."
+T30	Attribution-no-source 254 261	calling
+E8	Attribution-no-source:T30 Content:T29 Cue:T28
+T31	Source 0 7	Clinton
+T32	Cue 8 14	blasts
+T33	Content 15 20	Trump
+T34	Attribution 8 14	blasts
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31

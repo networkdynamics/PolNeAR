@@ -1,0 +1,208 @@
+T1	Source 0 5	Obama
+T2	Cue 6 10	Says
+T3	Content 11 72	African-American Museum Will Tell of 'Suffering and Delight.'
+T4	Attribution 6 10	Says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 88 103	President Obama
+T6	Cue 189 193	said
+T7	Content 194 392	it would tell an American story, one of ''suffering and delight, one of fear, but also of hope, of wandering in the wilderness, and then seeing, out on the horizon, a glimmer of the Promised Land.''
+T8	Attribution 189 193	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 475 484	Mr. Obama
+T10	Cue 485 489	said
+T11	Content 490 752	the museum would document the stories of Americans who are often overlooked in history books -- ''the president but also the slave, the industrialist but also the porter, the keeper of the status quo, but also the activist seeking to overthrow that status quo.''
+T12	Attribution 485 489	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 870 879	Mr. Obama
+T14	Cue 880 886	warned
+T15	Content 887 1030	that the museum would not be a panacea for the nation's racial struggles, which, even today, inflame the streets of cities like Charlotte, N.C.
+T16	Attribution 880 886	warned
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 799 803;822 868	that the ambiguity of the black American experience
+T18	Cue 804 821	seemed to capture
+T19	Attribution-no-source 804 821	seemed to capture
+E5	Attribution-no-source:T19 Cue:T18 Content:T17
+T20	Content 1032 1098;1108 1228	''A museum alone will not alleviate poverty in every inner city,'' ''It won't eliminate gun violence from all our neighborhoods, or immediately ensure that justice is always colorblind.''
+T21	Source 1099 1101	he
+T22	Cue 1102 1106	said
+T23	Attribution 1102 1106	said
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 1234 1243	Mr. Obama
+T25	Cue 1244 1248	said
+T26	Content 1249 1402	the museum's exhibits would put those problems into a larger context, allowing people to see the progress as well as the shortcomings in American society
+T27	Attribution 1244 1248	said
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1404 1406	He
+T29	Cue 1407 1411	said
+T30	Content 1412 1569	he hoped it would encourage a dialogue among Americans on difficult issues like the systemic racism in law enforcement or the violence toward police officers
+T31	Attribution 1407 1411	said
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1587 1600	the president
+T33	Cue 1601 1605	said
+T34	Content 1572 1586;1607 1734	''Hopefully,'' ''this museum can help us talk to each other, and more importantly listen to each other, and most importantly see each other.''
+T35	Attribution 1601 1605	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Content 1737 1852	'Perhaps they can help a white visitor understand the pain and anger of a demonstrator in Ferguson and Charlotte,''
+T37	Source 1853 1862	Mr. Obama
+T38	Cue 1863 1867	said
+T39	Attribution 1863 1867	said
+E10	Attribution:T39 Cue:T38 Source:T37 Content:T36
+T40	Source 1882 1884	he
+T41	Cue 1885 1889	said
+T42	Content 1873 1880;1891 2047	perhaps it could help a black visitor see the efforts of police officers who, ''in fits and starts, are struggling to understand and trying to do the right thing.''
+T43	Attribution 1885 1889	said
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 2066 2075	Mr. Obama
+T45	Cue 2076 2080	said
+T46	Content 2049 2064;2082 2241	Acts of protest are acts of patriotism, whether it was sitting at a lunch counter in the South in the 1960s or wearing a T-shirt emblazoned with the words ''I can't breathe,''
+T47	Attribution 2076 2080	said
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 2245 2256	Eric Garner
+T49	Content 2242 2244	as
+T50	Cue 2307 2311	said
+T51	Attribution 2307 2311	said
+E13	Attribution:T51 Cue:T50 Content:T49 Source:T48
+T52	Source 2329 2338	Mr. Obama
+T53	Cue 2339 2354	has articulated
+T54	Content 2355 2367	these themes
+T55	Attribution 2339 2354	has articulated
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 2553 2555	He
+T57	Cue 2556 2580	was clearly rejoicing in
+T58	Content 2581 2665	the glorious history contained in this newest outpost of the Smithsonian Institution
+T59	Attribution 2556 2580	was clearly rejoicing in
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Content 2668 2744	''We've shown the world we can float like butterflies and sting like bees,''
+T61	Source 2745 2754	Mr. Obama
+T62	Cue 2755 2759	said
+T63	Attribution 2755 2759	said
+E16	Attribution:T63 Cue:T62 Source:T61 Content:T60
+T64	Cue 2761 2788	not even needing to mention
+T65	Content 2789 2828	the author of that boast, Muhammad Ali,
+T66	Attribution 2761 2788	not even needing to mention
+E17	Attribution:T66 Source:T61 Content:T65 Cue:T64
+T67	Content 2856 2873;2884 2947	African-Americans can ''rock like Jimi'' and ''stir the pot like Richard Pryor.''
+T68	Source 2875 2877	he
+T69	Cue 2878 2882	said
+T70	Attribution 2878 2882	said
+E18	Attribution:T70 Cue:T69 Source:T68 Content:T67
+T71	Content 2949 3050;3072 3090	''We're not a burden on America or a stain on America, or an object of pity or charity for America,'' ''We're America.''
+T72	Source 3051 3064	the president
+T73	Cue 3065 3070	added
+T74	Attribution 3065 3070	added
+E19	Attribution:T74 Cue:T73 Source:T72 Content:T71
+T75	Source 3775 3778	who
+T76	Cue 3779 3798	joked of the museum
+T77	Content 3800 3844	''I haven't seen it yet, but I'm going to.''
+T78	Attribution 3779 3798	joked of the museum
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 3988 3991	she
+T80	Cue 3992 3997	added
+T81	Content 3998 4029	the words, ''Hillary Clinton.''
+T82	Attribution 3992 3997	added
+E21	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Source 4093 4096	who
+T84	Cue 4097 4103	signed
+T85	Content 4104 4158	the legislation authorizing the building of the museum
+T86	Attribution 4097 4103	signed
+E22	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Source 4181 4184	who
+T88	Cue 4185 4193	spoke of
+T89	Content 4194 4270	her early brainstorming discussions with the museum's director, Lonnie Bunch
+T90	Attribution 4185 4193	spoke of
+E23	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Content 4455 4564;4584 4711	''This museum tells the truth that a country founded on the principles of liberty held thousands in chains,'' ''Even today, the journey towards justice is not compete. But this museum will inspire us to go farther and get there faster.''
+T92	Source 4565 4573	Mr. Bush
+T93	Cue 4574 4582	declared
+T94	Attribution 4574 4582	declared
+E24	Attribution:T94 Cue:T93 Source:T92 Content:T91
+T95	Source 4725 4733	Mr. Bush
+T96	Cue 4734 4738	said
+T97	Content 4713 4723;4740 4889	The museum celebrated several of his heroes, including the musician Chuck Berry, the baseball player Willie Mays and the Supreme Court justice Thurgood Marshall
+T98	Attribution 4734 4738	said
+E25	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Source 4892 4925	Chief Justice John G. Roberts Jr.
+T100	Cue 4926 4934	spoke of
+T101	Content 4935 5168	the legacy of racism, enshrined in Jim Crow laws, and how the fight for justice flowed through -- and was sometimes set back by -- landmark court rulings, from the Dred Scott case to Plessy v. Ferguson and Brown v. Board of Education
+T102	Attribution 4926 4934	spoke of
+E26	Attribution:T102 Content:T101 Cue:T100 Source:T99
+T103	Content 5170 5203;5233 5261	To understand the real Dred Scott one should visit this museum
+T104	Source 5205 5226	Chief Justice Roberts
+T105	Cue 5227 5231	said
+T106	Attribution 5227 5231	said
+E27	Attribution:T106 Cue:T105 Source:T104 Content:T103
+T107	Source 5308 5311	who
+T108	Cue 5312 5319	watched
+T109	Content 5320 5332	the ceremony
+T110	Attribution 5312 5319	watched
+E28	Attribution:T110 Content:T109 Cue:T108 Source:T107
+T111	Source 5264 5306	Donna Sampson Rawlings, 59, of Ashton, Md.
+T112	Cue 5358 5362	said
+T113	Content 5363 5483	the event brought back memories of her father, and of ''all the people who weren't here who did things to get us here.''
+T114	Attribution 5358 5362	said
+E29	Attribution:T114 Content:T113 Cue:T112 Source:T111
+T115	Source 5485 5488	She
+T116	Cue 5489 5493	said
+T117	Content 5494 5554	she had toured the museum last week during a special program
+T118	Attribution 5489 5493	said
+E30	Attribution:T118 Content:T117 Cue:T116 Source:T115
+T119	Source 5589 5592	she
+T120	Cue 5593 5597	said
+T121	Content 5556 5587;5599 5660	Many of the visitors were older and ''I had to step back and think, 'This is their lives.'.''
+T122	Attribution 5593 5597	said
+E31	Attribution:T122 Content:T121 Cue:T120 Source:T119
+T123	Content 5662 5723;5735 5819	''If you're 80 years old, you went through so much of this,'' ''Seeing it is, for them, emotional. It's something they never thought they'd see.''
+T124	Source 5724 5727	she
+T125	Cue 5728 5733	added
+T126	Attribution 5728 5733	added
+E32	Attribution:T126 Cue:T125 Source:T124 Content:T123
+T127	Content 5821 5884	''These are the stories that we talk about that nobody knows,''
+T128	Source 5885 5888	she
+T129	Cue 5889 5893	said
+T130	Attribution 5889 5893	said
+E33	Attribution:T130 Cue:T129 Source:T128 Content:T127
+T131	Source 5896 5932	Johnnie Wilson, of Springfield, Va.,
+T132	Cue 5933 5937	said
+T133	Content 5938 6041	he had fought in Vietnam ''for the nation's rights, knowing that back home we didn't have the rights.''
+T134	Attribution 5933 5937	said
+E34	Attribution:T134 Content:T133 Cue:T132 Source:T131
+T135	Source 6043 6045	He
+T136	Cue 6046 6050	said
+T137	Content 6051 6147	the museum compensated for what he believed was a sanitized version of history taught in schools
+T138	Attribution 6046 6050	said
+E35	Attribution:T138 Content:T137 Cue:T136 Source:T135
+T139	Content 6149 6243;6253 6346	''Throughout the time we've been on these shores, we've made major contributions to America,'' ''We're really part of an American history that isn't told like it should be in classrooms.''
+T140	Source 6244 6246	he
+T141	Cue 6247 6251	said
+T142	Attribution 6247 6251	said
+E36	Attribution:T142 Cue:T141 Source:T140 Content:T139
+T143	Source 6348 6356	Mr. Obam
+T144	Cue 6426 6452	spoke during his speech of
+T145	Content 6453 6549	a stone slaver's block on exhibit, marked only as the site of a speech by Andrew Jackson in 1830
+T146	Attribution 6426 6452	spoke during his speech of
+E37	Attribution:T146 Content:T145 Cue:T144 Source:T143
+T147	Content 6552 6558;6580 6808	It was ''a stone where day after day for years, men and women were torn from their spouse or their child, shackled and bound, and bought and sold, and bid like cattle, on a stone worn down by the tragedy of over a thousand bare feet.''
+T148	Source 6560 6573	the president
+T149	Cue 6574 6578	said
+T150	Attribution 6574 6578	said
+E38	Attribution:T150 Cue:T149 Source:T148 Content:T147
+T151	Content 6810 6820;6838 6883;6885 7014	The museum would make visitors face uncomfortable truths But it would also capture the essential greatness of the United States -- the perpetual struggle to live up to its highest ideals
+T152	Source 6822 6831	Mr. Obama
+T153	Cue 6832 6836	said
+T154	Attribution 6832 6836	said
+E39	Attribution:T154 Cue:T153 Source:T152 Content:T151
+T155	Source 7017 7026	Mr. Obama
+T156	Cue 7027 7047	spoke emotionally of
+T157	Content 7048 7216	his many flights on Marine One across the Mall, past the alabaster spire of the Washington Monument and the lighted figure of Abraham Lincoln, sheltered in his memorial
+T158	Attribution 7027 7047	spoke emotionally of
+E40	Attribution:T158 Content:T157 Cue:T156 Source:T155
+T159	Source 7218 7220	He
+T160	Cue 7221 7225	said
+T161	Content 7226 7364	he had watched the museum rise from the ground and thought of the days when he and his family would return to visit it as private citizens
+T162	Attribution 7221 7225	said
+E41	Attribution:T162 Content:T161 Cue:T160 Source:T159
+T163	Content 7367 7428;7438 7503	''We'll walk away that much more in love with this country,'' ''the only place on earth where this story could have unfolded.''
+T164	Source 7429 7431	he
+T165	Cue 7432 7436	said
+T166	Attribution 7432 7436	said
+E42	Attribution:T166 Cue:T165 Source:T164 Content:T163

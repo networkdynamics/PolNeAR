@@ -1,0 +1,121 @@
+T1	Content 0 41;56 119	American dream survives among Millennials Generation expects more success, though definition is different
+T2	Source 43 47	poll
+T3	Cue 48 54	finds;
+T4	Attribution 48 54	finds;
+E1	Attribution:T4 Cue:T3 Source:T2 Content:T1
+T5	Source 145 156	Millennials
+T6	Cue 157 173	still believe in
+T7	Content 174 192	the American dream
+T8	Attribution 157 173	still believe in
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 351 414	more than two-thirds of those in the nation's rising generation
+T10	Cue 415 422	predict
+T11	Content 423 503	they will be more successful in their professional lives than their parents were
+T12	Attribution 415 422	predict
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 505 516	One in five
+T14	Cue 517 520	say
+T15	Content 521 539	that won't be true
+T16	Attribution 517 520	say
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 542 655;745 835	"I feel that I will be more successful than my parents in my professional life because of my level of education," "But I think the 'American dream' has changed,"  because of dramatic shifts in the economy
+T18	Cue 656 660	says
+T19	Source 661 743	Diana Ruocco, 21, a student from Daytona Beach, Fla., who was among those surveyed
+T20	Attribution 656 660	says
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Content 838 877	"Our ideas of 'success' are different,"
+T22	Cue 878 884	agrees
+T23	Source 885 926	Michelle Stevens, 30, of Gainesville, Fla
+T24	Attribution 878 884	agrees
+E6	Attribution:T24 Source:T23 Cue:T22 Content:T21
+T25	Source 1436 1454	adults of all ages
+T26	Cue 1455 1463	bemoaned
+T27	Content 1464 1496	the demise of the American dream
+T28	Attribution 1455 1463	bemoaned
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1627 1638	Millennials
+T30	Cue 1639 1652	still embrace
+T31	Content 1653 1662	that idea
+T32	Attribution 1639 1652	still embrace
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 929 968	The latest USA TODAY/Rock the Vote Poll
+T34	Cue 991 999	explores
+T35	Content 1000 1080	the economic expectations and concerns of the largest generation in U.S. history
+T36	Attribution 991 999	explores
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1694 1718	Thirty percent of whites
+T38	Cue 1719 1735	"strongly agree"
+T39	Content 1736 1813	that they will be more successful professionally than the previous generation
+T40	Attribution 1719 1735	"strongly agree"
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Discuss 1815 1905	Optimism is even higher among African Americans (34% "strongly agree") and Hispanics (32%)
+T42	Source 1966 1977	Millennials
+T43	Cue 1978 1981	say
+T44	Content 1982 2051	they believe success will require a lifetime of effort on their parts
+T45	Attribution 1978 1981	say
+E11	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 2053 2074	Nearly nine out of 10
+T47	Cue 2075 2078	say
+T48	Content 2079 2152	they will need to continually develop new skills to advance their careers
+T49	Attribution 2075 2078	say
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2155 2159	They
+T51	Cue 2160 2189	are surprisingly skeptical of
+T52	Content 2190 2243	the "sharing economy" that their generation pioneered
+T53	Attribution 2160 2189	are surprisingly skeptical of
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 2305 2327	Just shy of half, 49%,
+T55	Cue 2328 2331	say
+T56	Content 2332 2401	the "sharing economy" reflects an improvement on the American economy
+T57	Attribution 2328 2331	say
+E14	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 2403 2417	Nearly a third
+T59	Cue 2418 2421	say
+T60	Content 2422 2437	they don't know
+T61	Attribution 2418 2421	say
+E15	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 2507 2518	one in five
+T63	Cue 2519 2522	say
+T64	Content 2523 2546	it's not an improvement
+T65	Attribution 2519 2522	say
+E16	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Content 2549 2665;2721 2793	"With a profession like Uber, you will be able to see more people who will be able to enter the current job market," "I think it'd offer more jobs in areas that we're not seeing right now."
+T67	Cue 2666 2670	says
+T68	Source 2671 2719	Gavin Hamilton, 23, a student from Fresno, Calif
+T69	Attribution 2666 2670	says
+E17	Attribution:T69 Source:T68 Cue:T67 Content:T66
+T70	Content 2795 2868	"Your own success is completely dependent on how you want to deliver it,"
+T71	Source 2869 2876	Stevens
+T72	Cue 2877 2881	says
+T73	Attribution 2877 2881	says
+E18	Attribution:T73 Cue:T72 Source:T71 Content:T70
+T74	Source 2887 2890	she
+T75	Cue 2891 2899	cautions
+T76	Content 2900 2947	that she sees "two different flip sides to it."
+T77	Attribution 2891 2899	cautions
+E19	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Source 2965 2979	those surveyed
+T79	Cue 2980 2983	say
+T80	Content 2984 3085	the economy, including jobs and the minimum wage, should be the first priority for the next president
+T81	Attribution 2980 2983	say
+E20	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Content 3305 3363	"Immigration is important but in my view, it's education,"
+T83	Cue 3364 3368	says
+T84	Source 3369 3439	Melissa Roloson, 32, of Sodus in Upstate New York, who works in retail
+T85	Attribution 3364 3368	says
+E21	Attribution:T85 Source:T84 Cue:T83 Content:T82
+T86	Source 3441 3448	Roloson
+T87	Cue 3449 3457	supports
+T88	Content 3458 3507;3509 3590	Democrat Hillary Clinton in the presidential race "I'm a college graduate, but I have student loans, and I don't have a great job."
+T89	Attribution 3449 3457	supports
+E22	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Content 3763 3836	"I've had two grants, but I'm still hung up with schools and have loans,"
+T91	Source 3837 3840	she
+T92	Cue 3841 3876	said in a follow-up phone interview
+T93	Attribution 3841 3876	said in a follow-up phone interview
+E23	Attribution:T93 Cue:T92 Source:T91 Content:T90
+T94	Source 3592 3695	Ashley Yago, 33, a supporter of Republican Donald Trump who lives across the country in Greeley, Colo.,
+T95	Cue 3696 3742	finds herself in a similar retail job and with
+T96	Content 3743 3760	a similar outlook
+T97	Attribution 3696 3742	finds herself in a similar retail job and with
+E24	Attribution:T97 Content:T96 Cue:T95 Source:T94

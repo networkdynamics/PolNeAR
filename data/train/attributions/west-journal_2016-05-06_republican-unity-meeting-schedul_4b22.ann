@@ -1,0 +1,64 @@
+T1	Source 134 166	House Speaker Paul Ryan’s office
+T2	Cue 167 176	announced
+T3	Content 184 277	that Ryan will meet with presumptive Republican presidential nominee Donald Trump on Thursday
+T4	Attribution 167 176	announced
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 441 445	Ryan
+T6	Cue 446 453	tweeted
+T7	Content 328 440	“I’ve invited ‪@realDonaldTrump for a meeting with GOP leaders next week, and I look forward to the discussion,”
+T8	Discard 280 326	<tweet tweet-id="728651792918155268"><tweet/>.
+T9	Source 463 493	A statement from Ryan’s office
+T10	Cue 494 503	indicated
+T11	Content 504 531	the invitation was accepted
+T12	Attribution 446 453	tweeted
+E2	Attribution:T12 Source:T5 Cue:T6 Content:T7
+T13	Attribution 494 503	indicated
+E3	Attribution:T13 Content:T11 Cue:T10 Source:T9
+T14	Source 844 857	Ryan’s office
+T15	Cue 858 877	said in a statement
+T16	Content 534 843	“Having both said we need to unify the party, Speaker Ryan has invited Donald Trump to meet with members of the House Republican leadership in Washington on Thursday morning to begin a discussion about the kind of Republican principles and ideas that can win the support of the American people this November,”
+T17	Attribution 858 877	said in a statement
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 1032 1036	Ryan
+T19	Cue 1037 1060	voiced displeasure with
+T20	Content 1061 1101	some of Trump’s proposals on immigration
+T21	Attribution 1037 1060	voiced displeasure with
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Source 1117 1120	his
+T23	Cue 1121 1133	proposal for
+T24	Content 1134 1187	a temporary ban on Muslims entering the United States
+T25	Attribution 1121 1133	proposal for
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 1203 1207	Ryan
+T27	Cue 1208 1212	said
+T28	Content 1213 1273	he was “not ready” to support Trump’s campaign for president
+T29	Attribution 1208 1212	said
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Cue 1279 1288	suggested
+T31	Content 1289 1361	that Trump needs to take the first steps to show he will unify the party
+T32	Attribution 1279 1288	suggested
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T26
+T33	Source 1379 1384	Trump
+T34	Cue 1385 1413	fired back a response saying
+T35	Content 1414 1448	he would not support Ryan’s agenda
+T36	Attribution 1385 1413	fired back a response saying
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Cue 1453 1463	suggesting
+T38	Content 1464 1527	that politicians should do what is best for the American people
+T39	Attribution 1453 1463	suggesting
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T33
+T40	Source 1541 1546	Trump
+T41	Cue 1547 1577	was still publicly miffed over
+T42	Content 1578 1600	Ryan’s lack of support
+T43	Attribution 1547 1577	was still publicly miffed over
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1603 1608	Trump
+T45	Cue 1609 1613	said
+T46	Content 1621 1731	that Ryan’s refusal to support him was “not a good thing” and “something the party should get solved quickly.”
+T47	Attribution 1609 1613	said
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 1795 1801	Trump 
+T49	Cue 1801 1847	added during his appearance on Fox and Friends
+T50	Content 1733 1794;1849 1935	“I mean, he talks about unity, but what is this about unity?” “With millions of people coming into the party, obviously I’m saying the right thing.”
+T51	Attribution 1801 1847	added during his appearance on Fox and Friends
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48

@@ -1,0 +1,68 @@
+T1	Source 0 9	De Blasio
+T2	Cue 9 10	:
+T3	Content 11 58	Trust Bratton on security, not 'blowhard' Trump
+T4	Source 61 81	Mayor Bill de Blasio
+T5	Cue 82 90	rejected
+T6	Content 91 277	criticism from Republican presidential candidate Donald Trump that shutting down a controversial intelligence-gathering unit within the New York Police Department made the city less safe
+T7	Attribution 82 90	rejected
+E1	Attribution:T7 Cue:T5 Source:T4 Content:T6
+T8	Attribution 9 10	:
+E2	Attribution:T8 Content:T3 Cue:T2 Source:T1
+T9	Source 280 289	De Blasio
+T10	Cue 290 294	said
+T11	Content 295 346	the move was made by NYPD commissioner Bill Bratton
+T12	Attribution 290 294	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 351 355	said
+T14	Content 357 422	“Who are you going to trust on security and keeping people safe?”
+T15	Attribution 351 355	said
+E4	Attribution:T15 Cue:T13 Content:T14 Source:T9
+T16	Source 424 433	De Blasio
+T17	Cue 435 461	speaking on WOR710, called
+T18	Content 462 481	Trump a “blowhard,”
+T19	Attribution 435 461	speaking on WOR710, called
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 486 490	said
+T21	Content 491 582	his anti-Muslim remarks were priceless “propaganda” for terrorist groups like Islamic State
+T22	Attribution 486 490	said
+E6	Attribution:T22 Cue:T20 Content:T21 Source:T16
+T23	Source 585 590	Trump
+T24	Cue 591 604	recently said
+T25	Content 605 685	he would "absolutely" require Muslims in America to register with the government
+T26	Attribution 591 604	recently said
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Cue 693 698	asked
+T28	Source 702 712	a reporter
+T29	Content 713 779	whether this differed from Nazi Germany requiring Jews to register
+T30	Attribution 693 698	asked
+E8	Attribution:T30 Content:T29 Source:T28 Cue:T27
+T31	Source 781 786	Trump
+T32	Cue 787 802	reportedly said
+T33	Content 804 875	"You tell me," repeatedly, before he stopped responding to the reporter
+T34	Attribution 787 802	reportedly said
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 878 887	De Blasio
+T36	Cue 888 916	also repeated his claim that
+T37	Content 917 1088	“profit-making” was the motivation for some technology companies that are offering encryption technology that cannot be accessed by law enforcement during an investigation
+T38	Attribution 888 916	also repeated his claim that
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Cue 1096 1101	asked
+T40	Source 1105 1148	a host if the revelations by Edward Snowden
+T41	Content 1149 1221	about intelligence gathering efforts in any way led to the Paris attacks
+T42	Attribution 1096 1101	asked
+E11	Attribution:T42 Content:T41 Source:T40 Cue:T39
+T43	Source 1266 1275	de Blasio
+T44	Cue 1276 1280	said
+T45	Content 1282 1364	“I have not heard that particular concern” from New York law enforcement officials
+T46	Attribution 1276 1280	said
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1372 1374	he
+T48	Cue 1375 1380	added
+T49	Content 1367 1370;1382 1449	But “We are, in effect, in a war, and in a war, loose lips sink ships.”
+T50	Attribution 1375 1380	added
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 1451 1460	De Blasio
+T52	Cue 1461 1476	repeatedly said
+T53	Content 1477 1642	New York is safe thanks to 14 years of anti-terrorism efforts by the NYPD, new technology, and a better working relationship with federal parters and local residents
+T54	Attribution 1461 1476	repeatedly said
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51

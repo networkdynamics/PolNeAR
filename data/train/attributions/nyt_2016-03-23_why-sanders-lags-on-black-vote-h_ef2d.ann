@@ -1,0 +1,206 @@
+T1	Source 79 82	who
+T2	Cue 83 86	see
+T3	Content 87 101	incomes rising
+T4	Attribution 83 86	see
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discard 104 113	ABSTRACT.
+T6	Source 183 187	they
+T7	Cue 188 222	have more favorable impressions of
+T8	Content 223 234	the economy
+T9	Attribution 188 222	have more favorable impressions of
+E2	Attribution:T9 Content:T8 Cue:T7 Source:T6
+T10	Discard 237 247	FULL TEXT.
+T11	Cue 249 254	Asked
+T12	Content 279 340	why he trailed Hillary Clinton so badly among minority voters
+T13	Attribution-no-source 249 254	Asked
+E3	Attribution-no-source:T13 Content:T12 Cue:T11
+T14	Source 342 364	Senator Bernie Sanders
+T15	Cue 365 369	said
+T16	Content 370 493	he would gain ground once those voters became familiar with his track record and agenda on the economy and criminal justice
+T17	Attribution 365 369	said
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 783 800	African-Americans
+T19	Cue 801 817	have experienced
+T20	Content 818 873	somewhat more favorable economic trends in recent years
+T21	Attribution 801 817	have experienced
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Source 910 927	African-Americans
+T23	Cue 928 937	have seen
+T24	Content 938 995	their jobless rate fall a little further than whites have
+T25	Attribution 928 937	have seen
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 1219 1221	He
+T27	Cue 1222 1227	found
+T28	Content 1228 1396	that, on average in 2013 and 2014 (the most recent data available), incomes for blacks in their 30s, 40s and 50s grew more rapidly than for whites in the same age group
+T29	Attribution 1222 1227	found
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 1398 1410	Older people
+T31	Cue 1447 1461	have also seen
+T32	Content 1462 1519	income gains relative to other groups since the recession
+T33	Attribution 1447 1461	have also seen
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1412 1415	who
+T35	Cue 1416 1432	strongly support
+T36	Content 1433 1445	Mrs. Clinton
+T37	Attribution 1416 1432	strongly support
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Source 1588 1590	it
+T39	Cue 1591 1610	is unlikely to tell
+T40	Content 1611 1625	the full story
+T41	Attribution 1591 1610	is unlikely to tell
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Source 2300 2311	the group's
+T43	Cue 2312 2338	longstanding affection for
+T44	Content 2339 2357	the Clinton family
+T45	Attribution 2312 2338	longstanding affection for
+E11	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 2359 2373	Recent polling
+T47	Cue 2374 2379	shows
+T48	Content 2380 2515	that Bill Clinton's favorability rating among working-class white Democrats is roughly equivalent to his rating among African-Americans
+T49	Attribution 2374 2379	shows
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2601 2652	African-Americans and white working-class Democrats
+T51	Cue 2653 2669	are experiencing
+T52	Content 2670 2701	broadly similar economic trends
+T53	Attribution 2653 2669	are experiencing
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 2703 2707	they
+T55	Cue 2708 2717	interpret
+T56	Content 2718 2722	them
+T57	Attribution 2708 2717	interpret
+E14	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 2737 2787	A New York Times/CBS News poll conducted last week
+T59	Cue 2788 2793	found
+T60	Content 2794 2992	that African-Americans rated the economy as good by a ratio of about four to one, versus about two to one for white Democrats and an even narrower margin for white Democrats without a college degree
+T61	Attribution 2788 2793	found
+E15	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 2994 3027	A Times/CBS News poll in December
+T63	Cue 3028 3033	found
+T64	Content 3034 3272	that, relative to two years earlier, roughly three times as many African-Americans said their family's financial situation was better as said it was worse, while Democrats without a college degree were almost evenly split on this question
+T65	Attribution 3028 3033	found
+E16	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Source 3275 3409	Geoff Garin, a strategist for Mrs. Clinton's 2008 campaign who currently polls for Priorities USA Action, a pro-Clinton ''super PAC,''
+T67	Cue 3410 3417	posited
+T68	Content 3418 3683	that for a more economically marginal group like African-Americans, the unemployment rate - which has declined significantly for all racial groups in recent years - carries more importance than growth in incomes and certain assets, which have been slower to recover
+T69	Attribution 3410 3417	posited
+E17	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Content 3850 3959;3976 4165	''The major source of economic anxiety for working-class white men is not whether they have a job tomorrow,'' ''it's that they still haven't had their personal recovery. Their recovery is about assets and income.'' For African-Americans, on the other hand, ''you don't take job growth for granted.''
+T71	Source 3960 3969	Mr. Garin
+T72	Cue 3970 3974	said
+T73	Attribution 3970 3974	said
+E18	Attribution:T73 Cue:T72 Source:T71 Content:T70
+T74	Source 4167 4169	He
+T75	Cue 4170 4175	cited
+T76	Content 4176 4400	polling data showing that working-class white Democrats were roughly as concerned about inequality as they were about job growth and economic growth, while African-Americans were overwhelmingly concerned about the latter two
+T77	Attribution 4170 4175	cited
+E19	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Content 4402 4419;4437 4609	It is no surprise that Mrs. Clinton, who has had a similar emphasis in her campaign, did better among African-Americans, while Mr. Sanders's emphasis on inequality resonated more with whites
+T79	Source 4421 4430	Mr. Garin
+T80	Cue 4431 4435	said
+T81	Attribution 4431 4435	said
+E20	Attribution:T81 Cue:T80 Source:T79 Content:T78
+T82	Source 4640 4658	anecdotal evidence
+T83	Cue 4659 4669	suggesting
+T84	Content 4670 4923	that African-Americans and Hispanic voters are more likely to use the economy's recent low point, in 2008 and 2009, as the base line for their judgment than are whites, who may focus on more recent performance, where improvement has been less pronounced
+T85	Attribution 4659 4669	suggesting
+E21	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Source 4926 4974	David Simas, the White House political director,
+T87	Cue 4975 4983	recalled
+T88	Content 4984 5159	sitting in on focus groups when he worked for the 2012 Obama campaign for ads that began by reminding voters how bleak the economy had been when Barack Obama first took office
+T89	Attribution 4975 4983	recalled
+E22	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Content 5161 5247	''The folks who responded to it the most were African-Americans and Hispanic voters,''
+T91	Source 5248 5250	he
+T92	Cue 5251 5255	said
+T93	Attribution 5251 5255	said
+E23	Attribution:T93 Cue:T92 Source:T91 Content:T90
+T94	Source 5258 5342	Willie Minor, an African-American actor in Dallas, who runs a small theater company,
+T95	Cue 5343 5351	recalled
+T96	Content 5352 5470	that in 2009, ''I called all my lenders and creditors, asked for extensions, made partial payments, things like that.'
+T97	Attribution 5343 5351	recalled
+E24	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 5472 5474	He
+T99	Cue 5475 5479	said
+T100	Content 5480 5605	that since then, thanks in part to increased revenue from the company's productions, he has ''been more secure financially.''
+T101	Attribution 5475 5479	said
+E25	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Content 5690 5694	that
+T103	Source 5695 5735	minority voters and working-class whites
+T104	Cue 5736 5740	view
+T105	Attribution 5736 5740	view
+E26	Attribution:T105 Cue:T104 Source:T103 Content:T102
+T106	Content 5754 5810;5880 6036	''Blacks and Hispanics benefited more from the A.C.A.,'' ''It was a really dramatic lowering of their uninsured rate, which was obviously material to their economic health and their overall comfort in the world.''
+T107	Cue 5811 5815	said
+T108	Source 5816 5878	Simon Rosenberg, president of NDN, a policy and advocacy group
+T109	Attribution 5811 5815	said
+E27	Attribution:T109 Source:T108 Cue:T107 Content:T106
+T110	Source 6038 6047	Mr. Minor
+T111	Cue 6048 6052	said
+T112	Content 6053 6217	that while he received his health care through the Department of Veterans Affairs, many of his friends ''had no insurance and no possibility of getting insurance.''
+T113	Attribution 6048 6052	said
+E28	Attribution:T113 Content:T112 Cue:T111 Source:T110
+T114	Content 6219 6257	''Obamacare has been a boon to them,''
+T115	Source 6258 6260	he
+T116	Cue 6261 6265	said
+T117	Attribution 6261 6265	said
+E29	Attribution:T117 Cue:T116 Source:T115 Content:T114
+T118	Source 6281 6393	many whites, who were insured at a higher rate than the other groups before the Affordable Care Act took effect,
+T119	Cue 6394 6397	saw
+T120	Content 6398 6443	the program as detrimental to their interests
+T121	Attribution 6394 6397	saw
+E30	Attribution:T121 Content:T120 Cue:T119 Source:T118
+T122	Content 6445 6519;6643 6716	''The promise of Obamacare was to make it more affordable for everybody,'' ''It's done nothing but make it more expensive on us, the working class.'
+T123	Cue 6520 6524	said
+T124	Source 6525 6641	J. J. Price, a firefighter and union member in Roanoke, Va., who voted for Mr. Obama in 2008 but Mitt Romney in 2012
+T125	Attribution 6520 6524	said
+E31	Attribution:T125 Source:T124 Cue:T123 Content:T122
+T126	Source 6719 6731	Mrs. Clinton
+T127	Cue 6732 6761	has been a dogged defender of
+T128	Content 6762 6785	the Affordable Care Act
+T129	Attribution 6732 6761	has been a dogged defender of
+E32	Attribution:T129 Content:T128 Cue:T127 Source:T126
+T130	Source 6793 6804	Mr. Sanders
+T131	Cue 6805 6819	has dwelled on
+T132	Content 6820 6854	the program's not going far enough
+T133	Attribution 6805 6819	has dwelled on
+E33	Attribution:T133 Content:T132 Cue:T131 Source:T130
+T134	Source 6856 6858	He
+T135	Cue 6859 6866	prefers
+T136	Content 6867 6941	a single-payer system akin to expanding Medicare for the entire population
+T137	Attribution 6859 6866	prefers
+E34	Attribution:T137 Content:T136 Cue:T135 Source:T134
+T138	Source 6944 6982	The dynamic on the Affordable Care Act
+T139	Cue 6983 6991	suggests
+T140	Content 6992 7072	a broader difference when it comes to African-Americans and working-class whites
+T141	Attribution 6983 6991	suggests
+E35	Attribution:T141 Content:T140 Cue:T139 Source:T138
+T142	Source 7079 7090	Mr. Sanders
+T143	Cue 7091 7112	implicitly criticizes
+T144	Content 7113 7122	Mr. Obama
+T145	Attribution 7091 7112	implicitly criticizes
+E36	Attribution:T145 Content:T144 Cue:T143 Source:T142
+T146	Source 7138 7167	white working-class Democrats
+T147	Cue 7168 7175	may see
+T148	Content 7176 7221	it as advocating for their economic interests
+T149	Attribution 7168 7175	may see
+E37	Attribution:T149 Content:T148 Cue:T147 Source:T146
+T150	Source 7261 7272	many blacks
+T151	Cue 7238 7260	tend to fall flat with
+T152	Content 7227 7237	the claims
+T153	Attribution 7238 7260	tend to fall flat with
+E38	Attribution:T153 Content:T152 Cue:T151 Source:T150
+T154	Source 7275 7380	Larry Cohen, a senior adviser to Mr. Sanders and past president of the Communications Workers of America,
+T155	Cue 7381 7385	said
+T156	Content 7386 7611	that Mrs. Clinton's perceived loyalty to the administration, and the nearly uniform support for her within the black political establishment, especially in the South, were factors in limiting Mr. Sanders's support from blacks
+T157	Attribution 7381 7385	said
+E39	Attribution:T157 Content:T156 Cue:T155 Source:T154
+T158	Content 7636 7704	''I don't think you can discount how important President Obama is,''
+T159	Cue 7705 7709	said
+T160	Source 7710 7864	Stanley B. Greenberg, a former Clinton White House pollster who recently conducted focus groups with African-American voters in Philadelphia and Cleveland
+T161	Attribution 7705 7709	said
+E40	Attribution:T161 Source:T160 Cue:T159 Content:T158
+T162	Content 7867 8063	Mrs. Clinton, with her service in the administration and her eagerness to defend the president's policies on the campaign trail, ''is seen as having a more instinctive identification with Obama,''
+T163	Source 8064 8066	he
+T164	Cue 8067 8071	said
+T165	Attribution 8067 8071	said
+E41	Attribution:T165 Cue:T164 Source:T163 Content:T162

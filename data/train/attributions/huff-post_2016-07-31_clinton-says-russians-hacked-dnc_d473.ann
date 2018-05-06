@@ -1,0 +1,91 @@
+T1	Source 0 7	Clinton
+T2	Cue 8 12	Says
+T3	Content 13 32	Russians Hacked DNC
+T4	Attribution 8 12	Says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 34 39	Calls
+T6	Content 40 74	Trump’s Putin Remarks ‘Troubling.’
+T7	Attribution 34 39	Calls
+E2	Attribution:T7 Cue:T5 Source:T1 Content:T6
+T8	Source 99 153	U.S. Democratic presidential candidate Hillary Clinton
+T9	Cue 154 158	said
+T10	Content 159 240	Russian intelligence services hacked into Democratic National Committee computers
+T11	Attribution 154 158	said
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 245 248	she
+T13	Cue 249 256	accused
+T14	Content 257 346	Republican contender Donald Trump of showing support for Russian President Vladimir Putin
+T15	Attribution 249 256	accused
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Content 348 589	“We know that Russian intelligence services hacked into the DNC and we know that they arranged for a lot of those emails to be released and we know that Donald Trump has shown a very troubling willingness to back up Putin, to support Putin,”
+T17	Source 590 597	Clinton
+T18	Cue 598 618	said in an interview
+T19	Attribution 598 618	said in an interview
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Source 643 660	The United States
+T21	Cue 661 685	has not publicly accused
+T22	Content 686 747	Russia of being behind the hack of Democratic Party computers
+T23	Attribution 661 685	has not publicly accused
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 749 790	Cyber security experts and U.S. officials
+T25	Cue 801 805	said
+T26	Content 806 914	they believed Russia engineered the release of the emails to influence the Nov. 8 U.S. presidential election
+T27	Attribution 801 805	said
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 916 921	Asked
+T29	Content 922 979	if she believed Putin wanted Trump to win the White House
+T30	Attribution-no-source 916 921	Asked
+E8	Attribution-no-source:T30 Content:T29 Cue:T28
+T31	Source 981 988	Clinton
+T32	Cue 989 993	said
+T33	Content 994 1038	she was not going to jump to that conclusion
+T34	Attribution 989 993	said
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Content 1040 1159	“But I think laying out the facts raises serious issues about Russian interference in our elections, in our democracy,”
+T36	Source 1160 1167	Clinton
+T37	Cue 1168 1172	told
+T38	Attribution 1168 1172	told
+E10	Attribution:T38 Cue:T37 Source:T36 Content:T35
+T39	Content 1211 1315	The United States would not tolerate that from any other country, especially one considered an adversary
+T40	Source 1317 1320	she
+T41	Cue 1321 1325	said
+T42	Attribution 1321 1325	said
+E11	Attribution:T42 Cue:T41 Source:T40 Content:T39
+T43	Content 1327 1499	“For Trump to both encourage that and to praise Putin despite what appears to be a deliberate effort to try to affect the election I think raises national security issues,”
+T44	Source 1500 1503	she
+T45	Cue 1504 1508	said
+T46	Attribution 1504 1508	said
+E12	Attribution:T46 Cue:T45 Source:T44 Content:T43
+T47	Source 1510 1534	The New York businessman
+T48	Cue 1535 1546	has praised
+T49	Content 1547 1552	Putin
+T50	Attribution 1535 1546	has praised
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Cue 1554 1560	saying
+T52	Content 1561 1630	he was a stronger leader than U.S. President Barack Obama, a Democrat
+T53	Attribution 1554 1560	saying
+E14	Attribution:T53 Cue:T51 Source:T47 Content:T52
+T54	Source 1632 1637	Trump
+T55	Cue 1638 1655	last week invited
+T56	Content 1656 1759	Russia to dig up tens of thousands of “missing” emails from Clinton’s time at the U.S. State Department
+T57	Attribution 1638 1655	last week invited
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Content 1761 1854	“Russia, if you’re listening, I hope you’re able to find the 30,000 emails that are missing,”
+T59	Source 1855 1860	Trump
+T60	Cue 1861 1865	told
+T61	Attribution 1861 1865	told
+E16	Attribution:T61 Cue:T60 Source:T59 Content:T58
+T62	Source 1877 1936	The Republican presidential nominee for the Nov. 8 election
+T63	Cue 1937 1947	later said
+T64	Content 1948 1988	he was being “sarcastic” in his comments
+T65	Cue 2003 2011	concerns
+T66	Source 2018 2038	intelligence experts
+T67	Content 1990 1995	which
+T68	Attribution 1937 1947	later said
+E17	Attribution:T68 Cue:T63 Content:T64 Source:T62
+T69	Attribution 2003 2011	concerns
+E18	Attribution:T69 Content:T67 Source:T66 Cue:T65
+T70	Cue 2043 2052	criticism
+T71	Content 2053 2115	that Trump was urging a foreign government to spy on Americans
+T72	Attribution-no-source 2043 2052	criticism
+E19	Attribution-no-source:T72 Content:T71 Cue:T70

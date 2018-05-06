@@ -1,0 +1,61 @@
+T1	Source 41 48	Clinton
+T2	Cue 49 59	hoping for
+T3	Content 60 97	shift in momentum in closing contests
+T4	Attribution 49 59	hoping for
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 370 377	Clinton
+T6	Cue 378 385	claimed
+T7	Content 386 393	victory
+T8	Attribution 378 385	claimed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 406 413	saying:
+T10	Content 414 502	"We just won Kentucky! Thanks to everyone who turned out. We're always stronger united."
+T11	Attribution 406 413	saying:
+E3	Attribution:T11 Source:T5 Content:T10 Cue:T9
+T12	Source 1163 1198	elected officials and party leaders
+T13	Cue 1199 1214	free to support
+T14	Content 1215 1231	either candidate
+T15	Attribution 1199 1214	free to support
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Content 1140 1159;1235 1375	When superdelegates are factored in, her lead is much larger and brings her to within 150 delegates away of the 2,383 needed to clinch the Democratic nomination
+T17	Cue 1377 1389	according to
+T18	Source 1390 1410	the Associated Press
+T19	Attribution 1377 1389	according to
+E5	Attribution:T19 Source:T18 Cue:T17 Content:T16
+T20	Content 1413 1506	In the final round of state primaries next month, Clinton holds a 10-point lead in California
+T21	Cue 1508 1520	according to
+T22	Source 1521 1559	the RealClearPolitics average of polls
+T23	Attribution 1508 1520	according to
+E6	Attribution:T23 Source:T22 Cue:T21 Content:T20
+T24	Source 1907 1918	two of whom
+T25	Cue 1919 1956	have already pledged their support to
+T26	Content 1957 1964	Clinton
+T27	Attribution 1919 1956	have already pledged their support to
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1966 1976	Two others
+T29	Cue 1977 1990	have not said
+T30	Content 1991 2015	who they would vote for,
+T31	Attribution 1977 1990	have not said
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Content 2020 2041	a fifth superdelegate
+T33	Cue 2042 2060	has not been named
+T34	Attribution-no-source 2042 2060	has not been named
+E9	Attribution-no-source:T34 Cue:T33 Content:T32
+T35	Source 1608 1628	Kentucky Republicans
+T36	Cue 1629 1634	chose
+T37	Content 1635 1664	Donald Trump as their nominee
+T38	Attribution 1629 1634	chose
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 3052 3059	Clinton
+T40	Cue 3107 3111	said
+T41	Content 3112 3191	she was "going to put a lot of coal miners and coal companies out of business,"
+T42	Attribution 3107 3111	said
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Cue 3198 3215	trying to explain
+T44	Content 3216 3283	her plan to sink $30 billion into Appalachia to rebuild the economy
+T45	Attribution 3198 3215	trying to explain
+E12	Attribution:T45 Source:T39 Content:T44 Cue:T43
+T46	Cue 3328 3334	appear
+T47	Content 3322 3327;3335 3353	which to have harmed her
+T48	Attribution-no-source 3328 3334	appear
+E13	Attribution-no-source:T48 Content:T47 Cue:T46

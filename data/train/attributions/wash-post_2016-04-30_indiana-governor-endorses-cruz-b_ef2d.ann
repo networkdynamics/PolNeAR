@@ -1,0 +1,138 @@
+T1	Source 0 16	Indiana governor
+T2	Cue 17 25	endorses
+T3	Content 26 30	Cruz
+T4	Attribution 17 25	endorses
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 42 56	has praise for
+T6	Content 57 69	front-runner
+T7	Attribution 42 56	has praise for
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T1
+T8	Content 87 155	Ted Cruz, who badly needs a win in Tuesday's GOP primary in Indiana,
+T9	Cue 156 180	received the endorsement
+T10	Source 184 203	Gov. Mike Pence (R)
+T11	Attribution 156 180	received the endorsement
+E3	Attribution:T11 Source:T10 Cue:T9 Content:T8
+T12	Content 225 245	his presidential bid
+T13	Source 268 273	local
+T14	Cue 274 281	support
+T15	Attribution 274 281	support
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Source 355 362	Pence's
+T17	Cue 363 482	endorsement - delivered during an afternoon radio interview where Cruz was not present - was carefully worded so as not
+T18	Content 483 529	to offend Republican front-runner Donald Trump
+T20	Discuss 355 362	Pence's
+T19	Attribution 363 482	endorsement - delivered during an afternoon radio interview where Cruz was not present - was carefully worded so as not
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T21	Cue 539 551	doubts about
+T22	Content 552 624	how effective it would be in rallying support for the senator from Texas
+T23	Attribution-no-source 539 551	doubts about
+E6	Attribution-no-source:T23 Content:T22 Cue:T21
+T24	Content 627 712	"I'm not against anybody, but I will be voting for Ted Cruz in the upcoming primary,"
+T25	Source 713 718	Pence
+T26	Cue 719 723	said
+T27	Attribution 719 723	said
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 833 837	Cruz
+T29	Cue 838 852	was looking to
+T30	Content 853 912	end a stream of bad news in his long-shot bid to stop Trump
+T31	Attribution 838 852	was looking to
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1036 1048	Public polls
+T33	Cue 1049 1053	show
+T34	Content 1054 1087	Trump leading slightly in Indiana
+T35	Attribution 1049 1053	show
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1090 1095	Pence
+T37	Cue 1138 1145	praised
+T38	Content 1146 1196	Cruz for showing "the courage of his convictions."
+T39	Attribution 1138 1145	praised
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1208 1213	Pence
+T41	Cue 1214 1243	sounded a positive note about
+T42	Content 1244 1249	Trump
+T43	Attribution 1214 1243	sounded a positive note about
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Content 1252 1379	"I particularly want to commend Donald Trump, who I think has given voice to the frustration of millions of working Americans,"
+T45	Source 1380 1392	the governor
+T46	Cue 1393 1397	said
+T47	Attribution 1393 1397	said
+E12	Attribution:T47 Cue:T46 Source:T45 Content:T44
+T48	Source 1465 1467	He
+T49	Cue 1468 1472	said
+T50	Content 1473 1541	he plans to support the Republican nominee, whoever it ends up being
+T51	Attribution 1468 1472	said
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 1544 1557	Cruz's allies
+T53	Cue 1558 1566	promoted
+T54	Content 1567 1594	the news as a positive sign
+T55	Attribution 1558 1566	promoted
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Content 1597 1673;1674 1724	"I appreciate Indiana Governor @mike_pence endorsing @tedcruz for President. He's standing up for Conservatism - not Trumpism,"
+T57	Cue 1725 1732	tweeted
+T58	Source 1733 1818	Sen. Lindsey O. Graham (R-S.C.), a former presidential candidate and a Cruz supporter
+T59	Attribution 1725 1732	tweeted
+E15	Attribution:T59 Source:T58 Cue:T57 Content:T56
+T60	Content 1821 1841	Pence's announcement
+T61	Cue 1842 1860	came as a surprise
+T62	Source 1864 1905	Cruz and many Indiana political observers
+T63	Attribution 1842 1860	came as a surprise
+E16	Attribution:T63 Source:T62 Cue:T61 Content:T60
+T64	Source 1958 1962	Cruz
+T65	Cue 1963 1967	told
+T66	Content 1978 2030	that he did not know whether Pence would endorse him
+T67	Attribution 1963 1967	told
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 2143 2147	Cruz
+T69	Cue 2148 2155	praised
+T70	Content 2156 2202	Pence for cutting taxes and paring regulations
+T71	Attribution 2148 2155	praised
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Content 2211 2215;2224 2250	that improved Indiana's economy
+T73	Source 2216 2218	he
+T74	Cue 2219 2223	said
+T75	Attribution 2219 2223	said
+E19	Attribution:T75 Cue:T74 Source:T73 Content:T72
+T76	Content 2253 2304;2305 2364	"I have tremendous respect for Governor Mike Pence. He has been an incredible leader for the state of Indiana,"
+T77	Source 2365 2369	Cruz
+T78	Cue 2370 2374	said
+T79	Attribution 2370 2374	said
+E20	Attribution:T79 Cue:T78 Source:T77 Content:T76
+T80	Cue 2376 2383	adding:
+T81	Content 2384 2431	"I would enthusiastically welcome his support."
+T82	Attribution 2376 2383	adding:
+E21	Attribution:T82 Source:T77 Cue:T80 Content:T81
+T83	Source 2433 2438	Trump
+T84	Cue 2484 2491	tweeted
+T85	Content 2493 2512;2513 2524	"Thank you Indiana! #Trump2016"
+T86	Attribution 2484 2491	tweeted
+E22	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Source 2546 2555	His tweet
+T89	Content 2565 2697	a picture of him embracing former Indiana University basketball coach Bobby Knight, as well as polling data showing him leading Cruz
+T88	Cue 2556 2564	included
+T90	Attribution 2556 2564	included
+E23	Attribution:T90 Cue:T88 Content:T89 Source:T87
+T91	Source 2863 2869	Kasich
+T92	Cue 2870 2876	agreed
+T93	Content 2877 2979	to effectively end his bid for Indiana in order to direct the anti-Trump vote in the state toward Cruz
+T94	Attribution 2870 2876	agreed
+E24	Attribution:T94 Content:T93 Cue:T92 Source:T91
+T95	Source 3110 3114	Cruz
+T96	Cue 3125 3136	played down
+T97	Content 3137 3189	the idea that he had struck a major deal with Kasich
+T98	Attribution 3125 3136	played down
+E25	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Content 3191 3226	"There never was a grand alliance,"
+T100	Source 3227 3229	he
+T101	Cue 3230 3234	said
+T102	Attribution 3230 3234	said
+E26	Attribution:T102 Cue:T101 Source:T100 Content:T99
+T103	Content 3319 3322;3342 3379	who as his vice-presidential running mate
+T104	Source 3323 3325	he
+T105	Cue 3326 3341	named Wednesday
+T106	Attribution 3326 3341	named Wednesday
+E27	Attribution:T106 Cue:T105 Source:T104 Content:T103
+T107	Source 3425 3432	Fiorina
+T108	Cue 3433 3437	told
+T109	Content 3448 3490	that "John Kasich is throwing votes away."
+T110	Attribution 3433 3437	told
+E28	Attribution:T110 Content:T109 Cue:T108 Source:T107

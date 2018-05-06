@@ -1,0 +1,44 @@
+T1	Content 63 207	Bernie Sanders raised more than $33million during the last three months of 2015 to underwrite his bid for the Democratic presidential nomination
+T2	Source 209 221	his campaign
+T3	Cue 222 240	announced Saturday
+T4	Attribution 222 240	announced Saturday
+E1	Attribution:T4 Cue:T3 Source:T2 Content:T1
+T5	Content 370 453	In all, the Vermont senator has raised nearly $73million for his White House battle
+T6	Source 455 473	campaign officials
+T7	Cue 474 478	said
+T8	Attribution 474 478	said
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Source 480 485	Aides
+T10	Cue 486 490	said
+T11	Content 491 578	more than 1 million donors made more than 2.5million contributions to Sanders' campaign
+T12	Attribution 486 490	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 746 814;876 1037	"This people-powered campaign is revolutionizing American politics," "What we are showing is that we can run a strong national campaign without a super PAC and without depending on millionaires and billionaires for their support."
+T14	Source 815 854	Jeff Weaver, Sanders' campaign manager,
+T15	Cue 855 859	said
+T16	Attribution 855 859	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 1039 1053	Campaign aides
+T18	Cue 1054 1058	said
+T19	Content 1059 1141	the average donation during the October-to-December fundraising quarter was $27.16
+T20	Attribution 1054 1058	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 1143 1150;1159 1221	Sanders to be spending more heavily as the first round of voting nears
+T22	Cue 1151 1158	appears
+T23	Attribution-no-source 1151 1158	appears
+E6	Attribution-no-source:T23 Cue:T22 Content:T21
+T24	Source 1223 1235	His campaign
+T25	Cue 1236 1240	said
+T26	Content 1241 1330	he ended December with $28.4million in available cash out of the nearly $73million raised
+T27	Attribution 1236 1240	said
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 1333 1340;1403 1463	Clinton had a bigger cash balance at year's end -- nearly $38million
+T29	Cue 1465 1477	according to
+T30	Source 1478 1514	figures her campaign released Friday
+T31	Attribution 1465 1477	according to
+E8	Attribution:T31 Source:T30 Cue:T29 Content:T28
+T32	Source 1517 1562	Two of the Republicans seeking the presidency
+T33	Cue 1563 1576	have released
+T34	Content 1577 1601	their fundraising totals
+T35	Attribution 1563 1576	have released
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32

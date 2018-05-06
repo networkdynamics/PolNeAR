@@ -1,0 +1,59 @@
+T1	Source 79 97	Western Journalism
+T2	Cue 98 121	reported recently about
+T3	Content 122 259	a hapless college student referred to on social media as #stickerboy, who was able to get into a Hillary Clinton rally last month in Iowa
+T4	Attribution 98 121	reported recently about
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 400 407	two men
+T6	Cue 445 471	not necessarily to support
+T7	Content 472 485	the candidate
+T8	Attribution 445 471	not necessarily to support
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 631 643	According to
+T10	Source 644 658	The Federalist
+T11	Content 660 719	the men were wearing shirts that read “Settle for Hillary.”
+T12	Attribution 631 643	According to
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Content 721 726	They 
+T14	Cue 726 755	were also immediately noticed
+T15	Source 756 771	on social media
+T16	Attribution 726 755	were also immediately noticed
+E4	Attribution:T16 Source:T15 Cue:T14 Content:T13
+T17	Source 773 833	Jeff Bechdel, chairman of America Rising (a Republican PAC),
+T18	Cue 834 842	tweeted:
+T19	Content 843 957	“People behind @HillaryClinton wearing “Settle For Hillary” shirts at her event in Hudson, NH… ouch. #nhpolitics.”
+T20	Attribution 834 842	tweeted:
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1167 1181	Another person
+T22	Cue 1182 1190	tweeted:
+T23	Content 1191 1277	“EPIC Troll at Hillary town hall. Still from CNN Clip #SettleForHillary #feelthebern.”
+T24	Attribution 1182 1190	tweeted:
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1494 1500	others
+T26	Cue 1501 1517	are saying about
+T27	Content 1518 1554	the candidate choices Democrats have
+T28	Attribution 1501 1517	are saying about
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1557 1569	Ed Krayewski
+T30	Cue 1570 1608	may have said it best when he blogged:
+T31	Content 1609 1688	“Hillary Clinton is as close to a pre-selected candidate as this cycle’ll see.”
+T32	Attribution 1570 1608	may have said it best when he blogged:
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1689 1691	He
+T34	Cue 1692 1701	mentioned
+T35	Content 1702 1853	a long list of candidates who could have run but didn’t, like  Bill Bradley, Al Gore, Joseph Biden, Harry Reid, Jim Webb, Andrew Cuomo, and Jerry Brown
+T36	Attribution 1692 1701	mentioned
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1856 1895	Even Democratic presidential candidates
+T38	Cue 1896 1912	noticed early on
+T39	Content 1913 1962	there were few choices for the Democratic nominee
+T40	Attribution 1896 1912	noticed early on
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1964 2000	Former Maryland Gov. Martin O’Malley
+T42	Cue 2001 2033	said back in the summer of 2015:
+T43	Content 2034 2137	“I think it’s a big mistake for us as a party to circle the wagons around the inevitable front-runner.”
+T44	Attribution 2001 2033	said back in the summer of 2015:
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Cue 10 17	Spotted
+T46	Content 18 76;6 9	Directly Behind Hillary At Rally Wearing Shirt She’ll HATE Man
+T47	Attribution-no-source 10 17	Spotted
+E12	Attribution-no-source:T47 Content:T46 Cue:T45

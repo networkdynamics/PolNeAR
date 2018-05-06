@@ -1,0 +1,28 @@
+T1	Content 337 526	Clinton clinched the Democratic nomination on Monday night, when superdelegates declaring support for her pushed her total delegate count above the threshold needed to secure the nomination
+T2	Cue 528 540	according to
+T3	Source 541 561	The Associated Press
+T4	Attribution 528 540	according to
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Source 563 580	Sanders’ campaign
+T6	Cue 581 587	called
+T7	Content 588 729	AP’s report a “rush to judgment,” because superdelegates can change their mind until the July 25 vote at the party convention in Philadelphia
+T8	Attribution 581 587	called
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 731 748	Sanders’ campaign
+T10	Cue 749 765	reiterated plans
+T11	Content 766 937	to try to get superdelegates, including those backing Clinton, to throw in their lot with Sanders as the candidate best suited to beat Donald Trump in the general election
+T12	Attribution 749 765	reiterated plans
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 939 966	The results in South Dakota
+T14	Cue 967 1003	will likely receive little attention
+T15	Attribution-no-source 967 1003	will likely receive little attention
+E4	Attribution-no-source:T15 Cue:T14 Content:T13
+T16	Content 1140 1199	Sanders trails Clinton in California by 4 percentage points
+T17	Cue 1201 1213	according to
+T18	Source 1214 1249	HuffPost Pollster’s polling average
+T19	Attribution 1201 1213	according to
+E5	Attribution:T19 Source:T18 Cue:T17 Content:T16
+T20	Content 1397 1411;1419 1484	No major polls to have been conducted in South Dakota prior to Tuesday’s primary
+T21	Cue 1412 1418	appear
+T22	Attribution-no-source 1412 1418	appear
+E6	Attribution-no-source:T22 Cue:T21 Content:T20

@@ -1,0 +1,85 @@
+T1	Source 0 10	Mark Cuban
+T2	Cue 10 11	:
+T3	Content 12 49	I'd consider a future White House bid
+T4	Attribution 10 11	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 52 169	Mark Cuban, the billionaire owner of the Dallas Mavericks who rebuffed pleas from conservatives to run for president,
+T6	Cue 170 174	says
+T7	Content 175 209	he's open to running in the future
+T8	Attribution 170 174	says
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 212 271;340 429	"Well, it's certainly more of a consideration than it was," "You don't have to be the perfect Stepford candidate like you would've been in the past."
+T10	Source 272 277	Cuban
+T11	Cue 278 282	said
+T12	Attribution 278 282	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Cue 431 437	Pushed
+T14	Source 441 456	host Chuck Todd
+T15	Content 457 503	on what could bring him to run in 2020 or 2024
+T16	Attribution 431 437	Pushed
+E4	Attribution:T16 Content:T15 Source:T14 Cue:T13
+T17	Content 522 547;608 792	"It's too early to tell," "I mean, depending on what happened with, you know, whoever's elected, depending on what happens with the economy because the reality is, there's so much uncertainty with the economy."
+T18	Cue 548 552	said
+T19	Source 553 558	Cuban
+T20	Attribution 548 552	said
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Content 794 856	"There're so many variables that I don't have the answers to,"
+T22	Source 857 859	he
+T23	Cue 860 864	said
+T24	Attribution 860 864	said
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Source 897 902	Cuban
+T26	Source 869 873	self
+T27	Cue 874 883	professed
+T28	Content 884 895	independent
+T29	Attribution 874 883	professed
+E7	Attribution:T29 Source:T26 Cue:T27 Content:T28
+T30	Discuss 869 873	self
+T31	Cue 903 907	said
+T32	Content 908 1076	he'd consider offers to serve as vice president from both presumed Republican presidential nominee Donald Trump and Democratic presidential front-runner Hillary Clinton
+T33	Attribution 903 907	said
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T25
+T34	Content 1079 1130	Clinton, though, would have to "go more to center,"
+T35	Source 1131 1136	Cuban
+T36	Cue 1137 1141	said
+T37	Attribution 1137 1141	said
+E9	Attribution:T37 Cue:T36 Source:T35 Content:T34
+T38	Content 1144 1192;1205 1283;1284 1400;1401 1463;1464 1579	"And I'd have the same conversation for Donald," "I think Donald has a real chance to win, and that's scary to a lot of people. But what's scary about it to me is that you can see him now trying to do what he thinks is right to unify the party. And he's listening to everybody, which is fine on the surface. But what's also happening is it's coming across as if he's proposing things based off the last person he talks to."
+T39	Source 1193 1198	Cuban
+T40	Cue 1199 1203	said
+T41	Attribution 1199 1203	said
+E10	Attribution:T41 Cue:T40 Source:T39 Content:T38
+T42	Content 1581 1633	Trump's grasp of policy and temperament are worrying
+T43	Source 1635 1640	Cuban
+T44	Cue 1641 1645	said
+T45	Attribution 1641 1645	said
+E11	Attribution:T45 Cue:T44 Source:T43 Content:T42
+T46	Content 1648 1696;1743 1809;1810 1880;1881 1956;1957 2010	"You know, it's possible for anybody to change," "But, you know, I just don't see evidence that he wants to change. I think he's trying to do what he thinks is the right thing right now. But there's just so much coming at him at once, he's looking for shortcuts. And this is just not a job where there're shortcuts."
+T47	Source 1697 1699	he
+T48	Cue 1700 1704	said
+T49	Attribution 1700 1704	said
+E12	Attribution:T49 Cue:T48 Source:T47 Content:T46
+T50	Cue 1710 1715	asked
+T51	Content 1716 1741	about Trump's temperament
+T52	Attribution-no-source 1710 1715	asked
+E13	Attribution-no-source:T52 Content:T51 Cue:T50
+T53	Source 2012 2017	Cuban
+T54	Cue 2018 2040	also gave a preview of
+T55	Content 2041 2079	what his own candidacy might look like
+T56	Attribution 2018 2040	also gave a preview of
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 2081 2083	He
+T58	Cue 2084 2094	pronounced
+T59	Content 2095 2257	his support for free-trade agreements, higher taxes on Wall Street and efforts to drive down college tuition, which he said has increased because of "easy money."
+T60	Attribution 2084 2094	pronounced
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 2259 2264	Cuban
+T62	Cue 2265 2274	also said
+T63	Content 2275 2358	he supports President Barack Obama's signature achievement, the Affordable Care Act
+T64	Attribution 2265 2274	also said
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Content 2361 2529	"From an entrepreneur's perspective, it's given entrepreneurs the chance to leave jobs they were stuck in and get insurance where they otherwise might not have had it,"
+T66	Source 2530 2535	Cuban
+T67	Cue 2536 2540	said
+T68	Attribution 2536 2540	said
+E17	Attribution:T68 Cue:T67 Source:T66 Content:T65

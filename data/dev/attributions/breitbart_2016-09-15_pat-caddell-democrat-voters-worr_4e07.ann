@@ -1,0 +1,34 @@
+T1	Source 0 11	Pat Caddell
+T2	Cue 11 12	:
+T3	Content 13 98	Democrat Voters Worried About Hillary Clinton’s Health Issues; It’s ‘in Their Heads.’
+T4	Attribution 11 12	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 159 199	longtime Democratic pollster Pat Caddell
+T6	Cue 200 204	told
+T7	Content 255 312	how surprised he is that health has been at the forefront
+T8	Attribution 200 204	told
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 315 448;463 553	“One of the things I am surprised about is apparently how much the health issue has affected this race, or seems to be affecting it,” “Yesterday, there were two polls. Morning Consult and Rasmussen had very similar numbers.”
+T10	Cue 449 453	said
+T11	Source 454 461	Caddell
+T12	Attribution 449 453	said
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Source 555 562	Caddell
+T14	Cue 563 573	continued:
+T15	Content 575 842;843 1076	"The health issue overall is very much a partisan issue, but that doesn’t account for almost the same numbers here, which, I’m going to read you the question: “As you know, Hillary Clinton left an event on September 11th earlier than scheduled due to health concerns. It was later revealed to be pneumonia. Do you think Hillary’s health concerns negatively impact her ability to serve as President?” Forty-three, yes; forty-four, no. Rasmussen has a similar question: forty-three, yes; forty-six, no."
+T16	Content 1078 1135;1186 1277	“This is in their heads. This is in their consciousness,” “It is one of the things worrying them. … Democratic groups, too – and that can be deadly.”
+T17	Cue 1136 1140	said
+T18	Source 1141 1148	Caddell
+T19	Attribution 1136 1140	said
+E4	Attribution:T19 Cue:T17 Source:T18 Content:T16
+T20	Attribution 563 573	continued:
+E5	Attribution:T20 Content:T15 Cue:T14 Source:T13
+T21	Source 1279 1286	Caddell
+T22	Cue 1287 1305	went on to discuss
+T23	Content 1306 1431	recently released polls, including ones showing Trump leading nationally and in the swing states of Ohio, Florida, and Nevada
+T24	Attribution 1287 1305	went on to discuss
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Cue 1150 1161	speaking of
+T26	Content 1162 1184	Clinton’s health issue
+T27	Attribution 1150 1161	speaking of
+E7	Attribution:T27 Cue:T25 Content:T26 Source:T18

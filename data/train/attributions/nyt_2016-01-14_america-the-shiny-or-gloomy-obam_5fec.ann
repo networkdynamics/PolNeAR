@@ -1,0 +1,184 @@
+T1	Source 31 36	Obama
+T2	Cue 37 43	pushes
+T3	Content 44 52	positive
+T4	Attribution 37 43	pushes
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 59 70	Republicans
+T6	Cue 71 74	see
+T7	Content 75 99	dark side of the country
+T8	Attribution 71 74	see
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 205 255	so many of the candidates intent on succeeding him
+T10	Content 156 192	the glass-is-half-empty conversation
+T11	Cue 193 204	coming from
+T12	Attribution 193 204	coming from
+E3	Attribution:T12 Cue:T11 Content:T10 Source:T9
+T13	Cue 323 353	two starkly disparate views of
+T14	Content 354 379	President Obama's America
+T15	Attribution-no-source 323 353	two starkly disparate views of
+E4	Attribution-no-source:T15 Content:T14 Cue:T13
+T16	Source 498 511	the president
+T17	Cue 485 494	described
+T18	Content 473 483	The countr
+T19	Attribution 485 494	described
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 782 793	the country
+T21	Source 799 833	Republican presidential candidates
+T22	Cue 834 845	will depict
+T23	Attribution 834 845	will depict
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Content 1106 1120	Whichever view
+T25	Cue 1121 1151	ultimately seems more credible
+T26	Source 1155 1165	the public
+T27	Attribution 1121 1151	ultimately seems more credible
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Source 1395 1404	Mr. Obama
+T29	Cue 1405 1412	decided
+T30	Content 1413 1481	to use the most prominent platform in American politics to push back
+T31	Attribution 1405 1412	decided
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Content 1484 1642;1704 1844	The address ''was President Obama's morning-in-America response to the malaise speech that the Republican candidates have been delivering for the last year,'' ''From Reagan to Clinton and Obama, people have never elected a pessimistic president who talks about America like it's a 'Mad Max' movie.''
+T33	Cue 1643 1647	said
+T34	Source 1648 1702	Jon Favreau, the president's former chief speechwriter
+T35	Attribution 1643 1647	said
+E9	Attribution:T35 Source:T34 Cue:T33 Content:T32
+T36	Source 1850 1861	Republicans
+T37	Cue 1862 1866	said
+T38	Content 1867 1999	Mr. Obama would have a hard time convincing the public with a rosy picture that conflicts with their own perceptions and experiences
+T39	Attribution 1862 1866	said
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 2186 2199	many analysts
+T41	Cue 2200 2204	said
+T42	Content 2181 2185;2205 2259	what was a sign of Iran's improving relations with the West
+T43	Attribution 2200 2204	said
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 2315 2329	the Republican
+T45	Cue 2330 2334	case
+T46	Content 2335 2424	that Mr. Obama's diplomacy with Tehran has been misplaced and has undercut American power
+T47	Attribution 2330 2334	case
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Content 2427 2508;2643 2885	''Americans wake up every day to more bad news with a world in constant crisis,'' ''American leadership is in decline while the world is in full meltdown with Iranian mullahs, Russian dictators and radical Islamists on the ascent. No State of the Union address, no matter how eloquent, can explain away that harsh reality.''
+T49	Cue 2509 2513	said
+T50	Source 2514 2593	Mark Dubowitz, executive director of the Foundation for Defense of Democracies,
+T51	Attribution 2509 2513	said
+E13	Attribution:T51 Source:T50 Cue:T49 Content:T48
+T52	Source 2594 2612	a policy institute
+T53	Cue 2613 2623	focused on
+T54	Content 2624 2641	national security
+T55	Attribution 2613 2623	focused on
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 2921 2924	who
+T57	Cue 2925 2928	see
+T58	Content 2929 2947	a glass half empty
+T59	Attribution 2925 2928	see
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Source 2949 2971	Senator Bernie Sanders
+T61	Cue 3143 3153	describing
+T62	Content 3154 3267	a country dominated by well-heeled Wall Street plutocrats profiting off workers who have increasingly lost ground
+T63	Attribution 3143 3153	describing
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Cue 3310 3325	has exasperated
+T65	Source 3326 3335	Mr. Obama
+T66	Content 3270 3309	Such negativity from the right and left
+T67	Attribution 3310 3325	has exasperated
+E17	Attribution:T67 Content:T66 Source:T65 Cue:T64
+T68	Source 3369 3374	aides
+T69	Cue 3375 3378	say
+T70	Content 3364 3368;3379 3431	than he deserves for the progress of the last seven years
+T71	Attribution 3375 3378	say
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Source 3449 3451	he
+T73	Cue 3452 3464	acknowledged
+T74	Content 3433 3448;3465 3518	The only regret was a failed promise to change the tone of Washington
+T75	Attribution 3452 3464	acknowledged
+E19	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 3533 3535	he
+T77	Cue 3536 3568	used the speech to try to refute
+T78	Content 3569 3598	gloomy Republican assessments
+T79	Attribution 3536 3568	used the speech to try to refute
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Content 3601 3678	''Anyone claiming that America's economy is in decline is peddling fiction,''
+T81	Source 3679 3688	Mr. Obama
+T82	Cue 3689 3693	told
+T83	Attribution 3689 3693	told
+E21	Attribution:T83 Cue:T82 Source:T81 Content:T80
+T84	Source 3759 3762	who
+T85	Cue 3763 3781	could easily guess
+T86	Content 3782 3811	the ''anyone'' he had in mind
+T87	Attribution 3763 3781	could easily guess
+E22	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Source 3835 3837	he
+T89	Cue 3838 3844	added:
+T90	Content 3845 4033	''I told you earlier all the talk of America's economic decline is political hot air. Well, so is all the rhetoric you hear about our enemies getting stronger and America getting weaker.''
+T91	Attribution 3838 3844	added:
+E23	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Content 4036 4223	'The future we want, all of us want - opportunity and security for our families, a rising standard of living, a sustainable, peaceful planet for our kids - all that is within our reach,''
+T93	Source 4224 4233	Mr. Obama
+T94	Cue 4234 4239	added
+T95	Attribution 4234 4239	added
+E24	Attribution:T95 Cue:T94 Source:T93 Content:T92
+T96	Source 4245 4258	some measures
+T97	Cue 4242 4244	By
+T98	Content 4260 4291	Mr. Obama has a compelling case
+T99	Attribution 4242 4244	By
+E25	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Cue 4675 4687	according to
+T101	Source 4688 4705	one research firm
+T102	Content 4617 4673	the level that had been reached when the recession began
+T103	Attribution 4675 4687	according to
+E26	Attribution:T103 Content:T102 Source:T101 Cue:T100
+T104	Content 4816 5014;5075 5222	''To Republicans who won't give the president any credit for any success in 2016, I would just suggest they read the statistics about where we were at his first State of the Union address in 2009,'' ''But they can't afford to do that, and that is part of their political calculation. They are so petrified by the fear of a primary on the right.''
+T105	Cue 5015 5019	said
+T106	Source 5020 5073	Representative Steve Israel, a Democrat from New York
+T107	Attribution 5015 5019	said
+E27	Attribution:T107 Source:T106 Cue:T105 Content:T104
+T108	Source 5228 5254	two out of three Americans
+T109	Cue 5255 5265	still feel
+T110	Content 5266 5380	the country is on the wrong path, in part because the gains of the last few years have not been distributed evenly
+T111	Attribution 5255 5265	still feel
+E28	Attribution:T111 Content:T110 Cue:T109 Source:T108
+T112	Cue 6302 6316	have unsettled
+T113	Source 6317 6331	many Americans
+T114	Content 6137 6300	The resurgence of Vladimir V. Putin's Russia, the devastating civil war in Syria and the rise of the Islamic State, accompanied by terrorist attacks and beheadings
+T115	Attribution 6302 6316	have unsettled
+E29	Attribution:T115 Content:T114 Source:T113 Cue:T112
+T116	Source 6345 6348	who
+T117	Cue 6349 6359	authorized
+T118	Content 6360 6396	the raid that killed Osama bin Laden
+T119	Attribution 6349 6359	authorized
+E30	Attribution:T119 Content:T118 Cue:T117 Source:T116
+T120	Source 6401 6404	who
+T121	Cue 6405 6410	hoped
+T122	Content 6411 6468	to leave office having ended wars in Iraq and Afghanistan
+T123	Attribution 6405 6410	hoped
+E31	Attribution:T123 Content:T122 Cue:T121 Source:T120
+T124	Source 6562 6564	he
+T125	Cue 6565 6578	used to boast
+T126	Content 6579 6619	that he had decimated ''core Al Qaeda,''
+T127	Attribution 6565 6578	used to boast
+E32	Attribution:T127 Content:T126 Cue:T125 Source:T124
+T128	Source 6637 6639	he
+T129	Cue 6640 6644	said
+T130	Content 6645 6692	it still posed ''a direct threat'' to Americans
+T131	Attribution 6640 6644	said
+E33	Attribution:T131 Content:T130 Cue:T129 Source:T128
+T132	Content 6695 6768;6811 7071	''It's increasingly clear the anxiety voters feel is not just economic,'' ''They are concerned with what they perceive as a weakened America on the world stage. They believe that even if America was leading, the rest of the world would not follow us. Obama's actions on Iran, Syria and Russia have done nothing to assuage that fear.''
+T133	Cue 6769 6773	said
+T134	Source 6774 6809	Sara Fagen, a Republican strategist
+T135	Attribution 6769 6773	said
+E34	Attribution:T135 Source:T134 Cue:T133 Content:T132
+T136	Source 7480 7482	he
+T137	Cue 7483 7493	made clear
+T138	Content 7508 7533	that he intends to use it
+T139	Attribution 7483 7493	made clear
+E35	Attribution:T139 Content:T138 Cue:T137 Source:T136
+T140	Source 7535 7537	He
+T141	Cue 7538 7565	has 373 days left to define
+T142	Content 7566 7609	what people think of Barack Obama's America
+T143	Attribution 7538 7565	has 373 days left to define
+E36	Attribution:T143 Content:T142 Cue:T141 Source:T140
+T144	Content 7145 7147	as
+T145	Source 7148 7201	the aftermath of the attack in San Bernardino, Calif.
+T146	Cue 7203 7209	showed
+T147	Attribution 7203 7209	showed
+E37	Attribution:T147 Cue:T146 Source:T145 Content:T144

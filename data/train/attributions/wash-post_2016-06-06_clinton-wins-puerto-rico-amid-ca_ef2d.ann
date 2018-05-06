@@ -1,0 +1,137 @@
+T1	Content 330 392	Late Sunday, Clinton won the Democratic primary in Puerto Rico
+T2	Cue 394 406	according to
+T3	Source 407 420	early returns
+T4	Attribution 394 406	according to
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Content 789 796;810 845	Clinton to capture a large majority of them
+T6	Cue 797 809	was expected
+T7	Attribution-no-source 797 809	was expected
+E2	Attribution-no-source:T7 Cue:T6 Content:T5
+T8	Content 1014 1017;1037 1088	she to capture enough delegates to claim the nomination
+T9	Cue 1018 1036	is widely expected
+T10	Attribution-no-source 1018 1036	is widely expected
+E3	Attribution-no-source:T10 Cue:T9 Content:T8
+T11	Source 1163 1170	Sanders
+T12	Cue 1171 1181	reiterated
+T13	Content 1182 1234	his belief that there will be a contested convention
+T14	Attribution 1171 1181	reiterated
+E4	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Content 1236 1249	"Absolutely,"
+T16	Source 1250 1252	he
+T17	Cue 1253 1257	said
+T18	Attribution 1253 1257	said
+E5	Attribution:T18 Cue:T17 Source:T16 Content:T15
+T19	Cue 1263 1268	asked
+T20	Source 1272 1282	a reporter
+T21	Content 1283 1307	if that remains his view
+T22	Attribution 1263 1268	asked
+E6	Attribution:T22 Content:T21 Source:T20 Cue:T19
+T23	Source 1536 1538	he
+T24	Cue 1539 1544	urged
+T25	Content 1550 1565	to vote Tuesday
+T26	Attribution 1539 1544	urged
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Content 1740 1751;1758 1804	a community to be supportive of gay and transgender rights
+T28	Cue 1752 1757	known
+T29	Attribution-no-source 1752 1757	known
+E8	Attribution-no-source:T29 Cue:T28 Content:T27
+T30	Content 1807 1917;1918 1955;2031 2109	"We'll stand up and make it clear that it is too late for establishment politics and establishment candidates. We need real change in this country," "And we need a government which represents all of us, not just the 1 percent!"
+T31	Source 1956 1963	Sanders
+T32	Cue 1964 1968	told
+T33	Attribution 1964 1968	told
+E9	Attribution:T33 Cue:T32 Source:T31 Content:T30
+T34	Source 2221 2230	Sanders's
+T35	Cue 2231 2236	claim
+T36	Content 2237 2284	that he still has a way to claim the nomination
+T37	Attribution 2231 2236	claim
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Source 2344 2347	who
+T39	Cue 2348 2370	have not yet announced
+T40	Content 2371 2387	their preference
+T41	Attribution 2348 2370	have not yet announced
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Cue 2394 2404	persuading
+T43	Source 2301 2304	him
+T44	Content 2405 2469	some superdelegates already committed to Clinton to swing to him
+T45	Attribution 2394 2404	persuading
+E12	Attribution:T45 Content:T44 Source:T43 Cue:T42
+T46	Discuss 2221 2230	Sanders's
+T47	Source 2491 2498	Clinton
+T48	Cue 2552 2570	without mentioning
+T49	Content 2571 2578	Sanders
+T50	Attribution 2552 2570	without mentioning
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 2656 2669	Several polls
+T52	Cue 2670 2674	show
+T53	Content 2675 2711	Sanders within two points of Clinton
+T54	Attribution 2670 2674	show
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Cue 2713 2727	In response to
+T56	Content 2728 2748	the growing pressure
+T57	Source 2750 2757	Clinton
+T58	Attribution 2713 2727	In response to
+E15	Attribution:T58 Source:T57 Content:T56 Cue:T55
+T59	Discuss 2713 2715	In
+T60	Cue 2758 2784	has returned to critiquing
+T61	Content 2785 2851	Sanders over his past opposition to immigration-reform legislation
+T62	Attribution-no-source 2758 2784	has returned to critiquing
+E16	Attribution-no-source:T62 Content:T61 Cue:T60
+T63	Content 2854 2902;3057 3132	"It is true we got close to immigration reform," "President Obama and I voted for it, and Senator Sanders voted against it."
+T64	Source 2903 2910	Clinton
+T65	Cue 2911 2915	said
+T66	Attribution 2911 2915	said
+E17	Attribution:T66 Cue:T65 Source:T64 Content:T63
+T67	Cue 2932 2941	recalling
+T68	Content 2942 3055	a 2007 comprehensive immigration reform bill that failed when she, Sanders and President Obama were in the Senate
+T69	Attribution 2932 2941	recalling
+E18	Attribution:T69 Source:T64 Cue:T67 Content:T68
+T70	Content 3134 3173	The bill's failure was "heartbreaking,"
+T71	Source 3174 3177	she
+T72	Cue 3178 3182	said
+T73	Attribution 3178 3182	said
+E19	Attribution:T73 Cue:T72 Source:T71 Content:T70
+T74	Source 3185 3192	Sanders
+T75	Cue 3193 3201	has said
+T76	Content 3202 3286	he voted against the legislation because it did not sufficiently protect farmworkers
+T77	Attribution 3193 3201	has said
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Source 3289 3305	Clinton's allies
+T79	Cue 3306 3311	think
+T80	Content 3312 3546	that younger Latinos are not fully aware of her past work on immigration issues, including registering voters in Texas, working with the families of farmworkers as a teen and advocating for immigration reform legislation in the Senate
+T81	Attribution 3306 3311	think
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Content 3549 3610;3735 3765	"Immigration is at the center of this presidential campaign," "This is very personal to me."
+T83	Source 3611 3618	Clinton
+T84	Cue 3619 3623	said
+T85	Attribution 3619 3623	said
+E22	Attribution:T85 Cue:T84 Source:T83 Content:T82
+T86	Source 3767 3789	Sanders's top advisers
+T87	Cue 3790 3794	said
+T88	Content 3802 3920	that the campaign would not accept any declaration by Clinton or party leaders that Clinton is the presumptive nominee
+T89	Attribution 3790 3794	said
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Content 3923 3941;4035 4084	"They'd be wrong," "The reality is this is going to the convention."
+T91	Source 3942 3982	Michael Briggs, a spokesman for Sanders,
+T92	Cue 3983 3987	said
+T93	Attribution 3983 3987	said
+E24	Attribution:T93 Cue:T92 Source:T91 Content:T90
+T94	Source 4748 4755	Sanders
+T95	Cue 4756 4760	said
+T96	Content 4771 4983	that he plans to introduce his own bill dealing with the Puerto Rico debt crisis after having slammed an effort supported by Obama and House leaders that Sanders said would make "a terrible situation even worse."
+T97	Attribution 4756 4760	said
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Content 4985 4999	The House bill
+T99	Cue 5000 5019	has drawn criticism
+T100	Source 5025 5044	some other quarters
+T101	Attribution 5000 5019	has drawn criticism
+E26	Attribution:T101 Source:T100 Cue:T99 Content:T98
+T102	Source 5054 5061	Clinton
+T103	Cue 5062 5075	has expressed
+T104	Content 5076 5084	concerns
+T105	Attribution 5062 5075	has expressed
+E27	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Cue 5089 5097	has said
+T107	Content 5098 5182	she wants to see the bill move forward to stop Puerto Rico's problems from worsening
+T108	Attribution 5089 5097	has said
+E28	Attribution:T108 Source:T102 Cue:T106 Content:T107
+T109	Discard 5185 5248	Phillip reported from Oakland, Calif.; Gearan, from Washington.

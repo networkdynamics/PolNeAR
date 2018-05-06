@@ -1,0 +1,45 @@
+T1	Source 0 8	New Poll
+T2	Cue 9 14	Gives
+T3	Content 15 59	Hillary Clinton A Double-Digit National Lead
+T4	Attribution 9 14	Gives
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 177 189	according to
+T6	Source 190 333	an NBC/Wall Street Journal survey conducted immediately after a tape showing Trump bragging about sexually assaulting women was released Friday
+T7	Content 62 175	Hillary Clinton leads Donald Trump by 11 points, 46 percent to 35 percent, in a four-way race among likely voters
+T8	Attribution 177 189	according to
+E2	Attribution:T8 Content:T7 Source:T6 Cue:T5
+T9	Source 706 738	Forty-one percent of respondents
+T10	Cue 739 742	say
+T11	Content 743 803	Trump’s comments on the video are “completely unacceptable,”
+T12	Attribution 739 742	say
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 810 820	31 percent
+T14	Cue 821 825	call
+T15	Content 826 907	them “inappropriate, but typical of how some men talk in private with other men.”
+T16	Attribution 821 825	call
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 971 1057	Republican pollster Bill McInturff, part of the bipartisan team conducting the survey,
+T18	Cue 1058 1062	told
+T19	Content 1068 1123;913 970	“It also does not mean he can’t get these points back.” “Trump is in a weaker position than our September track,”
+T20	Attribution 1058 1062	told
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1124 1142	The NBC/WSJ survey
+T22	Cue 1143 1153	also finds
+T23	Content 1154 1201	worrisome signs for Republicans down the ballot
+T24	Attribution 1143 1153	also finds
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1203 1209	Voters
+T26	Cue 1210 1213	say
+T27	Content 1261 1336	that they’d prefer to see Congress controlled by Democrats than Republicans
+T28	Attribution 1210 1213	say
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1727 1775	An online Politico/Morning Consult tracking poll
+T30	Cue 1776 1782	showed
+T31	Content 1783 1869	far less change, with Trump’s numbers dropping by just 1 point after the video release
+T32	Attribution 1776 1782	showed
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 2217 2249	HuffPost’s presidential forecast
+T34	Cue 2250 2265	currently gives
+T35	Content 2266 2318	Clinton an 87 percent chance of winning the election
+T36	Attribution 2250 2265	currently gives
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33

@@ -1,0 +1,50 @@
+T1	Source 0 15	Hillary Clinton
+T2	Cue 16 21	calls
+T3	Content 30 74	to lead, step up fight against Islamic State
+T4	Attribution 16 21	calls
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discard 92 102	19 (UPI) —
+T6	Source 103 184	Former Secretary of State and Democratic presidential frontrunner Hillary Clinton
+T10	Source 291 292	t
+T11	Cue 295 304	suggested
+T12	Content 305 393	the United States should send more special forces into Syria to combat the Islamic State
+T13	Attribution 295 304	suggested
+E3	Attribution:T13 Content:T12 Cue:T11 Source:T10
+T14	Source 395 398	She
+T15	Cue 399 414	also called for
+T7	Cue 185 199	is calling for
+T8	Content 200 284	the United States to step up military efforts in the fight against the Islamic State
+T9	Attribution 185 199	is calling for
+E2	Attribution:T9 Source:T6 Cue:T7 Content:T8
+T16	Content 415 491	more “flexibility” for U.S. military advisers in Iraq to assist local forces
+T17	Attribution 399 414	also called for
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 610 617	Clinton
+T19	Cue 618 632	is calling for
+T20	Content 633 798	the United States to take a stronger role in the conflict and for the coalition to increase its efforts against the Islamic State, also known as ISIS, ISIL and Daesh
+T21	Attribution 618 632	is calling for
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Content 801 900;996 1298	“This is a worldwide fight and America must lead it, our strategy should have three main elements,” “One, defeat ISIS in Syria, Iraq and across the Middle East. Two, disrupt and dismantle the growing terrorist infrastructure that facilitates the flow of fighters financing arms and propaganda around the world. Three, harden our defenses and those of our allies against external and homegrown threats.”
+T23	Source 901 908	Clinton
+T24	Cue 909 913	said
+T25	Attribution 909 913	said
+E6	Attribution:T25 Cue:T24 Source:T23 Content:T22
+T26	Content 1300 1466;1482 1620	“What we have done with airstrikes has made a difference but now it needs to make a greater difference and we need more of a coalition flying those missions with us,” “We have pieces in place but I think we have to deepen and better coordinate not only within our own country and Europe but more broadly.”
+T27	Source 1467 1474	Clinton
+T28	Cue 1475 1480	added
+T29	Attribution 1475 1480	added
+E7	Attribution:T29 Cue:T28 Source:T27 Content:T26
+T30	Source 1622 1650	GOP frontrunner Donald Trump
+T31	Cue 1651 1665	has called for
+T32	Content 1666 1796	the Islamic State’s strongholds in Syria and Iraq to be hit even harder than they were hit by France in airstrikes on Sunday night
+T33	Attribution 1651 1665	has called for
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1798 1800	He
+T35	Cue 1801 1819	has also called on
+T36	Content 1820 1884	the United States to attack the oil that funds the Islamic State
+T37	Attribution 1801 1819	has also called on
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Cue 1889 1897	proposed
+T39	Content 1898 1939	a safe zone inside Syria for the refugees
+T40	Attribution 1889 1897	proposed
+E10	Attribution:T40 Source:T34 Cue:T38 Content:T39

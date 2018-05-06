@@ -1,0 +1,47 @@
+T1	Source 568 579	new filings
+T2	Cue 580 584	show
+T3	Content 585 627	it has less than $1.3 million cash on hand
+T4	Attribution 580 584	show
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 393 401	savaging
+T6	Content 402 462	major party funders as corrupt insiders during the primaries
+T7	Source 464 469	Trump
+T8	Attribution 393 401	savaging
+E2	Attribution:T8 Source:T7 Content:T6 Cue:T5
+T9	Cue 470 480	is finding
+T10	Content 481 517	them reluctant to open their wallets
+T11	Attribution 470 480	is finding
+E3	Attribution:T11 Source:T7 Content:T10 Cue:T9
+T12	Source 662 789	Robert Mercer, the GOP mega-donor and co-founder of Renaissance Technologies hedge fund who once backed Texas Senator Ted Cruz,
+T13	Cue 790 802	is launching
+T14	Content 803 886	a super-PAC with a novel twist to get establishment-minded donors off the sidelines
+T15	Attribution 790 802	is launching
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 904 929	will informally be dubbed
+T17	Content 888 903;930 962	The new project the “Defeat Crooked Hillary PAC”
+T18	Attribution-no-source 904 929	will informally be dubbed
+E5	Attribution-no-source:T18 Content:T17 Cue:T16
+T19	Cue 995 1015	will focus solely on
+T20	Content 1016 1053	attacking Clinton, not boosting Trump
+T21	Attribution-no-source 995 1015	will focus solely on
+E6	Attribution-no-source:T21 Content:T20 Cue:T19
+T22	Cue 1055 1066	The idea is
+T23	Content 1067 1195	that conservative donors reluctant to support Trump can still donate in good conscience to a super-PAC that only attacks Clinton
+T24	Attribution-no-source 1055 1066	The idea is
+E7	Attribution-no-source:T24 Content:T23 Cue:T22
+T25	Content 1197 1261	“It’s a way to participate without [directly] supporting Trump,”
+T26	Cue 1262 1266	says
+T27	Source 1267 1312	a source involved in the super-PAC’s creation
+T28	Attribution 1262 1266	says
+E8	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Content 1767 1955	“This is an opportunity to really refocus the presidential debate around Hillary Clinton and her character, and the whole culture of corruption that’s surrounded the Clintons for decades,”
+T30	Cue 1956 1960	says
+T31	Source 1961 1967	Bossie
+T32	Attribution 1956 1960	says
+E9	Attribution:T32 Source:T31 Cue:T30 Content:T29
+T33	Source 1970 1976	Conway
+T34	Cue 1977 1981	said
+T35	Content 1982 2083	that she recruited Bossie for his role at the super-PAC, but hasn’t decided what she’ll be doing next
+T36	Attribution 1977 1981	said
+E10	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Discard 2086 2117	Read the rest of the story here

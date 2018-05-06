@@ -1,0 +1,40 @@
+T1	Source 0 5	'SNL'
+T2	Cue 6 18	has fun with
+T3	Content 19 38	Clinton's struggles
+T4	Attribution 6 18	has fun with
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 41 56	Hillary Clinton
+T6	Cue 57 76	isn’t rattled about
+T7	Content 77 135	the string of losses she’s faced in the Democratic primary
+T8	Attribution 57 76	isn’t rattled about
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 147 150	she
+T10	Cue 151 155	said
+T11	Content 156 174	it “humanizes” her
+T12	Attribution 151 155	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T14	Cue 260 266	giving
+T15	Content 267 280	the cold open
+T13	Source 197 234	Clinton’s doppelgänger, Kate McKinnon
+T16	Attribution 260 266	giving
+E4	Attribution:T16 Source:T13 Content:T15 Cue:T14
+T17	Content 322 369;430 595	“It’s true, I haven’t been winning as of late,” “I haven’t won a state in almost three weeks, because that was the plan. I didn’t want to win those, and so I didn’t. It doesn’t bother me one bit. I’m not rattled.”
+T18	Source 370 378	McKinnon
+T19	Cue 379 383	says
+T20	Attribution 379 383	says
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Content 738 810	“Who can remember how many states i’ve lost in a row? Is it two? Three?”
+T22	Source 811 818	Clinton
+T23	Cue 819 823	asks
+T24	Attribution 819 823	asks
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Source 827 844	a maintenance guy
+T26	Cue 868 874	saying
+T27	Content 875 923	he’s “here to fix the seven holes in your wall.”
+T28	Attribution 868 874	saying
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 925 933	The skit
+T30	Cue 934 951	also poked fun at
+T31	Content 952 1022	Clinton returning to New York to campaign ahead of the state's primary
+T32	Attribution 934 951	also poked fun at
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29

@@ -1,0 +1,53 @@
+T1	Source 0 15	Major Companies
+T2	Cue 16 32	Pull Support For
+T3	Content 33 54	Republican Convention
+T4	Attribution 16 32	Pull Support For
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discuss 91 101	set a goal
+T6	Source 212 219	the RNC
+T7	Cue 220 224	says
+T8	Content 225 274	they are well on their way to reaching their goal
+T9	Attribution 220 224	says
+E2	Attribution:T9 Content:T8 Cue:T7 Source:T6
+T10	Source 578 601	the Independent Journal
+T11	Cue 565 577	According to
+T12	Content 603 695	Apple has stated it will not fund the Republican convention and will not provide any support
+T13	Attribution 565 577	According to
+E3	Attribution:T13 Content:T12 Cue:T11 Source:T10
+T14	Source 741 746	Trump
+T15	Cue 747 757	called for
+T16	Content 758 918	an Apple boycott after Apple CEO Tim Cook refused to work with the FBI in unlocking the iPhone belonging to one of the terrorists in the San Bernardino shooting
+T17	Attribution 747 757	called for
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 1257 1262	Trump
+T19	Cue 1263 1296	criticized Ford Motor Company for
+T20	Content 1297 1331	opening up a new factory in Mexico
+T21	Attribution 1263 1296	criticized Ford Motor Company for
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Source 1399 1410	the company
+T23	Cue 1411 1419	deciding
+T24	Content 1420 1483	not to fund the Democratic or the Republican convention in 2016
+T25	Attribution 1411 1419	deciding
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Content 1052 1067;1079 1254	The company has taken heat from a civil rights group demanding the beverage company completely defund the Republican convention in light of Trump’s controversial comments involving minorities
+T27	Cue 1068 1078	reportedly
+T28	Attribution-no-source 1068 1078	reportedly
+E7	Attribution-no-source:T28 Cue:T27 Content:T26
+T29	Content 1486 1519;1541 1544;1556 1602	Hewlett Packard’s CEO Meg Whitman has been critical of Trump throughout the campaign
+T30	Cue 1545 1555	reportedly
+T31	Attribution-no-source 1545 1555	reportedly
+E8	Attribution-no-source:T31 Cue:T30 Content:T29
+T32	Source 1604 1611	Trump’s
+T33	Cue 1612 1637	disparaging remarks about
+T34	Content 1638 1662	former CEO Carly Fiorina
+T35	Attribution 1612 1637	disparaging remarks about
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1687 1691	HP’s
+T37	Cue 1692 1700	decision
+T38	Content 1701 1737	not to fund the convention this year
+T39	Attribution 1692 1700	decision
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1989 1994	seems
+T41	Content 1995 2115	Trump’s campaign to “Make America Great Again” will go on without the support of many of America’s greatest corporations
+T42	Attribution-no-source 1989 1994	seems
+E11	Attribution-no-source:T42 Content:T41 Cue:T40

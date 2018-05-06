@@ -1,0 +1,97 @@
+T1	Source 80 92	Donald Trump
+T2	Cue 93 120	unleashed a harsh attack on
+T3	Content 121 131	Ben Carson
+T4	Attribution 93 120	unleashed a harsh attack on
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 144 153	comparing
+T6	Content 154 180	Carson to a child molester
+T7	Attribution 144 153	comparing
+E2	Attribution:T7 Cue:T5 Content:T6 Source:T1
+T8	Cue 190 212	95 minute rant against
+T9	Content 213 252	everyone from Carson to Hillary Clinton
+T10	Source 254 259	Trump
+T11	Attribution 190 212	95 minute rant against
+E3	Attribution:T11 Source:T10 Content:T9 Cue:T8
+T12	Cue 260 271	also called
+T13	Content 272 333	Iowa Republican primary voters “stupid” for supporting Carson
+T14	Attribution 260 271	also called
+E4	Attribution:T14 Cue:T12 Content:T13 Source:T10
+T15	Source 380 426	Carson’s business manager, Armstrong Williams,
+T16	Cue 427 434	stated:
+T17	Content 435 567	“When I spoke with Dr. Carson about this yesterday how we should respond, you know he was so sad about it. He said: ‘Pray for him.'”
+T18	Attribution 427 434	stated:
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 569 577	Williams
+T20	Cue 578 583	added
+T21	Content 598 657	“He feels sorry for him because he really likes Mr. Trump.”
+T22	Attribution 578 583	added
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 659 667	Williams
+T24	Cue 668 678	then said:
+T25	Content 679 751	“To see him just imploding before our very eyes-it’s just sad to watch.”
+T26	Attribution 668 678	then said:
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 753 758	Trump
+T28	Cue 759 772	also attacked
+T29	Content 773 804	Hillary Clinton and Marco Rubio
+T30	Attribution 759 772	also attacked
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 837 839	He
+T32	Cue 840 844	said
+T33	Content 845 898	that Clinton is playing the “women’s card big league”
+T34	Attribution 840 844	said
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Cue 903 907	said
+T36	Content 908 941	that Rubio is “weak like a baby.”
+T37	Attribution 903 907	said
+E10	Attribution:T37 Cue:T35 Content:T36 Source:T31
+T38	Source 943 948	Trump
+T39	Cue 949 960	also mocked
+T40	Content 961 1020	Carson’s story about attacking someone with a hunting knife
+T41	Attribution 949 960	also mocked
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Content 1031 1035;1048 1065	that led him to Christ
+T43	Source 1036 1042	Carson
+T44	Cue 1043 1047	says
+T45	Attribution 1043 1047	says
+E12	Attribution:T45 Cue:T44 Source:T43 Content:T42
+T46	Source 1068 1074	Carson
+T47	Cue 1075 1079	said
+T48	Content 1080 1134	that his knife was stopped by his victim’s belt buckle
+T49	Attribution 1075 1079	said
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Content 1146 1150	that
+T51	Source 1151 1156	Trump
+T52	Cue 1157 1163	mocked
+T53	Attribution 1157 1163	mocked
+E14	Attribution:T53 Cue:T52 Source:T51 Content:T50
+T54	Source 1166 1171	Trump
+T55	Cue 1172 1177	said:
+T56	Content 1178 1585	“So I have a belt: Somebody hits me with a belt, it’s going in because the belt moves this way. It moves this way, it moves that way. He hit the belt buckle. Anybody have a knife? Want to try it on me? Believe me, it ain’t going to work. You’re going to be successful, but he took the knife and went like this and he plunged it into the belt  and, amazing, the belt stayed totally flat and the knife broke.”
+T57	Attribution 1172 1177	said:
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 1587 1626	Some Republican presidential candidates
+T59	Cue 1644 1651	support
+T60	Content 1635 1643	Carson’s
+T61	Attribution 1644 1651	support
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 1673 1686	Carly Fiorina
+T63	Cue 1687 1692	wrote
+T64	Content 1706 1845	“Anyone can turn a multi-million dollar inheritance into more money, but all the money in the world won’t make you as smart as Ben Carson.”
+T65	Attribution 1687 1692	wrote
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Discard 1847 1892	Do you support Dr. Ben Carson? Like the page:
+T67	Source 1894 1929	Republican candidate Lindsey Graham
+T68	Cue 1930 1934	said
+T69	Content 1935 1971	that Carson is a “good, decent man,”
+T70	Attribution 1930 1934	said
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Cue 1976 1980	said
+T72	Content 1981 2017	that Trump “melted down last night.”
+T73	Attribution 1976 1980	said
+E19	Attribution:T73 Cue:T71 Content:T72 Source:T67
+T74	Source 2098 2104	Carson
+T75	Cue 2105 2121	privately saying
+T76	Content 2122 2136	“pray for him”
+T77	Attribution 2105 2121	privately saying
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74

@@ -1,0 +1,35 @@
+T1	Source 48 59	Peter Welch
+T2	Cue 60 73	is supporting
+T3	Content 74 107	Sen. Bernie Sanders for president
+T4	Attribution 60 73	is supporting
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 180 185	Welch
+T6	Cue 186 200	said on Friday
+T7	Content 220 286	that he planned to vote for Sanders in the state's March 1 primary
+T8	Attribution 186 200	said on Friday
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 414 419	Welch
+T10	Source 5 10	Welch
+T11	Cue 11 18	to back
+T12	Content 19 40	Sanders for president
+T13	Cue 420 424	said
+T14	Content 289 412	The Vermont congressman also plans to vote for Sanders as a superdelegate at the Democratic National Convention this summer
+T15	Attribution 420 424	said
+E3	Attribution:T15 Cue:T13 Source:T9 Content:T14
+T16	Attribution 11 18	to back
+E4	Attribution:T16 Content:T12 Cue:T11 Source:T10
+T17	Cue 470 482	according to
+T18	Source 483 498	Vermont Edition
+T19	Content 427 468;500 546	"I'll be voting [on March 1]," Welch said "And I've decided to vote for Bernie Sanders."
+T20	Attribution 470 482	according to
+E5	Attribution:T20 Content:T19 Source:T18 Cue:T17
+T21	Source 548 553	Welch
+T22	Cue 554 559	added
+T23	Content 560 662	that "as a superdelegate, I'll follow through and vote for him when we get to the convention in July."
+T24	Attribution 554 559	added
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 820 912	Vermont Gov. Peter Shumlin and Sen. Patrick Leahy as well as former Vermont Gov. Howard Dean
+T26	Cue 913 926	have endorsed
+T27	Content 927 934	Clinton
+T28	Attribution 913 926	have endorsed
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25

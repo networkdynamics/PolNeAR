@@ -1,0 +1,309 @@
+T1	Source 480 483	who
+T2	Cue 484 490	wanted
+T3	Content 491 527	a complete break from the Bush years
+T4	Attribution 484 490	wanted
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 539 542	who
+T6	Cue 543 559	were angry about
+T7	Content 560 572	the Iraq War
+T8	Source 583 586	who
+T9	Cue 587 596	wanted to
+T10	Content 597 625	reshape the financial system
+T11	Attribution 543 559	were angry about
+E2	Attribution:T11 Cue:T6 Source:T5 Content:T7
+T12	Attribution 587 596	wanted to
+E3	Attribution:T12 Content:T10 Cue:T9 Source:T8
+T13	Source 635 638	who
+T14	Cue 639 648	concluded
+T15	Content 649 690	Obama would get the economy back on track
+T16	Attribution 639 648	concluded
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 713 725	Each faction
+T18	Cue 726 735	projected
+T19	Content 736 764	its own worldview onto Obama
+T20	Attribution 726 735	projected
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 766 775	believing
+T22	Content 776 833	he would pursue their own particular vision of the future
+T23	Attribution 766 775	believing
+E6	Attribution:T23 Cue:T21 Source:T17 Content:T22
+T24	Source 865 884	committed Democrats
+T25	Cue 885 909	have been fighting about
+T26	Content 910 915	Obama
+T27	Attribution 885 909	have been fighting about
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 1196 1226	will probably be remembered by
+T29	Source 1227 1237	historians
+T30	Content 1190 1195;1238 1259	Obama as a liberal champion
+T31	Attribution 1196 1226	will probably be remembered by
+E8	Attribution:T31 Content:T30 Source:T29 Cue:T28
+T32	Source 1498 1505	Clinton
+T33	Cue 1533 1554	attempting to present
+T34	Content 1555 1588	Sanders as a traitor to the cause
+T35	Attribution 1533 1554	attempting to present
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Content 1598 1603;1621 1645	Obama a consummate progressive
+T37	Cue 1604 1620	is remembered as
+T38	Attribution-no-source 1604 1620	is remembered as
+E10	Attribution-no-source:T38 Cue:T37 Content:T36
+T39	Source 1846 1851	Obama
+T40	Cue 1852 1895	began his presidency by essentially telling
+T41	Content 1921 1986	shut up and quit making trouble for his corporate-friendly agenda
+T42	Attribution 1852 1895	began his presidency by essentially telling
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1988 2023	Former Obama spokesman Robert Gibbs
+T44	Cue 2024 2044	derided and insulted
+T45	Content 2045 2089	“the professional left” in press conferences
+T46	Attribution 2024 2044	derided and insulted
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 2096 2117	liberal organizations
+T48	Cue 2118 2131	advocated for
+T49	Content 2132 2147	a public option
+T50	Attribution 2118 2131	advocated for
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 2172 2218	former White House Chief Of Staff Rahm Emanuel
+T52	Cue 2219 2228	pressured
+T53	Content 2229 2241	them to stop
+T54	Attribution 2219 2228	pressured
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Cue 2245 2256	threatening
+T56	Content 2257 2278	their funding sources
+T57	Attribution 2245 2256	threatening
+E15	Attribution:T57 Cue:T55 Source:T51 Content:T56
+T58	Source 2280 2318	Obama economic adviser Christina Romer
+T59	Cue 2339 2352	demonstrating
+T60	Content 2353 2481	that the economic stimulus package needed to be much larger than what National Economic Council Chair Larry Summers would accept
+T61	Attribution 2339 2352	demonstrating
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 2600 2602	He
+T63	Cue 2603 2612	supported
+T64	Content 2613 2646	Medicare and Social Security cuts
+T65	Attribution 2603 2612	supported
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Cue 2689 2714	scorched-earth opposition
+T67	Source 2720 2731	Republicans
+T68	Content 2680 2682	he
+T69	Attribution 2689 2714	scorched-earth opposition
+E18	Attribution:T69 Content:T68 Source:T67 Cue:T66
+T70	Source 2746 2749	who
+T71	Cue 2750 2761	pressed for
+T72	Content 2762 2859	an entitlement-slashing “Grand Bargain” during the nearly catastrophic debt ceiling talks of 2011
+T73	Attribution 2750 2761	pressed for
+E19	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Source 2931 2938	Sanders
+T75	Cue 2947 2962	to advocate for
+T76	Content 2963 2992	a primary challenger to Obama
+T77	Attribution 2947 2962	to advocate for
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Source 3005 3012	Clinton
+T79	Cue 3013 3028	is now wielding
+T80	Content 2997 3004;3029 3081	comment against him as evidence of supposed liberal apostasy
+T81	Attribution 3013 3028	is now wielding
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Content 3084 3337	“I think there are millions of Americans who are deeply disappointed in the president, who believe that, with regard to Social Security and a number of other issues, he said one thing as a candidate and is doing something very much else as a president,”
+T83	Source 3338 3345	Sanders
+T84	Cue 3346 3358	said in 2011
+T85	Attribution 3346 3358	said in 2011
+E22	Attribution:T85 Cue:T84 Source:T83 Content:T82
+T86	Source 3374 3381	Sanders
+T87	Cue 3382 3405	didn’t come out and say
+T88	Content 3406 3508	Obama should be replaced — only that the prospect of another candidate could hold his feet to the fire
+T89	Attribution 3382 3405	didn’t come out and say
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Content 3521 3527;3562 3591	that’s Sanders’ challenge to Clinton
+T91	Source 3532 3554	many political experts
+T92	Cue 3555 3561	viewed
+T93	Attribution 3555 3561	viewed
+E24	Attribution:T93 Cue:T92 Source:T91 Content:T90
+T94	Source 3598 3601	she
+T95	Cue 3602 3618	publicly opposed
+T96	Content 3619 3663	Obama’s Trans-Pacific Partnership trade pact
+T97	Attribution 3602 3618	publicly opposed
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 3788 3808	Corporate executives
+T99	Cue 3809 3813	love
+T100	Content 3814 3817	TPP
+T101	Attribution 3809 3813	love
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Discuss 3788 3838	Corporate executives love TPP; labor unions do not
+T103	Source 3876 3878	He
+T104	Cue 3879 3885	raised
+T105	Content 3886 3925	huge amounts of money from small donors
+T106	Cue 3930 3933	won
+T107	Content 3934 3980	a massive victory in the New Hampshire primary
+T108	Attribution 3879 3885	raised
+E27	Attribution:T108 Cue:T104 Source:T103 Content:T105
+T109	Attribution 3930 3933	won
+E28	Attribution:T109 Cue:T106 Source:T103 Content:T107
+T110	Discuss 2659 2859	While it’s true that he faced scorched-earth opposition from Republicans, it was Obama who pressed for an entitlement-slashing “Grand Bargain” during the nearly catastrophic debt ceiling talks of 2011
+T111	Source 4049 4052	her
+T112	Cue 4053 4095	debate performance Thursday night included
+T113	Content 4096 4170	an unsubtle effort to maintain that margin by hailing Obama’s achievements
+T114	Attribution 4053 4095	debate performance Thursday night included
+E29	Attribution:T114 Content:T113 Cue:T112 Source:T111
+T115	Source 4199 4206	Sanders
+T116	Cue 4207 4227	eventually dismissed
+T117	Content 4228 4271	Clinton’s charges about his stance on Obama
+T118	Attribution 4207 4227	eventually dismissed
+E30	Attribution:T118 Content:T117 Cue:T116 Source:T115
+T119	Cue 4275 4287	pointing out
+T120	Content 4288 4361	that she had not always looked so fondly on the current president herself
+T121	Attribution 4275 4287	pointing out
+E31	Attribution:T121 Cue:T119 Source:T115 Content:T120
+T122	Content 4364 4401;4440 4467	“One of us ran against Barack Obama,” “I was not that candidate.”
+T123	Source 4402 4409	Sanders
+T124	Cue 4410 4414	said
+T125	Attribution 4410 4414	said
+E32	Attribution:T125 Cue:T124 Source:T123 Content:T122
+T126	Discard 4469 4566	Listen to HuffPost’s analysis of Thursday’s debate in the podcast embedded above. Subscribe here.
+T127	Source 4632 4639	Sanders
+T128	Cue 4640 4661	could have referenced
+T129	Content 4662 4731	the Clintons’ embarrassing, race-baiting tactics from eight years ago
+T130	Attribution 4640 4661	could have referenced
+E33	Attribution:T130 Content:T129 Cue:T128 Source:T127
+T131	Source 4757 4764	Sanders
+T132	Cue 4765 4784	is uncomfortable on
+T133	Content 4785 4799	foreign policy
+T134	Attribution 4765 4784	is uncomfortable on
+E34	Attribution:T134 Content:T133 Cue:T132 Source:T131
+T135	Source 4801 4803	he
+T136	Cue 4804 4824	also largely ignored
+T137	Content 4825 4932	a very well-documented dark side to the Obama years that many early Obama enthusiasts have since criticized
+T138	Attribution 4804 4824	also largely ignored
+E35	Attribution:T138 Content:T137 Cue:T136 Source:T135
+T139	Source 4934 4969	Former Attorney General Eric Holder
+T140	Cue 4970 4989	publicly argued for
+T141	Content 4990 5042	the extrajudicial assassination of American citizens
+T142	Attribution 4970 4989	publicly argued for
+E36	Attribution:T142 Content:T141 Cue:T140 Source:T139
+T143	Source 5062 5067	Obama
+T144	Cue 5068 5077	announced
+T145	Content 5078 5132	that the war in Afghanistan would not end on his watch
+T146	Attribution 5068 5077	announced
+E37	Attribution:T146 Content:T145 Cue:T144 Source:T143
+T147	Source 5227 5234	Sanders
+T148	Cue 5235 5253	was less shy about
+T149	Content 5254 5265	Wall Street
+T150	Attribution 5235 5253	was less shy about
+E38	Attribution:T150 Content:T149 Cue:T148 Source:T147
+T151	Source 5275 5282	Clinton
+T152	Cue 5283 5292	suggested
+T153	Content 5267 5273;5294 5400	Voters don’t have to worry that big banks can influence politicians like herself with huge campaign contributions
+T154	Attribution 5283 5292	suggested
+E39	Attribution:T154 Content:T153 Cue:T152 Source:T151
+T155	Source 5413 5416	she
+T156	Cue 5417 5423	argued
+T157	Content 5402 5411;5425 5517	After all Obama got a lot of money from the financial industry, and he still signed the Dodd-Frank Act
+T158	Attribution 5417 5423	argued
+E40	Attribution:T158 Content:T157 Cue:T156 Source:T155
+T159	Content 5547 5594	“No Wall Street executive has been prosecuted,”
+T160	Source 5595 5597	he
+T161	Cue 5598 5603	noted
+T162	Attribution 5598 5603	noted
+E41	Attribution:T162 Cue:T161 Source:T160 Content:T159
+T163	Source 5644 5649	Obama
+T164	Cue 5649 5682	’s liberal bona fides are weakest
+T165	Content 5623 5637	on Wall Street
+T166	Attribution 5649 5682	’s liberal bona fides are weakest
+E42	Attribution:T166 Content:T165 Cue:T164 Source:T163
+T167	Source 5802 5805	His
+T168	Cue 5806 5813	refusal
+T169	Content 5814 5843	to tackle the housing problem
+T170	Attribution 5806 5813	refusal
+E43	Attribution:T170 Content:T169 Cue:T168 Source:T167
+T171	Source 5893 5899	Holder
+T172	Cue 5900 5919	failed to prosecute
+T173	Content 5920 5974	the widespread fraud at the heart of the 2008 collapse
+T174	Attribution 5900 5919	failed to prosecute
+E44	Attribution:T174 Content:T173 Cue:T172 Source:T171
+T175	Cue 5985 5994	to pursue
+T176	Content 5995 6065	the myriad infractions that regulators revealed in subsequent activity
+T177	Attribution 5985 5994	to pursue
+E45	Attribution:T177 Cue:T175 Content:T176 Source:T171
+T178	Discuss 5893 6065	Holder failed to prosecute the widespread fraud at the heart of the 2008 collapse — or even to pursue the myriad infractions that regulators revealed in subsequent activity
+T179	Source 6102 6115	Loretta Lynch
+T180	Cue 6116 6170	didn’t bring a single case — not even a fine — against
+T181	Content 6171 6188	any HSBC employee
+T182	Attribution 6116 6170	didn’t bring a single case — not even a fine — against
+E46	Attribution:T182 Content:T181 Cue:T180 Source:T179
+T183	Source 6195 6198	she
+T184	Cue 6199 6205	forced
+T185	Content 6206 6280	the firm to settle for allegedly laundering billions of dollars drug money
+T186	Attribution 6199 6205	forced
+E47	Attribution:T186 Content:T185 Cue:T184 Source:T183
+T187	Source 6282 6285	She
+T188	Cue 6286 6293	ignored
+T189	Content 6294 6374	clear evidence of what proved to be a massive tax evasion scandal at the company
+T190	Attribution 6286 6293	ignored
+E48	Attribution:T190 Content:T189 Cue:T188 Source:T187
+T191	Source 6391 6396	Obama
+T192	Cue 6397 6408	still named
+T193	Content 6409 6431	her Holder’s successor
+T194	Attribution 6397 6408	still named
+E49	Attribution:T194 Content:T193 Cue:T192 Source:T191
+T195	Source 6453 6458	Obama
+T196	Cue 6459 6464	hired
+T197	Content 6465 6637	Bill Daley, a former JPMorgan Chase vice president who had lobbied the White House against creating the Consumer Financial Protection Bureau, to serve as his chief of staff
+T198	Source 6679 6700	Sen. Elizabeth Warren
+T199	Content 6651 6656	which
+T200	Cue 6657 6678	was the brainchild of
+T201	Attribution 6459 6464	hired
+E50	Attribution:T201 Cue:T196 Source:T195 Content:T197
+T202	Attribution 6657 6678	was the brainchild of
+E51	Attribution:T202 Cue:T200 Content:T199 Source:T198
+T203	Source 6756 6758	he
+T204	Content 6765 6778	bank-friendly
+T205	Cue 6779 6826	voice in Obama’s ear for much of his first term
+T206	Attribution 6779 6826	voice in Obama’s ear for much of his first term
+E52	Attribution:T206 Cue:T205 Content:T204 Source:T203
+T207	Source 7024 7034	Jay Carney
+T208	Cue 7036 7046	now smears
+T209	Content 7047 7071	New York Times reporters
+T210	Source 7093 7163	Peter Orszag, Obama’s former Office of Management and Budget director,
+T211	Cue 7190 7203	began writing
+T212	Content 7204 7251	op-eds defending the Bush tax cuts for the rich
+T213	Attribution 7036 7046	now smears
+E53	Attribution:T213 Cue:T208 Source:T207 Content:T209
+T214	Attribution 7190 7203	began writing
+E54	Attribution:T214 Content:T212 Cue:T211 Source:T210
+T215	Source 7385 7410	its senior vice president
+T216	Cue 7411 7424	boasted about
+T217	Content 7425 7527	a plan to spend “a million dollars” digging up personal dirt on journalists who criticized the company
+T218	Attribution 7411 7424	boasted about
+E55	Attribution:T218 Content:T217 Cue:T216 Source:T215
+T219	Source 7954 7976	many Obama enthusiasts
+T220	Content 7978 7982	this
+T221	Cue 7983 8000	can be overlooked
+T222	Attribution 7983 8000	can be overlooked
+E56	Attribution:T222 Cue:T221 Content:T220 Source:T219
+T223	Source 8147 8152	Obama
+T224	Cue 8153 8165	went easy on
+T225	Content 8166 8171	banks
+T226	Attribution 8153 8165	went easy on
+E57	Attribution:T226 Content:T225 Cue:T224 Source:T223
+T227	Source 8368 8375	Clinton
+T228	Cue 8376 8386	challenges
+T229	Content 8398 8414	the Obama legacy
+T230	Attribution 8376 8386	challenges
+E58	Attribution:T230 Content:T229 Cue:T228 Source:T227
+T231	Source 8416 8419	she
+T232	Cue 8420 8441	is, of course, making
+T233	Content 8442 8484	an identity politics play for black voters
+T234	Attribution 8420 8441	is, of course, making
+E59	Attribution:T234 Content:T233 Cue:T232 Source:T231
+T235	Source 8490 8493	she
+T236	Cue 8493 8507	’s also making
+T237	Content 8508 8631	an implicit argument about the centrality of corporate elites and corporate favors to the very idea of progressive politics
+T238	Attribution 8493 8507	’s also making
+E60	Attribution:T238 Content:T237 Cue:T236 Source:T235
+T239	Source 8633 8640	Sanders
+T240	Cue 8642 8686	entire campaign is built on the rejection of
+T241	Content 8687 8696	that idea
+T242	Attribution 8642 8686	entire campaign is built on the rejection of
+E61	Attribution:T242 Content:T241 Cue:T240 Source:T239
+T243	Source 8702 8711	Democrats
+T244	Cue 8712 8727	haven’t decided
+T245	Content 8728 8752	which vision they prefer
+T246	Attribution 8712 8727	haven’t decided
+E62	Attribution:T246 Content:T245 Cue:T244 Source:T243
+T247	Discard 8756 8773;8775 8813;8815 8853;8855 8857;8859 8862;8864 8867;8869 8919;8920 8961	Also on HuffPost: Declared 2016 Presidential Candidates. Declared 2016 Presidential Candidates. 1. of. 23. Sen. Ted Cruz (R-Texas) — Announced March 23, 2015 Cruz dropped out of the race May 3, 2016.

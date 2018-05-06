@@ -1,0 +1,49 @@
+T1	Source 0 12	Saudi prince
+T2	Cue 13 18	mocks
+T3	Content 19 24	Trump
+T4	Attribution 13 18	mocks
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 38 69	Saudi Prince Alwaleed Bin Talal
+T6	Cue 70 76	mocked
+T7	Content 77 198	Donald Trump's retweet of a digitally manipulated image of himself and his sister posing with Fox News anchor Megyn Kelly
+T8	Attribution 70 76	mocked
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 296 303	tweeted
+T10	Source 304 390	Prince Alwaleed, the nephew of the late King Abdullah and fellow real estate investor,
+T11	Content 201 295	"Trump:You base your statements on photoshopped pics?I bailed you out twice;a 3rd time,maybe?"
+T12	Attribution 296 303	tweeted
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Source 416 421	Trump
+T14	Cue 422 431	retweeted
+T15	Content 432 453	the image in question
+T16	Attribution 422 431	retweeted
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 678 688	the prince
+T18	Cue 689 699	called for
+T19	Content 700 729	Trump to drop out of the race
+T20	Attribution 689 699	called for
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 731 738	calling
+T22	Content 739 795	him "a disgrace not only to the GOP but to all America."
+T23	Attribution 731 738	calling
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T17
+T24	Source 797 802	Trump
+T25	Cue 803 837	responded to that tweet by calling
+T26	Content 838 854	Alwaleed "dopey"
+T27	Attribution 803 837	responded to that tweet by calling
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 859 867	accusing
+T29	Content 868 936	him of wanting to control the U.S. politicians "with daddy's money."
+T30	Attribution 859 867	accusing
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T24
+T31	Source 584 589	which
+T32	Content 590 647	the prince's involvement of purchases of Trump's property
+T33	Cue 648 662	was documented
+T34	Attribution 648 662	was documented
+E9	Attribution:T34 Cue:T33 Content:T32 Source:T31
+T35	Source 456 472	Alwaleed's tweet
+T36	Cue 473 482	linked to
+T37	Content 483 579	screenshots and links of three news articles from Business Insider, BuzzFeed News and Yahoo News
+T38	Attribution 473 482	linked to
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Discuss 456 579	Alwaleed's tweet linked to screenshots and links of three news articles from Business Insider, BuzzFeed News and Yahoo News

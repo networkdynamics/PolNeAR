@@ -1,0 +1,43 @@
+T1	Source 0 9	DNC chair
+T2	Cue 10 19	dismisses
+T3	Content 20 70	Sanders' accusations against Clinton's fundraising
+T4	Attribution 10 19	dismisses
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 73 133	Democratic National Committee Chair Debbie Wasserman Schultz
+T6	Cue 134 143	dismissed
+T7	Content 144 284	Bernie Sanders’ accusations that the Clinton campaign is violating federal election law through its joint fundraising agreement with the DNC
+T8	Attribution 134 143	dismissed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 287 293	saying
+T10	Content 294 348	the Sanders campaign chose not to accept the same help
+T11	Attribution 287 293	saying
+E3	Attribution:T11 Source:T5 Cue:T9 Content:T10
+T12	Content 351 516;614 730	“Both candidates have a joint fundraising agreement that is exactly like the joint fundraising agreements that we’ve had with our previous candidates for president,” “There is absolutely nothing different in the way that we have spent money and raised money with Secretary Clinton.”
+T13	Source 517 534	Wasserman Schultz
+T14	Cue 535 539	said
+T15	Attribution 535 539	said
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Source 773 793	the Sanders campaign
+T17	Cue 817 825	alleging
+T18	Content 826 882	that Clinton’s fundraising arrangement was inappropriate
+T19	Attribution 817 825	alleging
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 1002 1049	She has raised $33 million through that account
+T21	Cue 1051 1063	according to
+T22	Source 1064 1108	a recent Federal Elections Commission report
+T23	Attribution 1051 1063	according to
+E6	Attribution:T23 Source:T22 Cue:T21 Content:T20
+T24	Source 1111 1131	The Clinton campaign
+T25	Cue 1132 1138	denies
+T26	Content 1139 1153	any wrongdoing
+T27	Attribution 1132 1138	denies
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 1158 1168	points out
+T29	Content 1169 1267	that Sanders signed the same joint fundraising agreement, though it hasn’t used it in the same way
+T30	Attribution 1158 1168	points out
+E8	Attribution:T30 Source:T24 Cue:T28 Content:T29
+T31	Content 1270 1512	“Senator Sanders has chosen not to exercise the use of his joint fundraising agreement, but we have absolutely no violations and we are running the joint victory fund with the Clinton campaign exactly according to the way we are supposed to,”
+T32	Source 1513 1530	Wasserman Schultz
+T33	Cue 1531 1535	said
+T34	Attribution 1531 1535	said
+E9	Attribution:T34 Cue:T33 Source:T32 Content:T31

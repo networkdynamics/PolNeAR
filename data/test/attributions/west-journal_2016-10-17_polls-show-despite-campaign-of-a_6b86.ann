@@ -1,0 +1,71 @@
+T1	Source 0 5	Polls
+T2	Cue 6 10	Show
+T3	Content 44 70	Trump Still Running Strong
+T4	Attribution 6 10	Show
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 141 188	he remains in a tight race with Hillary Clinton
+T6	Cue 190 202	according to
+T7	Source 203 215	recent polls
+T8	Attribution 190 202	according to
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Source 263 275	a 2005 video
+T10	Cue 276 288	which showed
+T11	Content 289 340	him talking in a demeaning and lewd way about women
+T12	Attribution 276 288	which showed
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 537 545	claiming
+T14	Content 546 625	Trump had acted inappropriately with them, or had made unwanted sexual advances
+T15	Source 501 535	a spate of female accusers emerged
+T16	Attribution 537 545	claiming
+E4	Attribution:T16 Source:T15 Content:T14 Cue:T13
+T17	Source 628 633	Trump
+T18	Cue 634 644	has denied
+T19	Content 645 655	the claims
+T20	Attribution 634 644	has denied
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 661 670	suggested
+T22	Content 671 786	they are phantom allegations created by the Clinton campaign and the media to prevent him from winning the election
+T23	Attribution 661 670	suggested
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T17
+T24	Source 789 803	Some new polls
+T25	Cue 804 808	show
+T26	Content 809 912	that while the allegations have dented Trump’s progress, he remains within striking distance of Clinton
+T27	Attribution 804 808	show
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Discard 915 961	<tweet tweet-id="788100107220709376"><tweet/>.
+T29	Source 963 1103	The USC Dornsife/Los Angeles Times Daybreak tracking poll, which tracks Americans’ support for the presidential candidates on a daily basis,
+T30	Cue 1104 1107	has
+T31	Content 1108 1158	Trump leading Clinton 44.8 percent to 43.7 percent
+T32	Attribution 1104 1107	has
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1242 1266	a Rasmussen Reports poll
+T34	Cue 1267 1273	showed
+T35	Content 1274 1340	Clinton leading Trump 43 percent to 41 percent among likely voters
+T36	Attribution 1267 1273	showed
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1404 1435	A Washington Post-ABC News poll
+T38	Cue 1436 1447	also showed
+T39	Content 1448 1488	Clinton leading 47 percent to 43 percent
+T40	Attribution 1436 1447	also showed
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Content 1557 1678	“I think what’s happening is this is a highly contested election, and it’s going to be fought all the way to the finish,”
+T42	Source 1679 1724	Trump running mate Gov. Mike Pence of Indiana
+T43	Cue 1725 1729	told
+T44	Attribution 1725 1729	told
+E11	Attribution:T44 Cue:T43 Source:T42 Content:T41
+T45	Source 1818 1862	Sunday’s NBC News/Wall Street Journal survey
+T46	Cue 1863 1867	gave
+T47	Content 1868 1898	Trump a one-point lead in Ohio
+T48	Attribution 1863 1867	gave
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Discard 1901 1947	<tweet tweet-id="788050035539865600"><tweet/>.
+T50	Source 1949 1962	New CNN polls
+T51	Cue 1974 1978	show
+T52	Content 1979 2045	Trump up by 4 points in Ohio and Clinton up by 1 in North Carolina
+T53	Attribution 1974 1978	show
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 2048 2064	A poll from Utah
+T55	Cue 2065 2071	showed
+T56	Content 2072 2111	Trump with a 17-point lead over Clinton
+T57	Attribution 2065 2071	showed
+E14	Attribution:T57 Content:T56 Cue:T55 Source:T54

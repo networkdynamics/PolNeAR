@@ -1,0 +1,64 @@
+T1	Source 0 12	Bill Clinton
+T2	Cue 13 18	calls
+T3	Content 19 64	Obamacare ‘crazy system’ during campaign stop
+T4	Attribution 13 18	calls
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 96 125	Former President Bill Clinton
+T6	Cue 126 136	criticized
+T7	Content 137 180	the Affordable Care Act as a “crazy system”
+T8	Attribution 126 136	criticized
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 290 310	the former president
+T10	Cue 311 315	said
+T11	Content 316 385	Obamacare is causing premiums to rise because of the exchange markets
+T12	Attribution 311 315	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 388 455	“It doesn’t make any sense. The insurance model doesn’t work here,”
+T14	Source 456 463	Clinton
+T15	Cue 464 468	said
+T16	Content 471 748	“So you’ve got this crazy system where all of a sudden 25 million more people have healthcare and then the people who are out there busting it, sometimes 60 hours a week, wind up with their premiums doubled and their coverage cut in half. It’s the craziest thing in the world,”
+T17	Source 749 751	he
+T18	Cue 752 756	said
+T19	Attribution 464 468	said
+E4	Attribution:T19 Cue:T15 Source:T14 Content:T13
+T20	Attribution 752 756	said
+E5	Attribution:T20 Cue:T18 Source:T17 Content:T16
+T21	Source 759 766	Clinton
+T22	Cue 767 771	said
+T23	Content 772 1172	on the other hand, “the current system works fine if you’re eligible for Medicaid, if you’re a lower-income working person; if you’re already on Medicare, or if you get enough subsidies on a modest income that you can afford your health care. But the people that are getting killed in this deal are small business people and individuals who make just a little too much to get any of these subsidies.”
+T24	Attribution 767 771	said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1174 1176	He
+T26	Cue 1202 1221	showing support for
+T27	Content 1222 1255	Hillary Clinton’s “public option”
+T28	Attribution 1202 1221	showing support for
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1564 1588	The Obama administration
+T30	Cue 1589 1610	has publicly signaled
+T31	Content 1611 1636	willingness to change ACA
+T32	Attribution 1589 1610	has publicly signaled
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 1672 1876;1976 2077	“What I would also say is that since the very first day the president signed this bill into law, he acknowledged an openness to working with Democrats or Republicans in Congress to further strengthen it,” “And we have seen a sustained commitment on the part of Republicans to trying to tear down that law.”
+T34	Source 1877 1917	White House press secretary Josh Earnest
+T35	Cue 1918 1943	said at a briefing Monday
+T36	Attribution 1918 1943	said at a briefing Monday
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33
+T37	Source 2079 2112	The Republican National Committee
+T38	Cue 2113 2118	noted
+T39	Content 2119 2160	Bill Clinton’s comments and video of them
+T40	Attribution 2113 2118	noted
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 2178 2209	Republican nominee Donald Trump
+T42	Cue 2210 2224	has called for
+T43	Content 2225 2257	the complete repeal of Obamacare
+T44	Attribution 2210 2224	has called for
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 2259 2261	He
+T46	Cue 2262 2270	proposes
+T47	Content 2271 2371	doing away with the government mandate requiring all individual to purchase insurance or face a fine
+T48	Attribution 2262 2270	proposes
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Cue 2377 2382	plans
+T50	Content 2383 2455	to reduce the cost of insurance without intensive government regulations
+T51	Attribution 2377 2382	plans
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T45

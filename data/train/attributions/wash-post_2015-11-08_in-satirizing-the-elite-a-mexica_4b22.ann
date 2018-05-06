@@ -1,0 +1,113 @@
+T1	Source 123 138	his golden head
+T2	Cue 184 191	calling
+T3	Content 192 221	them "frijoleros" ("beaners")
+T4	Attribution 184 191	calling
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 226 240	bragging about
+T6	Content 241 309	the wall that will block them from setting foot in the United States
+T7	Attribution 226 240	bragging about
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T1
+T8	Source 865 868	who
+T9	Cue 869 903	launched his campaign by declaring
+T10	Content 904 954	that Mexican immigrants were criminals and rapists
+T11	Attribution 869 903	launched his campaign by declaring
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 1109 1113	said
+T13	Source 1114 1157	German Ortega, one of the stars of the play
+T14	Content 1074 1108	"Mexicans laugh at our tragedies,"
+T15	Attribution 1109 1113	said
+E4	Attribution:T15 Content:T14 Source:T13 Cue:T12
+T16	Source 1299 1318	The actors involved
+T17	Cue 1319 1345	are all quick to point out
+T18	Content 1346 1453	that they aren't representing the antics of the real-life Donald or pursuing an explicitly political agenda
+T19	Attribution 1319 1345	are all quick to point out
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 1514 1518	said
+T21	Source 1519 1618	Freddy Ortega, German's brother and fellow longtime television comedian, who also stars in the show
+T22	Content 1456 1513;1719 1749	"This is a social critique, in general, of the elitists," "It's had a marvelous result."
+T23	Attribution 1514 1518	said
+E6	Attribution:T23 Content:T22 Source:T21 Cue:T20
+T24	Source 2022 2027	Trump
+T25	Cue 2028 2054	began with insults against
+T26	Content 2055 2073	Mexican immigrants
+T27	Attribution 2028 2054	began with insults against
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 2101 2114	proposals for
+T29	Content 2115 2192	mass deportations and stripping citizenship from illegal immigrants' children
+T30	Attribution 2101 2114	proposals for
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T24
+T31	Source 2722 2727	Trump
+T32	Cue 2728 2734	writes
+T33	Content 2735 2876	that he would increase fees for border crossing cards and temporary visas or impound remittances to pay for the border wall he wants to build
+T34	Attribution 2728 2734	writes
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Cue 2904 2921	indignation about
+T36	Content 2922 2936	such proposals
+T37	Attribution-no-source 2904 2921	indignation about
+E10	Attribution-no-source:T37 Content:T36 Cue:T35
+T38	Source 2938 3006	A group of 67 Latin American artists, writers, actors and scientists
+T39	Cue 3017 3047	published an open letter about
+T40	Content 3048 3080	the "hateful discourse of Trump"
+T41	Attribution 3017 3047	published an open letter about
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Cue 3085 3094	called on
+T43	Content 3095 3197	people to "remember the historic campaigns against other ethnic groups that ended with millions dead."
+T44	Attribution 3085 3094	called on
+E12	Attribution:T44 Content:T43 Cue:T42 Source:T38
+T45	Source 3199 3278	The Nobel-winning Peruvian novelist Mario Vargas Llosa, one of the signatories,
+T46	Cue 3279 3283	told
+T47	Content 3340 3398	that Trump's comments about immigrants were "intolerable."
+T48	Attribution 3279 3283	told
+E13	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 3557 3569	Vargas Llosa
+T50	Cue 3570 3574	said
+T51	Content 3400 3556;3576 3819	"Attacking immigrants in a country that was built by immigrants is a contradiction that offends the best tradition of the United States as an open society," "You have to be very critical and severe with someone who at this time, after all the terrible lessons that history has taught us about the consequences of racism, dares to use such arguments that appeal to the worst entrails of human beings."
+T52	Attribution 3570 3574	said
+E14	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Cue 3999 4010	encouraging
+T54	Content 4082 4134	to cheat, steal or kill their way to pecuniary glory
+T55	Source 3917 3936	The Trump character
+T56	Attribution 3999 4010	encouraging
+E15	Attribution:T56 Source:T55 Content:T54 Cue:T53
+T57	Source 4321 4331	the actors
+T58	Cue 4332 4342	agree with
+T59	Content 4343 4408	the widespread Mexican repudiation of Trump's anti-immigrant talk
+T60	Attribution 4332 4342	agree with
+E16	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 4498 4511	Freddy Ortega
+T62	Cue 4512 4516	said
+T63	Content 4455 4497;4547 4733	"I don't identify with what the man says," "To think that we have the monopoly on thieves and rapists and drug dealers, I think that's quite wrong. I would answer him: Isn't your country considered the largest consumer of drugs?"
+T64	Attribution 4512 4516	said
+E17	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 4735 4748	German Ortega
+T66	Cue 4749 4753	says
+T67	Content 4754 4812	that the overwhelming reaction to Trump has been rejection
+T68	Attribution 4749 4753	says
+E18	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Content 4815 4894;4904 4974	"More than anything else, it set off something really cool for Latinos: unity," "He's been able to bring together the Mexican people and all Latinos."
+T70	Source 4895 4897	he
+T71	Cue 4898 4902	said
+T72	Attribution 4898 4902	said
+E19	Attribution:T72 Cue:T71 Source:T70 Content:T69
+T73	Source 5041 5053	the brothers
+T74	Cue 5054 5059	noted
+T75	Content 5027 5039;5061 5101	In some ways Trump might appreciate their performance
+T76	Attribution 5054 5059	noted
+E20	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Source 5161 5174	Freddy Ortega
+T78	Cue 5175 5179	said
+T79	Content 5104 5160	"His strategy, his media campaign, it's all a show, no?"
+T80	Attribution 5175 5179	said
+E21	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Cue 3 13	satirizing
+T82	Content 14 23	the elite
+T83	Source 25 41	a Mexican troupe
+T84	Attribution 3 13	satirizing
+E22	Attribution:T84 Source:T83 Content:T82 Cue:T81
+T85	Discuss 3 41	satirizing the elite, a Mexican troupe
+T86	Source 3879 3881	it
+T87	Cue 3882 3899	goofily satirizes
+T88	Content 3900 3915	capitalist pigs
+T89	Attribution 3882 3899	goofily satirizes
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Discuss 3879 3915	it goofily satirizes capitalist pigs

@@ -1,0 +1,109 @@
+T1	Cue 0 13	Ready to back
+T2	Content 14 21	Clinton
+T3	Source 23 28	Obama
+T4	Attribution 0 13	Ready to back
+E1	Attribution:T4 Source:T3 Content:T2 Cue:T1
+T5	Source 217 242	Bernie Sanders supporters
+T6	Cue 243 252	reluctant
+T7	Content 253 294	to give up after a grueling primary fight
+T8	Attribution 243 252	reluctant
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 297 304	Obama’s
+T10	Cue 305 330	impending endorsement for
+T11	Content 331 338	Clinton
+T12	Attribution 305 330	impending endorsement for
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 447 462	the White House
+T14	Cue 463 477	kept mum about
+T15	Content 478 488	the timing
+T16	Attribution 463 477	kept mum about
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Discuss 440 446	Though
+T18	Source 490 499	all signs
+T19	Cue 500 510	pointed to
+T20	Content 511 604	Obama endorsing Clinton on Thursday after the president meets with Sanders in the Oval Office
+T21	Attribution 500 510	pointed to
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Source 607 625	Democratic leaders
+T23	Cue 626 631	hoped
+T24	Content 632 809	the meeting, requested by Sanders, would be a moment of catharsis for the party, sending a signal that even Sanders understands the importance of electing a Democrat in November
+T25	Attribution 626 631	hoped
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 839 846	Sanders
+T27	Cue 847 856	was ready
+T28	Content 857 878	to follow that script
+T29	Attribution 847 856	was ready
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 880 899	The Vermont senator
+T31	Cue 900 926	emailed supporters saying:
+T32	Content 927 951	“The struggle continues”
+T33	Attribution 900 926	emailed supporters saying:
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Cue 956 962	vowing
+T35	Content 963 1049	to compete in the season’s final primary contest next week in the District of Columbia
+T36	Attribution 956 962	vowing
+E9	Attribution:T36 Source:T30 Cue:T34 Content:T35
+T37	Content 1052 1085	“Oh, let him make that decision,”
+T38	Cue 1086 1090	said
+T39	Source 1091 1115	Vice President Joe Biden
+T40	Attribution 1086 1090	said
+E10	Attribution:T40 Source:T39 Cue:T38 Content:T37
+T41	Cue 1117 1123	urging
+T42	Content 1162 1181	to “give him time.”
+T43	Attribution 1117 1123	urging
+E11	Attribution:T43 Source:T39 Cue:T41 Content:T42
+T44	Source 1182 1187	Biden
+T45	Cue 1188 1248	was arranging calls with both Sanders and Clinton to discuss
+T46	Content 1249 1257	the race
+T47	Attribution 1188 1248	was arranging calls with both Sanders and Clinton to discuss
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Discuss 1329 1339	reportedly
+T49	Cue 1395 1414	the key question is
+T50	Content 1415 1509	whether voters who helped elect him twice will follow his lead now that he’s not on the ballot
+T51	Attribution-no-source 1395 1414	the key question is
+E13	Attribution-no-source:T51 Content:T50 Cue:T49
+T52	Source 1572 1575	who
+T53	Cue 1576 1588	haven’t seen
+T54	Content 1589 1737	that powerful coalition of minorities, young people and women reliably show up for candidates not named Obama during the last two mid-term elections
+T55	Attribution 1576 1588	haven’t seen
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 2000 2040	young people and the most liberal voters
+T57	Content 2064 2072	Sanders’
+T58	Cue 2073 2077	camp
+T59	Attribution 2073 2077	camp
+E15	Attribution:T59 Cue:T58 Content:T57 Source:T56
+T60	Discuss 1898 1902	Just
+T61	Content 2085 2092	Clinton
+T62	Cue 2093 2110	locked in support
+T63	Source 2117 2148	Hispanics and African Americans
+T64	Attribution 2093 2110	locked in support
+E16	Attribution:T64 Source:T63 Cue:T62 Content:T61
+T65	Source 2151 2156	Trump
+T66	Cue 2213 2232	refusing to concede
+T67	Content 2233 2297	that the Vermont senator’s backers were unlikely to vote for him
+T68	Attribution 2213 2232	refusing to concede
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 2491 2525	White House spokesman Josh Earnest
+T70	Cue 2526 2530	said
+T71	Content 2531 2708	Obama has deliberately kept in close touch with his supporters even after his last election in 2012 and would be a “particularly influential advocate” for the Democratic nominee
+T72	Attribution 2526 2530	said
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Content 2711 2784;2785 2809;2819 2848;2849 2911	“I would think that would have some influence on those who supported Sen. Sanders in the primary,” “but I also suspect that Sen. Sanders is going to have something to say about this as well.”
+T74	Source 2810 2812	he
+T75	Cue 2813 2817	said
+T76	Attribution 2813 2817	said
+E19	Attribution:T76 Cue:T75 Source:T74 Content:T73
+T77	Source 2925 2930	Obama
+T78	Cue 2990 2997	arguing
+T79	Content 2998 3055	he didn’t want to tip the scales before voters weighed in
+T80	Attribution 2990 2997	arguing
+E20	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Source 3192 3195	who
+T82	Cue 3196 3219	are deeply skeptical of
+T83	Content 3220 3283	the Democratic establishment’s influence in picking the nominee
+T84	Attribution 3196 3219	are deeply skeptical of
+E21	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Cue 3431 3450	humor-laced digs at
+T86	Content 3451 3456	Trump
+T87	Attribution-no-source 3431 3450	humor-laced digs at
+E22	Attribution-no-source:T87 Content:T86 Cue:T85

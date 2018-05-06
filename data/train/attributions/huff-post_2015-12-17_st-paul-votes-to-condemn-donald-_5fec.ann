@@ -1,0 +1,25 @@
+T1	Source 0 8	St. Paul
+T2	Cue 9 14	Votes
+T3	Content 15 51	To Condemn Donald Trump’s Muslim Ban
+T4	Attribution 9 14	Votes
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 54 79	The St. Paul City Council
+T6	Cue 93 125	approved a resolution condemning
+T7	Content 126 227	Republican presidential candidate Donald Trump’s call for a ban on Muslims entering the United States
+T8	Attribution 93 125	approved a resolution condemning
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 409 414	Trump
+T10	Cue 415 425	called for
+T11	Content 426 469	a ban on Muslims entering the United States
+T12	Attribution 415 425	called for
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 549 559	One member
+T14	Cue 560 573	voted against
+T15	Content 574 588	the resolution
+T16	Attribution 560 573	voted against
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 230 241	The council
+T18	Cue 242 255	voted 6-1 for
+T19	Content 256 407	the resolution which said the city “condemns anti-Muslim, anti-refugee, and anti-immigrant speech from presidential candidate Donald Trump and others.”
+T20	Attribution 242 255	voted 6-1 for
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17

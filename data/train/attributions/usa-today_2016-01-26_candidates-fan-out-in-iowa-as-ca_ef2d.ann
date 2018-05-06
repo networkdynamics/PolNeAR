@@ -1,0 +1,102 @@
+T1	Source 78 87	politicos
+T2	Cue 101 110	challenge
+T3	Content 111 118	polling
+T4	Attribution 101 110	challenge
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 385 447	Democrats Hillary Clinton, Bernie Sanders, and Martin O'Malley
+T6	Cue 448 455	offered
+T7	Content 468 506	different approaches to the presidency
+T8	Attribution 448 455	offered
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 509 563	"I've been on the front lines of change and progress,"
+T10	Cue 564 568	said
+T11	Source 569 637	Clinton, the former secretary of State, U.S. senator, and first lady
+T12	Attribution 564 568	said
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Source 640 674	Sanders, the senator from Vermont,
+T14	Cue 675 679	said
+T15	Content 680 845	the nation's problems of income inequality and big campaign money are so daunting that "we have got to go beyond establishment politics and establishment economics."
+T16	Attribution 675 679	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 847 919	O'Malley, the former governor of Maryland and former mayor of Baltimore,
+T18	Cue 920 928	stressed
+T19	Content 929 977	his executive experience and climate change plan
+T20	Attribution 920 928	stressed
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Discuss 847 855	O'Malley
+T22	Content 980 1053	"I know it's a tough fight, but I've always been drawn to a tough fight,"
+T23	Source 1054 1056	he
+T24	Cue 1057 1061	said
+T25	Attribution 1057 1061	said
+E6	Attribution:T25 Cue:T24 Source:T23 Content:T22
+T26	Source 1221 1226	Trump
+T27	Cue 1227 1248	continued to question
+T28	Content 1249 1267	Cruz's temperament
+T29	Attribution 1227 1248	continued to question
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Cue 1269 1275	saying
+T31	Content 1276 1368	the Texas senator could not "make deals" as president because so many  lawmakers dislike him
+T32	Attribution 1269 1275	saying
+E8	Attribution:T32 Cue:T30 Content:T31 Source:T26
+T33	Content 1371 1493	"We can't have a guy who stands in the middle of the Senate floor and every other senator thinks he's a whack job, right?"
+T34	Cue 1494 1498	said
+T35	Source 1499 1523	the New York businessman
+T36	Attribution 1494 1498	said
+E9	Attribution:T36 Source:T35 Cue:T34 Content:T33
+T37	Source 1566 1570	Cruz
+T38	Cue 1638 1642	said
+T39	Content 1643 1774	GOP voters should go with him because he has the more conservative record on issues, such as health care and opposition to abortion
+T40	Attribution 1638 1642	said
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1572 1575	who
+T42	Cue 1576 1580	says
+T43	Content 1581 1636	Trump is attacking him because the polls have tightened
+T44	Attribution 1576 1580	says
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Content 1777 1827	"As conservatives continue to unite, we will win,"
+T46	Source 1828 1832	Cruz
+T47	Cue 1833 1837	told
+T48	Attribution 1833 1837	told
+E12	Attribution:T48 Cue:T47 Source:T46 Content:T45
+T49	Content 1870 1874	Cruz
+T50	Cue 1875 1904	also picked up an endorsement
+T51	Source 1910 1973	a onetime Republican opponent, former Texas governor Rick Perry
+T52	Attribution 1875 1904	also picked up an endorsement
+E13	Attribution:T52 Source:T51 Cue:T50 Content:T49
+T53	Discuss 1870 1874	Cruz
+T54	Source 2017 2022	Perry
+T55	Cue 2023 2027	said
+T56	Content 2028 2170	his fellow Texan is ready to "take on the Washington cartel," secure the border, strengthen the military, and improve health care for veterans
+T57	Attribution 2023 2027	said
+E14	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Content 2173 2241	"Ted is the leader that we need to reignite the promise of America,"
+T59	Source 2242 2247	Perry
+T60	Cue 2248 2252	said
+T61	Attribution 2248 2252	said
+E15	Attribution:T61 Cue:T60 Source:T59 Content:T58
+T62	Source 2255 2266	Marco Rubio
+T63	Discuss 2255 2260	Marco
+T64	Cue 2312 2320	stressed
+T65	Content 2321 2397;2398 2416	defense issues and Supreme Court appointments during an appearance with Sen. Joni Ernst, R-Iowa
+T66	Attribution 2312 2320	stressed
+E16	Attribution:T66 Content:T65 Cue:T64 Source:T62
+T67	Source 2419 2438	The Florida senator
+T68	Cue 2439 2443	told
+T69	Content 2454 2554	he feels good about his campaign in Iowa, and "we'll see what it translates to a week from tonight."
+T70	Attribution 2439 2443	told
+E17	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Source 2668 2699	Retired neurosurgeon Ben Carson
+T72	Cue 2700 2708	proposed
+T73	Content 2709 2779	the creation of a  federal agency to coordinate cyber security efforts
+T74	Attribution 2700 2708	proposed
+E18	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Source 2787 2795	Jeb Bush
+T76	Cue 2813 2817	said
+T77	Content 2818 2876	he would put more conservative judges on the federal bench
+T78	Attribution 2813 2817	said
+E19	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 2879 2901	Sen. Rand Paul, R-Ky.,
+T80	Cue 2902 2906	told
+T81	Content 2916 2985	that polls could be "way off," and have been unreliable in past races
+T82	Attribution 2902 2906	told
+E20	Attribution:T82 Content:T81 Cue:T80 Source:T79

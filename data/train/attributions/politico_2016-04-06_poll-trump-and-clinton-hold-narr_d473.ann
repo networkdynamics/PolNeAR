@@ -1,0 +1,70 @@
+T1	Source 0 4	Poll
+T2	Cue 4 5	:
+T3	Content 6 57	Trump and Clinton hold narrow leads in Pennsylvania
+T4	Attribution 4 5	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 60 223	Three weeks ahead of the Pennsylvania primary, Donald Trump and Hillary Clinton are holding on to single-digit leads among likely voters in their state's primaries
+T6	Cue 225 237	according to
+T7	Source 238 309	the results of the latest Quinnipiac University poll released Wednesday
+T8	Attribution 225 237	according to
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Content 312 317	Trump
+T10	Cue 318 336	earned the support
+T11	Source 340 371	nearly four in 10 likely voters
+T12	Attribution 318 336	earned the support
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Content 433 451	The poll's results
+T14	Cue 452 474	are disappointing news
+T15	Source 479 632	Ohio Gov. John Kasich, who grew up outside of Pittsburgh and has spent significant time campaigning in Pennsylvania but is in third place with 24 percent
+T16	Attribution 452 474	are disappointing news
+E4	Attribution:T16 Source:T15 Cue:T14 Content:T13
+T17	Source 646 655	7 percent
+T18	Cue 656 660	said
+T19	Content 661 679	they are undecided
+T20	Attribution 656 660	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 681 722	27 percent of those who named a candidate
+T22	Cue 723 727	said
+T23	Content 728 788	they could be persuaded to change their mind before April 26
+T24	Attribution 723 727	said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 928 938	74 percent
+T26	Cue 939 943	said
+T27	Content 944 992	they are set on voting for the real estate mogul
+T28	Attribution 939 943	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1000 1010	22 percent
+T30	Cue 1011 1015	said
+T31	Content 1016 1044	they might change their mind
+T32	Attribution 1011 1015	said
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1157 1167	61 percent
+T34	Cue 1168 1172	said
+T35	Content 1173 1202	they have their minds made up
+T36	Attribution 1168 1172	said
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1248 1251	who
+T38	Cue 1252 1256	said
+T39	Content 1257 1285	they could change their mind
+T40	Attribution 1252 1256	said
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1341 1346	those
+T42	Cue 1347 1363	identifying with
+T43	Content 1364 1377	the tea party
+T44	Attribution 1347 1363	identifying with
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1424 1429	those
+T46	Cue 1430 1440	describing
+T47	Content 1441 1472	themselves as very conservative
+T48	Attribution 1430 1440	describing
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 1505 1510	those
+T50	Cue 1511 1521	describing
+T51	Content 1522 1557	themselves as somewhat conservative
+T52	Attribution 1511 1521	describing
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 1833 1877	Nearly eight in 10 Democratic voters overall
+T54	Cue 1878 1882	said
+T55	Content 1883 1949	they have made up their mind on whom they will support on April 26
+T56	Attribution 1878 1882	said
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53

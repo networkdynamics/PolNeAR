@@ -1,0 +1,30 @@
+T1	Source 0 24	Chelsea Clinton, husband
+T2	Cue 25 34	expecting
+T3	Content 35 47	second child
+T4	Attribution 25 34	expecting
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discuss 0 47	Chelsea Clinton, husband expecting second child
+T6	Source 76 91	Chelsea Clinton
+T7	Cue 92 101	announced
+T8	Content 102 176	she and husband Marc Mezvinsky are expected their second child this summer
+T9	Attribution 92 101	announced
+E2	Attribution:T9 Content:T8 Cue:T7 Source:T6
+T10	Source 179 292	Clinton, 35, the daughter of former President Bill Clinton and Democratic presidential candidate Hillary Clinton,
+T11	Cue 293 297	said
+T12	Content 381 487	“Next summer, Charlotte is going to be a big sister! Feeling very blessed & grateful this holiday season.”
+T13	Attribution 293 297	said
+E3	Attribution:T13 Content:T12 Cue:T11 Source:T10
+T14	Source 489 504	Hillary Clinton
+T15	Cue 554 560	saying
+T16	Content 562 611	“We’re so excited to meet our second grandchild!”
+T17	Attribution 554 560	saying
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 613 639	The presidential candidate
+T19	Cue 640 654	often mentions
+T20	Content 655 672	her granddaughter
+T21	Attribution 640 654	often mentions
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Content 767 798;811 905	The birth of the newest Clinton to coincide with the Republican and Democratic national conventions in the second half of July
+T23	Cue 799 810	is expected
+T24	Attribution-no-source 799 810	is expected
+E6	Attribution-no-source:T24 Cue:T23 Content:T22

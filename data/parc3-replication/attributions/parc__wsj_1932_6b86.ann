@@ -1,0 +1,180 @@
+T1	Cue 1035 1047	according to
+T2	Source 1048 1061	industry data
+T3	Content 890 1033	In the San Francisco area, roughly 800,000 barrels a day of crude, about a third of all the refining capacity in California, is processed daily
+T4	Attribution 1035 1047	according to
+E1	Attribution:T4 Content:T3 Source:T2 Cue:T1
+T5	Cue 843 853	the belief
+T6	Content 854 886	that the refineries were damaged
+T7	Attribution-no-source 843 853	the belief
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Cue 1097 1106	the rumor
+T9	Content 1107 1146	of a major West Coast refinery shutdown
+T10	Attribution-no-source 1097 1106	the rumor
+E3	Attribution-no-source:T10 Content:T9 Cue:T8
+T11	Source 1270 1404	some major West Coast refinery operators -- including Chevron Corp., Exxon Corp. and the Shell Oil Co. unit of Royal Dutch/Shell Group
+T12	Cue 1408 1412	said
+T13	Content 1413 1485	their refineries weren't damaged and were continuing to operate normally
+T14	Attribution 1408 1412	said
+E4	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Source 1487 1491	Most
+T16	Cue 1492 1496	said
+T17	Content 1497 1599	they shut down their petroleum pipeline operations as a precaution but didn't see any immediate damage
+T18	Attribution 1492 1496	said
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Discuss 1101 1106	rumor
+T20	Content 1601 1644	Gasoline terminals were also largely unhurt
+T21	Source 1646 1650	they
+T22	Cue 1651 1655	said
+T23	Attribution 1651 1655	said
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Content 1659 1769	"It's hard to imagine how the markets were speculating, given that nobody could get through to San Francisco,"
+T25	Cue 1770 1774	said
+T26	Source 1775 1807	one amazed oil company executive
+T27	Attribution 1770 1774	said
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Content 1814 1822;1830 1861	the news that the refineries were intact
+T29	Cue 1823 1829	spread
+T30	Attribution-no-source 1823 1829	spread
+E8	Attribution-no-source:T30 Cue:T29 Content:T28
+T31	Content 2064 2126;2178 2249	"The market was basically acting on two contradictory forces," "One is the panic, the earthquake in San Francisco, which is positive."
+T32	Cue 2127 2131	said
+T33	Source 2132 2177	Nauman Barakat of Shearson Lehman Hutton Inc.
+T34	Attribution 2127 2131	said
+E9	Attribution:T34 Source:T33 Cue:T32 Content:T31
+T35	Content 2252 2346	But once that factor was eliminated, traders took profits and focused on crude oil inventories
+T36	Source 2348 2359	Mr. Barakat
+T37	Cue 2360 2364	said
+T38	Attribution 2360 2364	said
+E10	Attribution:T38 Cue:T37 Source:T36 Content:T35
+T39	Source 2399 2431	the American Petroleum Institute
+T40	Cue 2432 2444	had reported
+T41	Content 2445 2520	that crude stocks increased by 5.7 million barrels in the week ended Friday
+T42	Attribution 2432 2444	had reported
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 2528 2535	traders
+T44	Cue 2536 2542	viewed
+T45	Content 2522 2527;2543 2553	which as bearish
+T46	Attribution 2536 2542	viewed
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Discuss 2522 2527	which
+T48	Source 2561 2580	some market players
+T49	Cue 2581 2592	still think
+T50	Content 2593 2657	earthquake speculation could have more impact on the oil markets
+T51	Attribution 2581 2592	still think
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Content 2659 2743;2762 2830	"The problem is that while on the surface everything is all right, the question is," "was there any structural damage to the pipelines or anything else."
+T53	Cue 2744 2748	said
+T54	Source 2749 2760	Mr. Barakat
+T55	Attribution 2744 2748	said
+E14	Attribution:T55 Source:T54 Cue:T53 Content:T52
+T56	Cue 3029 3041	According to
+T57	Source 3042 3053	one analyst
+T58	Content 3055 3099;3202 3227	workers at the Cananea copper mine in Mexico are set to return to work
+T59	Attribution 3029 3041	According to
+E15	Attribution:T59 Content:T58 Source:T57 Cue:T56
+T60	Cue 3138 3150	was declared
+T61	Content 3135 3137;3151 3159	it bankrupt
+T62	Source 3160 3185	by the Mexican government
+T63	Attribution 3138 3150	was declared
+E16	Attribution:T63 Source:T62 Content:T61 Cue:T60
+T64	Source 3229 3240	The analyst
+T65	Cue 3241 3245	said
+T66	Content 3246 3351	it will take about two to three months before the mine begins to produce copper in significant quantities
+T67	Attribution 3241 3245	said
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 3353 3355	He
+T69	Cue 3356 3361	added
+T70	Content 3362 3477;3520 3542	that, while there hasn't been any official announcement as yet, the Highland Valley mine strike in British Columbia is regarded as settled
+T71	Attribution 3356 3361	added
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Source 3544 3559	Another analyst
+T73	Cue 3560 3564	said
+T74	Content 3565 3630	the Cananea return to operation may not be as near as some expect
+T75	Attribution 3560 3564	said
+E19	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Content 3632 3759	"There are still negotiations taking place on whether there will be a loss of jobs, which has been a critical issue all along,"
+T77	Source 3760 3762	he
+T78	Cue 3763 3767	said
+T79	Attribution 3763 3767	said
+E20	Attribution:T79 Cue:T78 Source:T77 Content:T76
+T80	Content 3783 3887	the increasing likelihood that these two major supply disruptions will be resolved weighed on the market
+T81	Source 3889 3901	the analysts
+T82	Cue 3902 3908	agreed
+T83	Attribution 3902 3908	agreed
+E21	Attribution:T83 Cue:T82 Source:T81 Content:T80
+T84	Source 4029 4046	The first analyst
+T85	Cue 4047 4051	said
+T86	Content 4052 4263	that the Japanese, as well as the Chinese, bought copper earlier in the week in London, but that this purchasing has since slackened as the supply situation, at least over the long term, appears to have improved
+T87	Attribution 4047 4051	said
+E22	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Content 4265 4365;4375 4508	"The focus for some time has been on the copper supply, and good demand has been taken for granted," "Now that the supply situation seems to be improving, it would be best for traders to switch their concentration to the demand side."
+T89	Source 4366 4368	he
+T90	Cue 4369 4373	said
+T91	Attribution 4369 4373	said
+E23	Attribution:T91 Cue:T90 Source:T89 Content:T88
+T92	Source 4509 4511	He
+T93	Cue 4512 4558	noted the Commerce Department report yesterday
+T94	Content 4559 4661	that housing starts in September dropped 5.2% from August to 1.26 million units on an annualized basis
+T95	Attribution 4512 4558	noted the Commerce Department report yesterday
+E24	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Content 4696 4819	"Along with these factors, other economic reports suggest a slowing of the economy, which could mean reduced copper usage,"
+T97	Source 4820 4822	he
+T98	Cue 4823 4827	said
+T99	Attribution 4823 4827	said
+E25	Attribution:T99 Cue:T98 Source:T97 Content:T96
+T100	Cue 4989 5001	According to
+T101	Source 5002 5012	one dealer
+T102	Content 5014 5131	Japan said it has only 40,000 tons of sugar remaining to be shipped to it this year by Cuba under current commitments
+T103	Attribution 4989 5001	According to
+E26	Attribution:T103 Content:T102 Source:T101 Cue:T100
+T104	Content 5133 5149	The announcement
+T105	Cue 5150 5158	was made
+T106	Attribution-no-source 5150 5158	was made
+E27	Attribution-no-source:T106 Cue:T105 Content:T104
+T107	Source 5280 5290	The dealer
+T108	Cue 5291 5295	said
+T109	Content 5296 5381	the quantity mentioned in the Japanese announcement is so small that it's meaningless
+T110	Attribution 5291 5295	said
+E28	Attribution:T110 Content:T109 Cue:T108 Source:T107
+T111	Source 5383 5394	One analyst
+T112	Cue 5395 5399	said
+T113	Content 5400 5526	he thought the market continued to be supported to some degree by a delay in the Cuban sugar harvest caused by adverse weather
+T114	Attribution 5395 5399	said
+E29	Attribution:T114 Content:T113 Cue:T112 Source:T111
+T115	Source 5528 5538	The dealer
+T116	Cue 5539 5543	said
+T117	Content 5544 5610	India might be the real factor that is keeping futures prices firm
+T118	Attribution 5539 5543	said
+E30	Attribution:T118 Content:T117 Cue:T116 Source:T115
+T119	Content 5612 5624;5685 5718	That country to seek a like quantity last week
+T120	Cue 5667 5684	had been expected
+T121	Attribution-no-source 5667 5684	had been expected
+E31	Attribution-no-source:T121 Cue:T120 Content:T119
+T122	Content 5731 5862	"It's known they need the sugar, and the expectation that they will come in is apparently giving the market its principal support,"
+T123	Source 5863 5873	the dealer
+T124	Cue 5874 5878	said
+T125	Attribution 5874 5878	said
+E32	Attribution:T125 Cue:T124 Source:T123 Content:T122
+T126	Content 5903 6093	The Agriculture Department is expected to announce tomorrow that the number of cattle in the 13 major ranch states slipped 4% to 8.21 million on Oct. 1 compared with the level a year earlier
+T127	Cue 6095 6099	said
+T128	Source 6100 6173	Tom Morgan, president of Sterling Research Corp., Arlington Heights, Ill.
+T129	Attribution 6095 6099	said
+E33	Attribution:T129 Source:T128 Cue:T127 Content:T126
+T130	Cue 6218 6229	speculation
+T131	Content 6230 6305	that the government's quarterly report will signal tighter supplies of beef
+T132	Attribution-no-source 6218 6229	speculation
+E34	Attribution-no-source:T132 Content:T131 Cue:T130
+T133	Content 6327 6341;6354 6444	the government to report that the number of young cattle placed on feedlots during the quarter slipped 3%
+T134	Cue 6342 6353	is expected
+T135	Attribution-no-source 6342 6353	is expected
+E35	Attribution-no-source:T135 Cue:T134 Content:T133
+T136	Source 6487 6493	a drop
+T137	Cue 6494 6503	indicates
+T138	Content 6504 6552	that the production of beef will dip this winter
+T139	Attribution 6494 6503	indicates
+E36	Attribution:T139 Content:T138 Cue:T137 Source:T136
+T140	Source 6562 6575	some analysts
+T141	Cue 6576 6582	expect
+T142	Content 6583 6761	the government to report that the movement of young cattle onto feedlots in the month of September in seven big ranch states dropped 8% compared with the level for September 1988
+T143	Attribution 6576 6582	expect
+E37	Attribution:T143 Content:T142 Cue:T141 Source:T140

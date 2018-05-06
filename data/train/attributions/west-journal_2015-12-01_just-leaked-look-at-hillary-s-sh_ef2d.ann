@@ -1,0 +1,48 @@
+T1	Source 21 30	Hillary’s
+T2	Cue 31 51	Shocking Response To
+T3	Content 52 76	Learning 6 Soldiers Died
+T4	Attribution 31 51	Shocking Response To
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 164 218;228 303	the candidate for the nation’s next commander-in-chief to show particular callousness regarding the death of six American soldiers
+T6	Cue 219 227	appeared
+T7	Attribution-no-source 219 227	appeared
+E2	Attribution-no-source:T7 Cue:T6 Content:T5
+T8	Source 306 334	Clinton top aide Huma Abedin
+T9	Cue 389 398	informing
+T10	Content 403 477	of the death of the American soldiers, who were serving in the Middle East
+T11	Attribution 389 398	informing
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 479 488	Clinton’s
+T13	Cue 489 502	response was:
+T14	Content 503 543	“Is Dalton Brody off Conn or Wisconsin?”
+T15	Attribution 489 502	response was:
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 1042 1049	Clinton
+T17	Cue 1050 1073	emphatically proclaimed
+T18	Content 1097 1194	“I did not email any classified material to anyone on my email. There is no classified material.”
+T19	Attribution 1050 1073	emphatically proclaimed
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1195 1221	The presidential candidate
+T21	Cue 1222 1233	reiterated:
+T22	Content 1234 1333	“I’m certainly well-aware of the classification requirements and did not send classified material.”
+T23	Attribution 1222 1233	reiterated:
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 1393 1414;1425 1436	her initial statement to be false
+T25	Cue 1415 1424	was shown
+T26	Attribution-no-source 1415 1424	was shown
+E7	Attribution-no-source:T26 Cue:T25 Content:T24
+T27	Cue 1438 1445	stating
+T28	Content 1446 1533	that she had not sent or received any emails that were “marked classified at the time.”
+T29	Attribution-no-source 1438 1445	stating
+E8	Attribution-no-source:T29 Content:T28 Cue:T27
+T30	Content 1665 1783	“The emails released Monday were largely sent or received in 2012 and 2013, though some are from as far back as 2009,”
+T31	Source 1784 1792	CBS News
+T32	Cue 1793 1801	reported
+T33	Attribution 1793 1801	reported
+E9	Attribution:T33 Cue:T32 Source:T31 Content:T30
+T34	Source 1812 1827	a federal judge
+T35	Cue 1882 1889	ordered
+T36	Content 1890 1979	the State Department to review and to release the Clinton emails in batches every 30 days
+T37	Attribution 1882 1889	ordered
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Discuss 1804 1806	In

@@ -1,0 +1,63 @@
+T1	Source 121 126	Obama
+T2	Cue 127 133	admits
+T3	Content 134 234	the 2011 U.S. military action against Libya “didn’t work,” and the country has become a failed state
+T4	Attribution 127 133	admits
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 256 271	Hillary Clinton
+T6	Cue 370 378	conceded
+T7	Content 379 440	the current situation in the country is “deeply regrettable.”
+T8	Attribution 370 378	conceded
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 441 454	The candidate
+T10	Cue 455 480	has repeatedly referenced
+T11	Content 481 577	her foreign policy experience as secretary of state as one of her qualifications to be president
+T12	Attribution 455 480	has repeatedly referenced
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 580 673;723 804	“If there had not been that intervention” by the United States, NATO and other world partners “we would be looking at something resembling much more what we see in Syria now.”
+T14	Source 675 682	Clinton
+T15	Cue 683 687	said
+T16	Attribution 683 687	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 846 849	she
+T18	Cue 850 856	stated
+T19	Content 858 1043	“When I look at this, an absence of action by NATO, by Arab League members, would have probably turned Libya into Syria, which I think would have been an even more dangerous situation,”
+T20	Attribution 850 856	stated
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 1044 1050	adding
+T22	Content 1052 1152	“I think maybe 1,500 people were killed last year [in Libya] compared to probably 150,000 in Syria.”
+T23	Attribution 1044 1050	adding
+E6	Attribution:T23 Source:T17 Cue:T21 Content:T22
+T24	Source 1199 1204	Obama
+T25	Cue 1205 1213	defended
+T26	Content 1214 1249	the process, though not the results
+T27	Attribution 1205 1213	defended
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 1251 1445;1498 1629;1630 1669	“So we actually executed this plan as well as I could have expected: We got a UN mandate, we built a coalition, it cost us $1 billion—which, when it comes to military operations, is very cheap,” “We averted large-scale civilian casualties, we prevented what almost surely would have been a prolonged and bloody civil conflict. And despite all that, Libya is a mess.”
+T29	Source 1446 1459	the president
+T30	Cue 1460 1464	told
+T31	Attribution 1460 1464	told
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Content 1671 1810	“Mess is the president’s diplomatic term; privately, he calls Libya a ‘s–t show,’ in part because it’s subsequently become an ISIS haven…,”
+T33	Cue 1811 1817	writes
+T34	Source 1818 1826	Goldberg
+T35	Attribution 1811 1817	writes
+E9	Attribution:T35 Source:T34 Cue:T33 Content:T32
+T36	Source 1829 1834	Obama
+T37	Cue 1835 1841	blames
+T38	Content 1842 1998	part of the failure in placing too much faith in Great Britain, France, and Gulf State allies to engage in Libya following deposing Muammar Gaddafi’s regime
+T39	Attribution 1835 1841	blames
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 2000 2014	The president 
+T41	Cue 2014 2028	also points to
+T42	Content 2029 2240	the intensity of tribal division in the country, as another reason the State Department and other parts of his administration charged with facilitating Libya’s transition to a democracy has not succeeded to date
+T43	Attribution 2014 2028	also points to
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 2502 2509	Clinton
+T45	Cue 2510 2516	blamed
+T46	Content 2517 2610	the “fog of war” for the failure of the U.S. to come to aid of the State Department employees
+T47	Attribution 2510 2516	blamed
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Cue 2616 2635	continued to defend
+T49	Content 2636 2707	the notion that an online video, at least in part, inspired the attacks
+T50	Attribution 2616 2635	continued to defend
+E13	Attribution:T50 Source:T44 Cue:T48 Content:T49

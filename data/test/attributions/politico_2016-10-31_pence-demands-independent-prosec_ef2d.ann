@@ -1,0 +1,97 @@
+T1	Source 0 5	Pence
+T2	Cue 6 13	demands
+T3	Content 14 59	independent prosecutor to investigate Clinton
+T4	Attribution 6 13	demands
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 62 71	Hammering
+T6	Content 72 198	Hillary Clinton once again over allegations she used her former position in the State Department to dole out favors to friends
+T7	Source 200 210	Mike Pence
+T8	Attribution 62 71	Hammering
+E2	Attribution:T8 Source:T7 Content:T6 Cue:T5
+T9	Cue 211 215	said
+T10	Content 216 378	revelations that the former secretary of state met often with Clinton Foundation donors “is further evidence of the pay-to-play politics at her State Department.”
+T11	Attribution 211 215	said
+E3	Attribution:T11 Source:T7 Cue:T9 Content:T10
+T12	Source 474 499	an Associated Press story
+T13	Cue 500 509	detailing
+T14	Content 510 658	how more than half of the individuals from outside the government with whom Clinton met as secretary of state were donors to her family’s foundation
+T15	Attribution 500 509	detailing
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Content 660 798	At least 85 of 154 meetings outside the U.S. government Clinton had either in person or over the phone were with Clinton Foundation donors
+T17	Source 800 806	the AP
+T18	Cue 807 815	reported
+T19	Attribution 807 815	reported
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Content 1083 1384;826 1022	“The Clinton Foundation must be immediately shut down and an independent special prosecutor be appointed to determine if access to Hillary Clinton was for sale. It would be a dereliction of duty by President Obama and his Justice Department if they fail to act on these startling new facts right now." "The fact Hillary Clinton’s official schedule was full of meetings with Clinton Foundation donors is further evidence of the pay-to-play politics at her State Department. No one is above the law,”
+T21	Source 1023 1028	Pence
+T22	Cue 1029 1033	said
+T23	Attribution 1029 1033	said
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 1425 1478	Republican National Committee Chairman Reince Priebus
+T25	Cue 1479 1485	echoed
+T26	Content 1486 1621	Pence’s suggestion that access to Clinton during her tenure as secretary of state was determined by donations to the Clinton Foundation
+T27	Attribution 1479 1485	echoed
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 1624 1780;1795 2031	“The evidence is clear – it’s time a special prosecutor be appointed to investigate the growing proof of pay-to-play at Hillary Clinton’s State Department,” “This is among the strongest and most unmistakable pieces of evidence of what we’ve long suspected: at Hillary Clinton’s State Department, access to the most sensitive policy makers in U.S. diplomacy was for sale to the highest bidder.”
+T29	Source 1781 1788	Priebus
+T30	Cue 1789 1793	said
+T31	Attribution 1789 1793	said
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Source 2033 2069	Clinton press secretary Brian Fallon
+T33	Cue 2070 2113	issues a lengthy statement Tuesday slamming
+T34	Content 2114 2176	the AP story as "faulty" and reliant on "utterly flawed data."
+T35	Attribution 2070 2113	issues a lengthy statement Tuesday slamming
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Content 2178 2384;2411 2507	"It cherry-picked a limited subset of Secretary Clinton's schedule to give a distorted portrayal of how often she crossed paths with individuals connected to charitable donations to the Clinton Foundation," "It is outrageous to misrepresent Secretary Clinton's basis for meeting with these individuals."
+T37	Source 2385 2391	Fallon
+T38	Cue 2392 2396	said
+T39	Attribution 2392 2396	said
+E10	Attribution:T39 Cue:T38 Source:T37 Content:T36
+T40	Cue 2509 2535	The fresh revelation about
+T41	Content 2536 2574	Clinton’s tenure as secretary of state
+T42	Attribution-no-source 2509 2535	The fresh revelation about
+E11	Attribution-no-source:T42 Content:T41 Cue:T40
+T43	Source 2673 2683	a campaign
+T44	Cue 2684 2736	that has spent much of the month of August defending
+T45	Content 2737 2743	itself
+T46	Attribution 2684 2736	that has spent much of the month of August defending
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 2797 2802	Trump
+T48	Cue 2803 2846	spent much of his rally on Monday attacking
+T49	Content 2847 2928	Clinton over a new batch of emails and other documents released by Judicial Watch
+T50	Attribution 2803 2846	spent much of his rally on Monday attacking
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 2976 2991	a federal judge
+T52	Cue 2992 2999	ordered
+T53	Content 3000 3089	the State Department to release an additional 15,000 emails from Clinton's private server
+T54	Attribution 2992 2999	ordered
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Cue 3370 3382	requests for
+T56	Content 3383 3404	meetings with Clinton
+T57	Source 3405 3439	from the wife of the emir of Qatar
+T58	Attribution 3370 3382	requests for
+E15	Attribution:T58 Source:T57 Content:T56 Cue:T55
+T59	Cue 3452 3461	an appeal
+T60	Source 3462 3502	from Hollywood executive Casey Wasserman
+T61	Content 3503 3580	for help obtaining a visa for a British soccer player with a criminal history
+T62	Attribution 3452 3461	an appeal
+E16	Attribution:T62 Content:T61 Source:T60 Cue:T59
+T63	Source 3908 3913	Trump
+T64	Cue 3914 3924	called for
+T65	Content 3925 4041	a special prosecutor to investigate Clinton’s relationship as secretary of state with donors to her family’s charity
+T66	Attribution 3914 3924	called for
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Source 4043 4045	He
+T68	Cue 4046 4050	said
+T69	Content 4051 4129	the Justice Department could not be trusted to carry out such an investigation
+T70	Attribution 4046 4050	said
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Content 4132 4284	"The Justice Department is required to appoint an independent Special Prosecutor because it has proven itself to be a political arm of the White House,"
+T72	Source 4285 4287	he
+T73	Cue 4288 4292	said
+T74	Attribution 4288 4292	said
+E19	Attribution:T74 Cue:T73 Source:T72 Content:T71
+T75	Content 4295 4751;4783 4851	“By not appointing a special prosecutor, President Obama is endorsing the actions of a secretary of state who broke ethics agreements regarding foreign donations to her family foundation, took a majority of her non-governmental meetings with donors to that foundation and who exclusively conducted all of her correspondence while in office over a secret server housed in a basement to skirt transparency laws and then lied about it to the American people,” “Before voters go to the polls, there needs to be an investigation.”
+T76	Source 4752 4759	Priebus
+T77	Cue 4760 4764	said
+T78	Discard 4853 5248	EDITOR’S NOTE: This story has been amended to clarify that the Crown Prince Salman of Bahrain has not been a donor to the Clinton Foundation, and that none of the money associated with his scholarship fund went to the foundation. The initial report from the group that released the emails incorrectly characterized Salman’s ties to the foundation, saying he had “contributed $32 million to CGI.”

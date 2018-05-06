@@ -1,0 +1,58 @@
+T1	Cue 48 62	Allegations Of
+T2	Content 63 72	Pandering
+T3	Attribution-no-source 48 62	Allegations Of
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Source 221 225	some
+T5	Content 216 220;245 276	what just another senseless photo op
+T6	Cue 226 244	are criticizing as
+T7	Attribution 226 244	are criticizing as
+E2	Attribution:T7 Cue:T6 Content:T5 Source:T4
+T8	Source 821 854	Members of the conservative press
+T9	Cue 855 862	accused
+T10	Content 863 910	Clinton of implying police officers were racist
+T11	Attribution 855 862	accused
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 976 979	She
+T13	Cue 980 1004	also sent a tweet saying
+T14	Content 1006 1104	if elected president, she would put new guidelines in place for when police could use deadly force
+T15	Attribution 980 1004	also sent a tweet saying
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 1284 1291	One man
+T17	Cue 1292 1297	wrote
+T18	Content 1299 1416	“She waddles up there and could barely bend over to place those flowers. What a pandering POS. Never, never Hillary.”
+T19	Attribution 1292 1297	wrote
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1418 1435	Another commenter
+T21	Cue 1436 1440	said
+T22	Content 1442 1521	“We all know how she feels about the police, and our military for that matter.”
+T23	Attribution 1436 1440	said
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Cue 1756 1769	criticisms of
+T25	Content 1770 1781	her actions
+T26	Source 1785 1809	FBI Director James Comey
+T27	Attribution 1756 1769	criticisms of
+E7	Attribution:T27 Source:T26 Content:T25 Cue:T24
+T28	Cue 2013 2018	Asked
+T29	Content 2019 2054	if her email practices were illegal
+T30	Attribution-no-source 2013 2018	Asked
+E8	Attribution-no-source:T30 Content:T29 Cue:T28
+T31	Source 2056 2076	46 percent of voters
+T32	Cue 2077 2081	said
+T33	Content 2082 2085	yes
+T34	Attribution 2077 2081	said
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 2112 2115	who
+T36	Cue 2116 2120	said
+T37	Content 2121 2172	using a private server was improper but not illegal
+T38	Attribution 2116 2120	said
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 2174 2188	Only 24 percen
+T40	Cue 2190 2194	said
+T41	Content 2195 2216	she did nothing wrong
+T42	Cue 1852 1854	In
+T43	Source 1855 1906	a poll conducted by the New York Times and ABC News
+T44	Content 1908 2011	just 28 percent of voters said they had a positive view of Clinton, compared with 33 percent last month
+T45	Attribution 2190 2194	said
+E11	Attribution:T45 Cue:T40 Source:T39 Content:T41
+T46	Attribution 1852 1854	In
+E12	Attribution:T46 Content:T44 Source:T43 Cue:T42

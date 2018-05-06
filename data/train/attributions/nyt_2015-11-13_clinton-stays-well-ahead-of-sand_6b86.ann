@@ -1,0 +1,35 @@
+T1	Content 0 35	Clinton stays well ahead of Sanders
+T2	Cue 36 38	in
+T3	Source 39 50	latest poll
+T4	Attribution 36 38	in
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Content 64 190	Hillary Rodham Clinton has support from 52 percent of Democratic primary voters, while Mr. Sanders has backing from 33 percent
+T6	Cue 192 204	according to
+T7	Source 205 237	a New York Times/CBS News survey
+T8	Attribution 192 204	according to
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Content 311 443	Senator Bernie Sanders of Vermont has failed to significantly dent Hillary Rodham Clinton's lead in the Democratic presidential race
+T10	Cue 445 457	according to
+T11	Source 458 490	a New York Times/CBS News survey
+T12	Attribution 445 457	according to
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Content 514 630	Mrs. Clinton has support from 52 percent of Democratic primary voters, while Mr. Sanders has backing from 33 percent
+T14	Source 632 640	the poll
+T15	Cue 641 646	found
+T16	Attribution 641 646	found
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 651 681	an early-October CBS News poll
+T18	Cue 648 650	In
+T19	Content 683 727	she led Mr. Sanders 56 percent to 32 percent
+T20	Attribution 648 650	In
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1628 1674	A strong majority of Democratic primary voters
+T22	Cue 1675 1678	say
+T23	Content 1679 1747	they are paying at least some attention to the presidential campaign
+T24	Attribution 1675 1678	say
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1749 1772	26 percent of Democrats
+T26	Cue 1773 1776	say
+T27	Content 1777 1817	they have not been paying much attention
+T28	Attribution 1773 1776	say
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25

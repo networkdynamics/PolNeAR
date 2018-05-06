@@ -1,0 +1,75 @@
+T1	Source 0 5	Trump
+T2	Cue 6 30	Addresses Munich Attack:
+T3	Content 31 54	‘This Cannot Continue.’
+T4	Attribution 6 30	Addresses Munich Attack:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 287 293	police
+T6	Cue 331 340	believing
+T7	Content 341 370	there may be as many as three
+T8	Attribution 331 340	believing
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 530 555	no terrorist organization
+T10	Cue 556 567	has claimed
+T11	Content 568 606	responsibility for the heinous slaying
+T12	Attribution 556 567	has claimed
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 616 643	law enforcement authorities
+T14	Cue 644 655	to question
+T15	Content 656 721	whether this was an isolated incident or part of something larger
+T16	Attribution 644 655	to question
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 764 808	Republican presidential nominee Donald Trump
+T18	Cue 809 840	issued the following statement:
+T19	Content 842 1081	“Our prayers are with all those affected by the horrible attacks in Munich. This cannot continue. The rise of terrorism threatens the way of life for all civilized people, and we must do everything in our power to keep it from our shores.”
+T20	Attribution 809 840	issued the following statement:
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1090 1093	who
+T22	Cue 1094 1106	has postured
+T23	Content 1107 1148	himself as the “law and order candidate,”
+T24	Attribution 1094 1106	has postured
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1338 1343	Trump
+T26	Cue 1344 1352	laid out
+T27	Content 1353 1477	his concerns that the West was facing an existential threat against such terrorism and needed to adjust its policies quickly
+T28	Attribution 1344 1352	laid out
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1480 1710	“Our convention occurs at a moment of crisis for our nation. The attacks on our police, and the terrorism of our cities, threaten our very way of life. Any politician who does not grasp this danger is not fit to lead our country,”
+T30	Cue 1711 1715	said
+T31	Source 1716 1721	Trump
+T32	Attribution 1711 1715	said
+E8	Attribution:T32 Source:T31 Cue:T30 Content:T29
+T33	Source 1835 1838	who
+T34	Cue 1839 1846	accused
+T35	Content 1847 1889	the Republican candidate of doom and gloom
+T36	Attribution 1839 1846	accused
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1940 1943	who
+T38	Cue 1944 1951	claimed
+T39	Content 1952 1984	Trump was not addressing reality
+T40	Attribution 1944 1951	claimed
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Content 1987 2150	“This idea that America is somehow on the verge of collapse, this vision of violence and chaos everywhere, doesn’t really jibe with the experience of most people,”
+T42	Cue 2151 2155	said
+T43	Source 2156 2161	Obama
+T44	Attribution 2151 2155	said
+E11	Attribution:T44 Source:T43 Cue:T42 Content:T41
+T45	Source 2282 2284	he
+T46	Cue 2285 2297	acknowledged
+T47	Content 2298 2323	that the event was tragic
+T48	Attribution 2285 2297	acknowledged
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 2325 2327	he
+T50	Cue 2328 2338	maintained
+T51	Content 2339 2382	that it does not change his past statements
+T52	Attribution 2328 2338	maintained
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Content 2385 2569	“Terrorism is a real threat, and nobody knows that better than me. One of the best ways of preventing it is making sure we don’t divide our own country, that we don’t succumb to fear,”
+T54	Source 2570 2572	he
+T55	Cue 2573 2577	said
+T56	Attribution 2573 2577	said
+E14	Attribution:T56 Cue:T55 Source:T54 Content:T53
+T57	Source 2633 2656	73 percent of Americans
+T58	Cue 2657 2665	accepted
+T59	Content 2666 2724	that Trump’s outline for America was the “right direction”
+T60	Attribution 2657 2665	accepted
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57

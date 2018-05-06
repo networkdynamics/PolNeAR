@@ -1,0 +1,39 @@
+T1	Cue 504 514	openly lie
+T2	Content 515 558	that she can't because she is being audited
+T3	Source 417 420	she
+T4	Attribution 504 514	openly lie
+E1	Attribution:T4 Source:T3 Content:T2 Cue:T1
+T5	Cue 619 640	extols the virtues of
+T6	Content 641 693	Russian President Vladimir Putin and other dictators
+T7	Attribution-no-source 619 640	extols the virtues of
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Cue 561 598	Lacks even the basic understanding of
+T9	Content 599 613	foreign policy
+T10	Attribution-no-source 561 598	Lacks even the basic understanding of
+E3	Attribution-no-source:T10 Content:T9 Cue:T8
+T11	Cue 904 916	Keeps saying
+T12	Content 917 941	she opposed the Iraq War
+T13	Source 973 976	her
+T14	Cue 977 987	supporting
+T15	Content 988 990	it
+T16	Attribution-no-source 904 916	Keeps saying
+E4	Attribution-no-source:T16 Cue:T11 Content:T12
+T17	Attribution 977 987	supporting
+E5	Attribution:T17 Content:T15 Cue:T14 Source:T13
+T18	Cue 993 1000	Repeats
+T19	Content 1001 1025	racist and bigoted words
+T20	Attribution-no-source 993 1000	Repeats
+E6	Attribution-no-source:T20 Content:T19 Cue:T18
+T21	Cue 1049 1060	perpetuates
+T22	Content 1061 1096	long discounted conspiracy theories
+T23	Attribution-no-source 1049 1060	perpetuates
+E7	Attribution-no-source:T23 Content:T22 Cue:T21
+T24	Cue 1177 1189	calls people
+T25	Content 1190 1209	"losers" and "sad."
+T26	Attribution-no-source 1177 1189	calls people
+E8	Attribution-no-source:T26 Content:T25 Cue:T24
+T27	Cue 1211 1220	Calls men
+T28	Content 1221 1251	derogatory names, like "pigs,"
+T29	Attribution-no-source 1211 1220	Calls men
+E9	Attribution-no-source:T29 Content:T28 Cue:T27
+T30	Discuss 1212 1251	alls men derogatory names, like "pigs,"

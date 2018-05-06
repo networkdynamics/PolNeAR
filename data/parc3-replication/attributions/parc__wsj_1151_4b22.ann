@@ -1,0 +1,54 @@
+T1	Source 190 199	investors
+T2	Cue 200 206	sought
+T3	Content 207 213	safety
+T4	Attribution 200 206	sought
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 479 491	UAL Corp. 's
+T6	Cue 492 504	announcement
+T7	Content 517 573	that the proposed management-labor buy-out had collapsed
+T8	Attribution 492 504	announcement
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 986 994	analysts
+T10	Cue 995 999	said
+T11	Content 1000 1152	the combination of a second consecutive decline in monthly durable-goods orders and lackluster mid-October auto sales helped prop up the Treasury market
+T12	Attribution 995 999	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 1332 1345	didn't appear
+T14	Content 1277 1315;1346 1355	the decline in September durable goods very weak
+T15	Attribution-no-source 1332 1345	didn't appear
+E4	Attribution-no-source:T15 Content:T14 Cue:T13
+T16	Source 1498 1509	Auto makers
+T17	Cue 1510 1518	reported
+T18	Content 1519 1599	that mid-October sales were running at an annual rate of about 5.8 million units
+T19	Attribution 1510 1518	reported
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 1717 1726	confirmed
+T21	Source 1676 1716	the auto-sales and durable-goods reports
+T22	Content 1727 1771	perceptions that the economy is bogging down
+T23	Attribution 1717 1726	confirmed
+E6	Attribution:T23 Content:T22 Source:T21 Cue:T20
+T24	Source 1784 1792	analysts
+T25	Cue 1793 1805	don't expect
+T26	Content 1806 1852	the Federal Reserve to ease credit policy soon
+T27	Attribution 1793 1805	don't expect
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1854 1882	reports like those yesterday
+T29	Cue 1883 1906	help build the case for
+T30	Content 1907 1918	lower rates
+T31	Attribution 1883 1906	help build the case for
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 2300 2307	dealers
+T33	Cue 2308 2312	said
+T34	Content 2313 2448	investors are becoming more bearish toward the dollar in the wake of the stock market's recent troubles and as the U.S. economy weakens
+T35	Attribution 2308 2312	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Cue 2745 2755	was quoted
+T37	Content 2732 2744;2756 2786	the currency at 1.8355 marks and 141.45 yen
+T38	Attribution-no-source 2745 2755	was quoted
+E10	Attribution-no-source:T38 Content:T37 Cue:T36
+T39	Discuss 214 260	amid growing evidence the economy is weakening
+T40	Cue 2145 2155	frightened
+T41	Source 2156 2173	foreign investors
+T42	Content 2109 2144	The stock market's precipitous drop
+T43	Attribution 2145 2155	frightened
+E11	Attribution:T43 Content:T42 Source:T41 Cue:T40

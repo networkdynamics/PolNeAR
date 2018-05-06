@@ -1,0 +1,100 @@
+T1	Source 0 11	Trump’s Son
+T2	Cue 12 16	Says
+T3	Content 17 65	The Battle Against Hillary Will Be Unprecedented
+T4	Attribution 12 16	Says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 71 83	Donald Trump
+T6	Cue 84 102	began tweeting out
+T7	Content 103 173	his new nickname for Democratic presidential candidate Hillary Clinton
+T8	Attribution 84 102	began tweeting out
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 175 182	his son
+T10	Cue 183 187	said
+T11	Content 188 222	The Donald is just getting started
+T12	Attribution 183 187	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 225 285	Eric Trump, son of the Republican presidential front-runner,
+T14	Cue 286 292	talked
+T15	Content 293 301	politics
+T16	Attribution 286 292	talked
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 330 449;467 704	“(Hillary) turned her attention to us — for the last two weeks she’s been running negative ads against us in New York,” “She’s already turned her attention to us, which is a great compliment because she’s effectively saying we’re going to be the nominee, and he’s going to be the nominee. So, it’s going to be an interesting battle between the two of them.”
+T18	Source 450 460	Eric Trump
+T19	Cue 461 465	said
+T20	Attribution 461 465	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Content 706 829	“There’s a lot of things — there’s a lot of fuzz on her record, to say the least, and he’s certainly going to go after it,”
+T22	Source 830 840	Eric Trump
+T23	Cue 841 845	said
+T24	Content 848 924	“He’s going to go after her in a way that no one has gone after her before,”
+T25	Source 925 927	he
+T26	Cue 928 933	added
+T27	Attribution 928 933	added
+E6	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Attribution 841 845	said
+E7	Attribution:T28 Cue:T23 Source:T22 Content:T21
+T29	Source 969 979	his father
+T30	Cue 980 988	unveiled
+T31	Content 989 1015	a new nickname for Clinton
+T32	Attribution 980 988	unveiled
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 1036 1173	“Crooked Hillary Clinton is spending a fortune on ads against me. I am the one person she doesn’t want to run against. Will be such fun!”
+T34	Source 1174 1179	Trump
+T35	Cue 1180 1187	tweeted
+T36	Attribution 1180 1187	tweeted
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33
+T37	Source 1238 1262	At least one commentator
+T38	Cue 1263 1268	liked
+T39	Content 1269 1280	the moniker
+T40	Attribution 1263 1268	liked
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Content 1283 1463	“‘Crooked Hillary’ kind of flows off the lips, doesn’t it? It hits Hillary where she’s most vulnerable, even with Democrats wary of her history of obfuscation and duplicitousness,”
+T42	Cue 1464 1469	wrote
+T43	Source 1470 1484	Larry O’Connor
+T44	Attribution 1464 1469	wrote
+E11	Attribution:T44 Source:T43 Cue:T42 Content:T41
+T45	Source 1498 1503	Trump
+T46	Cue 1504 1510	coined
+T47	Content 1511 1521	the phrase
+T48	Attribution 1504 1510	coined
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 1566 1656	“I’m not controlled by special interests, by the lobbyists. They control Crooked Hillary,”
+T50	Source 1657 1659	he
+T51	Cue 1660 1669	said then
+T52	Attribution 1660 1669	said then
+E13	Attribution:T52 Cue:T51 Source:T50 Content:T49
+T53	Source 1672 1684	Donald Trump
+T54	Cue 1685 1700	also criticized
+T55	Content 1701 1708	Clinton
+T56	Attribution 1685 1700	also criticized
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Content 1751 1779;1789 1958	“Hillary Clinton is a joke,” “Hillary Clinton knows nothing about trade. She knows nothing about business, except getting business and money into her own account, using what she’s got to get it in.”
+T58	Source 1780 1782	he
+T59	Cue 1783 1787	said
+T60	Attribution 1783 1787	said
+E15	Attribution:T60 Cue:T59 Source:T58 Content:T57
+T61	Content 1960 2057;2077 2114	“Remember when she said she was poor, she had no money, and she had tens of millions of dollars?” “She’s a liar when you think, right?”
+T62	Source 2058 2063	Trump
+T63	Cue 2064 2068	said
+T64	Attribution 2064 2068	said
+E16	Attribution:T64 Cue:T63 Source:T62 Content:T61
+T65	Cue 2138 2145	knocked
+T66	Source 2127 2137	Eric Trump
+T67	Content 2146 2273	a statement by actor George Clooney that an “obscene amount of money” was raised in his $353,000-a-plate fundraiser for Clinton
+T68	Attribution 2138 2145	knocked
+E17	Attribution:T68 Content:T67 Source:T66 Cue:T65
+T69	Content 2276 2300;2318 2412	“I was shaking my head,” “It made no sense. Was that not the most hypocritical statement in the history of statements?”
+T70	Source 2301 2311	Eric Trump
+T71	Cue 2312 2316	said
+T72	Attribution 2312 2316	said
+E18	Attribution:T72 Cue:T71 Source:T70 Content:T69
+T73	Source 2432 2444	his father’s
+T74	Cue 2445 2456	argument on
+T75	Content 2457 2513	the way states like Colorado and Wyoming award delegates
+T76	Attribution 2445 2456	argument on
+E19	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Content 2598 2689;2707 2879	“Here you have a little boys’ club and they decide who they want to be commander in chief,” “We live in America. People get to vote. The fact that my father is millions of votes ahead, yet delegates keep on getting stripped from him, it really is a broken system.”
+T78	Cue 2690 2694	said
+T79	Source 2695 2705	Eric Trump
+T80	Attribution 2690 2694	said
+E20	Attribution:T80 Source:T79 Cue:T78 Content:T77

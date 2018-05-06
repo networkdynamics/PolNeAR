@@ -1,0 +1,35 @@
+T1	Cue 168 180	according to
+T2	Source 181 248	a report Tuesday from WKOW, the ABC affiliate in Madison, Wisconsin
+T3	Content 60 166	Wisconsin Gov. Scott Walker will speak at the Republican National Convention in Cleveland later this month
+T5	Source 388 400	Donald Trump
+T6	Cue 401 409	has said
+T7	Content 410 473	four of his kids and his wife will also speak at the convention
+T8	Attribution 401 409	has said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 545 571	Many prominent Republicans
+T10	Cue 572 581	have said
+T11	Content 582 617	they will not attend the convention
+T12	Attribution 572 581	have said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 622 628	others
+T14	Cue 629 638	have said
+T15	Content 639 674	they are not interested in speaking
+T16	Source 821 826	Trump
+T17	Cue 827 834	tweeted
+T18	Content 677 820	"The speakers slots at the Republican Convention are totally filled, with a long waiting list of those that want to speak - Wednesday release,"
+T19	Attribution 629 638	have said
+E4	Attribution:T19 Cue:T14 Source:T13 Content:T15
+T20	Attribution 827 834	tweeted
+E5	Attribution:T20 Content:T18 Cue:T17 Source:T16
+T21	Source 0 6	Report
+T22	Cue 6 7	:
+T23	Content 8 57	Walker to speak at Republican National Convention
+T24	Attribution 6 7	:
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T4	Attribution 168 180	according to
+E1	Attribution:T4 Content:T3 Source:T2 Cue:T1
+T25	Source 251 328	Walker, who ran for the Republican nomination but dropped out last September,
+T26	Cue 329 368	is one of the first speakers to confirm
+T27	Content 369 386	his participation
+T28	Attribution 329 368	is one of the first speakers to confirm
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25

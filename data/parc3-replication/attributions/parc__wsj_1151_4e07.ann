@@ -1,0 +1,41 @@
+T1	Source 986 994	analysts
+T2	Cue 995 999	said
+T3	Content 1000 1152	the combination of a second consecutive decline in monthly durable-goods orders and lackluster mid-October auto sales helped prop up the Treasury market
+T4	Attribution 995 999	said
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 1498 1509	Auto makers
+T6	Cue 1510 1518	reported
+T7	Content 1519 1599	that mid-October sales were running at an annual rate of about 5.8 million units
+T8	Attribution 1510 1518	reported
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 1615 1636	the 6.6 million units
+T10	Source 1637 1645	analysts
+T11	Cue 1646 1658	had expected
+T12	Attribution 1646 1658	had expected
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 1676 1716	the auto-sales and durable-goods reports
+T14	Cue 1717 1726	confirmed
+T15	Content 1727 1771	perceptions that the economy is bogging down
+T16	Attribution 1717 1726	confirmed
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 1784 1792	analysts
+T18	Cue 1793 1805	don't expect
+T19	Content 1806 1852	the Federal Reserve to ease credit policy soon
+T20	Attribution 1793 1805	don't expect
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 2156 2173	foreign investors
+T22	Cue 2145 2155	frightened
+T23	Content 2109 2144	The stock market's precipitous drop
+T24	Attribution 2145 2155	frightened
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Discuss 2109 2173	The stock market's precipitous drop frightened foreign investors
+T26	Source 2300 2307	dealers
+T27	Cue 2308 2312	said
+T28	Content 2313 2448	investors are becoming more bearish toward the dollar in the wake of the stock market's recent troubles and as the U.S. economy weakens
+T29	Attribution 2308 2312	said
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 479 491	UAL Corp. 's
+T31	Cue 492 516	announcement late Monday
+T32	Content 517 573	that the proposed management-labor buy-out had collapsed
+T33	Attribution 492 516	announcement late Monday
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30

@@ -1,0 +1,345 @@
+T1	Discard 300 309	9L15 p.m.
+T2	Discard 905 909	___.
+T3	Discard 911 920	9:05 p.m.
+T4	Source 922 937	Hillary Clinton
+T5	Cue 938 942	says
+T6	Content 943 1090	a president must be ready to “start making decisions” immediately upon assuming office since it’s a job that will affect every person on the planet
+T7	Source 1093 1113	Clinton, a Democrat,
+T8	Cue 1114 1129	did not mention
+T9	Content 1130 1166	Republican front-runner Donald Trump
+T10	Source 1180 1183	she
+T11	Cue 1184 1188	said
+T12	Content 1197 1316	that any president would have to keep the country safe, make “positive changes” in people’s lives and unite the country
+T13	Attribution 938 942	says
+E1	Attribution:T13 Source:T4 Cue:T5 Content:T6
+T14	Attribution 1114 1129	did not mention
+E2	Attribution:T14 Source:T7 Cue:T8 Content:T9
+T15	Attribution 1184 1188	said
+E3	Attribution:T15 Content:T12 Cue:T11 Source:T10
+T16	Source 1319 1326	Clinton
+T17	Cue 1327 1355	has repeatedly accused Trump
+T18	Content 1356 1382	of using divisive rhetoric
+T19	Attribution 1327 1355	has repeatedly accused Trump
+E4	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1384 1387	She
+T21	Cue 1388 1403	also called for
+T22	Content 1404 1477	all candidates to lay out specifics — including the cost — of their plans
+T23	Source 1489 1492	she
+T24	Cue 1493 1513	has repeatedly asked
+T25	Content 1479 1488;1514 1552	something of her Democratic rival Bernie Sanders
+T26	Attribution 1388 1403	also called for
+E5	Attribution:T26 Source:T20 Cue:T21 Content:T22
+T27	Attribution 1493 1513	has repeatedly asked
+E6	Attribution:T27 Content:T25 Cue:T24 Source:T23
+T28	Discard 1714 1718;1720 1729	___. 9:00 p.m.
+T29	Source 1731 1746	Hillary Clinton
+T30	Cue 1747 1759	is declaring
+T31	Content 1760 1855	that she is moving closer to the Democratic nomination after three early states wins on Tuesday
+T32	Attribution 1747 1759	is declaring
+E7	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 2001 2008	Clinton
+T34	Cue 2048 2057	declaring
+T35	Content 2058 2101	it “another super Tuesday for our campaign”
+T36	Attribution 2048 2057	declaring
+E8	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Cue 2106 2110	said
+T38	Content 2111 2164	it was another step closer to winning the White House
+T39	Attribution 2106 2110	said
+E9	Attribution:T39 Source:T33 Cue:T37 Content:T38
+T40	Discard 2167 2171;2173 2182	___. 8:55 p.m.
+T41	Discard 2755 2759;2761 2770	___. 8:50 p.m.
+T42	Source 3223 3229	Kasich
+T43	Cue 3230 3255	has sought to distinguish
+T44	Content 3256 3304	himself as the candidate with a positive message
+T45	Attribution 3230 3255	has sought to distinguish
+E10	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 3306 3308	He
+T47	Cue 3309 3336	avoided direct criticism of
+T48	Content 3337 3355	front-runner Trump
+T49	Attribution 3309 3336	avoided direct criticism of
+E11	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 3380 3382	he
+T51	Cue 3383 3400	expressed concern
+T52	Content 3401 3473	that the billionaire businessman was encouraging violence at his rallies
+T53	Attribution 3383 3400	expressed concern
+E12	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Discard 3686 3690;3692 3701	___. 8:45 p.m.
+T55	Source 3703 3714	Marco Rubio
+T56	Cue 3715 3768	spoke over boos from the audience as he congratulated
+T57	Content 3769 3804	Florida primary winner Donald Trump
+T58	Attribution 3715 3768	spoke over boos from the audience as he congratulated
+E13	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 3806 3811	Rubio
+T60	Cue 3812 3819	offered
+T61	Content 3830 3899	an emotional evaluation on the state of politics in the United States
+T62	Attribution 3812 3819	offered
+E14	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 3950 3969	The Florida senator
+T64	Cue 4005 4037	took a heckler in stride, saying
+T65	Content 4038 4085	the person would “not get beat up” at his rally
+T66	Source 4151 4153	He
+T67	Cue 4154 4158	said
+T68	Content 4159 4225	that he would offer “a prayer” for the eventual Republican nominee
+T69	Attribution 4005 4037	took a heckler in stride, saying
+E15	Attribution:T69 Source:T63 Cue:T64 Content:T65
+T70	Attribution 4154 4158	said
+E16	Attribution:T70 Content:T68 Cue:T67 Source:T66
+T71	Cue 4230 4245	did not suggest
+T72	Content 4246 4263	it would be Trump
+T73	Attribution 4230 4245	did not suggest
+E17	Attribution:T73 Source:T66 Cue:T71 Content:T72
+T74	Source 4461 4466	Rubio
+T75	Cue 4467 4480	also bemoaned
+T76	Content 4481 4586	the current political climate in which people “literally hate each other” because they differ politically
+T77	Attribution 4467 4480	also bemoaned
+E18	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Discard 4589 4593;4595 4604	___. 8:40 p.m.
+T79	Discard 4913 4917;4919 4928	___. 8:35 p.m.
+T80	Discard 5501 5505;5507 5516	___. 8:20 p.m.
+T81	Source 5664 5669	Rubio
+T82	Cue 5670 5674	told
+T83	Content 5700 5801	that he knows that voters are angry and that there is a hunger for new faces and voices in government
+T84	Attribution 5670 5674	told
+E19	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Discuss 6042 6057	“establishment”
+T86	Source 6238 6244	voters
+T87	Cue 6245 6258	cried out for
+T88	Content 6259 6270	an outsider
+T89	Attribution 6245 6258	cried out for
+E20	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Content 6191 6194;6212 6222	who mainstream
+T91	Cue 6195 6211	was lambasted as
+T92	Attribution-no-source 6195 6211	was lambasted as
+E21	Attribution-no-source:T92 Content:T90 Cue:T91
+T93	Discard 6273 6277;6279 6288	___. 8:15 p.m.
+T94	Discard 6989 6993;6995 7004	___. 8:08 p.m.
+T95	Discard 7321 7325;7327 7336	___. 8:06 p.m.
+T96	Discard 8029 8033;8035 8044	___. 8:05 p.m.
+T97	Source 8731 8764	Trump’s official campaign account
+T98	Cue 8765 8817	has been busy, re-tweeting several negative comments
+T99	Content 8818 8869	about Fox News host Megyn Kelly’s election coverage
+T100	Attribution 8765 8817	has been busy, re-tweeting several negative comments
+E22	Attribution:T100 Content:T99 Cue:T98 Source:T97
+T101	Discard 8872 8876;8878 8887	___. 8:00 p.m.
+T102	Source 9345 9381	many in the Republican establishment
+T103	Cue 9382 9392	had backed
+T104	Content 9341 9344	who
+T105	Attribution 9382 9392	had backed
+E23	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Cue 9393 9407	in the hope of
+T107	Content 9408 9448	derailing Trump’s dash to the nomination
+T108	Attribution 9393 9407	in the hope of
+E24	Attribution:T108 Source:T102 Content:T107 Cue:T106
+T109	Discard 9698 9702;9704 9713	___. 5:15 p.m.
+T110	Source 9715 9794	About two-thirds of Republican primary voters in all five states voting Tuesday
+T111	Cue 9795 9802	support
+T112	Content 9803 9874	temporarily banning non-citizen Muslims from entering the United States
+T113	Attribution 9795 9802	support
+E25	Attribution:T113 Content:T112 Cue:T111 Source:T110
+T114	Source 9880 9902	majorities in all five
+T115	Cue 9903 9906	say
+T116	Content 9907 9997	they want immigrants already in the United States illegally to be allowed a chance to stay
+T117	Attribution 9903 9906	say
+E26	Attribution:T117 Content:T116 Cue:T115 Source:T114
+T118	Content 10000 10004	That
+T119	Cue 10004 10019	’s according to
+T120	Source 10020 10126	early results of exit polls conducted for the Associated Press and television networks for Edison Research
+T121	Attribution 10004 10019	’s according to
+E27	Attribution:T121 Source:T120 Cue:T119 Content:T118
+T122	Source 10129 10179	Only about 4 in 10 Republican voters in each state
+T123	Cue 10180 10184	want
+T124	Content 10185 10239	all immigrants in the country illegally to be deported
+T125	Attribution 10180 10184	want
+E28	Attribution:T125 Content:T124 Cue:T123 Source:T122
+T126	Discuss 10242 10393	The proportion of GOP primary voters saying they want a ban on non-citizen Muslims entering the United States is as high as three-quarters in Missouri.
+T127	Discard 10395 10399;10401 10410	___. 5:10 p.m.
+T128	Source 10412 10493	About 9 in 10 Republican primary voters in five states going to the polls Tuesday
+T129	Cue 10494 10505	are unhappy
+T130	Content 10506 10550	with the direction of the federal government
+T131	Attribution 10494 10505	are unhappy
+E29	Attribution:T131 Source:T128 Cue:T129 Content:T130
+T132	Cue 10595 10607	According to
+T133	Source 10608 10713	early results of exit polls conducted for the Associated Press and television networks by Edison Research
+T134	Content 10715 10837	majorities of Republican primary voters in all five states say they feel betrayed by politicians from the Republican Party
+T135	Attribution 10595 10607	According to
+E30	Attribution:T135 Content:T134 Source:T133 Cue:T132
+T136	Source 10840 10888	In each of the five states, about half of voters
+T137	Cue 10889 10892	say
+T138	Content 10893 10934	they prefer a candidate who’s an outsider
+T139	Attribution 10889 10892	say
+E31	Attribution:T139 Content:T138 Cue:T137 Source:T136
+T140	Source 10942 10955	about 4 in 10
+T141	Cue 10956 10960	want
+T142	Content 10961 10990	one with political experience
+T143	Attribution 10956 10960	want
+E32	Attribution:T143 Content:T142 Cue:T141 Source:T140
+T144	Discard 10993 10997;10999 11008	___. 5:07 p.m.
+T145	Cue 11225 11237	According to
+T146	Source 11238 11324	early results of exit polls conducted for the Associates Press and television networks
+T147	Content 11326 11526	black voters make up at least about one-fifth of the Democratic electorate in each states voting Tuesday, and in Florida, Illinois and North Carolina nearly 3 in 10 Democratic primary voters are black
+T148	Attribution 11225 11237	According to
+E33	Attribution:T148 Content:T147 Source:T146 Cue:T145
+T149	Source 11529 11541	Black voters
+T150	Cue 11614 11624	supporting
+T153	Source 11767 11771	they
+T154	Cue 11772 11781	supported
+T155	Content 11782 11785	her
+T156	Attribution 11772 11781	supported
+E35	Attribution:T156 Content:T155 Cue:T154 Source:T153
+T151	Content 11625 11628	her
+T152	Attribution 11614 11624	supporting
+E34	Attribution:T152 Content:T151 Cue:T150 Source:T149
+T157	Discard 11988 11992;11994 12003	___. 5:05 p.m.
+T158	Source 12005 12070	Majorities of Democrats in five states going to the polls Tuesday
+T159	Cue 12071 12074	say
+T160	Content 12075 12134	they would be satisfied with both candidates as the nominee
+T161	Cue 12137 12149	According to
+T162	Source 12150 12255	early results of exit polls conducted by Edison Research for the Associated Press and television networks
+T164	Attribution 12071 12074	say
+E36	Attribution:T164 Source:T158 Cue:T159 Content:T160
+T163	Content 12257 12383	voters are more likely to describe Sanders than Clinton as honest, but more likely to describe Clinton’s policies as realistic
+T165	Attribution 12137 12149	According to
+E37	Attribution:T165 Content:T163 Source:T162 Cue:T161
+T166	Source 12386 12423	At least half of voters in each state
+T167	Cue 12424 12427	say
+T168	Content 12428 12498	each of the two candidates’ positions on the issues are “about right,”
+T169	Attribution 12424 12427	say
+E38	Attribution:T169 Content:T168 Cue:T167 Source:T166
+T170	Source 12506 12512	voters
+T171	Cue 12513 12545	are generally more likely to say
+T172	Content 12546 12603	Sanders’ policies are too liberal than not liberal enough
+T173	Attribution 12513 12545	are generally more likely to say
+E39	Attribution:T173 Content:T172 Cue:T171 Source:T170
+T174	Cue 12611 12614	say
+T175	Content 12615 12641	the opposite about Clinton
+T176	Attribution 12611 12614	say
+E40	Attribution:T176 Source:T170 Cue:T174 Content:T175
+T177	Source 12644 12680	Democratic voters in all five states
+T178	Cue 12681 12684	see
+T179	Content 12685 12797	Clinton as the candidate with the better chance to beat Donald Trump if he is the Republican nominee in November
+T180	Attribution 12681 12684	see
+E41	Attribution:T180 Content:T179 Cue:T178 Source:T177
+T181	Discard 12800 12804;12806 12815	___. 4:49 p.m.
+T182	Source 12863 12894	a group of conservative leaders
+T183	Cue 12895 12926	is calling a meeting to discuss
+T184	Content 12927 13067	options for blocking Donald Trump’s path to the Republican nomination — including the possibility of rallying around a third-party candidate
+T185	Attribution 12895 12926	is calling a meeting to discuss
+E42	Attribution:T185 Content:T184 Cue:T183 Source:T182
+T186	Source 13070 13128	A person familiar with the planning for Thursday’s meeting
+T187	Cue 13129 13133	says
+T188	Content 13134 13251	the discussion will focus first on trying to get conservatives to unite around one candidate to compete against Trump
+T189	Attribution 13129 13133	says
+E43	Attribution:T189 Content:T188 Cue:T187 Source:T186
+T190	Source 13254 13272	High-dollar donors
+T191	Cue 13273 13303	would be mobilized to pressure
+T192	Content 13321 13347	to go along with that plan
+T193	Attribution 13273 13303	would be mobilized to pressure
+E44	Attribution:T193 Content:T192 Cue:T191 Source:T190
+T194	Source 13469 13479	organizers
+T195	Cue 13461 13468	seen by
+T196	Content 13451 13460;13480 13513	an option as a “lifeboat” for conservatives
+T197	Attribution 13461 13468	seen by
+E45	Attribution:T197 Content:T196 Cue:T195 Source:T194
+T198	Source 13515 13527	Participants
+T199	Cue 13528 13540	will discuss
+T200	Content 13541 13561	ballot access issues
+T201	Attribution 13528 13540	will discuss
+E46	Attribution:T201 Content:T200 Cue:T199 Source:T198
+T202	Source 13714 13722	Politico
+T203	Cue 13692 13713	was first reported by
+T204	Content 13680 13691	The meeting
+T205	Attribution 13692 13713	was first reported by
+E47	Attribution:T205 Content:T204 Cue:T203 Source:T202
+T206	Source 13724 13761	The person familiar with the planning
+T207	Cue 13762 13771	confirmed
+T208	Content 13772 13783	the meeting
+T209	Discard 13882 13921;13923 13927;13929 13938	— White House Correspondent Julie Pace. ___. 4:43 p.m.
+T210	Source 13940 13966	Florida election officials
+T211	Cue 13967 13970	say
+T212	Content 13971 14079	Republican presidential front-runner Donald Trump’s name was not left off ballots in a town in south Florida
+T213	Attribution 13762 13771	confirmed
+E48	Attribution:T213 Source:T206 Cue:T207 Content:T208
+T214	Attribution 13967 13970	say
+E49	Attribution:T214 Content:T212 Cue:T211 Source:T210
+T215	Source 14265 14319	Palm Beach County Supervisor of Elections Susan Bucher
+T216	Cue 14320 14324	said
+T217	Content 14325 14374	that independent voters can’t vote in the primary
+T218	Attribution 14320 14324	said
+E50	Attribution:T218 Content:T217 Cue:T216 Source:T215
+T219	Source 14376 14382	Bucher
+T220	Cue 14383 14395	said Tuesday
+T221	Content 14396 14549	that some residents in Jupiter, Florida who were voting as independents in municipal elections complained when they didn’t see Trump’s name on the ballot
+T222	Attribution 14383 14395	said Tuesday
+E51	Attribution:T222 Content:T221 Cue:T220 Source:T219
+T223	Source 14551 14557	Bucher
+T224	Cue 14558 14562	said
+T225	Content 14563 14640	none of the other presidential candidates were listed on those ballots either
+T226	Attribution 14558 14562	said
+E52	Attribution:T226 Content:T225 Cue:T224 Source:T223
+T227	Source 14643 14683	Florida’s Secretary of State Ken Detzner
+T228	Cue 14684 14704	sent out a statement
+T229	Content 14723 14780	that Trump had not been left off any presidential ballots
+T230	Attribution 14684 14704	sent out a statement
+E53	Attribution:T230 Content:T229 Cue:T228 Source:T227
+T231	Discard 14783 14787;14789 14798	___. 4:40 p.m.
+T232	Source 14800 14845	Republican presidential candidate Marco Rubio
+T233	Cue 14846 14850	says
+T234	Content 14852 14926	win or lose in Tuesday’s crucial Florida primary, he’s staying in the race
+T235	Attribution 14846 14850	says
+E54	Attribution:T235 Content:T234 Cue:T233 Source:T232
+T236	Source 14929 14931	He
+T237	Cue 14932 14936	says
+T238	Content 14937 15055	there is no one in the race is “on pace to get 1,237 delegates,” the number needed to secure the Republican nomination
+T239	Attribution 14932 14936	says
+E55	Attribution:T239 Content:T238 Cue:T237 Source:T236
+T240	Source 15058 15063	Rubio
+T241	Cue 15064 15068	says
+T242	Content 15069 15161	the latest polls showing him a distant second behind GOP front-runner Donald Trump are wrong
+T243	Attribution 15064 15068	says
+E56	Attribution:T243 Content:T242 Cue:T241 Source:T240
+T244	Source 15243 15270	Florida elections officials
+T245	Cue 15271 15284	are expecting
+T246	Content 15285 15331	a record turnout of more than 4 million voters
+T247	Attribution 15271 15284	are expecting
+E57	Attribution:T247 Content:T246 Cue:T245 Source:T244
+T248	Discard 15445 15449;15451 15460	___. 2:14 p.m.
+T249	Source 15462 15500	Senate Majority Leader Mitch McConnell
+T250	Cue 15501 15505	says
+T251	Content 15506 15617	he spoke to Republican front-runner Donald Trump and asked him to condemn violence no matter who is responsible
+T252	Attribution 15501 15505	says
+E58	Attribution:T252 Content:T251 Cue:T250 Source:T249
+T253	Source 15620 15629	McConnell
+T254	Cue 15630 15634	told
+T255	Content 15645 15755	that he had a conversation with the candidate Tuesday morning, the first time the two men spoke since December
+T256	Attribution 15630 15634	told
+E59	Attribution:T256 Content:T255 Cue:T254 Source:T253
+T257	Source 15758 15810	The Kentucky Republican and the New York businessman
+T258	Cue 15811 15820	discussed
+T259	Content 15821 15932	the recent violence that has marred Trump’s rallies and protesters have clashed with the candidate’s supporters
+T260	Attribution 15811 15820	discussed
+E60	Attribution:T260 Content:T259 Cue:T258 Source:T257
+T261	Source 15935 15940	Trump
+T262	Cue 15957 15973	backed away from
+T263	Content 15974 16097	a suggestion that he might cover legal costs for a supporter who was caught on video punching a black protester in the face
+T264	Attribution 15957 15973	backed away from
+E61	Attribution:T264 Content:T263 Cue:T262 Source:T261
+T265	Source 16145 16150	Trump
+T266	Cue 16151 16167	at the time said
+T267	Content 16168 16222	he’d asked his “people” to “look into” paying the fees
+T268	Attribution 16151 16167	at the time said
+E62	Attribution:T268 Content:T267 Cue:T266 Source:T265
+T269	Discard 16225 16227	I.
+T270	Source 16270 16272	he
+T271	Cue 16273 16277	said
+T272	Content 16279 16322	“I never said I was going to pay for fees.”
+T273	Attribution 16273 16277	said
+E63	Attribution:T273 Content:T272 Cue:T271 Source:T270
+T274	Cue 16323 16328	Asked
+T275	Content 16329 16402	if it had appeared he was encouraging violence with his initial statement
+T276	Attribution-no-source 16323 16328	Asked
+E64	Attribution-no-source:T276 Cue:T274 Content:T275
+T277	Source 16404 16409	Trump
+T278	Cue 16410 16417	replied
+T279	Content 16419 16471	“Well, maybe so. Maybe that’s why I wouldn’t do it.”
+T280	Attribution 16410 16417	replied
+E65	Attribution:T280 Content:T279 Cue:T278 Source:T277

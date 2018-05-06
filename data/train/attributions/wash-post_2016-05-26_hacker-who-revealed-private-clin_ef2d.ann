@@ -1,0 +1,78 @@
+T1	Source 0 49	Hacker who revealed private Clinton email address
+T2	Cue 50 59	admits to
+T3	Content 60 76	other intrusions
+T4	Attribution 50 59	admits to
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 79 217	The Romanian hacker whose cyber-mischief first revealed that Hillary Clinton used a private email address while she was secretary of state
+T6	Cue 218 232	pleaded guilty
+T7	Content 243 319	to aggravated identity theft and unauthorized access to a protected computer
+T8	Attribution 218 232	pleaded guilty
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 321 330	admitting
+T10	Content 331 394	that he was responsible for a series of high-profile intrusions
+T11	Attribution 321 330	admitting
+E3	Attribution:T11 Source:T5 Cue:T9 Content:T10
+T12	Source 420 438	Marcel Lehel Lazar
+T13	Cue 444 448	said
+T14	Content 449 511	that he victimized nearly 100 Americans from his home overseas
+T15	Source 796 801	Lazar
+T16	Cue 802 822	admitted in his plea
+T17	Content 823 973	that he often turned over his victims' private correspondence to media outlets, affixing the materials with the moniker Guccifer to mark his handiwork
+T18	Attribution 444 448	said
+E4	Attribution:T18 Source:T12 Cue:T13 Content:T14
+T19	Attribution 802 822	admitted in his plea
+E5	Attribution:T19 Content:T17 Cue:T16 Source:T15
+T20	Source 1143 1148	Lazar
+T21	Cue 1189 1197	offering
+T22	Content 1198 1307	only short confirmations that he was pleading guilty voluntarily and that he knew the rights he was giving up
+T23	Attribution 1189 1197	offering
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 1310 1333	"They're all accurate,"
+T25	Source 1334 1336	he
+T26	Cue 1337 1341	said
+T27	Attribution 1337 1341	said
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 1348 1378	federal prosecutor Ryan Dickey
+T29	Cue 1379 1383	read
+T30	Content 1384 1430	a summary of the facts to which Lazar admitted
+T31	Attribution 1379 1383	read
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 1433 1445	According to
+T33	Source 1446 1468	Lazar's plea agreement
+T34	Content 1470 1627	he faces at least two years in prison for the aggravated identity theft charge and as many as five years more for unauthorized access to a protected computer
+T35	Attribution 1433 1445	According to
+E9	Attribution:T35 Content:T34 Source:T33 Cue:T32
+T36	Source 1630 1651	Federal investigators
+T37	Cue 1652 1679	have no evidence to suggest
+T38	Content 1680 1723	that Lazar accessed Clinton's email address
+T39	Attribution 1652 1679	have no evidence to suggest
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1734 1737	his
+T41	Cue 1738 1743	claim
+T42	Content 1775 1794	that he had done so
+T43	Attribution 1738 1743	claim
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1804 1806	he
+T45	Cue 1807 1815	admitted
+T46	Content 1838 1948	that he successfully broke into the account of Sidney Blumenthal, one of President Bill Clinton's former aides
+T47	Attribution 1807 1815	admitted
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 2024 2030	Gawker
+T49	Cue 2031 2038	noticed
+T50	Content 2039 2114	the correspondence was directed to a private, nongovernmental email account
+T51	Attribution 2031 2038	noticed
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 2116 2134	The New York Times
+T53	Cue 2135 2149	later reported
+T54	Content 2150 2229	that Clinton exclusively used a personal account to conduct government business
+T55	Attribution 2135 2149	later reported
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 2562 2567	Lazar
+T57	Cue 2568 2572	said
+T58	Content 2573 2617	he welcomed extradition to the United States
+T59	Attribution 2568 2572	said
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Cue 2622 2627	added
+T61	Content 2629 2661	"I'll plead guilty, no problem."
+T62	Attribution 2622 2627	added
+E16	Attribution:T62 Source:T56 Cue:T60 Content:T61

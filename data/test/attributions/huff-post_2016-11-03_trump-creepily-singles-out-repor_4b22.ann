@@ -1,0 +1,58 @@
+T1	Source 326 331	Trump
+T2	Cue 385 400	has referred to
+T3	Content 401 445	her as “Little Katy, third-rate journalist.”
+T4	Attribution 385 400	has referred to
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 520 525	Trump
+T6	Cue 526 536	called out
+T7	Content 537 629	the press ― and specifically Tur ― for being biased and not reporting fairly on his campaign
+T8	Attribution 526 536	called out
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 750 755	Trump
+T10	Cue 756 760	said
+T11	Content 632 749;772 847	“We have massive crowds. They’re something happening. They’re not reporting it. Katy, you’re not reporting it, Katy.” “But there’s something happening, Katy. There’s something happening, Katy.”
+T12	Attribution 756 760	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 880 885	asked
+T14	Source 848 869	CNN host Wolf Blitzer
+T15	Content 886 1033	Trump campaign manager Kellyanne Conway to talk to the Republican nominee about singling out reporters, especially those embedded with the campaign
+T16	Attribution 880 885	asked
+E4	Attribution:T16 Content:T15 Source:T14 Cue:T13
+T17	Cue 1035 1041	citing
+T18	Content 1042 1057	safety concerns
+T19	Attribution 1035 1041	citing
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T14
+T20	Source 1127 1134	Blitzer
+T21	Cue 1135 1139	said
+T22	Content 1059 1126;1141 1208	“He points to them, he sort of eggs the crowd on to go after them,” “There are a lot of young journalists. He shouldn’t be doing that.”
+T23	Attribution 1135 1139	said
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1210 1216	Conway
+T25	Cue 1284 1290	saying
+T26	Content 1291 1362	he didn’t intend to suggest that anyone be mean to Tur or to attack her
+T27	Attribution 1284 1290	saying
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1441 1448	Blitzer
+T29	Cue 1449 1453	said
+T30	Content 1365 1440;1455 1620	“After he did that ... she was harassed by a lot of the people over there,” “The last time we spoke, you told me you shared my concerns about the singling out of these embeds ... You said you would talk to him. How did that conversation go?”
+T31	Attribution 1449 1453	said
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1700 1706	Conway
+T33	Cue 1707 1711	said
+T34	Content 1621 1699;1713 1918	“The conversation was very productive and I’ve also talked to NBC News today,” “Look, we want fair coverage and we wan’t everybody to be safe at our rallies. I don’t appreciate a lot of the threats I get either from people who I guess are worried that we may actually win this thing.”
+T35	Attribution 1707 1711	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1944 1961	other journalists
+T37	Cue 1962 1969	tweeted
+T38	Content 1970 1980	#ImWithTur
+T39	Attribution 1962 1969	tweeted
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1984 1994	support of
+T41	Content 1995 2016	the NBC News reporter
+T42	Attribution 1984 1994	support of
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T36
+T43	Discard 2019 2056;2057 2064;2065 2124;2125 2163;2164 2252;2253 2269	Editor’s note: Donald Trump regularly incites political violence and is a serial liar, rampant xenophobe, racist, misogynist and birther who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S
+T44	Cue 344 358	has called out
+T45	Content 359 362	Tur
+T46	Attribution-no-source 344 358	has called out
+E12	Attribution-no-source:T46 Content:T45 Cue:T44

@@ -1,0 +1,352 @@
+T1	Source 0 24	Ex-CIA chief in Benghazi
+T2	Cue 25 50	breaks silence to dispute
+T3	Content 51 55	film
+T4	Attribution 25 50	breaks silence to dispute
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 99 103	that
+T6	Cue 104 112	purports
+T7	Content 113 221	to present a searingly accurate account of the 2012 attacks that left four Americans dead in Benghazi, Libya
+T8	Attribution 104 112	purports
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 240 301	the highest-ranking CIA operative at a secret agency compound
+T10	Cue 302 308	orders
+T11	Content 309 422	his security team to "stand down" rather than rush off to rescue U.S. diplomats under siege less than a mile away
+T12	Attribution 302 308	orders
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 425 437	According to
+T14	Source 438 497	the officer in charge of the CIA's Benghazi base that night
+T15	Content 499 540	the scene in the movie is entirely untrue
+T16	Attribution 425 437	According to
+E4	Attribution:T16 Content:T15 Source:T14 Cue:T13
+T17	Content 543 580;653 717	"There never was a stand-down order," "At no time did I ever second-guess that the team would depart."
+T18	Cue 581 585	said
+T19	Source 586 613	the base chief known as Bob
+T20	Attribution 581 585	said
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Content 719 722;733 820	Nor did he say anything that could be "interpreted as equivalent" to an order to stand down
+T22	Source 724 726	he
+T23	Cue 727 731	said
+T24	Attribution 727 731	said
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Source 887 890	Bob
+T26	Cue 891 917	provided new details about
+T27	Content 918 1029	the attacks and his interactions with J. Christopher Stevens, the U.S. ambassador to Libya who perished in them
+T28	Attribution 891 917	provided new details about
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1221 1279	Sen. Ted Cruz (Tex.), a Republican presidential candidate,
+T30	Content 1285 1287	it
+T31	Cue 1288 1351	the center of his closing remarks during this week's GOP debate
+T32	Attribution 1288 1351	the center of his closing remarks during this week's GOP debate
+E8	Attribution:T32 Cue:T31 Content:T30 Source:T29
+T33	Discuss 1032 1035	The
+T34	Cue 1354 1369	The question of
+T35	Content 1370 1408	whether someone  issued a "stand down"
+T36	Attribution-no-source 1354 1369	The question of
+E9	Attribution-no-source:T36 Content:T35 Cue:T34
+T37	Cue 1480 1522	The initial speculation centered mainly on
+T38	Content 1523 1636	whether an official in Washington, including then-Secretary of State Hillary Clinton, had impeded rescue attempts
+T39	Attribution-no-source 1480 1522	The initial speculation centered mainly on
+E10	Attribution-no-source:T39 Content:T38 Cue:T37
+T40	Content 1639 1652	an allegation
+T41	Cue 1653 1661	rejected
+T42	Source 1665 1700	a series of congressional inquiries
+T43	Attribution 1653 1661	rejected
+E11	Attribution:T43 Source:T42 Cue:T41 Content:T40
+T44	Source 1702 1744	A 2014 House Intelligence Committee report
+T45	Cue 1745 1750	found
+T46	Content 1751 1843	"no evidence that there was either a stand down order or a denial of available air support."
+T47	Attribution 1745 1750	found
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Content 1979 2021;2030 2056;2058 2103	"I thought I would regret it if I didn't," about finally speaking out "So much of this information has been wrong."
+T49	Source 2022 2024	he
+T50	Cue 2025 2029	said
+T51	Attribution 2025 2029	said
+E13	Attribution:T51 Cue:T50 Source:T49 Content:T48
+T52	Discuss 1982 1989	thought
+T53	Source 2254 2257	Bob
+T54	Cue 2258 2262	said
+T55	Content 2263 2335	he was familiar with the contents of the book but had not seen the movie
+T56	Attribution 2258 2262	said
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 2404 2419	a Post reporter
+T58	Cue 2379 2393	were described
+T59	Content 2358 2378	Scenes from the film
+T60	Attribution 2379 2393	were described
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 2422 2439	The book and film
+T62	Cue 2440 2445	blame
+T63	Content 2446 2520	Bob for blocking the departure of security operators until it was too late
+T64	Attribution 2440 2445	blame
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 2522 2563	The author of the book, Mitchell Zuckoff,
+T66	Cue 2564 2568	said
+T67	Content 2594 2669	that he stands by the depiction and that it is based on first-hand accounts
+T68	Attribution 2564 2568	said
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Content 2672 2785	"I think the evidence is extremely strong that the guys' account is far more credible" than that of the CIA chief
+T70	Source 2787 2794	Zuckoff
+T71	Cue 2795 2799	said
+T72	Attribution 2795 2799	said
+E18	Attribution:T72 Cue:T71 Source:T70 Content:T69
+T73	Source 2801 2803	He
+T74	Cue 2804 2808	said
+T75	Content 2809 2904	he made multiple requests through the CIA to speak with Bob but that those requests were denied
+T76	Attribution 2804 2808	said
+E19	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Source 2907 2914	Zuckoff
+T78	Cue 2915 2919	said
+T79	Content 2920 3005	he had numerous conversations with the CIA office of public affairs about the project
+T80	Attribution 2915 2919	said
+E20	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Source 3011 3020	officials
+T82	Cue 3021 3025	said
+T83	Content 3026 3185	those talks came only after a draft of the book was finished and focused on whether it disclosed classified material that contractors were obligated to protect
+T84	Attribution 3021 3025	said
+E21	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Source 3329 3338	officials
+T86	Cue 3339 3343	said
+T87	Content 3187 3327	The agency also met with the director of the film, Michael Bay, and cited a list of concerns about the contents of the book and movie script
+T88	Attribution 3339 3343	said
+E22	Attribution:T88 Content:T87 Cue:T86 Source:T85
+T89	Source 3478 3485	Zuckoff
+T90	Cue 3486 3490	said
+T91	Content 3491 3647	that was in part because the agency did not want the authors to attach their real names to the book, and that doing so would have undermined its credibility
+T92	Attribution 3486 3490	said
+E23	Attribution:T92 Content:T91 Cue:T90 Source:T89
+T93	Source 3650 3668	The book and movie
+T94	Cue 3669 3703	render an unflattering portrait of
+T95	Content 3704 3775	the CIA and Bob, a former Army medic who spent 32 years with the agency
+T96	Attribution 3669 3703	render an unflattering portrait of
+E24	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Content 3778 3829;3863 4121	"No one will mistake this movie for a documentary," "It's a distortion of the events and people who served in Benghazi that night. It's shameful that, in order to highlight the heroism of some, those responsible for the movie felt the need to denigrate the courage of other Americans who served in harm's way."
+T98	Source 3830 3856	CIA spokesman Ryan Trapani
+T99	Cue 3857 3861	said
+T100	Attribution 3857 3861	said
+E25	Attribution:T100 Cue:T99 Source:T98 Content:T97
+T101	Source 4406 4409	Bob
+T102	Cue 4410 4414	said
+T103	Content 4415 4468	he arrived in Benghazi as base chief in December 2011
+T104	Attribution 4410 4414	said
+E26	Attribution:T104 Content:T103 Cue:T102 Source:T101
+T105	Content 4493 4510;4536 4564	the security team as the Global Response Staff
+T106	Cue 4512 4517	known
+T107	Source 4518 4535	inside the agency
+T108	Attribution 4512 4517	known
+E27	Attribution:T108 Source:T107 Cue:T106 Content:T105
+T109	Source 4652 4660	The book
+T110	Cue 4661 4668	accuses
+T111	Content 4669 4737	Bob of treating the GRS contractors like "Wal-Mart security guards."
+T112	Attribution 4661 4668	accuses
+E28	Attribution:T112 Content:T111 Cue:T110 Source:T109
+T113	Source 4738 4740	He
+T114	Cue 4741 4745	said
+T115	Content 4746 4769	that is a "distortion,"
+T116	Attribution 4741 4745	said
+E29	Attribution:T116 Content:T115 Cue:T114 Source:T113
+T117	Cue 4770 4780	describing
+T118	Content 4781 4821	the security team as highly accomplished
+T119	Attribution 4770 4780	describing
+E30	Attribution:T119 Content:T118 Cue:T117 Source:T113
+T120	Content 4823 4848	"These guys were heroes,"
+T121	Source 4849 4851	he
+T122	Cue 4852 4856	said
+T123	Attribution 4852 4856	said
+E31	Attribution:T123 Cue:T122 Source:T121 Content:T120
+T124	Content 5002 5087	"We did try to convey the seriousness of the terrorism environment in eastern Libya,"
+T125	Source 5088 5090	he
+T126	Cue 5091 5095	said
+T127	Attribution 5091 5095	said
+E32	Attribution:T127 Cue:T126 Source:T125 Content:T124
+T128	Source 5165 5168	Bob
+T129	Cue 5169 5173	said
+T130	Content 5174 5461	he was already familiar with two men later implicated in the assaults on U.S. facilities: Ahmed Abu Khattala, who was charged with plotting the attacks and has been brought to the United States to stand trial, and Sufian bin Qumu, a former detainee at Guantanamo Bay who remains in Libya
+T131	Attribution 5169 5173	said
+E33	Attribution:T131 Content:T130 Cue:T129 Source:T128
+T132	Source 5464 5467	Bob
+T133	Cue 5468 5472	said
+T134	Content 5473 5511	he first heard gunfire about 9:42 p.m.
+T135	Attribution 5468 5472	said
+E34	Attribution:T135 Content:T134 Cue:T133 Source:T132
+T136	Cue 5516 5537	suspected immediately
+T137	Content 5538 5583	that the diplomatic compound was under attack
+T138	Attribution 5516 5537	suspected immediately
+E35	Attribution:T138 Source:T132 Cue:T136 Content:T137
+T139	Source 5697 5700	Bob
+T140	Cue 5701 5705	said
+T141	Content 5706 5854	he began calling Libyan groups and making an effort to "help get eyes up," a reference to surveillance drones that were directed toward the compound
+T142	Attribution 5701 5705	said
+E36	Attribution:T142 Content:T141 Cue:T140 Source:T139
+T143	Source 5856 5858	He
+T144	Cue 5859 5863	said
+T145	Content 5864 5967	the base immediately "went into collect mode to try to figure out what was happening to the ambassador"
+T146	Attribution 5859 5863	said
+E37	Attribution:T146 Content:T145 Cue:T144 Source:T143
+T147	Cue 5972 5976	said
+T148	Content 5977 6015	Stevens's rescue was always a priority
+T149	Attribution 5972 5976	said
+E38	Attribution:T149 Source:T143 Cue:T147 Content:T148
+T150	Cue 6018 6030	According to
+T151	Source 6031 6053	the book and the movie
+T152	Content 6055 6154	the security contractors assembled their weapons and jumped into vehicles to begin a rescue mission
+T153	Attribution 6018 6030	According to
+E39	Attribution:T153 Content:T152 Source:T151 Cue:T150
+T154	Content 6156 6159;6172 6192	Bob ordered them to wait
+T155	Source 6161 6165	they
+T156	Cue 6166 6170	said
+T157	Attribution 6166 6170	said
+E40	Attribution:T157 Cue:T156 Source:T155 Content:T154
+T158	Source 6195 6198	Bob
+T159	Cue 6199 6211	acknowledged
+T160	Content 6212 6347	that he was "concerned about an ambush" and that a departure by the security team would have "left our base more vulnerable to attack."
+T161	Attribution 6199 6211	acknowledged
+E41	Attribution:T161 Content:T160 Cue:T159 Source:T158
+T162	Content 6348 6351;6362 6474	But "there was never any question that there was going to be a rescue mission" and no instruction by him to hold off
+T163	Source 6353 6355	he
+T164	Cue 6356 6360	said
+T165	Attribution 6356 6360	said
+E42	Attribution:T165 Cue:T164 Source:T163 Content:T162
+T166	Source 6486 6489	Bob
+T167	Cue 6490 6494	said
+T168	Content 6495 6690	he spent much of the immediate period after the attack began, about 20 minutes, standing beside the leader of the GRS team - who still works at the CIA - scrambling to enlist local security teams
+T169	Attribution 6490 6494	said
+E43	Attribution:T169 Content:T168 Cue:T167 Source:T166
+T170	Content 6693 6696;6721 6748	One was a gun truck and support
+T171	Source 6711 6713	he
+T172	Cue 6714 6720	wanted
+T173	Attribution 6714 6720	wanted
+E44	Attribution:T173 Cue:T172 Source:T171 Content:T170
+T174	Content 6750 6763	"Technicals,"
+T175	Source 6764 6767	Bob
+T176	Cue 6768 6772	said
+T177	Attribution 6768 6772	said
+E45	Attribution:T177 Cue:T176 Source:T175 Content:T174
+T178	Source 6888 6891	Bob
+T179	Cue 6892 6896	said
+T180	Content 6816 6886;6898 6986	One offered to shelter the U.S. personnel at a nearby militia compound while others "didn't necessarily want to help us, and some just didn't know what to do."
+T181	Attribution 6892 6896	said
+E46	Attribution:T181 Content:T180 Cue:T179 Source:T178
+T182	Source 6993 7008	the team leader
+T183	Cue 7009 7017	realized
+T184	Content 7018 7047	reinforcements weren't coming
+T185	Attribution 7009 7017	realized
+E47	Attribution:T185 Content:T184 Cue:T183 Source:T182
+T186	Content 7081 7185	"If there was any delay, it was a matter of minutes. It took a good 15 to 17 minutes just to get ready,"
+T187	Source 7186 7189	Bob
+T188	Cue 7190 7194	said
+T189	Attribution 7190 7194	said
+E48	Attribution:T189 Cue:T188 Source:T187 Content:T186
+T190	Content 7197 7213;7254 7315	About 10:03 p.m. the CIA security contractors left for the diplomatic compound
+T191	Cue 7215 7227	according to
+T192	Source 7228 7252	a congressional timeline
+T193	Attribution 7215 7227	according to
+E49	Attribution:T193 Source:T192 Cue:T191 Content:T190
+T194	Source 7617 7662	A second CIA officer at Benghazi that evening
+T195	Cue 7663 7669	backed
+T196	Content 7670 7683	Bob's account
+T197	Attribution 7663 7669	backed
+E50	Attribution:T197 Content:T196 Cue:T195 Source:T194
+T198	Source 7719 7730	the officer
+T199	Cue 7731 7735	said
+T200	Content 7736 7938	that "when asked if the security team could respond to the requests for assistance at the special mission compound by the security team leader, the chief of base responded with one word: 'Absolutely.'."
+T201	Attribution 7731 7735	said
+E51	Attribution:T201 Content:T200 Cue:T199 Source:T198
+T202	Source 7953 7960	Zuckoff
+T203	Cue 7961 7965	said
+T204	Content 7966 8033	that two of the CIA security contractors "heard Bob say" stand down
+T205	Attribution 7961 7965	said
+E52	Attribution:T205 Content:T204 Cue:T203 Source:T202
+T206	Source 8035 8037	He
+T207	Cue 8038 8043	added
+T208	Content 8044 8119;8121 8325	that the base chief's account should "be seen through the lens of hindsight It must be terrible for him to live with the fact that he delayed the departure, knowing that the deaths [of Stevens and Smith] were caused by smoke inhalation, which by definition is a function of time."
+T209	Attribution 8038 8043	added
+E53	Attribution:T209 Content:T208 Cue:T207 Source:T206
+T210	Source 8327 8422	Other former CIA officers with no direct knowledge of the case but with experience in war zones
+T211	Cue 8458 8462	said
+T212	Content 8463 8506	seeking reinforcements was the right course
+T213	Attribution 8458 8462	said
+E54	Attribution:T213 Content:T212 Cue:T211 Source:T210
+T214	Content 8508 8543;8584 8627	"Did he lose 20 minutes? Probably," "But that was probably the right solution."
+T215	Cue 8544 8548	said
+T216	Source 8549 8582	one former senior agency official
+T217	Attribution 8544 8548	said
+E55	Attribution:T217 Source:T216 Cue:T215 Content:T214
+T218	Content 8714 8818	"A good part of the night was trying to find out where the ambassador was and what had happened to him,"
+T219	Source 8819 8822	Bob
+T220	Cue 8823 8827	said
+T221	Attribution 8823 8827	said
+E56	Attribution:T221 Cue:T220 Source:T219 Content:T218
+T222	Source 8830 8837	The CIA
+T223	Cue 8838 8856	eventually learned
+T224	Content 8857 8923	that Libyans had located Stevens's body and taken it to a hospital
+T225	Attribution 8838 8856	eventually learned
+E57	Attribution:T225 Content:T224 Cue:T223 Source:T222
+T226	Content 8994 9031;9075 9126	the attack on the diplomatic compound as a violent protest rather than a terrorist attack
+T227	Cue 9032 9055	was initially portrayed
+T228	Source 9059 9074	the White House
+T229	Attribution 9032 9055	was initially portrayed
+E58	Attribution:T229 Source:T228 Cue:T227 Content:T226
+T230	Source 9129 9132	Bob
+T231	Cue 9133 9137	said
+T232	Content 9138 9258	there was "some reporting" even in the midst of the attacks that a terrorist group known as Ansar al-Sharia was involved
+T233	Attribution 9133 9137	said
+E59	Attribution:T233 Content:T232 Cue:T231 Source:T230
+T234	Source 9264 9266	he
+T235	Cue 9267 9271	said
+T236	Content 9272 9377	he played no role in shaping White House talking points about the attacks that came under harsh criticism
+T237	Attribution 9267 9271	said
+E60	Attribution:T237 Content:T236 Cue:T235 Source:T234
+T238	Source 9380 9383	Bob
+T239	Cue 9384 9388	said
+T240	Content 9389 9476	he took only one call that evening from CIA headquarters and that it lasted two minutes
+T241	Attribution 9384 9388	said
+E61	Attribution:T241 Content:T240 Cue:T239 Source:T238
+T242	Content 9478 9500	"I just cut it short,"
+T243	Source 9501 9503	he
+T244	Cue 9504 9508	said
+T245	Attribution 9504 9508	said
+E62	Attribution:T245 Cue:T244 Source:T243 Content:T242
+T246	Source 9510 9512	He
+T247	Cue 9513 9521	declined
+T248	Content 9522 9594	to comment on continued political fighting in Washington over the attack
+T249	Attribution 9513 9521	declined
+E63	Attribution:T249 Content:T248 Cue:T247 Source:T246
+T250	Source 9844 9847	Bob
+T251	Cue 9848 9852	said
+T252	Content 9853 9916	they destroyed the base's computer hard drives before they left
+T253	Attribution 9848 9852	said
+E64	Attribution:T253 Content:T252 Source:T250 Cue:T251
+T254	Source 9919 9928	The movie
+T255	Cue 9929 9934	shows
+T256	Content 9935 10125	Bob wanting to stay behind to collect intelligence and depicts one of the security contractors asking, "For what, so more guys like [the two contractors killed] have to save your ass again?"
+T257	Content 10127 10149	"That never happened,"
+T258	Source 10150 10153	Bob
+T259	Cue 10154 10158	said
+T260	Attribution 9929 9934	shows
+E65	Attribution:T260 Source:T254 Cue:T255 Content:T256
+T261	Attribution 10154 10158	said
+E66	Attribution:T261 Cue:T259 Source:T258 Content:T257
+T262	Source 10177 10179	he
+T263	Cue 10180 10185	asked
+T264	Content 10187 10226	"I was going to stay behind by myself?"
+T265	Attribution 10180 10185	asked
+E67	Attribution:T265 Content:T264 Cue:T263 Source:T262
+T266	Source 10261 10264	who
+T267	Cue 10265 10290	had been so dismissive of
+T268	Content 10291 10294	Bob
+T269	Attribution 10265 10290	had been so dismissive of
+E68	Attribution:T269 Content:T268 Cue:T267 Source:T266
+T270	Content 10369 10429	"We were there to collect and find out who had attacked us,"
+T271	Source 10430 10432	he
+T272	Cue 10433 10437	said
+T273	Attribution 10433 10437	said
+E69	Attribution:T273 Cue:T272 Source:T271 Content:T270
+T274	Source 10440 10443	Bob
+T275	Cue 10444 10448	said
+T276	Content 10449 10505	he also returned to the CIA base in Benghazi weeks later
+T277	Attribution 10444 10448	said
+E70	Attribution:T277 Content:T276 Cue:T275 Source:T274
+T278	Content 10508 10540;10550 10631	"I remember every second of it," "We had lost two brave Americans on the roof at that facility. It was difficult."
+T279	Source 10541 10543	he
+T280	Cue 10544 10548	said
+T281	Attribution 10544 10548	said
+E71	Attribution:T281 Cue:T280 Source:T279 Content:T278

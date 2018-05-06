@@ -1,0 +1,38 @@
+T1	Source 0 15	Hillary Clinton
+T2	Cue 16 23	unveils
+T3	Content 24 49	first Spanish campaign ad
+T4	Attribution 16 23	unveils
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 80 139	Presumptive Democratic presidential nominee Hillary Clinton
+T6	Cue 140 148	unveiled
+T7	Content 149 187	her first Spanish-language campaign ad
+T8	Attribution 140 148	unveiled
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 199 208	Hispanics
+T10	Cue 209 216	telling
+T11	Content 217 237	their family stories
+T12	Attribution 209 216	telling
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 242 253	criticizing
+T14	Content 254 290	Donald Trump’s immigration proposals
+T15	Attribution 242 253	criticizing
+E4	Attribution:T15 Source:T9 Content:T14 Cue:T13
+T16	Source 293 343	The ad, entitled “Nuestra Historia (Our History),”
+T17	Cue 344 352	features
+T18	Content 353 487	five Hispanic-Americans with varying national heritage speaking in Spanish and talking about their family history in the United States
+T19	Attribution 344 352	features
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 657 668	is expected
+T21	Content 651 656;669 711	which to draw a large Latino television audience
+T22	Attribution-no-source 657 668	is expected
+E6	Attribution-no-source:T22 Content:T21 Cue:T20
+T23	Source 779 781	he
+T24	Cue 782 786	says
+T25	Content 787 856	he will assemble a “deportation force” to round up illegal immigrants
+T26	Attribution 782 786	says
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 859 879	The Clinton campaign
+T28	Cue 880 895	did not release
+T29	Content 896 941	the amount it is paying to air the commercial
+T30	Attribution 880 895	did not release
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27

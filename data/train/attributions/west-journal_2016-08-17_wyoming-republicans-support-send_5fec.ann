@@ -1,0 +1,41 @@
+T1	Source 0 19	Wyoming Republicans
+T2	Cue 20 27	Support
+T3	Content 28 70	Sending A Familiar Name Back To Washington
+T4	Attribution 20 27	Support
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 73 92	Wyoming Republicans
+T6	Cue 93 116	have once again decided
+T7	Content 117 157	they want to send a Cheney to Washington
+T8	Attribution 93 116	have once again decided
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 834 950	“Now it’s time to look forward, united in our convictions, to defend our constitutional rights and our way of life,”
+T10	Discuss 773 831	Incumbent Rep. Cynthia Lummis was not seeking a fifth term
+T11	Source 951 957	Cheney
+T12	Cue 958 990	said in a post-victory statement
+T13	Attribution 958 990	said in a post-victory statement
+E3	Attribution:T13 Cue:T12 Source:T11 Content:T9
+T14	Content 993 1169	“No state has been hurt more by Barack Obama’s agenda over the past seven-and-a-half years than Wyoming. Hillary Clinton represents a continuation of the same failed policies,”
+T15	Source 1170 1173	she
+T16	Cue 1174 1178	said
+T17	Attribution 1174 1178	said
+E4	Attribution:T17 Cue:T16 Source:T15 Content:T14
+T18	Content 1181 1318	“Our freedom is under assault from an out-of-control federal government and our security is under threat from radical Islamic terrorism,”
+T19	Source 1319 1322	she
+T20	Cue 1323 1328	added
+T21	Attribution 1323 1328	added
+E5	Attribution:T21 Cue:T20 Source:T19 Content:T18
+T22	Content 1558 1602;1636 1770	“I think she should have run from Virginia,” “I know that she’s got a name and she’s got some recognition, but I don’t know that there’s much she’s done for the state of Wyoming.”
+T23	Source 1603 1607	said
+T24	Cue 1608 1633	Jason Gilbert of Cheyenne
+T25	Content 1831 1906;1940 2003	“I believe that she’s probably got the background with her family to know,” “The Cheneys, they’re definitely from here, they know Wyoming.”
+T26	Cue 1907 1911	said
+T27	Source 1912 1938	Patricia Moran of Cheyenne
+T28	Content 2005 2127	“I don’t know much about the others. I know her dad slightly, and of course from his record, so that’s what I’m going by,”
+T29	Source 2128 2132	said
+T30	Cue 2133 2158	Scott Hawkins of Cheyenne
+T31	Attribution 1608 1633	Jason Gilbert of Cheyenne
+E6	Attribution:T31 Source:T23 Content:T22 Cue:T24
+T32	Attribution 1907 1911	said
+E7	Attribution:T32 Content:T25 Source:T27 Cue:T26
+T33	Attribution 2133 2158	Scott Hawkins of Cheyenne
+E8	Attribution:T33 Cue:T30 Source:T29 Content:T28

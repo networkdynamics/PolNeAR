@@ -1,0 +1,40 @@
+T1	Cue 13 19	Sounds
+T2	Content 0 12;20 63	Donald Trump Weirdly Sophisticated With A British Accent
+T3	Attribution-no-source 13 19	Sounds
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Source 230 235	Trump
+T5	Cue 236 249	talking about
+T6	Content 250 266	Hillary Clinton 
+T7	Attribution 236 249	talking about
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Source 131 176	English comedian and actor Peter Serafinowicz
+T9	Cue 177 191	needed to know
+T10	Content 66 129	What would Donald Trump sound like if he had elocution lessons?
+T11	Attribution 177 191	needed to know
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 370 373	him
+T13	Cue 374 377	say
+T14	Content 378 380	it
+T15	Attribution 374 377	say
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Content 601 646	“What if Donald Trump had elocution lessons?”
+T17	Source 647 662	the 43-year-old
+T18	Cue 663 695	asked in the video’s description
+T19	Attribution 663 695	asked in the video’s description
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Source 909 917	petition
+T21	Cue 918 925	calling
+T22	Content 926 969	on him to be banned from the United Kingdom
+T23	Attribution 918 925	calling
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 1076 1078;1098 1108	it for debate
+T25	Cue 1079 1097	must be considered
+T26	Source 1112 1131	the U.K. parliament
+T27	Attribution 1079 1097	must be considered
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Cue 813 839	widespread anger following
+T29	Content 840 905	his comments that Muslims should be banned from entering the U.S.
+T30	Attribution-no-source 813 839	widespread anger following
+E8	Attribution-no-source:T30 Content:T29 Cue:T28
+T31	Discuss 705 737	sounding like a Brit in the clip
+T32	Discuss 803 904	There was widespread anger following his comments that Muslims should be banned from entering the U.S

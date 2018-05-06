@@ -1,0 +1,66 @@
+T1	Source 0 15	Hillary Clinton
+T2	Cue 16 21	Slams
+T3	Content 22 46	Donald Trump On Abortion
+T4	Attribution 16 21	Slams
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 69 128	Presumptive Democratic presidential nominee Hillary Clinton
+T6	Cue 129 136	blasted
+T7	Content 137 216	her Republican rival Donald Trump on Monday over his muddled stance on abortion
+T8	Attribution 129 136	blasted
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 324 331	Clinton
+T10	Cue 332 352	suggested in a tweet
+T11	Content 298 322;354 429	If she becomes president women won’t be punished for exercising their right to terminate a pregnancy
+T12	Attribution 332 352	suggested in a tweet
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 469 474	Trump
+T14	Cue 474 504	’s statement earlier this year
+T15	Content 505 591	that women who seek out abortions should be punished if the procedure is ever outlawed
+T16	Attribution 474 504	’s statement earlier this year
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 593 635	“There has to be some form of punishment,”
+T18	Source 636 641	Trump
+T19	Cue 642 670	said at a town hall in March
+T20	Attribution 642 670	said at a town hall in March
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Cue 687 720	quickly drew sharp criticism from
+T22	Source 721 754	both sides of the abortion debate
+T23	Content 673 686	The statement
+T24	Attribution 687 720	quickly drew sharp criticism from
+E6	Attribution:T24 Content:T23 Source:T22 Cue:T21
+T25	Source 756 782	The anti-abortion movement
+T26	Cue 783 807	has traditionally argued
+T27	Content 808 884	that abortion providers should be punished, but not women who seek abortions
+T28	Attribution 783 807	has traditionally argued
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 886 902	Trump’s campaign
+T30	Cue 928 951	putting out a statement
+T31	Content 952 986	contradicting his earlier comments
+T32	Attribution 928 951	putting out a statement
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 1019 1043;988 1008	“the woman is a victim.” In cases of abortion
+T34	Source 1010 1012	it
+T35	Cue 1013 1017	said
+T36	Attribution 1013 1017	said
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33
+T37	Source 1067 1072	Trump
+T38	Cue 1101 1108	telling
+T39	Content 1113 1191	that the laws on abortion “are set… And I think we have to leave it that way.”
+T40	Attribution 1101 1108	telling
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1331 1334	his
+T42	Cue 1335 1362	controversial remarks about
+T43	Content 1363 1371	abortion
+T45	Source 1373 1378	Trump
+T46	Cue 1379 1412	made conflicting statements about
+T44	Attribution 1335 1362	controversial remarks about
+E11	Attribution:T44 Cue:T42 Source:T41 Content:T43
+T47	Content 1413 1515	how he would tackle Social Security, tax cuts, nuclear weapons, foreign relations and education policy
+T48	Attribution 1379 1412	made conflicting statements about
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 1518 1523	Trump
+T50	Cue 1524 1552	did not immediately react to
+T51	Content 1553 1587	the Supreme Court ruling on Monday
+T52	Discuss 1518 1588	Trump did not immediately react to the Supreme Court ruling on Monday.
+T53	Discard 1591 1842	Editor’s note: Donald Trump regularly incites political violence and is a serial liar, rampant xenophobe, racist, misogynist and birther who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S.
+T54	Discuss 69 295	Presumptive Democratic presidential nominee Hillary Clinton blasted her Republican rival Donald Trump on Monday over his muddled stance on abortion, minutes after the Supreme Court struck down a restrictive Texas abortion law.

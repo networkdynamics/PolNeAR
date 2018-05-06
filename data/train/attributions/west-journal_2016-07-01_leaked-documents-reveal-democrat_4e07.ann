@@ -1,0 +1,58 @@
+T1	Source 0 16	Leaked Documents
+T2	Cue 17 23	Reveal
+T3	Content 24 50	Democratic Campaign Donors
+T4	Attribution 17 23	Reveal
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 84 143	which of her enemies she was most proud to call her enemies
+T6	Cue 73 83	once asked
+T7	Attribution-no-source 73 83	once asked
+E2	Attribution-no-source:T7 Cue:T6 Content:T5
+T8	Source 145 148	She
+T9	Cue 149 158	responded
+T10	Content 160 284	“Well, in addition to the NRA, the health insurance companies, the drug companies, the Iranians … probably the Republicans.”
+T11	Attribution 149 158	responded
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 290 302	according to
+T13	Source 303 358	recently hacked Democratic National Committee documents
+T14	Content 360 530	while the Democrats, like Clinton, have harsh things to say about their enemies, in private they often reach out their hands to those same entities for campaign donations
+T15	Attribution 290 302	according to
+E4	Attribution:T15 Content:T14 Source:T13 Cue:T12
+T16	Cue 533 545	According to
+T17	Source 546 572	the Washington Free Beacon
+T18	Content 574 729	those documents reveal the DNC has asked coal companies, insurance companies, and even corporations like Walmart for donations to the presidential campaign
+T19	Attribution 533 545	According to
+E5	Attribution:T19 Content:T18 Source:T17 Cue:T16
+T20	Source 1012 1021	Democrats
+T21	Cue 1023 1051	historically, have lambasted
+T22	Content 1052 1117	McDonald’s and Walmart for their resistance to minimum wage hikes
+T23	Attribution 1023 1051	historically, have lambasted
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Cue 1229 1251	have also been courted
+T25	Content 1168 1228	Health insurers Cigna, Aetna, Humana, and UnitedHealth Group
+T26	Attribution-no-source 1229 1251	have also been courted
+E7	Attribution-no-source:T26 Content:T25 Cue:T24
+T27	Source 1253 1267	Bernie Sanders
+T28	Cue 1268 1282	often attacked
+T29	Content 1283 1345	Clinton during the primaries for her close ties to Wall Street
+T30	Attribution 1268 1282	often attacked
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 1521 1528	Clinton
+T32	Cue 1529 1539	considered
+T33	Content 1540 1566	drug companies her enemies
+T34	Attribution 1529 1539	considered
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Cue 1987 2007	supposedly marked as
+T36	Content 1953 1985;2008 2041	the American Bankers Association a “high priority” potential donor
+T37	Attribution-no-source 1987 2007	supposedly marked as
+E10	Attribution-no-source:T37 Content:T36 Cue:T35
+T38	Source 1568 1571	she
+T39	Cue 1572 1605	seems to have no problem allowing
+T40	Content 1606 1700	the DNC to solicit funds from those same companies on behalf of her campaign bid for president
+T41	Attribution 1572 1605	seems to have no problem allowing
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Content 1702 1782	Drug companies such as Pfizer, GlaxoSmithKline, Johnson & Johnson, and Eli Lilly
+T43	Cue 1783 1813	were all allegedly targeted by
+T44	Source 1814 1848	the DNC for campaign contributions
+T45	Attribution 1783 1813	were all allegedly targeted by
+E12	Attribution:T45 Source:T44 Cue:T43 Content:T42
+T46	Discuss 1350 1512	it may come as a surprise to Sanders’ supporters the very same DNC which sponsored Sanders’ presidential run has solicited the financial giants to support Clinton

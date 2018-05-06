@@ -1,0 +1,53 @@
+T1	Cue 127 134	touting
+T2	Content 135 160	her Senate record upstate
+T3	Source 50 65	Hillary Clinton
+T4	Attribution 127 134	touting
+E1	Attribution:T4 Source:T3 Content:T2 Cue:T1
+T5	Cue 165 173	pounding
+T6	Content 174 194	him on the gun issue
+T7	Attribution 165 173	pounding
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T3
+T8	Source 324 327	she
+T9	Cue 327 341	's to the left
+T10	Content 314 322	on which
+T11	Attribution 327 341	's to the left
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 386 397	emphasizing
+T13	Content 398 453	to upstate voters her efforts on jobs as a U.S. senator
+T14	Attribution 386 397	emphasizing
+E4	Attribution:T14 Content:T13 Cue:T12 Source:T8
+T15	Source 517 529	recent polls
+T16	Cue 530 534	show
+T17	Content 535 567	Clinton with a double-digit lead
+T18	Attribution 530 534	show
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 862 864	he
+T20	Cue 864 890	's pushing an offensive on
+T21	Content 891 949	fracking and trade deals that have hurt manufacturing jobs
+T22	Attribution 864 890	's pushing an offensive on
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Cue 1082 1090	blasting
+T24	Content 1091 1165	Clinton for promoting fracking in other countries while secretary of State
+T25	Source 1037 1056	the Vermont senator
+T26	Attribution 1082 1090	blasting
+E7	Attribution:T26 Source:T25 Content:T24 Cue:T23
+T27	Source 1247 1330	the demographics upstate, which is whiter than New York City and surrounding areas,
+T28	Cue 1331 1342	could favor
+T29	Content 1343 1346	him
+T30	Attribution 1331 1342	could favor
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 1365 1387	Clinton campaign aides
+T32	Cue 1388 1395	believe
+T33	Content 1396 1550	her efforts as a New York senator for eight years, promoting economic development in communities such as Buffalo, will offset Sanders' potential advantage
+T34	Attribution 1388 1395	believe
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 1552 1589	Her chief policy aide, Jake Sullivan,
+T36	Cue 1590 1595	calls
+T37	Content 1596 1681	her record a "blueprint" for how she would seek to create good-paying jobs nationwide
+T38	Attribution 1590 1595	calls
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 1817 1835	demographic groups
+T40	Cue 1841 1848	favored
+T41	Content 1849 1852	her
+T42	Attribution 1841 1848	favored
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39

@@ -1,0 +1,111 @@
+T1	Source 0 5	Pence
+T2	Cue 6 12	blames
+T3	Content 13 56	media for Trump's 'Obama founded ISIS' flap
+T4	Attribution 6 12	blames
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 83 93	Mike Pence
+T6	Cue 106 112	blamed
+T7	Content 113 122	the media
+T8	Attribution 106 112	blamed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 150 164	Donald Trump’s
+T10	Cue 165 170	claim
+T11	Content 171 214	that President Barack Obama “founded ISIS,”
+T12	Attribution 165 170	claim
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 215 221	saying
+T14	Content 222 311	they were nitpicking at Trump's wording while missing the larger truth of Trump's remarks
+T15	Attribution 215 221	saying
+E4	Attribution:T15 Cue:T13 Content:T14 Source:T5
+T16	Content 314 383;416 594	“The media’s talking today about another controversy over semantics,” “Let’s be very clear: It was Barack Obama and Hillary Clinton who helped undo all the hard fought gains in Operation Iraqi Freedom that our soldiers won and secured that nation."
+T17	Source 384 389	Pence
+T18	Cue 390 394	said
+T19	Attribution 390 394	said
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Source 596 601	Pence
+T21	Cue 602 612	continued:
+T22	Content 613 1095	"When President Obama became president, it’s important to remember, that Iraq was essentially stable and it was Barack Obama and Hillary Clinton that withdrew American forces precipitously without what’s called a status of forces agreement, and they created the very vacuum in which ISIS was able to be spawned and conjured up as it were, compromising large areas of Iraq and bringing violence to that part of the world, to our allies in Europe and inspiring violence here at home.”
+T23	Attribution 602 612	continued:
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1097 1102	Trump
+T25	Cue 1103 1107	said
+T26	Content 1108 1137	Obama was the founder of ISIS
+T27	Attribution 1103 1107	said
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1175 1177	he
+T29	Cue 1178 1188	reiterated
+T30	Content 1189 1193	them
+T31	Attribution 1178 1188	reiterated
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 1242 1251	seemed to
+T33	Content 1239 1241;1252 1301	he differ with Pence’s interpretation of his remarks
+T34	Attribution-no-source 1242 1251	seemed to
+E9	Attribution-no-source:T34 Content:T33 Cue:T32
+T35	Source 1309 1315	Hewitt
+T36	Cue 1316 1325	suggested
+T37	Content 1326 1421	that Trump simply meant that Obama’s policies created the conditions in which ISIS could emerge
+T38	Attribution 1316 1325	suggested
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 1423 1428	Trump
+T40	Cue 1429 1441	contradicted
+T41	Content 1442 1445	him
+T42	Attribution 1429 1441	contradicted
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Content 1448 1487;1505 1567	“No, I meant he’s the founder of ISIS,” “I do. He was the most valuable player. … He was the founder.”
+T44	Source 1488 1493	Trump
+T45	Cue 1494 1503	responded
+T46	Attribution 1494 1503	responded
+E12	Attribution:T46 Cue:T45 Source:T44 Content:T43
+T47	Source 1569 1594	Rep. Sean Duffy (R-Wisc.)
+T48	Cue 1595 1609	also addressed
+T49	Content 1610 1625	the controversy
+T50	Attribution 1595 1609	also addressed
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Content 1659 1795	“Maybe not literally, but if you look at the policies of Barack Obama and Hillary Clinton, they set the policy up that ISIS could rise,”
+T52	Source 1796 1798	he
+T53	Cue 1799 1803	said
+T54	Attribution 1799 1803	said
+E14	Attribution:T54 Cue:T53 Source:T52 Content:T51
+T55	Content 1806 1840	The root causes of ISIS' formation
+T56	Cue 1841 1858	are hotly debated
+T57	Attribution-no-source 1841 1858	are hotly debated
+E15	Attribution-no-source:T57 Cue:T56 Content:T55
+T58	Source 1886 1889	his
+T59	Cue 1890 1900	contention
+T60	Content 1901 1985	that Obama and Clinton's handling of the end of the Iraq war led to the group's rise
+T61	Attribution 1890 1900	contention
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 2035 2086	A poll from Marquette Law School released Wednesday
+T63	Cue 2087 2092	found
+T64	Content 2093 2186	Clinton leading Trump by 15 points among likely voters in Wisconsin, 52 percent to 37 percent
+T65	Attribution 2087 2092	found
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Source 2313 2318	Pence
+T67	Cue 2319 2326	pledged
+T68	Content 2327 2417	that Trump “really is” in favor of free trade, but wants “smarter and tougher” trade deals
+T69	Attribution 2319 2326	pledged
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Source 2419 2421	He
+T71	Cue 2422 2438	also spoke about
+T72	Content 2439 2463	the proposed border wall
+T73	Attribution 2422 2438	also spoke about
+E19	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Cue 2465 2471	saying
+T75	Content 2472 2510	it will be “as big as it needs to be.”
+T76	Attribution 2465 2471	saying
+E20	Attribution:T76 Cue:T74 Content:T75 Source:T70
+T77	Source 2567 2570	who
+T78	Cue 2571 2575	said
+T79	Content 2576 2633	he and his father drove to the event from Omaha, Nebraska
+T80	Attribution 2571 2575	said
+E21	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Content 2659 2682	“How big is that wall?”
+T82	Cue 2683 2688	asked
+T83	Source 2689 2774	the boy, who was wearing a 'Make America Great Again' hat and said his name was Mason
+T84	Attribution 2683 2688	asked
+E22	Attribution:T84 Source:T83 Cue:T82 Content:T81
+T85	Content 2816 2874;2899 2926	“Mason let me tell you, how big is that wall going to be?” “As big as it needs to be.”
+T86	Source 2875 2880	Pence
+T87	Cue 2881 2885	said
+T88	Attribution 2881 2885	said
+E23	Attribution:T88 Cue:T87 Source:T86 Content:T85

@@ -1,0 +1,101 @@
+T1	Cue 38 44	Expect
+T2	Content 45 102	economic issues to roar back in the presidential election
+T3	Attribution-no-source 38 44	Expect
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Source 648 659	expectation
+T5	Cue 660 662	of
+T6	Content 663 675	higher rates
+T7	Attribution 660 662	of
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Source 812 823	the markets
+T9	Cue 824 841	are preparing for
+T10	Content 842 860	a different action
+T11	Attribution 824 841	are preparing for
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 787 796	seemingly
+T13	Content 779 786;797 810	economy back on track
+T14	Attribution-no-source 787 796	seemingly
+E4	Attribution-no-source:T14 Content:T13 Cue:T12
+T15	Source 862 879	The Fed rate rise
+T16	Cue 880 887	heralds
+T17	Content 888 983	not a gradual tap on the economic brakes, but a starting gun for an entirely new investment era
+T18	Attribution 880 887	heralds
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 1338 1351	Big investors
+T20	Cue 1352 1361	will seek
+T21	Content 1362 1386	to get out ahead of this
+T22	Attribution 1352 1361	will seek
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Cue 1457 1470	talking about
+T24	Content 1471 1473	it
+T25	Attribution-no-source 1457 1470	talking about
+E7	Attribution-no-source:T25 Content:T24 Cue:T23
+T26	Content 1597 1625	Sell the rumor, buy the fact
+T27	Source 1630 1641	the old saw
+T28	Cue 1642 1646	goes
+T29	Attribution 1642 1646	goes
+E8	Attribution:T29 Cue:T28 Source:T27 Content:T26
+T30	Cue 1780 1787	seen as
+T31	Content 1788 1847	a boon for drivers and a reason for the surge in car-buying
+T32	Attribution-no-source 1780 1787	seen as
+E9	Attribution-no-source:T32 Content:T31 Cue:T30
+T33	Content 2072 2143;2166 2179	Other corporate bond prices, which had benefited so much from low rates shaky as well
+T34	Cue 2145 2165	are suddenly looking
+T35	Attribution-no-source 2145 2165	are suddenly looking
+E10	Attribution-no-source:T35 Cue:T34 Content:T33
+T36	Source 2448 2452	That
+T37	Cue 2453 2465	doesn't mean
+T38	Content 2466 2531	we won't see some sort of wild relief rally Wednesday or Thursday
+T39	Attribution 2453 2465	doesn't mean
+E11	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 2664 2674	the dollar
+T41	Cue 2675 2686	has enjoyed
+T42	Content 2687 2729	one of its strongest gains since the 1980s
+T43	Attribution 2675 2686	has enjoyed
+E12	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 2731 2754	Yellen and her advisers
+T45	Cue 2755 2771	will be watching
+T46	Content 2772 2790	the dollar closely
+T47	Attribution 2755 2771	will be watching
+E13	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 2795 2807	its reaction
+T49	Cue 2808 2833	will in some ways dictate
+T50	Content 2834 2885	how much leeway they have to continue raising rates
+T51	Attribution 2808 2833	will in some ways dictate
+E14	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 2887 2897	Economists
+T53	Cue 2898 2905	predict
+T54	Content 2906 2984	between two and four more rate rises next year, depending on economic strength
+T55	Attribution 2898 2905	predict
+E15	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 3014 3026	rising rates
+T57	Cue 3027 3039	will support
+T58	Content 3040 3057	a stronger dollar
+T59	Attribution 3027 3039	will support
+E16	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Cue 3175 3187	According to
+T61	Source 3188 3244	USA TODAY contributor and monetary historian David Marsh
+T62	Content 3246 3343;3345 3524	U.S. and European interest rates have moved in opposite directions seven times since World War II Each time, currency turmoil has resulted. Three times, it has led to a major disruption, such as the one that forced the United Kingdom out of the European Monetary System in 1992
+T63	Attribution 3175 3187	According to
+E17	Attribution:T63 Content:T62 Source:T61 Cue:T60
+T64	Content 3526 3678	"The message from 70 years of monetary history is that, in the next few months, there is a roughly 50% chance of large-scale foreign exchange upheaval,"
+T65	Source 3679 3684	Marsh
+T66	Cue 3685 3699	wrote recently
+T67	Attribution 3685 3699	wrote recently
+E18	Attribution:T67 Cue:T66 Source:T65 Content:T64
+T68	Source 3953 3956	who
+T69	Cue 3957 3981	show an understanding of
+T70	Content 3982 3991	economics
+T71	Attribution 3957 3981	show an understanding of
+E19	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Source 4579 4581	We
+T73	Cue 4581 4592	've enjoyed
+T74	Content 4593 4664	an unprecedented period of stability since the 2007-09 financial crisis
+T75	Attribution 4581 4592	've enjoyed
+E20	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 4802 4804	We
+T77	Cue 4805 4825	are about to witness
+T78	Content 4826 4841	a demonstration
+T79	Attribution 4805 4825	are about to witness
+E21	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Discard 4844 4967	David Callaway is editor in chief of USA TODAY. His opinions are his own and are separate from those of the Editorial Board

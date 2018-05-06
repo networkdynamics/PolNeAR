@@ -1,0 +1,58 @@
+T1	Source 155 207	his wife, longtime Hillary Clinton aide Huma Abedin,
+T2	Cue 208 217	announced
+T3	Content 218 237	they were separated
+T4	Attribution 208 217	announced
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 504 561	“Anthony Weiner is on indefinite leave from the station,”
+T6	Source 562 582	a NY1 representative
+T7	Cue 583 602	said in a statement
+T8	Attribution 583 602	said in a statement
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Content 605 655	“[W]e won’t be running his columns in the future,”
+T10	Source 656 695	Daily News opinion editor Josh Greenman
+T11	Cue 696 700	told
+T12	Attribution 696 700	told
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 731 747	Business Insider
+T14	Cue 748 765	also commented on
+T15	Content 766 815	Weiner’s future as a contributor with the company
+T16	Attribution 748 765	also commented on
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 821 833	acknowledged
+T18	Content 834 875	it had no formal relationship to dissolve
+T19	Attribution 821 833	acknowledged
+E5	Attribution:T19 Content:T18 Source:T13 Cue:T17
+T20	Content 1013 1129;878 979	“We do not a have formal contributor relationship with Mr. Weiner, but we and our readers always enjoy his columns.” “We are sorry to hear about the dissolution of the Weiners’ marriage, and we wish them all the best,”
+T21	Source 980 991	the company
+T22	Cue 992 1011	said in a statement
+T23	Attribution 992 1011	said in a statement
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Discard 1131 1177	<tweet tweet-id="770390718095486977"><tweet/>.
+T25	Cue 1341 1362	accidentally tweeting
+T26	Content 1363 1433	a public crotch-shot that was intended for someone other that his wife
+T27	Source 1309 1311	he
+T28	Attribution 1341 1362	accidentally tweeting
+E7	Attribution:T28 Source:T27 Content:T26 Cue:T25
+T29	Source 1435 1437	He
+T30	Cue 1438 1444	blamed
+T31	Content 1445 1468	the incident on hackers
+T32	Attribution 1438 1444	blamed
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 1473 1488	later fessed up
+T34	Content 1489 1533	to sending risqué pictures to multiple women
+T35	Attribution 1473 1488	later fessed up
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T29
+T36	Content 1828 1979;2020 2210	“The continuous noise from these parties has caused both Anthony and the MWW team to have to deal with many inflammatory, insulting and false stories,” “To Anthony’s credit, he understands that his presence here has created noise and distraction that just isn’t helpful, and at the same time, he has other interests that he wishes to pursue.”
+T37	Source 1980 1983	MWW
+T38	Cue 1984 2018	said in a September 2015 statement
+T39	Attribution 1984 2018	said in a September 2015 statement
+E10	Attribution:T39 Cue:T38 Source:T37 Content:T36
+T40	Content 2276 2550	“After long and painful consideration and work on my marriage, I have made the decision to separate from my husband. Anthony and I remain devoted to doing what is best for our son, who is the light of our life. During this difficult time, I ask for respect for our privacy,”
+T41	Source 2551 2557	Abedin
+T42	Cue 2558 2562	said
+T43	Attribution 2558 2562	said
+E11	Attribution:T43 Cue:T42 Source:T41 Content:T40
+T44	Content 2565 2578;2586 2592	A documentary Weiner
+T45	Cue 2579 2585	titled
+T46	Attribution-no-source 2579 2585	titled
+E12	Attribution-no-source:T46 Cue:T45 Content:T44

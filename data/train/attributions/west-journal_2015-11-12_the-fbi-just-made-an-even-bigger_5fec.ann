@@ -1,0 +1,58 @@
+T1	Source 175 183	Fox News
+T2	Cue 184 192	reported
+T3	Content 205 527	that “agents are looking at U.S. Code 18, Section 1001, which pertains to ‘materially false’ statements given [by government employees] either in writing, orally or through a third party. Violations also include pressuring a third party to conspire in a cover-up. Each felony violation is subject to five years in prison.”
+T4	Attribution 184 192	reported
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 529 598	“The agents involved are under a lot of pressure and are busting a–,”
+T6	Source 599 669	an intelligence source, who was not authorized to speak on the record,
+T7	Cue 670 674	told
+T8	Attribution 670 674	told
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Cue 834 846	according to
+T10	Source 847 862	the news outlet
+T11	Content 686 833	Section 1001 can be applied, “when individuals make misleading or false statements causing federal agents to expend additional resources and time,”
+T12	Attribution 834 846	according to
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Content 864 935	The provision even encompasses statements that were not made under oath
+T14	Cue 937 949	according to
+T15	Source 950 999	Fox News judicial analyst Judge Andrew Napolitano
+T16	Attribution 937 949	according to
+E4	Attribution:T16 Source:T15 Cue:T14 Content:T13
+T17	Content 1002 1109;1151 1312	“This is a broad, brush statute that punishes individuals who are not direct and fulsome in their answers,” “The problem for a defendant is when their statements cause the bureau to expend more time, energy, resources to de-conflict their statements with the evidence.”
+T18	Source 1110 1139	former FBI agent Timothy Gill
+T19	Cue 1140 1149	explained
+T20	Attribution 1140 1149	explained
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 1314 1321	Clinton
+T22	Cue 1322 1336	initially said
+T23	Content 1395 1492	“I did not email any classified material to anyone on my email. There is no classified material.”
+T24	Attribution 1322 1336	initially said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1514 1517	she
+T26	Cue 1518 1550	revised her statement explaining
+T27	Content 1551 1634	that she had not sent or received emails that were “marked classified at the time.”
+T28	Attribution 1518 1550	revised her statement explaining
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1824 1842	Western Journalism
+T30	Cue 1812 1820	reported
+T31	Content 1844 2041	the former secretary of state was made aware of her responsibility to properly protect classified information, which included signing at least two non-disclosure agreements her second day in office
+T32	Attribution 1812 1820	reported
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 2377 2403	was indicted and convicted
+T34	Content 2337 2376	Former CIA director Gen. David Petraeus
+T35	Attribution-no-source 2377 2403	was indicted and convicted
+E9	Attribution-no-source:T35 Content:T34 Cue:T33
+T36	Cue 2413 2420	appears
+T37	Content 2408 2412;2421 2492	what to be a far lesser breach of his duty to protect classified information
+T38	Attribution-no-source 2413 2420	appears
+E10	Attribution-no-source:T38 Content:T37 Cue:T36
+T39	Cue 2596 2608	according to
+T40	Source 2609 2617	Politico
+T41	Content 2495 2594	The State Department has now found between 600-700 Clinton emails containing classified information
+T42	Attribution 2596 2608	according to
+E11	Attribution:T42 Content:T41 Source:T40 Cue:T39
+T43	Source 2620 2628	Fox News
+T44	Cue 2629 2637	reports:
+T45	Content 2639 2933;2934 3240	…at least four classified Clinton emails had their markings changed to a category that shields the content from Congress and the public, in what State Department whistleblowers believed to be an effort to hide the true extent of classified information on the former secretary of state’s server. One State Department lawyer involved in the alleged re-categorization was Kate Duval. Duval once worked in the same law firm as Clinton’s current and long-time lawyer David Kendall and at the IRS during the Lois Lerner email controversy. Duval left government service for private practice in mid-September.
+T46	Attribution 2629 2637	reports:
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43

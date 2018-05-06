@@ -1,0 +1,60 @@
+T1	Cue 267 278	not knowing
+T2	Content 279 328	that there was a Democratic debate Saturday night
+T3	Source 243 246	you
+T4	Attribution 267 278	not knowing
+E1	Attribution:T4 Source:T3 Content:T2 Cue:T1
+T5	Source 1007 1014	Sanders
+T6	Cue 1015 1025	complained
+T7	Content 1026 1139	that Democratic Party officials were trying to "protect" Clinton by scheduling debates at times of low viewership
+T8	Attribution 1015 1025	complained
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 1353 1564;1723 1834	"If she continues to be in the driver's seat while the Republicans are sucking all the oxygen out of the room, that means she's not getting a lot of attention. It also means no other Democrat is getting oxygen," "That is not much of a problem for her now, but it is beyond a problem for Bernie Sanders and Martin O'Malley."
+T10	Cue 1565 1569	said
+T11	Source 1570 1721	Mo Elleithee, a Clinton campaign aide during her failed 2008 run and now director of the Georgetown University Institute of Politics and Public Service
+T12	Attribution 1565 1569	said
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Content 2531 2589	This has been a persistent concern for Democrats this year
+T14	Source 2591 2600	Elleithee
+T15	Cue 2601 2605	said
+T16	Attribution 2601 2605	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Content 2607 2861	At first, there was pressure on Clinton to get into the race earlier than she did, to answer a GOP field largely focused on criticizing her. And now there is some discomfort with the notion that Democratic priorities are getting less attention nationally
+T18	Source 2863 2865	he
+T19	Cue 2866 2870	said
+T20	Attribution 2866 2870	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 3537 3555	early ratings data
+T22	Cue 3556 3564	suggests
+T23	Content 3565 3624	that sponsor ABC News probably got around 8 million viewers
+T24	Attribution 3556 3564	suggests
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 3788 3872	a rocky summer defined by Sanders's unexpected surge and fumbles by the Clinton camp
+T26	Cue 3878 3885	rattled
+T27	Source 3886 3896	supporters
+T28	Attribution 3878 3885	rattled
+E7	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Source 4037 4057	Vice President Biden
+T30	Cue 4058 4065	decided
+T31	Content 4066 4087	not to enter the race
+T32	Attribution 4058 4065	decided
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 4144 4184	"October provided a resurgence for her,"
+T34	Cue 4185 4189	said
+T35	Source 4190 4224	former Obama adviser David Axelrod
+T36	Attribution 4185 4189	said
+E9	Attribution:T36 Source:T35 Cue:T34 Content:T33
+T37	Source 5002 5009	Axelrod
+T38	Cue 5010 5014	said
+T39	Content 4993 5000;5016 5105	Instead "she started as such a prohibitive favorite, and there was this long period of humbling."
+T40	Attribution 5010 5014	said
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 5502 5509	Axelrod
+T42	Cue 5510 5514	said
+T43	Content 5515 5583	the fading attention on the Democratic race this time helped Clinton
+T44	Attribution 5510 5514	said
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Content 5683 5718;5728 5893	"She has nothing to prove on that," "She comes off as strong. She comes off as commanding. Whatever liabilities she has - and she has them - those happen to be her strengths. Strength is her strength."
+T46	Source 5719 5721	he
+T47	Cue 5722 5726	said
+T48	Attribution 5722 5726	said
+E12	Attribution:T48 Cue:T47 Source:T46 Content:T45

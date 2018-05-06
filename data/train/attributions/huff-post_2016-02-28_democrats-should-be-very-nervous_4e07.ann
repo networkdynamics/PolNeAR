@@ -1,0 +1,94 @@
+T1	Source 0 9	Democrats
+T2	Cue 10 38	Should Be Very Nervous About
+T3	Content 39 69	Their Terrible Turnout Numbers
+T4	Attribution 10 38	Should Be Very Nervous About
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 551 575	are being interpreted as
+T6	Content 540 550;576 617	these wins a sign that the universe is back in order
+T7	Source 504 538	the Democratic Party establishment
+T8	Attribution 551 575	are being interpreted as
+E2	Attribution:T8 Source:T7 Content:T6 Cue:T5
+T9	Content 625 676;687 718	a 74-year-old democratic socialist from Vermont had knocked everything out of orbit
+T10	Cue 677 686	seemingly
+T11	Attribution-no-source 677 686	seemingly
+E3	Attribution-no-source:T11 Cue:T10 Content:T9
+T12	Source 720 733	Party leaders
+T13	Cue 734 749	long ago picked
+T14	Content 750 791	Clinton as their standard-bearer for 2016
+T15	Attribution 734 749	long ago picked
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 1147 1159	Exit polling
+T17	Cue 1160 1166	showed
+T18	Content 1167 1232	that Clinton won every demographic tracked except voters under 30
+T19	Attribution 1160 1166	showed
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1803 1806	who
+T21	Cue 1807 1816	voted for
+T22	Content 1817 1845	John Edwards back in the day
+T23	Attribution 1807 1816	voted for
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1612 1626	367,491 people
+T25	Cue 1627 1640	cast a ballot
+T26	Content 1641 1670	for either Clinton or Sanders
+T27	Attribution 1627 1640	cast a ballot
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1731 1734	who
+T29	Cue 1735 1743	came out
+T30	Content 1752 1773	for Clinton and Obama
+T31	Attribution 1735 1743	came out
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 2567 2570	who
+T33	Cue 2571 2579	identify
+T34	Content 2580 2595	as independents
+T35	Attribution 2571 2579	identify
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 2614 2618	they
+T37	Cue 2619 2626	cherish
+T38	Content 2627 2671	a moderate middle ground between two parties
+T39	Attribution 2619 2626	cherish
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 2685 2689	they
+T41	Cue 2690 2693	see
+T42	Content 2694 2767	their own party as insufficiently committed to its ideological principles
+T43	Attribution 2690 2693	see
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 2932 2941	the DNC’s
+T45	Cue 2942 2950	decision
+T46	Content 2951 3003	to bury the party’s debates on weekends and holidays
+T47	Attribution 2942 2950	decision
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 3121 3124	his
+T49	Cue 3125 3135	insistence
+T50	Content 3136 3260	that progressive energy will bring out high numbers of enthusiastic voters that an old party insider just can’t compete with
+T51	Attribution 3125 3135	insistence
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 3690 3701	Republicans
+T53	Cue 3702 3710	nominate
+T54	Content 3711 3737	Donald Trump for president
+T55	Attribution 3702 3710	nominate
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 3831 3834	who
+T57	Cue 3893 3917	to cast a ballot against
+T58	Content 3918 3978	a billionaire who has predicated his campaign on raw bigotry
+T59	Attribution 3893 3917	to cast a ballot against
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Source 4056 4082	lots of angry white people
+T61	Cue 4083 4107	will show up to vote for
+T62	Content 4108 4113	Trump
+T63	Attribution 4083 4107	will show up to vote for
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 4208 4211	who
+T65	Cue 4212 4218	prefer
+T66	Content 4219 4235	other candidates
+T67	Attribution 4212 4218	prefer
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Cue 4236 4257	still care more about
+T69	Content 4258 4291	turning the page on the Obama era
+T70	Attribution 4236 4257	still care more about
+E18	Attribution:T70 Source:T64 Content:T69 Cue:T68
+T71	Source 4297 4301	they
+T72	Cue 4302 4310	do about
+T73	Content 4311 4400	Trump’s flirtations with fascism (and even, at times, liberal critiques of GOP orthodoxy)
+T74	Attribution 4302 4310	do about
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Discuss 4208 4400	who prefer other candidates still care more about turning the page on the Obama era than they do about Trump’s flirtations with fascism (and even, at times, liberal critiques of GOP orthodoxy)

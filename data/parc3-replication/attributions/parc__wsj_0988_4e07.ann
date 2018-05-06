@@ -1,0 +1,34 @@
+T1	Content 52 187	K mart Corp., Troy, Mich., has sold 17 of its strip shopping centers to a limited partnership led by New York developer Philip Pilevsky
+T2	Cue 189 201	according to
+T3	Source 202 239	sources familiar with the transaction
+T4	Attribution 189 201	according to
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Source 241 245	They
+T6	Cue 246 254	estimate
+T7	Content 255 308	the value of the transaction at close to $100 million
+T8	Attribution 246 254	estimate
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 312 345	K mart officials and Mr. Pilevsky
+T10	Cue 346 365	wouldn't comment on
+T11	Content 366 374	the sale
+T12	Attribution 346 365	wouldn't comment on
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 378 384	K mart
+T14	Cue 385 409	previously had announced
+T15	Content 410 508	it would report its third consecutive decline in quarterly earnings for the period ended yesterday
+T16	Attribution 385 409	previously had announced
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 561 569	Analysts
+T18	Cue 570 584	are estimating
+T19	Content 585 729	third-quarter earnings will drop between 13% and 20% to about 50 to 55 cents per share, compared with 63 cents per share in the year-ago quarter
+T20	Attribution 570 584	are estimating
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 980 990	reportedly
+T22	Content 967 979;991 1036	The retailer will lease its stores back from the developer
+T23	Attribution-no-source 980 990	reportedly
+E6	Attribution-no-source:T23 Content:T22 Cue:T21
+T24	Source 1038 1041	who
+T25	Cue 1042 1047	plans
+T26	Content 1048 1075	to expand the small centers
+T27	Attribution 1042 1047	plans
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24

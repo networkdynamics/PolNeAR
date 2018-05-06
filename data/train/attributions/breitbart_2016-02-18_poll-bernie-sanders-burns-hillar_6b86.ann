@@ -1,0 +1,97 @@
+T1	Discard 2610 2655	Follow Adelle Nazarian on Twitter @AdelleNaz.
+T2	Source 0 4	Poll
+T3	Cue 4 5	:
+T4	Content 6 72	Bernie Sanders Burns Hillary Clinton With First-Ever National Lead
+T5	Attribution 4 5	:
+E1	Attribution:T5 Content:T4 Cue:T3 Source:T2
+T6	Source 95 101	a poll
+T7	Cue 102 107	shows
+T8	Content 108 200	upstart Sen. Bernie Sanders (I-VT) leading establishment favorite Hillary Clinton nationally
+T9	Attribution 102 107	shows
+E2	Attribution:T9 Content:T8 Cue:T7 Source:T6
+T10	Source 203 304	A Fox News poll, conducted jointly with Anderson Robbins Research (D) and Shaw & Company Research (R)
+T11	Cue 306 311	shows
+T12	Content 312 370	Sanders with 47 percent versus Clinton, who has 44 percent
+T13	Attribution 306 311	shows
+E3	Attribution:T13 Content:T12 Cue:T11 Source:T10
+T14	Source 499 513	a CNN/ORC poll
+T15	Cue 514 520	showed
+T16	Content 521 606	a mere one-point difference between Clinton and Sanders in the upcoming Nevada caucus
+T17	Attribution 514 520	showed
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Discuss 373 450	Sanders is up from 37 percent in January and Clinton is down from 49 percent.
+T19	Source 609 639	Republican pollster Daron Shaw
+T20	Cue 640 644	told
+T21	Content 649 755	that he credits the change to a large defection among “blue-collar, white Democrats” from the Clinton camp
+T22	Attribution 640 644	told
+E5	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 853 856	Fox
+T24	Cue 857 862	found
+T25	Content 770 851	Clinton has maintained support among black voters and those with a college degree
+T26	Attribution 857 862	found
+E6	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Cue 911 916	Asked
+T28	Content 917 987	whether Clinton “has the integrity to serve effectively as president,”
+T29	Attribution-no-source 911 916	Asked
+E7	Attribution-no-source:T29 Content:T28 Cue:T27
+T30	Source 988 1011	75 percent of Democrats
+T31	Cue 1012 1016	said
+T32	Content 1017 1020	yes
+T33	Source 1026 1050	55 percent of all voters
+T34	Cue 1051 1054	say
+T35	Content 1055 1067	she does not
+T36	Attribution 1012 1016	said
+E8	Attribution:T36 Cue:T31 Content:T32 Source:T30
+T37	Attribution 1051 1054	say
+E9	Attribution:T37 Content:T35 Cue:T34 Source:T33
+T38	Source 1125 1132	Sanders
+T39	Cue 1133 1156	has consistently pushed
+T40	Discuss 1150 1156	pushed
+T41	Content 1157 1249	his promise of “free college” and forcing Wall Street bail out America’s ailing middle class
+T42	Attribution 1133 1156	has consistently pushed
+E10	Attribution:T42 Content:T41 Cue:T39 Source:T38
+T43	Cue 1319 1337	has the support of
+T44	Source 1338 1364	women and older electorate
+T45	Content 1311 1318	Clinton
+T46	Attribution 1319 1337	has the support of
+E11	Attribution:T46 Content:T45 Source:T44 Cue:T43
+T47	Source 1367 1401	Democratic pollster Chris Anderson
+T48	Cue 1402 1406	told
+T49	Content 1411 1515	that Clinton’s loss of support to Sanders really “accelerated” after the Iowa and New Hampshire caucuses
+T50	Attribution 1402 1406	told
+E12	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 1559 1578	Sanders and Clinton
+T52	Cue 1579 1591	must vie for
+T53	Discuss 1584 1587	vie
+T54	Content 1592 1618	the Democratic Latino vote
+T55	Attribution 1579 1591	must vie for
+E13	Attribution:T55 Content:T54 Cue:T52 Source:T51
+T56	Cue 1699 1726	receiving more support from
+T57	Source 1727 1736	the youth
+T58	Content 1691 1698	Sanders
+T59	Attribution 1699 1726	receiving more support from
+E14	Attribution:T59 Content:T58 Source:T57 Cue:T56
+T60	Source 1741 1761	the older population
+T61	Cue 1762 1769	backing
+T62	Content 1770 1799	the former secretary of state
+T63	Attribution 1762 1769	backing
+E15	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Cue 1802 1807	Asked
+T65	Content 1808 1875	if Sanders is “realistic enough to serve effectively as president,”
+T66	Attribution-no-source 1802 1807	Asked
+E16	Attribution-no-source:T66 Content:T65 Cue:T64
+T67	Source 1876 1899	72 percent of Democrats
+T68	Cue 1900 1904	said
+T69	Content 1905 1908	yes
+T70	Attribution 1900 1904	said
+E17	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Cue 2013 2029	doesn’t surprise
+T72	Source 2030 2060	Republican pollster Daron Shaw
+T73	Content 1984 2012	The timing of Sanders’ surge
+T74	Attribution 2013 2029	doesn’t surprise
+E18	Attribution:T74 Content:T73 Source:T72 Cue:T71
+T75	Cue 2060 2061	:
+T76	Content 2062 2207	“Historically, lesser-known candidates beating establishment candidates in early contests have seen the biggest boost in their national support.”
+T77	Attribution 2060 2061	:
+E19	Attribution:T77 Cue:T75 Source:T72 Content:T76
+T78	Discuss 2021 2029	surprise

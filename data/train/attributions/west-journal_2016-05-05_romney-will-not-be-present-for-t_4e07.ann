@@ -1,0 +1,75 @@
+T1	Source 93 96	who
+T2	Cue 156 166	denouncing
+T3	Content 167 211	Republican presidential nominee Donald Trump
+T4	Attribution 156 166	denouncing
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 292 344	“Governor Romney has no plans to attend convention,”
+T6	Source 345 356	a spokesman
+T7	Cue 357 370	said Thursday
+T8	Attribution 357 370	said Thursday
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Cue 372 383	speaking of
+T10	Content 384 418	the Republican National Convention
+T11	Attribution 372 383	speaking of
+E3	Attribution:T11 Cue:T9 Content:T10 Source:T6
+T12	Cue 512 536	the previously announced
+T13	Content 537 584	absence of Sen. John McCain from the convention
+T14	Attribution-no-source 512 536	the previously announced
+E4	Attribution-no-source:T14 Content:T13 Cue:T12
+T15	Source 693 698	Trump
+T16	Cue 699 707	attacked
+T17	Content 708 714	Romney
+T18	Attribution 699 707	attacked
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Cue 716 723	calling
+T20	Content 724 770	him, among other things, “a failed candidate.”
+T21	Attribution 716 723	calling
+E6	Attribution:T21 Cue:T19 Content:T20 Source:T15
+T22	Source 771 777	Romney
+T23	Cue 799 808	attacking
+T24	Content 809 911	Trump for “the greed, the showing off, the misogyny, the absurd third grade theatrics” of his campaign
+T25	Attribution 799 808	attacking
+E7	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Cue 916 935	generally impugning
+T27	Content 936 989	Trump’s character and qualifications for the position
+T28	Attribution 916 935	generally impugning
+E8	Attribution:T28 Cue:T26 Content:T27 Source:T22
+T29	Source 992 997	Trump
+T30	Cue 998 1006	has said
+T31	Content 1007 1086	that given his criticism of Romney it would be “very hard” for Romney to attend
+T32	Attribution 998 1006	has said
+E9	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 1092 1102	downplayed
+T34	Content 1103 1112	the issue
+T35	Attribution 1092 1102	downplayed
+E10	Attribution:T35 Cue:T33 Content:T34 Source:T29
+T36	Content 1115 1130;1143 1173	“I don’t care,” “He can be there if he wants.”
+T37	Source 1131 1136	Trump
+T38	Cue 1137 1141	said
+T39	Attribution 1137 1141	said
+E11	Attribution:T39 Cue:T38 Source:T37 Content:T36
+T40	Content 1175 1241	What Romney has said privately about Trump it is a different story
+T41	Cue 1243 1255	according to
+T42	Source 1256 1287	former Sen. Scott Brown, R-Mass
+T43	Attribution 1243 1255	according to
+E12	Attribution:T43 Source:T42 Cue:T41 Content:T40
+T44	Content 1290 1418;1480 1543	“I’ve heard from many sources that he has said, indirectly or directly to them … if it’s between Hillary and Trump, Trump wins,” “So we’ll see what they do in the privacy of the voting booth.”
+T45	Source 1419 1424	Brown
+T46	Cue 1425 1429	said
+T47	Attribution 1425 1429	said
+E13	Attribution:T47 Cue:T46 Source:T45 Content:T44
+T48	Source 1545 1563	The New York Times
+T49	Cue 1564 1577	characterized
+T50	Content 1578 1749	many Republican’s perception of Trump’s path to the nomination as a “journey from denial and resistance to grudging acceptance, and even peace, with the Trump nomination.”
+T51	Attribution 1564 1577	characterized
+E14	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 1751 1755	Some
+T53	Cue 1756 1766	have urged
+T54	Content 1767 1832	Republicans to focus on the general election and what is at stake
+T55	Attribution 1756 1766	have urged
+E15	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Content 1835 2036;2160 2294	“There will be some that will take days and weeks to realize that there are two choices and that it’s between Donald Trump and the Democratic nominee, which most of us believe will be Hillary Clinton,” “Realistically, and I think Republicans are realists, this is an opportunity to have a Republican president sitting in the Oval Office
+T57	Cue 2037 2041	said
+T58	Source 2042 2107	Gov. Phil Bryant of Mississippi, a former backer of Sen. Ted Cruz
+T59	Attribution 2037 2041	said
+E16	Attribution:T59 Source:T58 Cue:T57 Content:T56

@@ -1,0 +1,56 @@
+T1	Source 952 964	His campaign
+T2	Cue 965 974	confirmed
+T3	Content 975 1032	that Trump would be meeting with top Republican officials
+T4	Attribution 965 974	confirmed
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 1037 1063	would not offer details of
+T6	Content 1064 1091	the attendees or the agenda
+T7	Attribution-no-source 1037 1063	would not offer details of
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Source 1094 1115	The real estate mogul
+T9	Cue 1116 1140	declined to elaborate on
+T10	Content 1141 1305	his planned message to AIPAC or whether he would honor a previous pledge to remain neutral in the Israeli-Palestinian dispute so he could try to strike a peace deal
+T11	Attribution 1116 1140	declined to elaborate on
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 1307 1324	Trump's opponents
+T13	Cue 1325 1329	said
+T14	Content 1330 1387	the U.S. should stand with Israel, not declare neutrality
+T15	Attribution 1325 1329	said
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Content 1390 1445	"I think making a deal would be in Israel's interests,"
+T17	Source 1446 1451	Trump
+T18	Cue 1452 1456	told
+T19	Attribution 1452 1456	told
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Content 1474 1612	"I'll tell you what, I don't know one Jewish person that doesn't want to have a deal, a good deal, a proper deal, but a really good deal,"
+T21	Source 1613 1626	the candidate
+T22	Cue 1627 1631	said
+T23	Attribution 1627 1631	said
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 1634 1639	Trump
+T25	Cue 1650 1668	declined to define
+T26	Content 1669 1761	what such a deal would include or how he intended to address the matter in his Monday speech
+T27	Attribution 1650 1668	declined to define
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 1764 1798	"Well, I'll define that tomorrow,"
+T29	Source 1799 1804	Trump
+T30	Cue 1805 1809	told
+T31	Attribution 1805 1809	told
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28 Content2:T32
+T32	Content 1815 1848	"I'm not going to define it now."
+T33	Source 1850 1878	Not all conference attendees
+T34	Cue 1889 1907	are  eager to hear
+T35	Content 1908 1927	Trump's explanation
+T36	Attribution 1889 1907	are  eager to hear
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 2044 2104	Rabbi Rick Jacobs, president of the Union for Reform Judaism
+T38	Cue 2147 2151	said
+T41	Content 2250 2353	"The values of our reform Jewish movement include equality, diversity, justice, humility and civility,"
+T42	Source 2354 2360	Jacobs
+T43	Cue 2361 2365	said
+T44	Attribution 2361 2365	said
+E11	Attribution:T44 Cue:T43 Source:T42 Content:T41 Content2:T45
+T45	Content 2367 2447	"Thus far, Mr. Trump has conducted his campaign as if those are not his values."
+T39	Content 2152 2248	he and other Jewish leaders are planning to skip  the speech to lead a study on "Jewish values."
+T40	Attribution 2147 2151	said
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37

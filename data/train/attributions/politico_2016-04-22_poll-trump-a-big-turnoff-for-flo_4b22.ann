@@ -1,0 +1,134 @@
+T1	Source 0 4	Poll
+T2	Cue 4 5	:
+T3	Content 6 69	Trump a big turnoff for Florida Latino voters, including Cubans
+T4	Attribution 4 5	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 282 294	according to
+T6	Source 295 372	a poll of 400 registered Latino voters released on Friday by Latino Decisions
+T7	Content 86 280	Donald Trump's controversial views on immigration have taken their toll on Latino support for the Republican Party in Florida and could have a profound impact on down-ballot candidates this fall
+T8	Attribution 282 294	according to
+E2	Attribution:T8 Content:T7 Source:T6 Cue:T5
+T9	Source 491 499	the poll
+T10	Cue 500 505	found
+T11	Content 408 489	Eighty-four percent of Latino voters in Florida have an unfavorable view of Trump
+T12	Attribution 500 505	found
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 507 519	Two in three
+T14	Cue 520 524	said
+T15	Content 525 616	they are less likely to vote Republican in November because of Trump’s views on immigration
+T16	Attribution 520 524	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 622 642	nearly three in five
+T18	Cue 643 647	said
+T19	Content 648 673	they are much less likely
+T20	Attribution 643 647	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 675 716	Some 56 percent of Cuban-Americans polled
+T22	Cue 717 721	said
+T23	Content 722 799	they were much less likely to vote for Republicans this year because of Trump
+T24	Attribution 717 721	said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 802 828	Almost half of respondents
+T26	Cue 829 833	said
+T27	Content 834 878	the party has become more hostile to Latinos
+T28	Attribution 829 833	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 880 894	Thirty percent
+T30	Cue 895 899	said
+T31	Content 900 1022	the reason they are most enthusiastic about voting this year is because of the potential opportunity to vote against Trump
+T32	Attribution 895 899	said
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 1077 1081	said
+T34	Source 1082 1150	Latino Decisions researcher Sylvia Manzano, who directed the polling
+T35	Content 1025 1076	“People feel that they’re not wanted in the party,”
+T36	Attribution 1077 1081	said
+E9	Attribution:T36 Content:T35 Source:T34 Cue:T33
+T37	Source 1162 1165	she
+T38	Cue 1166 1170	said
+T39	Content 1153 1160;1172 1401	Overall a number of key Republican constituencies are finding themselves more and more alienated by the party, including self-identified Republicans, older Latinos and one of the GOP’s the most reliable groups of Latinos: Cuban Americans
+T40	Attribution 1166 1170	said
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Cue 1409 1419	dislike of
+T42	Content 1420 1425	Trump
+T43	Source 1426 1447	among Cuban Americans
+T44	Cue 1594 1606	according to
+T45	Source 1607 1615	the poll
+T46	Content 1552 1593	82 percent of whom view Trump unfavorably
+T47	Source 1870 1899	47 percent of Cuban Americans
+T48	Cue 1900 1906	saying
+T49	Content 1907 1961	they will certainly support Hillary Clinton over Trump
+T50	Attribution 1409 1419	dislike of
+E11	Attribution:T50 Cue:T41 Content:T42 Source:T43
+T51	Attribution 1900 1906	saying
+E12	Attribution:T51 Cue:T48 Source:T47 Content:T49
+T52	Attribution 1594 1606	according to
+E13	Attribution:T52 Content:T46 Source:T45 Cue:T44
+T53	Source 2036 2039	who
+T54	Cue 2040 2043	say
+T55	Content 2044 2067	they might vote for him
+T56	Attribution 2040 2043	say
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 2069 2086	Forty six percent
+T58	Cue 2087 2099	were certain
+T59	Content 2100 2157	they would support Vermont Sen. Bernie Sanders over Trump
+T60	Attribution 2087 2099	were certain
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Content 2163 2189	both Democratic candidates
+T62	Cue 2198 2221	strong majority support
+T63	Source 2228 2252	Latino voters in Florida
+T64	Attribution 2198 2221	strong majority support
+E16	Attribution:T64 Source:T63 Cue:T62 Content:T61
+T65	Source 2392 2397	their
+T66	Cue 2398 2410	criticism of
+T67	Content 2411 2416	Trump
+T68	Attribution 2398 2410	criticism of
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 2419 2426	Curbelo
+T70	Cue 2443 2454	has slammed
+T71	Content 2455 2500	Trump's comments about immigrants and Muslims
+T72	Attribution 2443 2454	has slammed
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Cue 2506 2511	vowed
+T74	Content 2512 2562	not to vote for him even if he wins the nomination
+T75	Attribution-no-source 2506 2511	vowed
+E19	Attribution-no-source:T75 Content:T74 Cue:T73
+T76	Source 2633 2645	One in three
+T77	Cue 2646 2650	said
+T78	Content 2651 2710	the party doesn’t care very much about the Latino community
+T79	Attribution 2646 2650	said
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Source 2715 2726	one in four
+T81	Cue 2727 2731	said
+T82	Content 2732 2786	the party was outright hostile to the Latino community
+T83	Attribution 2727 2731	said
+E21	Attribution:T83 Content:T82 Cue:T81 Source:T80
+T84	Source 2810 2813	who
+T85	Cue 2814 2818	said
+T86	Content 2819 2840	the party truly cares
+T87	Attribution 2814 2818	said
+E22	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Source 3055 3098	58 percent of Florida Latino voters overall
+T89	Cue 3099 3103	said
+T90	Content 3104 3166	they were much less likely to vote for Republicans in November
+T91	Attribution 3099 3103	said
+E23	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Source 3463 3470	Manzano
+T93	Cue 3471 3475	said
+T94	Content 3476 3643	the lack of strong support for either candidate is a contrast with the excitement that surrounded Marco Rubio’s candidacy, particularly in the Cuban American community
+T95	Attribution 3471 3475	said
+E24	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Source 4055 4066	respondents
+T97	Cue 4067 4071	said
+T98	Content 3990 4053;4073 4254	The top three most important issues facing the Latino community are immigration policy (34 percent), the economy (33 percent), and health care (15 percent), though the economy was by far the most important issue for them personally at 47 percent
+T99	Attribution 4067 4071	said
+E25	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Source 4427 4434	Manzano
+T101	Cue 4435 4443	surmised
+T102	Content 4257 4425	The high response about health care, almost twice the national response, was likely due to the Legislature choosing not to expand Medicaid under the Affordable Care Act
+T103	Attribution 4435 4443	surmised
+E26	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Content 2565 2581	The party itself
+T105	Cue 2582 2603	didn’t get high marks
+T106	Source 2609 2624	Cuban Americans
+T107	Attribution 2582 2603	didn’t get high marks
+E27	Attribution:T107 Source:T106 Cue:T105 Content:T104

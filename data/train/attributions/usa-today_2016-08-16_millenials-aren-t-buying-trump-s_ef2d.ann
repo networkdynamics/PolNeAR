@@ -1,0 +1,92 @@
+T1	Source 0 10	Millenials
+T2	Cue 11 24	aren't buying
+T3	Content 25 46	Trump's media-blaming
+T4	Attribution 11 24	aren't buying
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 59 71	Donald Trump
+T6	Cue 72 101	has a long history of blaming
+T7	Content 102 145	others for his mostly self-inflicted wounds
+T8	Attribution 72 101	has a long history of blaming
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 216 243	the Republican from Alabama
+T10	Cue 244 281	seems to be doing the same in blaming
+T11	Content 282 328	Trump's decline in the polls on the news media
+T12	Attribution 244 281	seems to be doing the same in blaming
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 336 341	Trump
+T14	Cue 465 475	suggesting
+T15	Content 476 511	the November election may be rigged
+T16	Attribution 465 475	suggesting
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 513 514	I
+T18	Cue 515 522	am glad
+T19	Content 523 615	journalists are pointing this out and informing us that such remarks are truly unprecedented
+T20	Attribution 515 522	am glad
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 870 875	Think
+T22	Content 876 910	you're going to find that good job
+T23	Attribution-no-source 870 875	Think
+E6	Attribution-no-source:T23 Content:T22 Cue:T21
+T24	Content 1107 1116	the folly
+T25	Source 1117 1120	you
+T26	Cue 1121 1129	vote for
+T27	Attribution 1121 1129	vote for
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 1333 1336	who
+T29	Cue 1337 1351	are voting for
+T30	Content 1352 1393	a Republican president for the first time
+T31	Attribution 1337 1351	are voting for
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1495 1507	your nominee
+T33	Cue 1508 1514	enjoys
+T34	Content 1515 1543	shooting himself in the foot
+T35	Attribution 1508 1514	enjoys
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1545 1551	Voters
+T37	Cue 1552 1565	are rejecting
+T38	Content 1566 1569	him
+T39	Attribution 1552 1565	are rejecting
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1571 1574	Who
+T41	Cue 1575 1586	cares about
+T42	Content 1587 1601	the news media
+T43	Attribution 1575 1586	cares about
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Discuss 1571 1574	Who
+T45	Cue 1784 1788	Hail
+T46	Content 1789 1830	Trump for destroying the Republican Party
+T47	Attribution-no-source 1784 1788	Hail
+E12	Attribution-no-source:T47 Content:T46 Cue:T45
+T48	Source 1859 1861	We
+T49	Cue 1862 1867	asked
+T50	Content 1882 1974	what they thought Hillary Clinton was doing better than Donald Trump to attract young voters
+T51	Attribution 1862 1867	asked
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 1991 1998	Clinton
+T53	Cue 1998 2011	's supporting
+T54	Content 2012 2024	civil rights
+T55	Attribution 1998 2011	's supporting
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 2066 2080	the young ones
+T57	Cue 2081 2090	don't see
+T58	Content 2091 2129	the truth about her and Bill's history
+T59	Attribution 2081 2090	don't see
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Cue 2135 2141	refuse
+T61	Content 2142 2174	to look deeper than "free" stuff
+T62	Attribution 2135 2141	refuse
+E16	Attribution:T62 Source:T56 Cue:T60 Content:T61
+T63	Source 2283 2297	the news media
+T64	Cue 2298 2309	to pump out
+T65	Content 2310 2334	bad information on Trump
+T66	Attribution 2298 2309	to pump out
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Cue 2339 2346	deflect
+T68	Content 2347 2365	information on her
+T69	Attribution 2339 2346	deflect
+E18	Attribution:T69 Source:T63 Cue:T67 Content:T68
+T70	Content 2439 2444;2484 2496	which is paramount
+T71	Cue 2445 2447	to
+T72	Source 2448 2483	an information-obessesed generation
+T73	Attribution 2445 2447	to
+E19	Attribution:T73 Source:T72 Cue:T71 Content:T70

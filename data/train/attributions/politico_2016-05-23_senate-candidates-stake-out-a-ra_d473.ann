@@ -1,0 +1,536 @@
+T1	Source 0 17	Senate candidates
+T2	Cue 18 51	stake out a range of positions on
+T3	Content 52 68	education issues
+T4	Attribution 18 51	stake out a range of positions on
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 124 153	Lt. Gov. Carlos Lopez-Cantera
+T6	Cue 154 167	would support
+T7	Content 168 240	doling out federal higher education funding based on performance metrics
+T8	Attribution 154 167	would support
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 243 260	Rep. Ron DeSantis
+T10	Cue 261 275	would advocate
+T11	Content 276 425	allowing federal dollars that support low-income schools to follow students to any schools their families choose, including private or religious ones
+T12	Attribution 261 275	would advocate
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 428 481	Todd Wilcox, a combat veteran and former CIA officer,
+T14	Cue 482 487	wants
+T15	Content 488 613	more opportunities for students to fulfill public-sector service obligations after college in exchange for tuition assistance
+T16	Attribution 482 487	wants
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 616 627	David Jolly
+T18	Cue 628 633	hopes
+T19	Content 634 748	to work across the aisle to boost investment in early childhood education and need-based financial aid for college
+T20	Attribution 628 633	hopes
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 751 786	Real estate developer Carlos Beruff
+T22	Cue 787 797	would push
+T23	Content 798 923	to abolish the U.S. Department of Education and give states broad freedom to spend federal education dollars how they see fit
+T24	Attribution 787 797	would push
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 926 945	Rep. Patrick Murphy
+T26	Cue 946 951	wants
+T27	Content 952 1003	more funding for teacher pay and classroom supplies
+T28	Attribution 946 951	wants
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1005 1048	His Democratic opponent, Rep. Alan Grayson,
+T30	Cue 1049 1062	would support
+T31	Content 1063 1120	later school start times and more free meals for students
+T32	Attribution 1049 1062	would support
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1123 1277	Seven candidates — including the state’s No. 2 elected official, four congressmen and two businessmen seeking to paint themselves as political outsiders —
+T34	Cue 1278 1287	are vying
+T35	Content 1288 1339	to replace Sen. Marco Rubio in Washington next year
+T36	Attribution 1278 1287	are vying
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1390 1398	the race
+T38	Cue 1399 1410	has focused
+T39	Content 1411 1439	more on politics than policy
+T40	Attribution 1399 1410	has focused
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1490 1504	the candidates
+T42	Cue 1505 1513	outlined
+T43	Content 1514 1678	their priorities and positions on controversial education issues, from the role of the federal government in education to how to address the rising costs of college
+T44	Attribution 1505 1513	outlined
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Content 1680 1684	Here
+T46	Source 1693 1697	they
+T47	Cue 1698 1703	stand
+T48	Discuss 1680 1703	Here’s where they stand
+T49	Source 1741 1778	All five of the Republican candidates
+T50	Cue 1779 1789	would like
+T51	Content 1790 1874	to shrink the federal education department and limit its influence over policymaking
+T52	Source 1924 1942	The GOP contenders
+T53	Cue 1943 1948	agree
+T54	Content 1949 2055	that decisions around standards, curriculum and testing should be left to states or local school districts
+T55	Attribution 1779 1789	would like
+E12	Attribution:T55 Cue:T50 Source:T49 Content:T51
+T56	Attribution 1943 1948	agree
+E13	Attribution:T56 Cue:T53 Content:T54 Source:T52
+T57	Attribution 1698 1703	stand
+E14	Attribution:T57 Cue:T47 Source:T46 Content:T45
+T58	Source 2057 2061	They
+T59	Cue 2062 2071	denounced
+T60	Content 2072 2222	the Obama administration’s promotion of the Common Core standards through competitive grants and waivers from the requirements of No Child Left Behind
+T61	Attribution 2062 2071	denounced
+E15	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Content 2255 2455;2471 2697	In 2009, when President Barack Obama offered states billions of dollars for education through his signature Race To The Top competitive grant program, “states were hemorrhaging money. They needed it,” “And he conditioned that funding on adopting things like Common Core standards. Having the policy directed out of Washington is not the way this stuff should work. These decisions should be made locally or at the state level."
+T63	Source 2456 2464	DeSantis
+T64	Cue 2465 2469	said
+T65	Attribution 2465 2469	said
+E16	Attribution:T65 Cue:T64 Source:T63 Content:T62
+T66	Content 2699 2780	Federal mandates are a burden that distract from teaching and learning in schools
+T67	Cue 2782 2786	said
+T68	Source 2787 2913	Wilcox, an Orlando Republican who founded lucrative defense and transportation companies after serving in the Army and the CIA
+T69	Attribution 2782 2786	said
+E17	Attribution:T69 Source:T68 Cue:T67 Content:T66
+T70	Content 2916 3013;3023 3129	“There is more time and effort and money spent on compliance than there is on teaching our kids,” “Why do we need a federal Department of Education? Curriculum should be driven at the local level anyway.”
+T71	Source 3014 3016	he
+T72	Cue 3017 3021	said
+T73	Attribution 3017 3021	said
+E18	Attribution:T73 Cue:T72 Source:T71 Content:T70
+T74	Source 3131 3172	Wilcox and Beruff, a Sarasota Republican,
+T75	Cue 3173 3179	argued
+T76	Content 3180 3291	that the department is not needed to oversee schools’ compliance with anti-discrimination and civil rights laws
+T77	Attribution 3173 3179	argued
+E19	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Content 3293 3335	State departments of education can do that
+T79	Source 3337 3341	they
+T80	Cue 3342 3346	said
+T81	Attribution 3342 3346	said
+E20	Attribution:T81 Cue:T80 Source:T79 Content:T78
+T82	Content 3349 3537;3547 3789	To believe the federal government must ensure states are properly educating students, “you have to take a really cynical view of the 50 states in this country … and I am not that cynical,” “If children are being left behind at the state level, and the states are ignoring that, we really have a problem in this country. I don’t think you need the federal government to tell the states that the children aren’t being taken care of.”
+T83	Source 3538 3540	he
+T84	Cue 3541 3545	said
+T85	Attribution 3541 3545	said
+E21	Attribution:T85 Cue:T84 Source:T83 Content:T82
+T86	Content 3791 3883	If states fail in ensuring students’ protections, the U.S. Department of Justice can step in
+T87	Source 3885 3891	Wilcox
+T88	Cue 3892 3896	said
+T89	Attribution 3892 3896	said
+E22	Attribution:T89 Cue:T88 Source:T87 Content:T86
+T90	Content 3899 3971;3981 4104	“That’s probably still something that the federal government should do,” “I’m not an advocate of disbanding the Department of Justice, but it’s never been the role of the Department of Education.”
+T91	Source 3972 3974	he
+T92	Cue 3975 3979	said
+T93	Attribution 3975 3979	said
+E23	Attribution:T93 Cue:T92 Source:T91 Content:T90
+T94	Source 4106 4174	Republicans Jolly of Indian Shores and DeSantis of Ponte Vedra Beach
+T95	Cue 4175 4186	are against
+T96	Content 4187 4212	abolishing the department
+T97	Attribution 4175 4186	are against
+E24	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 4215 4258	Jolly, who was elected to Congress in 2014,
+T99	Cue 4259 4270	doesn’t see
+T100	Content 4271 4344	the department’s role in enforcing anti-discrimination laws as antiquated
+T101	Attribution 4259 4270	doesn’t see
+E25	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Content 4347 4499	“There are communities around the country that, for economic reasons as well as the history of civil rights, require some level of federal involvement,”
+T103	Source 4500 4502	he
+T104	Cue 4503 4507	said
+T105	Attribution 4503 4507	said
+E26	Attribution:T105 Cue:T104 Source:T103 Content:T102
+T106	Cue 4509 4515	adding
+T107	Content 4516 4552	the involvement should be “minimal.”
+T108	Attribution 4509 4515	adding
+E27	Attribution:T108 Cue:T106 Source:T103 Content:T107
+T109	Content 4554 4646	Closing the department would “[send] the wrong message in terms of our national priorities,”
+T110	Source 4647 4649	he
+T111	Cue 4650 4655	added
+T112	Attribution 4650 4655	added
+E28	Attribution:T112 Cue:T111 Source:T110 Content:T109
+T113	Content 4658 4777	Even if the department no longer existed, some of its functions would be performed by other federal agencies or offices
+T114	Cue 4779 4783	said
+T115	Source 4784 4835	DeSantis, who was elected to the U.S. House in 2012
+T116	Attribution 4779 4783	said
+E29	Attribution:T116 Source:T115 Cue:T114 Content:T113
+T117	Content 4837 4968	The focus should be on the extent of the federal government’s influence over education rather than how the bureaucracy is organized
+T118	Source 4970 4972	he
+T119	Cue 4973 4977	said
+T120	Attribution 4973 4977	said
+E30	Attribution:T120 Cue:T119 Source:T118 Content:T117
+T121	Source 5008 5033	The Republican candidates
+T122	Cue 5034 5049	would also seek
+T123	Content 5050 5146	to limit or eliminate the federal government’s role in directing how education dollars are spent
+T124	Attribution 5034 5049	would also seek
+E31	Attribution:T124 Content:T123 Cue:T122 Source:T121
+T125	Source 5149 5156	Several
+T126	Cue 5157 5161	said
+T127	Content 5162 5305	they would rather federal officials dole out funding for public schools in “block grants” to states, letting them determine spending priorities
+T128	Attribution 5157 5161	said
+E32	Attribution:T128 Content:T127 Cue:T126 Source:T125
+T129	Source 5308 5403	Lopez-Cantera, a Republican and former state legislator who became lieutenant governor in 2014,
+T130	Cue 5404 5408	said
+T131	Content 5409 5510	the block grants should be based on population and come with accountability measures to prevent waste
+T132	Attribution 5404 5408	said
+E33	Attribution:T132 Content:T131 Cue:T130 Source:T129
+T133	Content 5513 5542;5552 5670	“Then let the states decide,” “That’s what the founding fathers intended, that most decisions be made at the state level, not at the federal level.”
+T134	Source 5543 5545	he
+T135	Cue 5546 5550	said
+T136	Attribution 5546 5550	said
+E34	Attribution:T136 Cue:T135 Source:T134 Content:T133
+T137	Source 5672 5677	Jolly
+T138	Cue 5678 5682	said
+T139	Content 5683 5804	he would be cautious in restructuring federal education spending because he’d worry about creating further inefficiencies
+T140	Attribution 5678 5682	said
+E35	Attribution:T140 Content:T139 Cue:T138 Source:T137
+T141	Source 5807 5809	He
+T142	Cue 5810 5815	cited
+T143	Content 5816 5838	the Head Start program
+T144	Attribution 5810 5815	cited
+E36	Attribution:T144 Content:T143 Cue:T142 Source:T141
+T145	Content 5928 6110	If the federal government gave money for Head Start to states and then states doled it out to the organizations that deliver the program, states unnecessarily would become middle men
+T146	Source 6112 6117	Jolly
+T147	Cue 6118 6122	said
+T148	Attribution 6118 6122	said
+E37	Attribution:T148 Cue:T147 Source:T146 Content:T145
+T149	Content 6125 6178;6188 6291	“That would take more money away from the classroom,” “Let’s not create more inefficiencies and actually more cost by creating another administrative layer.”
+T150	Source 6179 6181	he
+T151	Cue 6182 6186	said
+T152	Attribution 6182 6186	said
+E38	Attribution:T152 Cue:T151 Source:T150 Content:T149
+T153	Source 6293 6364	Grayson, an Orlando Democrat who was first elected to Congress in 2008,
+T154	Cue 6365 6375	criticized
+T155	Content 6376 6435	his GOP opponents for their animosity toward the department
+T156	Attribution 6365 6375	criticized
+E39	Attribution:T156 Content:T155 Cue:T154 Source:T153
+T157	Content 6437 6442;6453 6532	which seeks to restore equity where it is distorted by state and local funding models
+T158	Source 6443 6445	he
+T159	Cue 6446 6452	argued
+T160	Attribution 6446 6452	argued
+E40	Attribution:T160 Cue:T159 Source:T158 Content:T157
+T161	Content 6535 6725	“Because we fund K-12 education in this country almost exclusively through local property taxes, we start with a system with enormous disparities, and that in itself creates a federal role,”
+T162	Source 6726 6733	Grayson
+T163	Cue 6734 6738	said
+T164	Attribution 6734 6738	said
+E41	Attribution:T164 Cue:T163 Source:T162 Content:T161
+T165	Content 6741 6914	If states received block grants, they might neglect some of the areas where the federal government has focused its resources, like capital improvements and special education
+T166	Source 6916 6918	he
+T167	Cue 6919 6923	said
+T168	Attribution 6919 6923	said
+E42	Attribution:T168 Cue:T167 Source:T166 Content:T165
+T169	Content 6926 7009	“For all I know, [states] would use the money to buy uniforms for the school band,”
+T170	Source 7010 7017	Grayson
+T171	Cue 7018 7022	said
+T172	Attribution 7018 7022	said
+E43	Attribution:T172 Cue:T171 Source:T170 Content:T169
+T173	Source 7025 7149	Murphy, a Jupiter Democrat who has been endorsed by both the national teachers unions and the Florida Education Association,
+T174	Cue 7204 7232	his chief education priority
+T175	Content 7159 7203	increasing federal funding to public schools
+T176	Attribution 7204 7232	his chief education priority
+E44	Attribution:T176 Content:T175 Cue:T174 Source:T173
+T177	Source 7235 7237	He
+T178	Cue 7238 7242	said
+T179	Content 7243 7395	he has seen schools in Florida that reminded him of “a third-world country,” where teachers didn’t have supplies and students had to share old textbooks
+T180	Attribution 7238 7242	said
+E45	Attribution:T180 Content:T179 Cue:T178 Source:T177
+T181	Content 7398 7595	“It will be a priority in the Senate to fully fund public education, make sure that the teachers not only have the resources and supplies they need but that they’re getting paid what they deserve,”
+T182	Source 7596 7598	he
+T183	Cue 7599 7603	said
+T184	Attribution 7599 7603	said
+E46	Attribution:T184 Cue:T183 Source:T182 Content:T181
+T185	Source 7665 7667	he
+T186	Cue 7668 7677	described
+T187	Content 7659 7664;7678 7754	which as “making sure that companies and individuals are paying their fair share.”
+T188	Attribution 7668 7677	described
+E47	Attribution:T188 Content:T187 Cue:T186 Source:T185
+T189	Source 7982 7990	DeSantis
+T190	Cue 7991 8003	wants to see
+T191	Content 8004 8199	both programs administered like a voucher, where families are able to access the dollars and direct them toward whichever educational programs they want, including ones offered by private schools
+T192	Attribution 7991 8003	wants to see
+E48	Attribution:T192 Content:T191 Cue:T190 Source:T189
+T193	Content 8202 8285	“Let the dollars follow the family to take to any institution that works for them,”
+T194	Source 8286 8294	DeSantis
+T195	Cue 8295 8299	said
+T196	Attribution 8295 8299	said
+E49	Attribution:T196 Cue:T195 Source:T194 Content:T193
+T197	Source 8403 8405	he
+T198	Cue 8406 8411	said:
+T199	Content 8412 8611	“It would spark a competition for the students, and I think it would spur innovation. When you have a captive audience, there is less incentive to innovate than when people can vote with their feet.”
+T200	Attribution 8406 8411	said:
+E50	Attribution:T200 Content:T199 Cue:T198 Source:T197
+T201	Source 8613 8640	Other Republican candidates
+T202	Cue 8641 8645	said
+T203	Content 8646 8722	they support charter schools and vouchers or tax-credit scholarship programs
+T204	Attribution 8641 8645	said
+E51	Attribution:T204 Content:T203 Cue:T202 Source:T201
+T205	Content 8728 8830	they wouldn’t advocate for them on the federal level, because those decisions should be left to states
+T206	Source 8832 8836	they
+T207	Cue 8837 8841	said
+T208	Attribution 8837 8841	said
+E52	Attribution:T208 Cue:T207 Source:T206 Content:T205
+T209	Content 8844 9003	“It’s a slippery slope where I say I want the federal government to be involved less but at the same time I want to promote charter schools and school choice,”
+T210	Source 9004 9017	Lopez-Cantera
+T211	Cue 9018 9022	said
+T212	Attribution 9018 9022	said
+E53	Attribution:T212 Cue:T211 Source:T210 Content:T209
+T213	Source 9025 9070	Murphy, who was elected to the House in 2012,
+T214	Cue 9071 9077	argued
+T215	Content 9078 9249	his fight to increase funding for public schools is especially relevant “in states where they’re stealing money from the public school system to give it to other outlets.”
+T216	Attribution 9071 9077	argued
+E54	Attribution:T216 Content:T215 Cue:T214 Source:T213
+T217	Cue 9275 9288	Opposition to
+T218	Content 9289 9314	the Common Core standards
+T219	Attribution-no-source 9275 9288	Opposition to
+E55	Attribution-no-source:T219 Content:T218 Cue:T217
+T220	Source 9531 9575	former governor Jeb Bush and Gov. Rick Scott
+T221	Cue 9576 9595	have both supported
+T222	Content 9596 9650	implementation of the Common Core or similar standards
+T223	Attribution 9576 9595	have both supported
+E56	Attribution:T223 Content:T222 Cue:T221 Source:T220
+T224	Source 9653 9678	The Common Core standards
+T225	Cue 9679 9686	outline
+T226	Content 9687 9775	which math and English skills students should be able to demonstrate at each grade level
+T227	Attribution 9679 9686	outline
+E57	Attribution:T227 Content:T226 Cue:T225 Source:T224
+T228	Cue 9780 9783	aim
+T229	Content 9784 9855	to boost students’ proficiency in critical thinking and problem solving
+T230	Attribution 9780 9783	aim
+E58	Attribution:T230 Cue:T228 Content:T229 Source:T224
+T231	Source 9881 9888	Florida
+T232	Cue 9889 9896	adopted
+T233	Content 9897 9912	the Common Core
+T234	Attribution 9889 9896	adopted
+E59	Attribution:T234 Content:T233 Cue:T232 Source:T231
+T235	Content 9981 9986	their
+T236	Cue 9987 10005	unpopularity among
+T237	Source 10006 10038	conservatives and liberals alike
+T238	Attribution 9987 10005	unpopularity among
+E60	Attribution:T238 Source:T237 Cue:T236 Content:T235
+T239	Source 10066 10079	Lopez-Cantera
+T240	Cue 10080 10088	promises
+T241	Content 10089 10113	to “end” the Common Core
+T242	Attribution 10080 10088	promises
+E61	Attribution:T242 Content:T241 Cue:T240 Source:T239
+T243	Source 10115 10117	He
+T244	Cue 10118 10122	told
+T245	Content 10140 10214	the state’s own standards are not perfect but “getting better and better."
+T246	Attribution 10118 10122	told
+E62	Attribution:T246 Content:T245 Cue:T244 Source:T243
+T247	Content 10216 10264;10377 10578	“No government is ever going to get it perfect,” “The job of policymakers is to continue seeking perfection and making it better and constantly reassessing to ensure that the students and the parents are getting the most out of the education system.”
+T248	Source 10265 10278	Lopez-Cantera
+T249	Cue 10279 10283	said
+T250	Attribution 10279 10283	said
+E63	Attribution:T250 Cue:T249 Source:T248 Content:T247
+T251	Cue 10289 10300	asked about
+T252	Content 10301 10322	the Florida Standards
+T253	Attribution-no-source 10289 10300	asked about
+E64	Attribution-no-source:T253 Content:T252 Cue:T251
+T254	Content 10324 10329	which
+T255	Cue 10330 10344	were developed
+T256	Source 10351 10375	the Scott administration
+T257	Attribution 10330 10344	were developed
+E65	Attribution:T257 Source:T256 Cue:T255 Content:T254
+T258	Source 10580 10601	Beruff, a Scott ally,
+T259	Cue 10602 10608	called
+T260	Content 10609 10638	Florida’s standards “strong.”
+T261	Attribution 10602 10608	called
+E66	Attribution:T261 Content:T260 Cue:T259 Source:T258
+T262	Content 10640 10777	“It started with Gov. Bush, who elevated the standards and the requirements. It’s been continued, obviously, by Gov. Scott aggressively,”
+T263	Source 10778 10784	Beruff
+T264	Cue 10785 10789	said
+T265	Source 10792 10794	He
+T266	Cue 10794 10815	’s also supportive of
+T267	Content 10816 10843	the state’s testing program
+T268	Attribution 10785 10789	said
+E67	Attribution:T268 Cue:T264 Source:T263 Content:T262
+T269	Attribution 10794 10815	’s also supportive of
+E68	Attribution:T269 Content:T267 Cue:T266 Source:T265
+T270	Content 10846 10908	“If you don’t test, how are you going to measure the results?”
+T271	Source 10909 10911	he
+T272	Cue 10912 10916	said
+T273	Attribution 10912 10916	said
+E69	Attribution:T273 Cue:T272 Source:T271 Content:T270
+T274	Source 10919 10925	Wilcox
+T275	Cue 10926 10930	said
+T276	Content 10931 10991	he was “a big advocate” of the principle of common standards
+T277	Attribution 10926 10930	said
+E70	Attribution:T277 Content:T276 Cue:T275 Source:T274
+T278	Content 10993 10998;11009 11126	which help ease educational disruptions for students who transfer often across state lines, like those in military families
+T279	Source 10999 11001	he
+T280	Cue 11002 11008	argued
+T281	Attribution 11002 11008	argued
+E71	Attribution:T281 Cue:T280 Source:T279 Content:T278
+T282	Content 11129 11169	But the Common Core was rolled out badly
+T283	Source 11171 11173	he
+T284	Cue 11174 11178	said
+T285	Attribution 11174 11178	said
+E72	Attribution:T285 Cue:T284 Source:T283 Content:T282
+T286	Content 11181 11300;11314 11374	“Common Core is broken. It’s broken, not because the Common Core is bad, but because the implementation has failed us,” “Bureaucracy and the federal government have screwed it up.”
+T287	Source 11301 11307	Wilcox
+T288	Cue 11308 11312	said
+T289	Attribution 11308 11312	said
+E73	Attribution:T289 Cue:T288 Source:T287 Content:T286
+T290	Source 11376 11383	Grayson
+T291	Cue 11384 11388	said
+T292	Content 11389 11484	he opposes the Common Core because the standards don’t recognize the uniqueness of each student
+T293	Attribution 11384 11388	said
+E74	Attribution:T293 Content:T292 Cue:T291 Source:T290
+T294	Source 11487 11509	Most of the candidates
+T295	Cue 11510 11514	said
+T296	Content 11515 11565	they support parents’ right to boycott state exams
+T297	Attribution 11510 11514	said
+E75	Attribution:T297 Content:T296 Cue:T295 Source:T294
+T298	Cue 11567 11580	Opposition to
+T299	Content 11581 11596	the Common Core
+T300	Attribution-no-source 11567 11580	Opposition to
+E76	Attribution-no-source:T300 Content:T299 Cue:T298
+T301	Content 11702 11709	opt-out
+T302	Cue 11710 11718	movement
+T303	Source 11722 11744	Florida and nationally
+T304	Attribution 11710 11718	movement
+E77	Attribution:T304 Source:T303 Cue:T302 Content:T301
+T305	Discuss 11705 11744	-out movement in Florida and nationally
+T306	Content 11747 11832;11846 12030	The “opt out” movement is about “people telling leaders, 'this is not what we want,'” “What we’re seeing is a revolt of parents who are saying, ‘we are not going to do this.’ I am not in favor of any kind of legislation that would abolish that choice — that’s for sure.”
+T307	Source 11833 11839	Wilcox
+T308	Cue 11840 11844	said
+T309	Attribution 11840 11844	said
+E78	Attribution:T309 Cue:T308 Source:T307 Content:T306
+T310	Source 12041 12065	the Scott administration
+T311	Cue 12066 12083	doesn’t recognize
+T312	Content 12093 12106	opt-out rates
+T313	Attribution 12066 12083	doesn’t recognize
+E79	Attribution:T313 Content:T312 Cue:T311 Source:T310
+T314	Cue 12111 12125	has maintained
+T315	Content 12126 12163	that state testing is required by law
+T316	Attribution 12111 12125	has maintained
+E80	Attribution:T316 Cue:T314 Content:T315 Source:T310
+T317	Source 12165 12178	Lopez-Cantera
+T318	Cue 12179 12183	said
+T319	Content 12204 12276	“I support parents making the best decisions for their kids’ education.”
+T320	Attribution 12179 12183	said
+E81	Attribution:T320 Content:T319 Cue:T318 Source:T317
+T321	Source 12311 12340	The two Democratic candidates
+T322	Cue 12390 12413	sparred on the issue of
+T323	Content 12414 12471	how to address rising college costs and student loan debt
+T324	Attribution 12390 12413	sparred on the issue of
+E82	Attribution:T324 Content:T323 Cue:T322 Source:T321
+T325	Source 12474 12481	Grayson
+T326	Cue 12482 12496	has introduced
+T327	Content 12497 12558	Vermont Sen. Bernie Sanders’ College for All Act in the House
+T328	Attribution 12482 12496	has introduced
+E83	Attribution:T328 Content:T327 Cue:T326 Source:T325
+T330	Content 12563 12607	would continue his push for it in the Senate
+T329	Source 12609 12611	he
+T331	Cue 12612 12616	said
+T332	Attribution 12612 12616	said
+E84	Attribution:T332 Cue:T331 Source:T329 Content:T330
+T333	Source 12618 12626	The bill
+T334	Cue 12627 12632	would
+T335	Content 12633 12689	make public college tuition-free, among other provisions
+T336	Attribution 12627 12632	would
+E85	Attribution:T336 Content:T335 Cue:T334 Source:T333
+T337	Source 12691 12698	Grayson
+T338	Cue 12699 12711	has endorsed
+T339	Content 12712 12758	Sanders in the Democratic presidential primary
+T340	Attribution 12699 12711	has endorsed
+E86	Attribution:T340 Content:T339 Cue:T338 Source:T337
+T341	Source 12761 12767	Murphy
+T342	Cue 12777 12781	said
+T343	Content 12782 12833	he’s with former secretary of state Hillary Clinton
+T344	Attribution 12777 12781	said
+E87	Attribution:T344 Content:T343 Cue:T342 Source:T341
+T345	Content 12835 12838;12855 12869	who in the primary
+T346	Source 12839 12841	he
+T347	Cue 12841 12854	’s supporting
+T348	Attribution 12841 12854	’s supporting
+E88	Attribution:T348 Cue:T347 Source:T346 Content:T345
+T349	Content 12887 12892;12910 12946	which as part of her presidential platform
+T350	Source 12893 12896	she
+T351	Cue 12897 12909	has promoted
+T352	Attribution 12897 12909	has promoted
+E89	Attribution:T352 Cue:T351 Source:T350 Content:T349
+T353	Source 12871 12880	Clinton’s
+T354	Cue 12881 12885	plan
+T355	Content 12948 13013	would calculate tuition at public colleges based on family income
+T356	Attribution 12881 12885	plan
+E90	Attribution:T356 Content:T355 Cue:T354 Source:T353
+T357	Source 13016 13023	Grayson
+T358	Cue 13024 13028	said
+T359	Content 13029 13105	Murphy’s support of Clinton’s idea is “really an amorphous position to have.
+T360	Attribution 13024 13028	said
+E91	Attribution:T360 Content:T359 Cue:T358 Source:T357
+T361	Content 13107 13214;13229 13281	“What we do here is, we legislate. We introduce bills. We debate them. We vote on them. That’s what we do,” “We don’t introduce or debate platforms or notions.”
+T362	Source 13215 13222	Grayson
+T363	Cue 13223 13227	said
+T364	Attribution 13223 13227	said
+E92	Attribution:T364 Cue:T363 Source:T362 Content:T361
+T365	Source 13283 13316	Murphy’s spokeswoman Galia Slayen
+T366	Cue 13317 13321	said
+T367	Content 13322 13365	Murphy is “proud” to support Clinton’s plan
+T368	Attribution 13317 13321	said
+E93	Attribution:T368 Content:T367 Cue:T366 Source:T365
+T369	Content 13368 13643	“Making college debt free is a progressive value that Democratic candidates in this race share, and while Patrick is focused on finding solutions to make college more affordable and accessible, Alan Grayson is instead attacking our party's likely nominee for the presidency,”
+T370	Source 13644 13647	she
+T371	Cue 13648 13652	said
+T372	Attribution 13648 13652	said
+E94	Attribution:T372 Cue:T371 Source:T370 Content:T369
+T373	Source 13656 13677	Grayson's spokeswoman
+T374	Cue 13678 13688	challenged
+T375	Content 13689 13743	the assertion that Grayson had ever "attacked" Clinton
+T376	Attribution 13678 13688	challenged
+E95	Attribution:T376 Content:T375 Cue:T374 Source:T373
+T377	Cue 13749 13753	said
+T378	Content 13754 13813	he "maintains that she will be a very competent president."
+T379	Attribution 13749 13753	said
+E96	Attribution:T379 Cue:T377 Content:T378 Source:T373
+T380	Source 13837 13854	Murphy's campaign
+T381	Cue 13855 13884	could not immediately provide
+T382	Content 13885 13908	an example of an attack
+T383	Attribution 13855 13884	could not immediately provide
+E97	Attribution:T383 Content:T382 Cue:T381 Source:T380
+T384	Source 13912 13942	The GOP candidates in the race
+T385	Cue 13943 13955	also offered
+T386	Content 13956 13996	ideas for boosting college affordability
+T387	Attribution 13943 13955	also offered
+E98	Attribution:T387 Content:T386 Cue:T385 Source:T384
+T388	Source 13999 14004	Jolly
+T389	Cue 14005 14009	said
+T390	Content 14010 14187	he has worked with Republicans and Democrats on legislation that would allow students to renegotiate their student loan debt under the jurisdiction of a federal bankruptcy judge
+T391	Attribution 14005 14009	said
+E99	Attribution:T391 Content:T390 Cue:T389 Source:T388
+T392	Source 14189 14191	He
+T393	Cue 14192 14201	also said
+T394	Content 14202 14297	he supports increasing the threshold for Pell grants and accelerating disbursement of the funds
+T395	Attribution 14192 14201	also said
+E100	Attribution:T395 Content:T394 Cue:T393 Source:T392
+T396	Source 14300 14308	DeSantis
+T397	Cue 14309 14313	said
+T398	Content 14314 14403	he has supported legislation that would target the power of regional accreditation bodies
+T399	Attribution 14309 14313	said
+E101	Attribution:T399 Content:T398 Cue:T397 Source:T396
+T400	Content 14405 14410;14421 14453	which “a cartel for higher education.”
+T401	Source 14411 14413	he
+T402	Cue 14414 14420	called
+T403	Attribution 14414 14420	called
+E102	Attribution:T403 Cue:T402 Source:T401 Content:T400
+T404	Source 14454 14456	He
+T405	Cue 14457 14475	would advocate for
+T406	Content 14476 14688	the creation of state-level accreditation bodies that could sign off on non-traditional career and technical education programs like apprenticeships and allow students access to federal aid to participate in them
+T407	Attribution 14457 14475	would advocate for
+E103	Attribution:T407 Content:T406 Cue:T405 Source:T404
+T408	Source 14691 14850	Wilcox, whose education at the University of Tampa was paid for by the military because he participated in the Reserve Officers’ Training Corps (ROTC) program,
+T409	Cue 14851 14855	said
+T410	Content 14856 14924	he’d like to see more students get opportunities like the one he had
+T411	Attribution 14851 14855	said
+E104	Attribution:T411 Content:T410 Cue:T409 Source:T408
+T412	Source 14927 14929	He
+T413	Cue 14930 14934	said
+T414	Content 14935 14985	a similar model could work for prospective doctors
+T415	Attribution 14930 14934	said
+E105	Attribution:T415 Content:T414 Cue:T413 Source:T412
+T416	Source 14987 15009	Prospective physicians
+T417	Cue 15010 15021	could agree
+T418	Content 15022 15096	to work in the public sector for a certain period of time after graduation
+T419	Attribution 15010 15021	could agree
+E106	Attribution:T419 Content:T418 Cue:T417 Source:T416
+T420	Discuss 14987 15096	Prospective physicians could agree to work in the public sector for a certain period of time after graduation
+T421	Content 15136 15233	Law enforcement officers, forensic scientists and engineers might also benefit from such programs
+T422	Source 15235 15237	he
+T423	Cue 15238 15242	said
+T424	Attribution 15238 15242	said
+E107	Attribution:T424 Cue:T423 Source:T422 Content:T421
+T425	Content 15245 15297	“It would inspire a sense of service to the nation,”
+T426	Source 15298 15304	Wilcox
+T427	Cue 15305 15309	said
+T428	Attribution 15305 15309	said
+E108	Attribution:T428 Cue:T427 Source:T426 Content:T425

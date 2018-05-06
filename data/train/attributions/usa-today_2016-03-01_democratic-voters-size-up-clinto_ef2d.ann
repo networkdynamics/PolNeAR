@@ -1,0 +1,84 @@
+T1	Source 0 17	Democratic voters
+T2	Cue 18 25	size up
+T3	Content 26 54	Clinton's , Sanders' records
+T4	Attribution 18 25	size up
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discuss 0 10	Democratic
+T6	Discard 57 65	LETTERS.
+T7	Source 125 130	Their
+T8	Cue 131 143	shared goals
+T9	Content 144 173	on social and economic policy
+T10	Attribution 131 143	shared goals
+E2	Attribution:T10 Content:T9 Cue:T8 Source:T7
+T11	Source 195 202	The two
+T12	Cue 204 209	admit
+T13	Content 210 284	that, given the partisan divide,  instituting these goals will not be easy
+T14	Attribution 204 209	admit
+E3	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Content 568 578	the issues
+T16	Source 579 583	they
+T17	Cue 584 594	care about
+T18	Attribution 584 594	care about
+E4	Attribution:T18 Cue:T17 Source:T16 Content:T15
+T19	Source 831 846	growing numbers
+T20	Cue 847 861	have voted for
+T21	Content 863 870	Sanders
+T22	Attribution 847 861	have voted for
+E5	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Discuss 873 891;893 909	Heather T. Remoff. Arlington, Mass.
+T24	Source 911 948	Feminists and establishment Democrats
+T25	Cue 949 995	are wracking their brains trying to figure out
+T26	Content 996 1038	why  Clinton is losing support to  Sanders
+T27	Attribution 949 995	are wracking their brains trying to figure out
+E6	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1144 1146	he
+T29	Cue 1147 1157	appeals to
+T30	Content 1158 1238	a demographic that has zero knowledge of how the American political system works
+T31	Attribution 1147 1157	appeals to
+E7	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1240 1256	Many Millennials
+T33	Cue 1257 1261	want
+T34	Content 1262 1276	what they want
+T35	Attribution 1257 1261	want
+E8	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Cue 1305 1328	realistic understanding
+T37	Content 1329 1380	that Sanders simply can't do what he promises to do
+T38	Attribution 1305 1328	realistic understanding
+E9	Attribution:T38 Source:T32 Cue:T36 Content:T37
+T39	Source 1383 1413	The truly cool and smart voter
+T40	Cue 1446 1470	take a long hard look at
+T41	Content 1471 1572	all that  Clinton has done for women, children, families, minorities and progressive values worldwide
+T42	Attribution 1446 1470	take a long hard look at
+E10	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1657 1660	you
+T44	Cue 1660 1679	'll be on board for
+T45	Content 1680 1687	Clinton
+T46	Attribution 1660 1679	'll be on board for
+E11	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1778 1785	Clinton
+T48	Cue 1786 1790	said
+T49	Content 1791 1899	she would "certainly look into" releasing transcripts of her high-paid speeches to financial industry groups
+T50	Attribution 1786 1790	said
+E12	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Content 1906 1932;1939 1973	no one, including Clinton, to have followed up on this matter
+T52	Cue 1933 1938	seems
+T53	Attribution-no-source 1933 1938	seems
+E13	Attribution-no-source:T53 Cue:T52 Content:T51
+T54	Source 1975 1985	The public
+T55	Cue 1986 2014	"certainly" deserves to know
+T56	Content 2015 2056	what she saw if she took a "look into" it
+T57	Attribution 1986 2014	"certainly" deserves to know
+E14	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Discuss 1975 1978	The
+T59	Discard 2094 2102	TWITTER.
+T60	Source 2104 2106	We
+T61	Cue 2107 2112	asked
+T62	Content 2113 2226	what our followers thought about Hillary Clinton's decisive win over Bernie Sanders in the South Carolina primary
+T63	Attribution 2107 2112	asked
+E15	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 2648 2649	I
+T65	Cue 2650 2655	think
+T66	Content 2656 2722	it is a sure sign we need her to be president of the United States
+T67	Attribution 2650 2655	think
+E16	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Discard 2790 2866	Follow @USATOpinion or #tellusatoday on Twitter for more of this discussion.

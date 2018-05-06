@@ -1,0 +1,55 @@
+T1	Source 0 19	GOP big-money group
+T2	Cue 20 26	whacks
+T3	Content 27 34	Clinton
+T4	Attribution 20 26	whacks
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 223 270	The Future45 group, funded by major GOP donors,
+T6	Cue 271 282	is planning
+T7	Content 283 399	to plaster New Hampshire independents’ and holiday shoppers’ screens with a Christmas-themed Web ad starting Dec. 26
+T8	Attribution 271 282	is planning
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 402 408	Titled
+T10	Content 409 436	“A Very Clinton Christmas,”
+T11	Attribution-no-source 402 408	Titled
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Source 590 601	a voiceover
+T13	Cue 602 609	recites
+T14	Content 610 617	a rhyme
+T15	Attribution 602 609	recites
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Content 620 724	“’Twas the morning of Christmas at the Clinton house, the gifts were all opened: a new server, a mouse,”
+T17	Cue 725 729	says
+T18	Source 730 747	the ad’s narrator
+T19	Attribution 725 729	says
+E5	Attribution:T19 Source:T18 Cue:T17 Content:T16
+T20	Cue 749 767	going on to detail
+T21	Content 768 794	a series of other “gifts.”
+T22	Attribution 749 767	going on to detail
+E6	Attribution:T22 Cue:T20 Content:T21 Source:T18
+T23	Source 437 456	the 30-second video
+T24	Cue 457 468	pans around
+T25	Content 469 582	images of Christmas gifts that evoke some of the Democratic front-runner’s biggest controversies in recent months
+T26	Attribution 457 468	pans around
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Discuss 437 582	the 30-second video pans around images of Christmas gifts that evoke some of the Democratic front-runner’s biggest controversies in recent months
+T28	Source 796 804	The shot
+T29	Cue 805 816	then covers
+T30	Content 817 1118	a series of presents, including a paper shredder, a Christmas card from Russian President Vladimir Putin (featuring the famous image of him sitting shirtless on a horse), checks with the names of foreign governments, and — while the narrator mentions “classified emails” — paper burning in a fireplace
+T31	Attribution 805 816	then covers
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Discuss 796 1118	The shot then covers a series of presents, including a paper shredder, a Christmas card from Russian President Vladimir Putin (featuring the famous image of him sitting shirtless on a horse), checks with the names of foreign governments, and — while the narrator mentions “classified emails” — paper burning in a fireplace
+T33	Source 1462 1478	This latest spot
+T34	Cue 1523 1535	zeroes in on
+T35	Content 1536 1618	controversies that have receded from most national headlines in the past few weeks
+T36	Attribution 1523 1535	zeroes in on
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1682 1690	Future45
+T38	Cue 1691 1707	has been hitting
+T39	Content 1708 1715	Clinton
+T40	Attribution 1691 1707	has been hitting
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Content 1945 1975;2032 2061	she trails the Vermont senator by nearly 9 percentage points
+T42	Cue 1976 1978	in
+T43	Source 1979 2031	the RealClearPolitics average of New Hampshire polls
+T44	Attribution 1976 1978	in
+E11	Attribution:T44 Source:T43 Cue:T42 Content:T41

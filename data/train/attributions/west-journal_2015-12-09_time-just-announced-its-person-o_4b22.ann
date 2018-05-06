@@ -1,0 +1,84 @@
+T1	Source 0 6	‘Time’
+T2	Cue 7 21	Just Announced
+T3	Content 22 46	Its ‘Person Of The Year’
+T4	Attribution 7 21	Just Announced
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 500 504	Time
+T6	Cue 505 514	announces
+T7	Content 515 563	who it believes deserves the distinguished title
+T8	Attribution 505 514	announces
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 565 569	CBS 
+T10	Cue 569 577	reported
+T11	Content 578 711	that the decision to tap Merkel as the Person of the Year was made because Merkel had led her country out of three crises during 2015
+T12	Attribution 569 577	reported
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 713 758	Sam Jacobs, Time’s Assistant Managing Editor,
+T14	Cue 759 768	explained
+T15	Content 776 820	why Merkel was selected above all the others
+T16	Attribution 759 768	explained
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 823 829	Jacobs
+T18	Cue 830 836	called
+T19	Content 837 879	Merkel “The Chancellor of the Free World.”
+T20	Attribution 830 836	called
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 880 886	Jacobs
+T22	Cue 887 895	credited
+T23	Content 896 1038	Merkel with holding “the entire continent together” through the immigration crisis, the troubles in the Eurozone, and the fears over terrorism
+T24	Attribution 887 895	credited
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1107 1113	Jacobs
+T26	Cue 1114 1118	said
+T27	Content 1040 1106;1120 1155	Donald Trump was placed on the short list because of the “impact,” that he’s had on the news this year
+T28	Attribution 1114 1118	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1282 1288	Jacobs
+T30	Cue 1289 1298	explained
+T31	Content 1299 1423	that the Person of the Year title is given to the person who has had the greatest impact on the news, “for good or for ill.”
+T32	Attribution 1289 1298	explained
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 1484 1487;1504 1532	who to see as person of the year
+T34	Source 1488 1492	they
+T35	Cue 1493 1503	would like
+T36	Attribution 1493 1503	would like
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33
+T37	Source 1607 1613	Jacobs
+T38	Cue 1614 1618	said
+T39	Content 1619 1741	that the editors’ email boxes were “flooded” with messages of support for Sanders, but Sanders did not make the short list
+T40	Attribution 1614 1618	said
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1823 1829	Jacobs
+T42	Cue 1830 1834	said
+T43	Content 1743 1822	“Like him or not, Donald Trump has dictated what our politics has looked like,”
+T44	Attribution 1830 1834	said
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Cue 1836 1842	adding
+T46	Content 1843 1901	that Sanders did not rise above Trump’s news-making status
+T47	Attribution 1836 1842	adding
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T41
+T48	Source 1904 1910	Jacobs
+T49	Cue 1911 1920	explained
+T50	Content 1921 2108	that the Black Lives Matter movement was chosen to be placed on the short list because of the impact that the BLM movement has had on college campuses and in cities all across the country
+T51	Attribution 1911 1920	explained
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 2110 2116	Jacobs
+T53	Cue 2117 2126	explained
+T54	Content 2127 2307	that all anyone has to do is ask any police chief or college president what is dictating policy changes, and that the BLM group has made the most significant impact in those realms
+T55	Attribution 2117 2126	explained
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Content 2310 2357	Merkel’s selection as Time’s person of the year
+T57	Cue 2358 2386	has already gotten criticism
+T58	Source 2392 2412	German conservatives
+T59	Attribution 2358 2386	has already gotten criticism
+E15	Attribution:T59 Source:T58 Cue:T57 Content:T56
+T60	Source 2414 2459	A German news organization called “The Local”
+T61	Cue 2460 2465	cited
+T62	Content 2466 2683	that Merkel’s fall in approval ratings in 2015 is attributed to her leadership–specifically her decision to allow 1 million refugees into Germany without reservation, a move that has angered Germans across the country
+T63	Attribution 2460 2465	cited
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 2685 2695	One reader
+T65	Cue 2696 2706	even noted
+T66	Content 2707 2773	that Adolph Hitler was chosen as Time’s Person of the Year in 1938
+T67	Attribution 2696 2706	even noted
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64

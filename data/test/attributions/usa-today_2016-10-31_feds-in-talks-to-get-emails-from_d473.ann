@@ -1,0 +1,50 @@
+T1	Content 62 369	Federal authorities are in discussions with representatives of longtime Hillary Clinton aide Huma Abedin to get permission to search a computer Abedin used so agents can review newly discovered emails that may be related to the previously closed investigation of Clinton's handling of classified information
+T2	Source 371 407	an official familiar with the matter
+T3	Cue 408 419	said Sunday
+T4	Attribution 408 419	said Sunday
+E1	Attribution:T4 Cue:T3 Source:T2 Content:T1
+T5	Source 422 434	The official
+T6	Cue 479 483	said
+T7	Content 484 608	discussions have been underway to secure approval for the review of the laptop used by both Abedin and her estranged husband
+T8	Discuss 587 654	her estranged husband, former representative Anthony Weiner, D-N.Y.
+T9	Source 830 856	NBC News and ABC News both
+T10	Cue 857 872	reported Sunday
+T11	Content 873 995	that the FBI had obtained a warrant to search the emails on Weiner's computer that relate to the probe of Clinton's server
+T12	Attribution 479 483	said
+E2	Attribution:T12 Cue:T6 Source:T5 Content:T7
+T13	Attribution 857 872	reported Sunday
+E3	Attribution:T13 Content:T11 Cue:T10 Source:T9
+T14	Source 998 1021	The Wall Street Journal
+T15	Cue 1022 1037	reported Sunday
+T16	Content 1038 1090	that there may be up to 650,000 emails on the laptop
+T17	Attribution 1022 1037	reported Sunday
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Discuss 998 1176	The Wall Street Journal reported Sunday that there may be up to 650,000 emails on the laptop, but it is unclear how many may be relevant to the Clinton email server investigation
+T19	Source 1179 1203	FBI Director James Comey
+T20	Cue 1204 1220	announced Friday
+T21	Content 1221 1370	that the bureau had uncovered emails that may be related to the FBI probe of Clinton's use of a private email server while she was secretary of State
+T22	Attribution 1204 1220	announced Friday
+E5	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 1372 1377	Comey
+T24	Cue 1378 1399	had announced in July
+T25	Content 1400 1530	that while Clinton had mishandled classified information on her private email, he would not recommend criminal charges against her
+T26	Attribution 1378 1399	had announced in July
+E6	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 1533 1542	Democrats
+T28	Cue 1543 1559	were outraged by
+T29	Content 1560 1629	Comey's announcement Friday that the bureau was reviewing more emails
+T30	Attribution 1543 1559	were outraged by
+E7	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Cue 1631 1637	saying
+T32	Content 1638 1726	that he provided so little detail as to open the door to an array of conspiracy theories
+T33	Attribution 1631 1637	saying
+E8	Attribution:T33 Cue:T31 Source:T27 Content:T32
+T34	Source 1728 1758	Attorney General Loretta Lynch
+T35	Cue 1759 1768	had urged
+T36	Content 1769 1805	Comey not to announce the new review
+T37	Attribution 1759 1768	had urged
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Cue 1807 1813	saying
+T39	Attribution 1807 1813	saying
+E10	Attribution:T39 Cue:T38 Source:T34 Content:T40
+T40	Content 1814 1889	it violated the Justice Department's policy of not interfering in elections

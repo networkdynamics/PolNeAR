@@ -1,0 +1,283 @@
+T1	Discard 124 133	ABSTRACT.
+T2	Discard 287 297	FULL TEXT.
+T3	Source 0 11	Latest poll
+T4	Cue 12 15	has
+T5	Content 16 47	Trump pulling even with Clinton
+T6	Attribution 12 15	has
+E1	Attribution:T6 Content:T5 Cue:T4 Source:T3
+T7	Source 72 94	Democratic candidate's
+T8	Cue 95 102	efforts
+T9	Content 103 121	to dispel mistrust
+T10	Attribution 95 102	efforts
+E2	Attribution:T10 Content:T9 Cue:T8 Source:T7
+T11	Cue 243 249	appear
+T12	Content 135 242;250 284	The Democratic candidate's shifting explanations for her use of a private mail server as secretary of state to raise trust issues among voters
+T13	Attribution-no-source 243 249	appear
+E3	Attribution-no-source:T13 Content:T12 Cue:T11
+T14	Discuss 135 284	The Democratic candidate's shifting explanations for her use of a private mail server as secretary of state appear to raise trust issues among voters
+T17	Content 430 497	a large and growing majority of voters saying she cannot be trusted
+T15	Cue 499 511	according to
+T16	Source 512 551	the latest New York Times/CBS News poll
+T18	Attribution 499 511	according to
+E4	Attribution:T18 Source:T16 Cue:T15 Content:T17
+T19	Source 710 730	67 percent of voters
+T20	Cue 731 734	say
+T21	Content 735 768	she is not honest and trustworthy
+T22	Attribution 731 734	say
+E5	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 861 871	the F.B.I.
+T24	Cue 872 880	released
+T25	Content 881 893	its findings
+T26	Attribution 872 880	released
+E6	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Content 896 994	Mrs. Clinton's six-percentage-point lead over the presumptive Republican nominee, Donald J. Trump,
+T28	Cue 995 997	in
+T29	Source 998 1024	a CBS News poll last month
+T30	Attribution 995 997	in
+E7	Attribution:T30 Source:T29 Cue:T28 Content:T27
+T31	Content 1041 1102;1128 1183	The two candidates are now tied in a general election matchup with each receiving the support of 40 percent of voters
+T32	Source 1104 1116	the new poll
+T33	Cue 1117 1126	indicates
+T34	Attribution 1117 1126	indicates
+E8	Attribution:T34 Cue:T33 Source:T32 Content:T31
+T35	Source 1225 1241	many other polls
+T36	Cue 1242 1246	show
+T37	Content 1247 1308	Mrs. Clinton with a narrow but consistent lead over Mr. Trump
+T38	Attribution 1242 1246	show
+E9	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 1379 1419	the F.B.I. report on her email practices
+T40	Cue 1420 1434	that suggested
+T41	Content 1435 1470	they were imprudent but not illegal
+T42	Attribution 1420 1434	that suggested
+E10	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Content 1537 1546	Mr. Trump
+T44	Cue 1547 1565	is also distrusted
+T45	Source 1569 1608	a large number of voters - 62 percent -
+T46	Attribution 1547 1565	is also distrusted
+E11	Attribution:T46 Source:T45 Cue:T44 Content:T43
+T47	Source 1762 1776	Mrs. Clinton's
+T48	Cue 1777 1816	shifting and inaccurate explanations of
+T49	Content 1817 1860	her email practices at the State Department
+T50	Attribution 1777 1816	shifting and inaccurate explanations of
+E12	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 1931 1967	the F.B.I. director, James B. Comey,
+T52	Cue 1968 1979	recommended
+T53	Content 1980 2104	that no criminal charges be filed against Mrs. Clinton over her handling of classified information on a private email server
+T54	Attribution 1968 1979	recommended
+E13	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Source 2110 2112	he
+T56	Cue 2113 2119	called
+T57	Content 2120 2155	her actions ''extremely careless.''
+T58	Attribution 2113 2119	called
+E14	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 2191 2205	Mrs. Clinton's
+T60	Cue 2241 2262	to explain and defend
+T61	Content 2263 2336	her decision to rely on the private server at her home in Chappaqua, N.Y.
+T62	Attribution 2241 2262	to explain and defend
+E15	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 2338 2367	Mrs. Clinton and her campaign
+T64	Cue 2368 2378	celebrated
+T65	Content 2379 2449	the Justice Department's decision not to indict her as a legal victory
+T66	Attribution 2368 2378	celebrated
+E16	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Content 2455 2476;2485 2496	the political fallout significant
+T68	Cue 2477 2484	appears
+T69	Attribution-no-source 2477 2484	appears
+E17	Attribution-no-source:T69 Cue:T68 Content:T67
+T70	Source 2516 2533	She and her aides
+T71	Cue 2534 2544	have vowed
+T72	Content 2545 2575	to win back the public's trust
+T73	Attribution 2534 2544	have vowed
+E18	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Cue 2583 2596	acknowledging
+T75	Content 2597 2620	that this will be tough
+T76	Attribution 2583 2596	acknowledging
+E19	Attribution:T76 Cue:T74 Content:T75 Source:T70
+T77	Source 2623 2629	Voters
+T78	Cue 2630 2640	still view
+T79	Content 2641 2689	Mrs. Clinton as vastly more prepared for the job
+T80	Attribution 2630 2640	still view
+E20	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Source 2697 2707	50 percent
+T82	Cue 2708 2714	saying
+T83	Content 2715 2730	she is prepared
+T84	Attribution 2708 2714	saying
+E21	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Source 2761 2764	who
+T86	Cue 2765 2768	say
+T87	Content 2769 2793	the same about Mr. Trump
+T88	Attribution 2765 2768	say
+E22	Attribution:T88 Content:T87 Cue:T86 Source:T85
+T89	Source 2997 3000	who
+T90	Cue 3001 3045	range from disappointed to disgruntled about
+T91	Content 3046 3059	their choices
+T92	Attribution 3001 3045	range from disappointed to disgruntled about
+E23	Attribution:T92 Content:T91 Cue:T90 Source:T89
+T93	Source 3067 3087	28 percent of voters
+T94	Cue 3088 3092	said
+T95	Content 3093 3133	they had a positive view of Mrs. Clinton
+T96	Attribution 3088 3092	said
+E24	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Cue 3172 3177	Asked
+T98	Content 3178 3213	if her email practices were illegal
+T99	Attribution-no-source 3172 3177	Asked
+E25	Attribution-no-source:T99 Content:T98 Cue:T97
+T100	Source 3215 3235	46 percent of voters
+T101	Cue 3236 3240	said
+T102	Content 3241 3244	yes
+T103	Attribution 3236 3240	said
+E26	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Source 3271 3274	who
+T105	Cue 3275 3279	said
+T106	Content 3280 3331	using a private server was improper but not illegal
+T107	Attribution 3275 3279	said
+E27	Attribution:T107 Content:T106 Cue:T105 Source:T104
+T108	Source 3333 3352	Twenty-four percent
+T109	Cue 3353 3357	said
+T110	Content 3358 3379	she did nothing wrong
+T111	Attribution 3353 3357	said
+E28	Attribution:T111 Content:T110 Cue:T109 Source:T108
+T112	Content 3382 3474	''I just don't think she's been completely truthful with this whole thing with her emails,''
+T113	Source 3475 3555	Cecelia Purner, 67, a retired customer service representative in Allentown, Pa.,
+T114	Cue 3556 3560	said
+T115	Attribution 3556 3560	said
+E29	Attribution:T115 Cue:T114 Source:T113 Content:T112
+T116	Source 3592 3595	she
+T117	Content 3587 3590;3603 3655	But ''I think she'll make a good president if elected.''
+T118	Cue 3596 3601	added
+T119	Attribution 3596 3601	added
+E30	Attribution:T119 Cue:T118 Content:T117 Source:T116
+T120	Source 3708 3728	30 percent of voters
+T121	Cue 3729 3735	saying
+T122	Content 3736 3768	they have a positive view of him
+T123	Attribution 3729 3735	saying
+E31	Attribution:T123 Content:T122 Cue:T121 Source:T120
+T124	Source 3782 3792	26 percent
+T125	Cue 3793 3797	said
+T126	Content 3798 3806	the same
+T127	Attribution 3793 3797	said
+E32	Attribution:T127 Content:T126 Cue:T125 Source:T124
+T128	Cue 3874 3888	already appear
+T129	Content 3867 3873;3889 3897	voters fatigued
+T130	Attribution-no-source 3874 3888	already appear
+E33	Attribution-no-source:T130 Content:T129 Cue:T128
+T131	Source 3899 3918	More than six in 10
+T132	Cue 3919 3923	said
+T133	Content 3924 3992	they were not looking forward to the next few months of the campaign
+T134	Attribution 3919 3923	said
+E34	Attribution:T134 Content:T133 Cue:T132 Source:T131
+T135	Source 3994 4004	46 percent
+T136	Cue 4005 4009	said
+T137	Content 4010 4071	they were unenthusiastic about the 2016 presidential election
+T138	Attribution 4005 4009	said
+E35	Attribution:T138 Content:T137 Cue:T136 Source:T135
+T139	Source 4074 4120	Carole Bower, 75, a retiree in Carthage, Ill.,
+T140	Cue 4121 4130	supported
+T141	Content 4131 4181	Gov. John Kasich of Ohio in the Republican primary
+T142	Attribution 4121 4130	supported
+E36	Attribution:T142 Content:T141 Cue:T140 Source:T139
+T143	Cue 4191 4196	plans
+T144	Content 4197 4218	to vote for Mr. Trump
+T145	Attribution 4191 4196	plans
+E37	Attribution:T145 Cue:T143 Content:T144 Source:T139
+T146	Content 4220 4294;4305 4359	''I will reluctantly do that because he's got to be better than Hillary,'' ''I will hold my nose and go into that voting booth.''
+T147	Source 4295 4298	she
+T148	Cue 4299 4303	said
+T149	Attribution 4299 4303	said
+E38	Attribution:T149 Cue:T148 Source:T147 Content:T146
+T150	Cue 4365 4377	grim view of
+T151	Content 4378 4399	the political climate
+T152	Attribution-no-source 4365 4377	grim view of
+E39	Attribution-no-source:T152 Content:T151 Cue:T150
+T153	Source 4409 4418	Americans
+T154	Cue 4419 4463	experience heightened anxieties connected to
+T155	Content 4464 4532	their economic prospects, the threat of terrorism and race relations
+T156	Attribution 4419 4463	experience heightened anxieties connected to
+E40	Attribution:T156 Content:T155 Cue:T154 Source:T153
+T157	Source 4622 4642	62 percent of voters
+T158	Cue 4643 4649	saying
+T159	Content 4650 4682	race relations are growing worse
+T160	Attribution 4643 4649	saying
+E41	Attribution:T160 Content:T159 Cue:T158 Source:T157
+T161	Cue 4697 4704	is seen
+T162	Content 4684 4696;4705 4771	Mrs. Clinton as far more capable of dealing with racial tensions than Mr. Trump
+T163	Attribution-no-source 4697 4704	is seen
+E42	Attribution-no-source:T163 Content:T162 Cue:T161
+T164	Source 4774 4794	60 percent of voters
+T165	Cue 4795 4799	said
+T166	Content 4800 4850	Mrs. Clinton would be better at handling the issue
+T167	Attribution 4795 4799	said
+E43	Attribution:T167 Content:T166 Cue:T165 Source:T164
+T168	Source 4870 4873	who
+T169	Cue 4874 4878	said
+T170	Content 4879 4900	the same of Mr. Trump
+T171	Attribution 4874 4878	said
+E44	Attribution:T171 Content:T170 Cue:T169 Source:T168
+T172	Source 5118 5124	voters
+T173	Cue 5125 5142	increasingly view
+T174	Content 5143 5201	Mrs. Clinton as less able to fulfill that economic promise
+T175	Attribution 5125 5142	increasingly view
+E45	Attribution:T175 Content:T174 Cue:T173 Source:T172
+T176	Source 5215 5227	those polled
+T177	Cue 5228 5248	were evenly split on
+T178	Content 5249 5334	whether Mrs. Clinton or Mr. Trump would do a better job handling the economy and jobs
+T179	Attribution 5228 5248	were evenly split on
+E46	Attribution:T179 Content:T178 Cue:T177 Source:T176
+T180	Source 5341 5351	52 percent
+T181	Cue 5352 5356	said
+T182	Content 5357 5382	Mr. Trump would be better
+T183	Attribution 5352 5356	said
+E47	Attribution:T183 Content:T182 Cue:T181 Source:T180
+T184	Source 5501 5504	who
+T185	Cue 5505 5527	expressed sympathy for
+T186	Content 5528 5545	the Islamic State
+T187	Attribution 5505 5527	expressed sympathy for
+E48	Attribution:T187 Content:T186 Cue:T185 Source:T184
+T188	Source 5547 5553	voters
+T189	Cue 5554 5575	are evenly divided on
+T190	Content 5576 5657	which candidate would do a better job of handling terrorism and national security
+T191	Attribution 5554 5575	are evenly divided on
+E49	Attribution:T191 Content:T190 Cue:T189 Source:T188
+T192	Content 5848 5857	Mr. Trump
+T193	Cue 5858 5890	having a double-digit lead among
+T194	Source 5891 5935	men and white voters without college degrees
+T195	Attribution 5858 5890	having a double-digit lead among
+E50	Attribution:T195 Content:T194 Cue:T193 Source:T192
+T196	Content 5940 5952	Mrs. Clinton
+T197	Cue 5953 5992	maintaining her double-digit edge among
+T198	Source 5993 6012	women and nonwhites
+T199	Attribution 5953 5992	maintaining her double-digit edge among
+E51	Attribution:T199 Source:T198 Cue:T197 Content:T196
+T200	Source 6059 6092	Senator Bernie Sanders of Vermont
+T201	Cue 6093 6101	endorsed
+T202	Content 6102 6114	Mrs. Clinton
+T203	Attribution 6093 6101	endorsed
+E52	Attribution:T203 Content:T202 Cue:T201 Source:T200
+T204	Cue 6116 6122	saying
+T205	Content 6123 6204	that his former Democratic primary rival would ''make an outstanding president.''
+T206	Attribution 6116 6122	saying
+E53	Attribution:T206 Cue:T204 Content:T205 Source:T200
+T207	Source 6209 6231	some of his supporters
+T208	Cue 6232 6248	remain reluctant
+T209	Content 6249 6275	to get behind Mrs. Clinton
+T210	Attribution 6232 6248	remain reluctant
+E54	Attribution:T210 Content:T209 Cue:T208 Source:T207
+T211	Cue 6277 6289	often citing
+T212	Content 6290 6307	trust as a factor
+T213	Attribution 6277 6289	often citing
+E55	Attribution:T213 Cue:T211 Content:T212 Source:T207
+T214	Content 6310 6365;6413 6530	''Bernie seemed more to be more transparent than her,'' ''She definitely has the stereotypical politician approach to things, so that makes her feel a little disingenuous.''
+T215	Cue 6366 6370	said
+T216	Source 6371 6412	Rachel Woolard, 20, of Jacksonville, Fla.
+T217	Attribution 6366 6370	said
+E56	Attribution:T217 Source:T216 Cue:T215 Content:T214
+T218	Source 6815 6845	many voters across party lines
+T219	Cue 6846 6858	shrugged off
+T220	Content 6859 6871	the decision
+T221	Attribution 6846 6858	shrugged off
+E57	Attribution:T221 Content:T220 Cue:T219 Source:T218
+T222	Source 6878 6889	three in 10
+T223	Cue 6890 6896	saying
+T224	Content 6897 6961	a vice-presidential candidate would have no effect on their vote
+T225	Attribution 6890 6896	saying
+E58	Attribution:T225 Content:T224 Cue:T223 Source:T222

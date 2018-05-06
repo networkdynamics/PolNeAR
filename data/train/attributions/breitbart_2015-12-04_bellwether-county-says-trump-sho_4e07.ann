@@ -1,0 +1,63 @@
+T1	Source 0 17	Bellwether County
+T2	Cue 18 22	Says
+T3	Content 23 54	Trump Should Win GOP Nomination
+T4	Attribution 18 22	Says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 57 217	Donald Trump will likely win the GOP nomination, if the county that has been more correct than any other in its predictions of presidential elections is correct
+T6	Cue 219 231	according to
+T7	Source 232 257	a new article in Politico
+T8	Attribution 219 231	according to
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Source 491 587	Dave Leip’s Atlas of U.S. Presidential Elections, which examines bellwether states and counties,
+T10	Cue 588 596	to state
+T11	Content 598 769	“Vigo County, Indiana is the most prominent bellwether of presidential elections in the country—voting for the winning candidate in every election from 1956 through 2012.”
+T12	Attribution 588 596	to state
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 892 919	the “Crossroads of America”
+T14	Cue 885 891	called
+T15	Source 923 935	the citizens
+T16	Attribution 885 891	called
+E4	Attribution:T16 Source:T15 Cue:T14 Content:T13
+T17	Content 937 989	the GOP leaners in the area seem enamored with Trump
+T18	Cue 991 1003	according to
+T19	Source 1004 1012	Politico
+T20	Attribution 991 1003	according to
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Source 1015 1023	Politico
+T22	Cue 1024 1031	reveals
+T23	Content 1032 1296	a few relevant facts: “Of its 76,981 registered voters, according to data from the Vigo County Voter Registration Office, 30,290 are Democrats, and 10,280 are Republican. And an eyebrow-raising 40,570 are unaffiliated or have never voted or only vote in generals.”
+T24	Attribution 1024 1031	reveals
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Cue 1349 1361	can be drawn
+T26	Content 1335 1348;1362 1428	the inference that only a powerful candidate can swing the county toward the GOP
+T27	Attribution-no-source 1349 1361	can be drawn
+E7	Attribution-no-source:T27 Content:T26 Cue:T25
+T28	Source 1466 1548	81-year-old Parker Eaton, a nominal Republican who voted for JFK and Bill Clinton,
+T29	Cue 1549 1553	said
+T30	Content 1554 1602;1604 2096	that given the crop of candidates on both sides: "There’s only one: Trump. The reason why, in my opinion: He spends his own money. He’s not going to have any lobbyist or any high zillionaires that he has to do favors for, and I understand Clinton has already got millions of dollars from China and Japan and all them. So who in the hell does she owe favors to? If Trump got in, he doesn’t owe anybody. I haven’t heard him say one word that I don’t agree with. I don’t think he can do a lot of the things he said, but by God, he’s saying it."
+T31	Source 2098 2121	17-year-old Jared Potts
+T32	Cue 2122 2129	echoed:
+T33	Content 2131 2494	“He speaks his mind, and I think that might be what the country needs. A lot of the presidents don’t really enforce what needs to happen, they just do whatever the country feels like. Other countries just say, ‘do this, do that.’ Trump is just like, ‘no, I want this.’ He doesn’t owe anybody anything. Marco Rubio is paid for. Donald Trump is a self-made person.”
+T34	Attribution 2122 2129	echoed:
+E8	Attribution:T34 Cue:T32 Source:T31 Content:T33
+T35	Attribution 1549 1553	said
+E9	Attribution:T35 Content:T30 Cue:T29 Source:T28
+T36	Cue 2595 2601	called
+T37	Content 2566 2585;2602 2619	a celebratory event Politics and Pies
+T38	Attribution-no-source 2595 2601	called
+E10	Attribution-no-source:T38 Content:T37 Cue:T36
+T39	Source 2640 2657	all the attendees
+T40	Cue 2658 2667	expressed
+T41	Content 2668 2691	their support for Trump
+T42	Attribution 2658 2667	expressed
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 2696 2704	Politico
+T44	Cue 2705 2713	reported
+T45	Content 2715 2846	“ … if the Republican primary were held on this evening, and limited to Politics and Pies attendees, Trump would win, and handily.”
+T46	Attribution 2705 2713	reported
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Content 2894 2957	Trump garnered 30% of respondents’ votes, leading the GOP field
+T48	Source 2861 2892	a recent poll of Indiana voters
+T49	Cue 2848 2860	According to
+T50	Attribution 2848 2860	According to
+E13	Attribution:T50 Cue:T49 Source:T48 Content:T47

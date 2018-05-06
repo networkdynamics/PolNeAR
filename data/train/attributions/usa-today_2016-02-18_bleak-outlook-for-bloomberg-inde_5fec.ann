@@ -1,0 +1,193 @@
+T1	Cue 0 17	Bleak outlook for
+T2	Content 18 43	Bloomberg independent run
+T3	Attribution-no-source 0 17	Bleak outlook for
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Content 46 87	Chances of former mayor winning are small
+T5	Cue 89 101	according to
+T6	Source 102 106	poll
+T7	Attribution 89 101	according to
+E2	Attribution:T7 Source:T6 Cue:T5 Content:T4
+T8	Source 166 169	who
+T9	Cue 169 186	's thinking about
+T10	Content 187 208	running for president
+T11	Attribution 169 186	's thinking about
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 147 164	Michael Bloomberg
+T13	Cue 210 214	said
+T14	Content 215 296	it was "impossible" for him or any independent candidate to reach the White House
+T15	Attribution 210 214	said
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 299 318	A new national poll
+T17	Cue 319 327	suggests
+T18	Content 328 456	that the former mayor of New York may have been right the first time and that his candidacy could change the election's dynamics
+T19	Attribution 319 327	suggests
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 459 494	A USA TODAY/Suffolk University poll
+T21	Cue 495 500	found
+T22	Content 501 701	that in a hypothetical race with Donald Trump as the Republican nominee and Bernie Sanders leading the Democratic ticket,  Trump was chosen by 37% of likely voters, Sanders by 30% and Bloomberg by 16%
+T23	Attribution 495 500	found
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 890 898	The poll
+T25	Cue 899 908	addresses
+T26	Content 909 974	a question Bloomberg seemed to have settled for himself years ago
+T27	Attribution 899 908	addresses
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 977 1090	"I am 100% convinced that you cannot win an election unless you are the nominee of one of the two major parties,"
+T29	Source 1091 1100	Bloomberg
+T30	Cue 1101 1105	told
+T31	Attribution 1101 1105	told
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Source 1226 1235	Bloomberg
+T33	Cue 1236 1247	had decided
+T34	Content 1248 1283	not to make a 2008 presidential bid
+T35	Attribution 1236 1247	had decided
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Cue 1285 1296	half-joking
+T37	Content 1308 1396	that the nation wasn't ready for a short, divorced Jewish billionaire in the White House
+T38	Attribution 1285 1296	half-joking
+E10	Attribution:T38 Source:T32 Cue:T36 Content:T37
+T39	Source 1403 1412	Bloomberg
+T40	Cue 1413 1417	says
+T41	Content 1418 1577	he's so distressed by the tone of the presidential campaign -- "an outrage and an insult to voters" -- that he's considering what he so categorically dismissed
+T42	Attribution 1413 1417	says
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1580 1585	Trump
+T44	Cue 1586 1590	said
+T45	Content 1591 1621	he'd welcome Bloomberg's entry
+T46	Attribution 1586 1590	said
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1762 1791	voters outside metro New York
+T48	Cue 1792 1796	know
+T49	Content 1797 1806	Bloomberg
+T50	Attribution 1792 1796	know
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 1808 1812	they
+T52	Cue 1813 1825	may think of
+T53	Content 1826 1978	him more as the gun control advocate who tried to ban sales of sodas over 16ounces than a business entrepreneur who backed stop-and-frisk police tactics
+T54	Attribution 1813 1825	may think of
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Cue 2062 2066	says
+T56	Source 2067 2151	Walter Stone, co-author of Three's a Crowd, a study of third-party presidential bids
+T57	Content 2022 2061;2153 2187	"his chances of winning are very slim," "The deck is stacked against him."
+T58	Attribution 2062 2066	says
+E15	Attribution:T58 Content:T57 Source:T56 Cue:T55
+T59	Source 2610 2669	More than half of respondents in the USA TODAY/Suffolk poll
+T60	Cue 2670 2676	said  
+T61	Content 2676 2753	the nation needs more than two political parties to represent political views
+T62	Attribution 2670 2676	said  
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 2756 2793	Bloomberg's pollster, Douglas Schoen,
+T64	Cue 2794 2798	says
+T65	Content 2799 2870	his man has the money, message, independence and time to fill that need
+T66	Attribution 2794 2798	says
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Content 2872 2999;3009 3060	"I don't think the conventional wisdom" -- that Bloomberg is perceived as a New York nanny-state liberal -- "is going to last," "The mayor would be able to build support rapidly."
+T68	Source 3000 3002	he
+T69	Cue 3003 3007	says
+T70	Attribution 3003 3007	says
+E18	Attribution:T70 Cue:T69 Source:T68 Content:T67
+T71	Source 3062 3099	Fifteen percent of voters in the poll
+T72	Cue 3100 3120	were undecided about
+T73	Content 3121 3158	the hypothetical three-candidate race
+T74	Attribution 3100 3120	were undecided about
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Cue 3259 3263	says
+T76	Source 3264 3412	Geoffrey Cowan, a longtime Democratic Party activist and author of Let the People Rule: Theodore Roosevelt and the Birth of the Presidential Primary
+T77	Content 3161 3258;3414 3459	Bloomberg's "looks like a vanity candidacy, not pushed by a public movement and without a cause," "Who's demanding that Michael Bloomberg run?"
+T78	Attribution 3259 3263	says
+E20	Attribution:T78 Content:T77 Source:T76 Cue:T75
+T79	Source 4212 4215	His
+T80	Cue 4216 4230	issue would be
+T81	Content 4231 4270	his own competence and non-partisanship
+T82	Attribution 4216 4230	issue would be
+E21	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Cue 4279 4296	a rousing call to
+T84	Content 4297 4301	arms
+T85	Attribution-no-source 4279 4296	a rousing call to
+E22	Attribution-no-source:T85 Content:T84 Cue:T83
+T86	Content 4359 4370	its loyalty
+T87	Cue 4371 4387	might be claimed
+T88	Source 4391 4452	one or more of his rivals (Sanders, Hillary Clinton or Trump)
+T89	Attribution 4371 4387	might be claimed
+E23	Attribution:T89 Source:T88 Cue:T87 Content:T86
+T90	Cue 4455 4470	Nor is it clear
+T91	Content 4471 4509	that Bloomberg is the perfect centrist
+T92	Attribution-no-source 4455 4470	Nor is it clear
+E24	Attribution-no-source:T92 Content:T91 Cue:T90
+T93	Source 4511 4513	He
+T94	Cue 4513 4545	's a more dedicated proponent of
+T95	Content 4546 4557	gun control
+T96	Attribution 4513 4545	's a more dedicated proponent of
+E25	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Cue 4582 4613	a more enthusiastic defender of
+T98	Content 4614 4625	Wall Street
+T99	Attribution 4582 4613	a more enthusiastic defender of
+E26	Attribution:T99 Source:T93 Cue:T97 Content:T98
+T100	Source 4650 4655	Stone
+T101	Cue 4656 4660	says
+T102	Content 4661 4770	the increase in polarization and partisanship that Bloomberg decries also makes his election even less likely
+T103	Attribution 4656 4660	says
+E27	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Source 4816 4822	voters
+T105	Cue 4823 4827	fear
+T106	Content 4828 4872	the candidate at the pole furthest from them
+T107	Attribution 4823 4827	fear
+E28	Attribution:T107 Content:T106 Cue:T105 Source:T104
+T108	Source 4897 4902	Stone
+T109	Cue 4903 4907	says
+T110	Content 4874 4895;4909 5069	As Election Day nears the number of real independents -- always exaggerated to begin with -- shrinks as those in the middle flee to the poles toward which they were leaning all along
+T111	Attribution 4903 4907	says
+E29	Attribution:T111 Content:T110 Cue:T109 Source:T108
+T112	Source 5088 5094	voters
+T113	Cue 5095 5098	for
+T114	Content 5104 5151	a Trump presidency is the worst possible result
+T115	Attribution 5095 5098	for
+E30	Attribution:T115 Content:T114 Cue:T113 Source:T112
+T116	Source 5182 5186	they
+T117	Cue 5187 5201	re not willing
+T118	Content 5202 5241	to risk wasting their vote on Bloomberg
+T119	Attribution 5187 5201	re not willing
+E31	Attribution:T119 Content:T118 Cue:T117 Source:T116
+T120	Source 5243 5249	voters
+T121	Cue 5250 5253	for
+T122	Content 5259 5288	a Sanders victory is anathema
+T123	Attribution 5250 5253	for
+E32	Attribution:T123 Content:T122 Cue:T121 Source:T120
+T124	Cue 5313 5329	It's easy to see
+T125	Content 5330 5361	why Bloomberg is tempted to run
+T126	Attribution-no-source 5313 5329	It's easy to see
+E33	Attribution-no-source:T126 Content:T125 Cue:T124
+T127	Source 5369 5372	his
+T128	Cue 5395 5412	low threshold for
+T129	Content 5413 5420	boredom
+T130	Attribution 5395 5412	low threshold for
+E34	Attribution:T130 Content:T129 Cue:T128 Source:T127
+T131	Source 5547 5549	he
+T132	Cue 5550 5558	admitted
+T133	Content 5559 5682	that philanthropy -- even on his own heroic scale -- would not be enough to keep him satisfied after leaving Gracie Mansion
+T134	Attribution 5550 5558	admitted
+E35	Attribution:T134 Content:T133 Cue:T132 Source:T131
+T135	Cue 5448 5466	is often described
+T136	Content 5443 5447;5467 5501	what as the nation's second-biggest job
+T137	Attribution-no-source 5448 5466	is often described
+E36	Attribution-no-source:T137 Content:T136 Cue:T135
+T138	Source 5783 5785	he
+T139	Cue 5785 5794	's wanted
+T140	Content 5773 5782;5795 5802	an office to hold
+T141	Attribution 5785 5794	's wanted
+E37	Attribution:T141 Content:T140 Cue:T139 Source:T138
+T142	Source 5829 5888	The last man to mount a major third-party presidential race
+T143	Cue 5889 5893	says
+T144	Content 5894 5933	he doesn't think Bloomberg will take it
+T145	Attribution 5889 5893	says
+E38	Attribution:T145 Content:T144 Cue:T143 Source:T142
+T146	Content 5936 6066	"We've talked about it in the past, and I believe him when he says he'd only be in it to win, not to be a spoiler or make points,"
+T147	Cue 6067 6071	says
+T148	Source 6072 6083	Ralph Nader
+T149	Attribution 6067 6071	says
+E39	Attribution:T149 Source:T148 Cue:T147 Content:T146
+T150	Cue 6091 6101	excoriated
+T151	Source 6105 6114	Democrats
+T152	Content 6115 6162	for tipping the 2000 election to George W. Bush
+T153	Attribution 6091 6101	excoriated
+E40	Attribution:T153 Content:T152 Source:T151 Cue:T150

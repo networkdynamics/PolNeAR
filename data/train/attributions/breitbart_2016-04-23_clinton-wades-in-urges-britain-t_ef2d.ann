@@ -1,0 +1,116 @@
+T1	Source 0 7	Clinton
+T2	Cue 18 23	Urges
+T3	Content 24 59	Britain to Remain In European Union
+T4	Attribution 18 23	Urges
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 62 97	White House hopeful Hillary Clinton
+T6	Cue 132 158	throwing her weight behind
+T7	Content 159 241	President Obama’s advice that Britain should remain within the European Union (EU)
+T8	Attribution 132 158	throwing her weight behind
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 244 259;286 453	President Obama telling the British people that they would be better off remaining within the Union, and threatening them with loss of American trade should they dare to vote to Leave
+T10	Cue 260 285	has endured criticism for
+T11	Attribution-no-source 260 285	has endured criticism for
+E3	Attribution-no-source:T11 
+E4	Attribution-no-source:T11 Cue:T10 Content:T9
+T12	Source 539 568	sources close to her campaign
+T13	Cue 569 572	say
+T14	Content 573 635	she stands fully behind President Obama’s opposition to Brexit
+T15	Attribution 569 572	say
+E5	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 670 711	her senior policy adviser, Jake Sullivan,
+T17	Cue 712 717	said:
+T18	Content 718 957	“Hillary Clinton believes that transatlantic cooperation is essential, and that cooperation is strongest when Europe is united. She has always valued a strong United Kingdom in a strong EU. And she values a strong British voice in the EU.”
+T19	Attribution 712 717	said:
+E6	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 1005 1007	he
+T21	Cue 1008 1023	will be greeted
+T22	Source 1024 1124	by thousands of Germans protesting against the Transatlantic Trade and Investment Partnership (TTIP)
+T23	Attribution 1008 1023	will be greeted
+E7	Attribution:T23 Source:T22 Cue:T21 Content:T20
+T24	Source 1165 1169	they
+T25	Cue 1170 1200	will hold banners proclaiming:
+T26	Content 1202 1226	Yes we can – Stop TTIP!”
+T27	Attribution 1170 1200	will hold banners proclaiming:
+E8	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 1249 1275	a furious backlash against
+T29	Content 1276 1319	the statements made during his British trip
+T30	Attribution-no-source 1249 1275	a furious backlash against
+E9	Attribution-no-source:T30 
+E10	Attribution-no-source:T30 Content:T29 Cue:T28
+T31	Source 1334 1337	his
+T32	Cue 1338 1345	warning
+T33	Content 1346 1437	that Britain would go have to the “back of the queue” if it wanted a trade deal with the US
+T34	Attribution 1338 1345	warning
+E11	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Cue 1440 1449	Conceding
+T36	Content 1450 1516	that there would likely be a US-UK trade agreement “down the line”
+T37	Source 1517 1519	he
+T38	Attribution 1440 1449	Conceding
+E12	Attribution:T38 Source:T37 Content:T36 Cue:T35
+T39	Cue 1520 1527	warned:
+T40	Content 1528 1678	“It’s not going to happen any time soon, because our focus is on negotiating with a big bloc, the EU. The UK is going to be in the back of the queue.”
+T41	Attribution 1520 1527	warned:
+E13	Attribution:T41 Source:T37 Cue:T39 Content:T40
+T42	Source 1680 1721	UK Independence Party leader Nigel Farage
+T43	Cue 1722 1726	said
+T44	Content 1727 1811	the warning was indicative that the President did not know what he was talking about
+T45	Attribution 1722 1726	said
+E14	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Cue 1817 1824	accused
+T50	Source 2315 2347	A YouGov poll of American voters
+T51	Cue 2348 2370	has, however, revealed
+T52	Content 2371 2451	that the President does not speak for the majority of his citizens on the matter
+T53	Attribution 2348 2370	has, however, revealed
+E16	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Cue 2458 2463	asked
+T55	Content 2464 2581	whether the President’s insistence that the UK would have to wait its turn was the right position for America to take
+T56	Attribution-no-source 2458 2463	asked
+E18	Attribution-no-source:T56 Content:T55 Cue:T54
+T48	Content 1825 1891	Number 10 Downing Street of putting words in the President’s mouth
+T49	Attribution 1817 1824	accused
+E15	Attribution:T49 Source:T42 Cue:T46 Content:T48
+T57	Content 1894 2063;2112 2313	“He said Britain would be at the back of the queue, no American would ever say ‘back of the queue’. Americans don’t use the word ‘queue’, Americans use the word ‘line’,” “Therefore, what Obama said when he said we would be at the back of the queue, he was doing the bidding of Cameron, and Number 10, and doing his best to talk down Britain, and I think that’s shameful.”
+T58	Source 2064 2073	Mr Farage
+T59	Cue 2074 2078	told
+T60	Attribution 2074 2078	told
+E19	Attribution:T60 Cue:T59 Source:T58 Content:T57
+T61	Source 2583 2593	59 percent
+T62	Cue 2594 2598	said
+T63	Content 2599 2737	it was not, and that the two nations had a special relationship which meant that Britain should never have to wait at the back of the line
+T64	Attribution 2594 2598	said
+E20	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 2740 2757	Less than a third
+T66	Cue 2758 2764	agreed
+T67	Content 2784 2824	that Britain would have to wait its turn
+T68	Cue 2866 2871	asked
+T69	Content 2872 2915	who they thought was America’s closest ally
+T70	Attribution-no-source 2866 2871	asked
+E21	Attribution-no-source:T70 
+T71	Attribution 2758 2764	agreed
+E22	Attribution:T71 Source:T65 Cue:T66 Content:T67
+E23	Attribution-no-source:T70 Content:T69 Cue:T68
+T72	Source 2917 2949	the vast majority – 55 percent –
+T73	Cue 2950 2955	named
+T74	Content 2956 2963	Britain
+T75	Attribution 2950 2955	named
+E24	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Content 3066 3072	France
+T77	Cue 3073 3085	was named by
+T78	Source 3086 3108	a paltry three percent
+T79	Attribution 3073 3085	was named by
+E25	Attribution:T79 Source:T78 Cue:T77 Content:T76
+T80	Content 3143 3195;3204 3224	the special relationship between America and Britain to be alive and well
+T81	Cue 3196 3203	appears
+T82	Source 3110 3135	Among the American people
+T83	Attribution 3196 3203	appears
+E26	Attribution:T83 Source:T82 Cue:T81 Content:T80
+T84	Source 3278 3323	Republican Presidential hopeful Sen. Ted Cruz
+T85	Cue 3324 3344	was also critical of
+T86	Content 3345 3359	Obama’s stance
+T87	Attribution 3324 3344	was also critical of
+E27	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Cue 3361 3368	telling
+T89	Content 3387 3532;3534 3823	“President Obama’s comments today are typical of his administration, which began by returning the bust of Winston Churchill from the Oval Office. “Rather than scolding our closest allies for even considering exercising their rights as a sovereign nation, the President of the United States should look for ways to make Brexit, if it happens, an opportunity to enhance and strengthen the special relationship between our two countries.”
+T90	Attribution-no-source 3361 3368	telling
+E28	Attribution-no-source:T90 Content:T89 Cue:T88

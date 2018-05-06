@@ -1,0 +1,63 @@
+T1	Cue 106 110	news
+T2	Content 111 208	that the FBI had reopened a probe into Democratic presidential candidate Hillary Clinton’s emails
+T3	Attribution-no-source 106 110	news
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Cue 331 335	news
+T5	Content 336 441	that Federal Bureau of Investigation head James Comey informed lawmakers that he was restarting the probe
+T6	Attribution-no-source 331 335	news
+E2	Attribution-no-source:T6 Content:T5 Cue:T4
+T7	Source 444 449	Comey
+T8	Cue 458 476	sharply criticized
+T9	Content 477 569	Clinton’s handling of classified information as Secretary of State on a private email server
+T10	Attribution 458 476	sharply criticized
+E3	Attribution:T10 Content:T9 Cue:T8 Source:T7
+T11	Cue 575 592	did not recommend
+T12	Content 593 623	charges be brought against her
+T13	Attribution 575 592	did not recommend
+E4	Attribution:T13 Source:T7 Cue:T11 Content:T12
+T14	Content 1056 1152;993 1022	“The market reaction is essentially a reflection of the possibility that Trump is going to win.” “This is really spectacular,”
+T15	Cue 1023 1027	said
+T16	Source 1028 1054	Chris Low at FTN Financial
+T17	Attribution 1023 1027	said
+E5	Attribution:T17 Source:T16 Cue:T15 Content:T14
+T18	Source 1154 1165	Wall Street
+T19	Cue 1166 1183	has been watching
+T20	Content 1184 1214	the 2016 presidential election
+T21	Attribution 1166 1183	has been watching
+E6	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Cue 1227 1236	welcoming
+T23	Content 1237 1316	polls that have shown Clinton with a clear edge over Republican candidate Trump
+T24	Attribution 1227 1236	welcoming
+E7	Attribution:T24 Source:T18 Cue:T22 Content:T23
+T25	Content 1319 1326;1341 1373	Clinton the more market-friendly outcome
+T26	Cue 1327 1340	is considered
+T27	Attribution-no-source 1327 1340	is considered
+E8	Attribution-no-source:T27 Cue:T26 Content:T25
+T28	Cue 1375 1383	expected
+T29	Content 1384 1443	to maintain the policies of outgoing President Barack Obama
+T30	Attribution-no-source 1375 1383	expected
+E9	Attribution-no-source:T30 Content:T29 Cue:T28
+T31	Source 1446 1456	The market
+T32	Cue 1457 1462	views
+T33	Content 1463 1487	Trump as a great unknown
+T34	Attribution 1457 1462	views
+E10	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 1500 1503	his
+T36	Cue 1504 1516	penchant for
+T37	Content 1517 1528	controversy
+T38	Attribution 1504 1516	penchant for
+E11	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 1572 1575	his
+T40	Cue 1576 1594	harsh criticism of
+T41	Content 1595 1692	key leading trading partners such as China and figures such as Federal Reserve Chair Janet Yellen
+T42	Attribution 1576 1594	harsh criticism of
+E12	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1724 1730	market
+T44	Cue 1731 1741	worries of
+T45	Content 1742 1757	a Trump victory
+T46	Attribution 1731 1741	worries of
+E13	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Cue 1763 1778	closely-watched
+T48	Content 1779 1826	VIX volatility index, the so-called fear index,
+T49	Attribution-no-source 1763 1778	closely-watched
+E14	Attribution-no-source:T49 Content:T48 Cue:T47

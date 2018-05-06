@@ -1,0 +1,56 @@
+T1	Source 123 129	voters
+T2	Cue 170 178	electing
+T3	Content 179 230	a fragmented Parliament made up of multiple parties
+T4	Attribution 170 178	electing
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 565 570	Rajoy
+T6	Cue 571 575	said
+T7	Content 583 629	that he will "try to form a stable government"
+T8	Attribution 571 575	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 634 642	insisted
+T10	Content 643 695	that his party was "still the No. 1 force in Spain."
+T11	Attribution 634 642	insisted
+E3	Attribution:T11 Source:T5 Content:T10 Cue:T9
+T12	Content 771 990	The homeless woman accused of deliberately driving onto a packed sidewalk along the Las Vegas Strip told police she was stressed out by security guards chasing her from parking lots in which she had been trying to sleep
+T13	Source 992 1007	a police report
+T14	Cue 1008 1017	indicates
+T15	Attribution 1008 1017	indicates
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Cue 1043 1063	will be charged with
+T17	Content 1064 1193	murder with a deadly weapon and other charges related to the incident Sunday evening that left one person dead and dozens injured
+T18	Attribution-no-source 1043 1063	will be charged with
+E5	Attribution-no-source:T18 Content:T17 Cue:T16
+T19	Content 1195 1233	"The videos obviously show intention,"
+T20	Source 1234 1267	Clark County Sheriff Joe Lombardo
+T21	Cue 1268 1272	said
+T22	Attribution 1268 1272	said
+E6	Attribution:T22 Cue:T21 Source:T20 Content:T19
+T23	Source 1302 1335	The Clark County Coroner's Office
+T24	Cue 1336 1346	identified
+T25	Content 1347 1409	the person killed as Jessica Valenzuela, 32, of Buckeye, Ariz.
+T26	Attribution 1336 1346	identified
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Content 714 728	'Stoic' driver
+T28	Cue 729 739	identified
+T29	Attribution-no-source 729 739	identified
+E8	Attribution-no-source:T29 Cue:T28 Content:T27
+T30	Content 1470 1622	The man accused of purchasing two of the guns used in the San Bernardino shooting rampage will remain in custody as a criminal case against him proceeds
+T31	Source 1624 1639	a federal judge
+T32	Cue 1640 1645	ruled
+T33	Attribution 1640 1645	ruled
+E9	Attribution:T33 Cue:T32 Source:T31 Content:T30
+T34	Source 1655 1699	U.S. District Magistrate Judge David Bristow
+T35	Cue 1700 1704	said
+T36	Content 1705 1830	a conspiracy Marquez allegedly plotted with one of the shooters was enough to keep him in federal prison as his case is heard
+T37	Attribution 1700 1704	said
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Cue 1846 1859	is accused of
+T39	Content 1833 1840;1860 1959	Marquez plotting at least two other assaults, in 2011 and 2012, with Sayed Farook that were not carried out
+T40	Attribution-no-source 1846 1859	is accused of
+E11	Attribution-no-source:T40 Content:T39 Cue:T38
+T41	Source 2135 2150	Chelsea Clinton
+T42	Cue 2151 2160	announced
+T43	Content 2179 2239	that she is pregnant with her second child, due  next summer
+T44	Attribution 2151 2160	announced
+E12	Attribution:T44 Content:T43 Cue:T42 Source:T41

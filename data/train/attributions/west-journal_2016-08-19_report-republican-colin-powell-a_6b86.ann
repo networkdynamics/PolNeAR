@@ -1,0 +1,70 @@
+T1	Source 0 6	Report
+T2	Cue 6 7	:
+T3	Content 8 68	Republican Colin Powell Advised Clinton To Use Private Email
+T4	Attribution 6 7	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 71 242	Democratic presidential nominee Hillary Clinton told federal investigators in July she was advised by former Secretary of State Colin Powell to use a private email account
+T6	Source 244 262	the New York Times
+T7	Cue 263 271	reported
+T8	Attribution 263 271	reported
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Cue 365 377	According to
+T10	Source 378 387	the Times
+T11	Content 389 573	the information is included in the report the FBI turned over to congressional investigators earlier this week, detailing the bureau’s over three hour interview with Clinton last month
+T12	Attribution 365 377	According to
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Source 576 585	The Times
+T14	Cue 586 596	also cited
+T15	Content 597 643	a new book by political journalist Joe Conason
+T16	Attribution 586 596	also cited
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 645 648	who
+T18	Cue 649 657	detailed
+T19	Content 658 777	a conversation Clinton had in 2009 during a dinner party hosted by another former Secretary of State Madeleine Albright
+T20	Attribution 649 657	detailed
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 1049 1206;834 1023	“Powell told her to use her own email, as he had done, except for classified communications, which he had sent and received via a State Department computer.” “Toward the end of the evening, over dessert, Albright asked all of the former secretaries to offer one salient bit of counsel to the nation’s next top diplomat,” Conason writes in his book
+T22	Cue 1025 1037	according to
+T23	Source 1038 1047	the Times
+T24	Attribution 1025 1037	according to
+E6	Attribution:T24 Source:T23 Cue:T22 Content:T21
+T25	Content 1208 1415	“Saying that his use of personal email had been transformative for the department,” Powell “thus confirmed a decision she had made months earlier — to keep her personal account and use it for most messages,”
+T26	Source 1416 1427	the passage
+T27	Cue 1428 1437	continued
+T28	Attribution 1428 1437	continued
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 1440 1448	The book
+T30	Cue 1450 1456	titled
+T31	Content 1458 1513	Man of the World: The Further Endeavors of Bill Clinton
+T32	Attribution 1450 1456	titled
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1542 1551	The Times
+T34	Cue 1552 1556	says
+T35	Content 1557 1597	they were provided with an advanced copy
+T36	Attribution 1552 1556	says
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1600 1615	Powell’s office
+T38	Cue 1644 1648	said
+T39	Content 1649 1817	the former top diplomat couldn’t recall the exact dinner conversation outlined in Conason’s book, but he did remember telling Clinton about his personal email practices
+T40	Attribution 1644 1648	said
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Content 1820 2023;2061 2128	“He did write former Secretary Clinton an email memo describing his use of his personal AOL email account for unclassified messages and how it vastly improved communications within the State Department,” “At the time there was no equivalent system within the department.”
+T42	Source 2024 2039	Powell’s office
+T43	Cue 2040 2059	said in a statement
+T44	Attribution 2040 2059	said in a statement
+E11	Attribution:T44 Cue:T43 Source:T42 Content:T41
+T45	Source 2130 2143	The statement
+T46	Cue 2144 2149	added
+T47	Content 2150 2316	that Powell used a separate State Department computer to manage classified information and never used his personal email account to transmit any sensitive information
+T48	Attribution 2144 2149	added
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 2319 2343	FBI Director James Comey
+T50	Cue 2344 2353	announced
+T51	Content 2365 2605	that he would not recommend charges against Clinton for mishandling classified information during her tenure as the nation’s top diplomat, despite the fact that she did communicate information over the server that was classified at the time
+T52	Attribution 2344 2353	announced
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 2622 2652	Attorney General Loretta Lynch
+T54	Cue 2653 2662	announced
+T55	Content 2663 2774	that the Department of Justice would accept Comey’s recommendation and not pursue an indictment against Clinton
+T56	Attribution 2653 2662	announced
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53

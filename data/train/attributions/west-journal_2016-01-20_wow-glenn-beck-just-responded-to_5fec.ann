@@ -1,0 +1,58 @@
+T1	Source 34 39	Palin
+T2	Cue 48 59	Endorsement
+T3	Content 42 47	Trump
+T4	Attribution 48 59	Endorsement
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 83 114	Radio talk show host Glenn Beck
+T6	Cue 115 173	minced no words Tuesday night in sharing what he thinks of
+T7	Content 174 215	Sarah Palin’s endorsement of Donald Trump
+T8	Attribution 115 173	minced no words Tuesday night in sharing what he thinks of
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 255 259	Beck
+T10	Cue 260 266	wrote:
+T11	Content 267 494	“I couldn’t disagree with her more but she has played the game now for years. Perhaps she knows more than those of us still on the outside. Maybe the press was right about her [emphasis added] but for all of the wrong reasons.”
+T12	Attribution 260 266	wrote:
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 496 508	The radioman
+T14	Cue 509 520	pointed out
+T15	Content 521 767	that Trump was once an advocate for many of the policies Palin has campaigned against, including “big government, bailouts, executive orders, not just abortion but partial birth abortion, nationalizing of banks, stimulus, pathway to citizenship.”
+T16	Attribution 509 520	pointed out
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 769 840	“What was the massive pivot point to make him change so fundamentally?”
+T18	Source 841 845	Beck
+T19	Cue 846 856	questioned
+T20	Attribution 846 856	questioned
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 1140 1149	Breitbart
+T22	Cue 1150 1157	reports
+T23	Content 1158 1327	the once-political friends had a falling out after Beck read a private email on his radio program Palin had sent him concerning the 2011 shooting of  Rep. Gabby Giffords
+T24	Attribution 1150 1157	reports
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1346 1350	Beck
+T26	Cue 1351 1357	called
+T27	Content 1358 1373	Palin a “clown”
+T28	Attribution 1351 1357	called
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Cue 1397 1410	commenting on
+T30	Content 1411 1506	her speech following Donald Trump’s at a Washington D.C. rally to protest the Iran nuclear deal
+T31	Attribution 1397 1410	commenting on
+E8	Attribution:T31 Source:T25 Content:T30 Cue:T29
+T32	Source 1508 1510	He
+T33	Cue 1536 1542	saying
+T34	Content 1543 1573	it was “childish” to name-call
+T35	Attribution 1536 1542	saying
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1576 1596	The Washington Times
+T37	Cue 1597 1605	reports 
+T38	Content 1605 1679	Beck will endorse Trump rival Sen. Ted Cruz at a rally in Iowa on Saturday
+T39	Attribution 1597 1605	reports 
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1766 1770	Cruz
+T41	Cue 1771 1787	sought to convey
+T42	Content 1788 1824	that he is taking the news in stride
+T43	Attribution 1771 1787	sought to convey
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Cue 1685 1695	the rumors
+T45	Content 1713 1764	the possible Palin endorsement of Trump’s candidacy
+T46	Attribution-no-source 1685 1695	the rumors
+E12	Attribution-no-source:T46 Content:T45 Cue:T44

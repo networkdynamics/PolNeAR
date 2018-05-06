@@ -1,0 +1,63 @@
+T2	Source 0 7	Clinton
+T3	Cue 8 17	swipes at
+T4	Content 18 35	Trump over Brexit
+T1	Attribution 8 17	swipes at
+E1	Attribution:T1 Content:T4 Cue:T3 Source:T2
+T5	Source 57 81	Democrat Hillary Clinton
+T6	Cue 82 102	has taken a swipe at
+T7	Content 103 151	Republican rival Donald Trump’s stance on Brexit
+T8	Attribution 82 102	has taken a swipe at
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 153 159	saying
+T10	Content 160 226	that “bombastic comments” do more harm than good during such times
+T11	Attribution 153 159	saying
+E3	Attribution:T11 Source:T5 Cue:T9 Content:T10
+T12	Source 229 234	Trump
+T13	Cue 235 245	has hailed
+T14	Content 246 304	Britain’s vote to leave the European Union as “fantastic,”
+T15	Attribution 235 245	has hailed
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 305 312	telling
+T17	Content 360 405	that he thinks the Brexit is “a great thing.”
+T18	Attribution 305 312	telling
+E5	Attribution:T18 Source:T12 Cue:T16 Content:T17
+T19	Source 407 414	Clinton
+T20	Cue 500 504	told
+T21	Content 518 658	that the United States should be governed by those “who put the interest of the American people ahead of their personal business interests.”
+T22	Attribution 500 504	told
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Content 761 878;894 978	America needs leaders “who understand that bombastic comments in turbulent times can actually cause more turbulence,” “And that’s why steady, experienced leadership is so important at times like these.”
+T24	Source 879 886	Clinton
+T25	Cue 887 891	said
+T26	Attribution 887 891	said
+E7	Attribution:T26 Cue:T25 Source:T24 Content:T23
+T27	Source 980 985	Trump
+T28	Cue 1074 1082	has said
+T29	Content 1083 1169	Britain’s anti-EU movement had parallels with his own quest to become the US president
+T30	Attribution 1074 1082	has said
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 1172 1179	Clinton
+T32	Cue 1180 1192	acknowledged
+T33	Content 1200 1326	that “just as we have seen there are many frustrated people in Britain, we know there are frustrated people here at home too.”
+T34	Attribution 1180 1192	acknowledged
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 1333 1336	she
+T36	Cue 1337 1341	told
+T37	Content 1406 1559	“no one should be confused about America’s commitment to Europe, not an autocrat in the Kremlin, not a presidential candidate on a Scottish golf course.”
+T38	Attribution 1337 1341	told
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 1561 1586	New polls released Sunday
+T40	Cue 1587 1593	showed
+T41	Content 1594 1640	Clinton taking a lead in the presidential race
+T42	Attribution 1587 1593	showed
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Cue 1642 1654	According to
+T44	Source 1655 1688	a Washington Post-ABC News survey
+T45	Content 1690 1777	51 percent of respondents said they would vote for Clinton, versus 39 percent for Trump
+T46	Attribution 1642 1654	According to
+E12	Attribution:T46 Content:T45 Source:T44 Cue:T43
+T47	Source 1780 1815	A Wall Street Journal/NBC News poll
+T48	Cue 1816 1822	showed
+T49	Content 1823 1887	a slimmer lead for Clinton with 46 percent to Trump’s 41 percent
+T50	Attribution 1816 1822	showed
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47

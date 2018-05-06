@@ -1,0 +1,29 @@
+T1	Source 0 16	Elizabeth Warren
+T2	Cue 16 17	:
+T3	Content 18 64	Donald Trump Is a ‘Proven Failure’ in Business
+T4	Attribution 16 17	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 133 154	Sen. Elizabeth Warren
+T6	Cue 162 166	said
+T7	Content 167 258	presumptive Republican presidential nominee Donald Trump was a “proven failure” in business
+T8	Attribution 162 166	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 261 267	Warren
+T10	Cue 268 272	said
+T11	Content 273 368	Trump university was “like a used car dealership—except that’s unfair to used car dealerships.”
+T12	Attribution 268 272	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 370 448;464 701	“Trump’s salespeople would focus on how much money people could come up with,” “And then they would push perceptive students to max out their credit cards so they could fork over thousands some times ten of thousand to Donald. His playbook said to look for people with problems. Why? Because they make good targets.”
+T14	Source 449 452	she
+T15	Cue 453 462	continued
+T16	Attribution 453 462	continued
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Cue 703 710	Listing
+T18	Content 711 746	several of Trumps business ventures
+T19	Source 747 750	she
+T20	Attribution 703 710	Listing
+E5	Attribution:T20 Source:T19 Content:T18 Cue:T17
+T21	Cue 751 756	added
+T22	Content 758 814	Donald Trump is a proven businessman, a proven failure.”
+T23	Attribution 751 756	added
+E6	Attribution:T23 Cue:T21 Source:T19 Content:T22

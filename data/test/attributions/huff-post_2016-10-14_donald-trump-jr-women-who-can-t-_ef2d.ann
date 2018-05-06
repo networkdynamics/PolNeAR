@@ -1,0 +1,65 @@
+T1	Source 0 15	Donald Trump Jr
+T2	Cue 15 16	:
+T3	Content 17 85	Women Who Can’t ‘Handle’ Harassment ‘Don’t Belong In The Workforce.’
+T4	Attribution 15 16	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 87 103	Donald Trump Jr.
+T6	Cue 104 142	offered some unsolicited career advice
+T7	Content 205 223	Just quit, already
+T8	Attribution 104 142	offered some unsolicited career advice
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 225 358	“If you can’t handle some of the basic stuff that’s become a problem in the workforce today, then you don’t belong in the workforce,”
+T10	Discuss 87 93	Donald
+T11	Source 359 377	Donald Trump’s son
+T12	Cue 378 382	told
+T13	Attribution 378 382	told
+E3	Attribution:T13 Cue:T12 Source:T11 Content:T9
+T14	Content 459 500;576 660	“You should go maybe teach kindergarten,” “You can’t be negotiating billion-dollar deals if you can’t handle, like, you know.”
+T15	Source 501 503	he
+T16	Cue 504 508	said
+T17	Attribution 504 508	said
+E4	Attribution:T17 Cue:T16 Source:T15 Content:T14
+T18	Cue 510 531	apparently suggesting
+T19	Content 532 574	that teachers aren’t part of the workforce
+T20	Attribution 510 531	apparently suggesting
+E5	Attribution:T20 Source:T15 Cue:T18 Content:T19
+T21	Content 738 824	“It is illegal to harass a woman by making offensive comments about women in general,”
+T22	Cue 825 837	according to
+T23	Source 838 881	the Equal Employment Opportunity Commission
+T24	Attribution 825 837	according to
+E6	Attribution:T24 Source:T23 Cue:T22 Content:T21
+T25	Cue 925 985	can’t handle not being able to make offensive comments about
+T26	Content 986 991	women
+T27	Source 890 924	the GOP presidential nominee’s son
+T28	Discuss 884 886	So
+T29	Attribution 925 985	can’t handle not being able to make offensive comments about
+E7	Attribution:T29 Source:T27 Content:T26 Cue:T25
+T30	Source 1037 1046	Trump Jr.
+T31	Cue 1047 1058	later joked
+T32	Content 1059 1125;1126 1179	that saying he’d been harassed would be “my get rich quick scheme. I’m now suing you guys because I feel uncomfortable.”
+T33	Attribution 1047 1058	later joked
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1283 1285	he
+T35	Cue 1286 1290	said
+T36	Content 1291 1387	Sugar Ray singer Mark McGrath could “sexually harass the hell out of anyone” thanks to his looks
+T37	Attribution 1286 1290	said
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Cue 1433 1447	allegations of
+T39	Content 1448 1477	sexual assault and harassment
+T40	Attribution-no-source 1433 1447	allegations of
+E10	Attribution-no-source:T40 Content:T39 Cue:T38
+T41	Content 1531 1533;1549 1565	he of such behavior
+T42	Cue 1534 1548	s been accused
+T43	Attribution-no-source 1534 1548	s been accused
+E11	Attribution-no-source:T43 Cue:T42 Content:T41
+T44	Source 1575 1577	he
+T45	Cue 1578 1589	brushed off
+T46	Content 1590 1709	comments he made in 2005 about groping and forcing himself on women as “locker room talk,” his critics aren’t buying it
+T47	Attribution 1578 1589	brushed off
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Content 1711 1887	“What I found astounding is that he would so publicly—no matter who he was talking to ― that he would acknowledge that he engaged in the textbook definition of sexual assault,”
+T49	Source 1888 1912	Vice President Joe Biden
+T50	Cue 1913 1917	said
+T51	Attribution 1913 1917	said
+E13	Attribution:T51 Cue:T50 Source:T49 Content:T48
+T52	Discard 1921 2043;2044 2294	Need help? Visit RAINN’s National Sexual Assault Online Hotline or the National Sexual Violence Resource Center’s website. Editor’s note: Donald Trump regularly incites political violence and is a serial liar,rampant xenophobe, racist, misogynist and birther who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S.

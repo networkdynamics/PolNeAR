@@ -1,0 +1,96 @@
+T1	Source 0 7	Clinton
+T2	Cue 8 20	acknowledges
+T3	Content 21 69	that she misspoke about FBI director's testimony
+T4	Attribution 8 20	acknowledges
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 307 314	Clinton
+T6	Cue 315 327	acknowledged
+T7	Content 328 532	that she had misspoken in two recent media interviews when she claimed that FBI Director James B. Comey had characterized as "truthful" all of her public statements about her use of a private email server
+T8	Attribution 315 327	acknowledged
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 535 570	The Democratic presidential nominee
+T10	Cue 571 580	explained
+T11	Content 581 641	that Comey was referring only to her interviews with the FBI
+T12	Attribution 571 580	explained
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 648 651	she
+T14	Cue 652 665	also insisted
+T15	Content 666 762	that all of her other public statements on the matter have been consistent with those interviews
+T16	Attribution 652 665	also insisted
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 822 829	Clinton
+T18	Cue 830 834	told
+T19	Content 765 821	"I may have short-circuited, and I will try to clarify,"
+T20	Attribution 830 834	told
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 918 925	Clinton
+T22	Cue 926 950	also made a reference to
+T23	Content 951 1078	Comey's testimony on the existence of about 100 emails containing classified information at the time they were sent or received
+T24	Attribution 926 950	also made a reference to
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1085 1088	she
+T26	Cue 1089 1109	continued to suggest
+T27	Content 1110 1180	that they were not marked classified and were retroactively classified
+T28	Attribution 1089 1109	continued to suggest
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1183 1190	Clinton
+T30	Cue 1191 1206	said explicitly
+T31	Content 1207 1290	that her public statements and the statements that she made to the FBI are the same
+T32	Attribution 1191 1206	said explicitly
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1292 1295	She
+T34	Cue 1296 1310	went on to say
+T35	Content 1311 1452	that, because Comey testified that her comments to the FBI were "truthful," it is also an indication that her public statements were truthful
+T36	Attribution 1296 1310	went on to say
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1619 1626	Clinton
+T38	Cue 1627 1631	said
+T39	Content 1455 1618;1633 1817	"I was pointing out in both of those instances that Director Comey had said that my answers in my FBI interview were truthful, that's really the bottom line here," "I have said during the interview - and on many other occasions during the past months - that what I told the FBI, which he said was truthful, is consistent with what I said publicly."
+T40	Attribution 1627 1631	said
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1833 1840	Clinton
+T42	Cue 1841 1846	said:
+T43	Content 1847 1924	"I have acknowledged repeatedly that using two email accounts was a mistake,"
+T44	Attribution 1841 1846	said:
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 2015 2030	A campaign aide
+T46	Cue 2031 2046	later clarified
+T47	Content 2047 2134	that Clinton misspoke and intended to say that it was a mistake to use only one account
+T48	Attribution 2031 2046	later clarified
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 2735 2742	Clinton
+T50	Cue 2743 2764	said in the interview
+T51	Content 2517 2734	"Director Comey said my answers were truthful, and what I've said is consistent with what I have told the American people, that there were decisions discussed and made to classify retroactively certain of the emails,"
+T52	Attribution 2743 2764	said in the interview
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 2767 2820	Several fact checkers, including The Washington Post,
+T54	Cue 2821 2837	have pointed out
+T55	Content 2838 2923	that Comey said only that her statements in a closed-door FBI interview were truthful
+T56	Attribution 2821 2837	have pointed out
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 2925 2927	He
+T58	Cue 2928 2937	also said
+T59	Content 2938 2995	he was not qualified to weigh in on her public statements
+T60	Attribution 2928 2937	also said
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 3001 3024	several of his findings
+T62	Cue 3025 3037	contradicted
+T63	Content 3038 3059	her public statements
+T64	Attribution 3025 3037	contradicted
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 3103 3108	Comey
+T66	Cue 3109 3118	indicated
+T67	Content 3120 3269	hat Clinton or another government official in her position "should have known that an unclassified system was no place" for a classified conversation
+T68	Attribution 3109 3118	indicated
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 2234 2237	her
+T70	Cue 2238 2243	claim
+T71	Content 2244 2328	that she "never sent or received classified information" on her private email server
+T72	Attribution 2238 2243	claim
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Discuss 2137 2416	The comments came in the form of a convoluted answer to a question about inconsistencies between her claim that she "never sent or received classified information" on her private email server and Comey's testimony before Congress upon the conclusion of the agency's investigation
+T74	Cue 72 95	In an effort to clarify
+T75	Content 96 184	her most recent statements about her use of a private email server as secretary of state
+T76	Source 186 201	Hillary Clinton
+T77	Attribution 72 95	In an effort to clarify
+E19	Attribution:T77 Source:T76 Content:T75 Cue:T74

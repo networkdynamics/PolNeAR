@@ -1,0 +1,250 @@
+T1	Discard 44 53	ABSTRACT.
+T2	Discard 201 211	FULL TEXT.
+T3	Source 0 10	Terrorists
+T4	Cue 11 15	mock
+T5	Content 16 41	bids to block them online
+T6	Attribution 11 15	mock
+E1	Attribution:T6 Content:T5 Cue:T4 Source:T3
+T7	Source 55 94	Politicians and even some technologists
+T8	Cue 95 98	say
+T9	Content 99 198	Silicon Valley's efforts to crack down on the use by terrorists of social media have been toothless
+T10	Attribution 95 98	say
+E2	Attribution:T10 Content:T9 Cue:T8 Source:T7
+T11	Source 281 297	a familiar voice
+T12	Cue 298 308	celebrated
+T13	Content 309 320;333 438	the attacks ''California, we have already arrived with our soldiers. Decide how to be your end, with knife or bomb.''
+T14	Attribution 298 308	celebrated
+E3	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Content 440 452	That comment
+T16	Cue 453 497	was posted from the 335th Twitter account of
+T17	Source 498 557	a pro-Islamic State group that calls itself Asawitiri Media
+T18	Attribution 453 497	was posted from the 335th Twitter account of
+E4	Attribution:T18 Source:T17 Cue:T16 Content:T15
+T19	Source 835 837	it
+T20	Cue 838 845	taunted
+T21	Content 846 853	Twitter
+T22	Attribution 838 845	taunted
+E5	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Cue 884 891	posting
+T24	Content 892 948	images of birthday candles, cake, trophies and fireworks
+T25	Attribution 884 891	posting
+E6	Attribution:T25 Cue:T23 Content:T24 Source:T19
+T26	Source 951 990	Politicians and even some technologists
+T27	Cue 991 994	say
+T28	Content 995 1144	that account, and hundreds just like it, show how Silicon Valley's efforts to crack down on the use by terrorists of social media have been toothless
+T29	Attribution 991 994	say
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 1208 1211	its
+T31	Cue 1212 1221	calls for
+T32	Content 1222 1282	Silicon Valley to roll back the encryption in their products
+T33	Attribution 1212 1221	calls for
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1295 1353	Hillary Clinton, the Democratic presidential front-runner,
+T35	Cue 1354 1363	called on
+T36	Content 1364 1404	tech companies to become more aggressive
+T37	Attribution 1354 1363	called on
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Content 1407 1519;1585 1785	''Resolve means depriving jihadists of virtual territory, just as we work to deprive them of actual territory,'' ''They are using websites, social media, chat rooms and other platforms to celebrate beheadings, recruit future terrorists and call for attacks. We should work with host companies to shut them down.''
+T39	Source 1520 1523	she
+T40	Cue 1524 1528	told
+T41	Attribution 1524 1528	told
+E10	Attribution:T41 Cue:T40 Source:T39 Content:T38
+T42	Content 1949 2018	terrorists using encryption technologies to hide their communications
+T43	Cue 2021 2041	a frequent complaint
+T44	Source 2045 2060	law enforcement
+T45	Attribution 2021 2041	a frequent complaint
+E11	Attribution:T45 Source:T44 Cue:T43 Content:T42
+T46	Source 2063 2083	technology companies
+T47	Cue 2084 2106	are quick to point out
+T48	Content 2107 2200	that of the top five encryption apps recommended by the Islamic State, none are American-made
+T49	Attribution 2084 2106	are quick to point out
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2211 2239	members of the Islamic State
+T51	Cue 2291 2307	claim credit for
+T52	Content 2308 2337	last month's attacks in Paris
+T53	Attribution 2291 2307	claim credit for
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 2343 2399	text messages discovered on one of the attackers' phones
+T55	Cue 2400 2409	suggested
+T56	Content 2410 2459	that the attackers were not even using encryption
+T57	Attribution 2400 2409	suggested
+E14	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 2537 2581	people who have battled other online threats
+T59	Cue 2582 2585	say
+T60	Content 2586 2608	it could be doing more
+T61	Attribution 2582 2585	say
+E15	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 2610 2614	They
+T63	Cue 2615 2623	point to
+T64	Content 2624 2824	technology that has successfully eradicated large swaths of child pornography on the web, or even older tools for spotting computer viruses, as potential guideposts for blocking terror-related content
+T65	Attribution 2615 2623	point to
+E16	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Content 2827 2891	''When Twitter says, 'We can't do this,' I don't believe that,''
+T67	Cue 2892 2896	said
+T68	Source 2897 3044	Hany Farid, chairman of the computer science department at Dartmouth College, who co-developed the child pornography tracking system with Microsoft
+T69	Attribution 2892 2896	said
+E17	Attribution:T69 Source:T68 Cue:T67 Content:T66
+T70	Source 3164 3173	Mr. Farid
+T71	Cue 3174 3178	said
+T72	Content 3179 3279	the same technology could be applied to terror content, so long as companies were motivated to do so
+T73	Attribution 3174 3178	said
+E18	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Content 3281 3345;3355 3465	''There's no fundamental technology or engineering limitation,'' ''This is a business or policy decision. Unless the companies have decided that they just can't be bothered.''
+T75	Source 3346 3348	he
+T76	Cue 3349 3353	said
+T77	Attribution 3349 3353	said
+E19	Attribution:T77 Cue:T76 Source:T75 Content:T74
+T78	Content 3467 3501	The 335 pro-Islamic State accounts
+T79	Cue 3502 3537	certainly did not escape the notice
+T80	Source 3541 3562	executives at Twitter
+T81	Attribution 3502 3537	certainly did not escape the notice
+E20	Attribution:T81 Source:T80 Cue:T79 Content:T78
+T82	Source 3569 3571	it
+T83	Cue 3572 3579	carried
+T84	Content 3580 3643	simultaneous death threats against Jack Dorsey and Dick Costolo
+T85	Attribution 3572 3579	carried
+E21	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Content 3866 3950	Asawitiri Media also uses the same photo of a bearded man's face over and over again
+T87	Cue 3952 3956	said
+T88	Source 3957 4048	Rita Katz, the director of SITE Intelligence Group, which tracks terrorists' communications
+T89	Attribution 3952 3956	said
+E22	Attribution:T89 Source:T88 Cue:T87 Content:T86
+T90	Content 4051 4107;4123 4295	''The bottom line is that Twitter is not doing enough,'' ''With the technology Twitter has, they can immediately stop these accounts, but they have done nothing to stop the dissemination and recruitment of lone wolf terrorists.''
+T91	Source 4108 4116	Ms. Katz
+T92	Cue 4117 4121	said
+T93	Attribution 4117 4121	said
+E23	Attribution:T93 Cue:T92 Source:T91 Content:T90
+T94	Source 4310 4317	Twitter
+T95	Cue 4318 4322	said
+T96	Content 4323 4375	it actively investigated potential terrorist threats
+T97	Attribution 4318 4322	said
+E24	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Content 4377 4487;4514 4678	''Violent threats and the promotion of terrorism deserve no place on Twitter, and our rules make that clear,'' ''We have teams around the world actively investigating reports of rule violations, and they work with law enforcement entities around the world when appropriate.''
+T99	Source 4488 4507	a Twitter spokesman
+T100	Cue 4508 4512	said
+T101	Source 4680 4695	The White House
+T102	Cue 4706 4716	also urged
+T103	Content 4717 4751	the technology industry to do more
+T104	Attribution 4508 4512	said
+E25	Attribution:T104 Cue:T100 Source:T99 Content:T98
+T105	Attribution 4706 4716	also urged
+E26	Attribution:T105 Content:T103 Cue:T102 Source:T101
+T106	Content 4753 4887	''There should be common ground the government and tech can find to address this concern and make sure the American people are safe,''
+T107	Cue 4888 4892	said
+T108	Source 4893 4938	Josh Earnest, the White House press secretary
+T109	Attribution 4888 4892	said
+E27	Attribution:T109 Source:T108 Cue:T107 Content:T106
+T110	Cue 4940 4947	echoing
+T111	Content 4948 4988	comments made earlier by President Obama
+T112	Attribution 4940 4947	echoing
+E28	Attribution:T112 Cue:T110 Source:T108 Content:T111
+T113	Content 4991 5215	Conversations between government officials and tech companies have been going on for more than a year, but since the mass shootings in San Bernardino and Paris, ''there has been a reintensified or reinvigorated engagement,''
+T114	Cue 5216 5228	according to
+T115	Source 5229 5301	a senior administration official who spoke on the condition of anonymity
+T116	Attribution 5216 5228	according to
+E29	Attribution:T116 Source:T115 Cue:T114 Content:T113
+T117	Source 5308 5337	some who advocate free speech
+T118	Cue 5338 5343	argue
+T119	Content 5344 5499	that relying on companies like Twitter and Facebook to be more aggressive arbiters of what constitutes free speech puts those companies in a difficult spot
+T120	Attribution 5338 5343	argue
+E30	Attribution:T120 Content:T119 Cue:T118 Source:T117
+T121	Content 5502 5605;5693 5747	''We don't believe that law enforcement should delegate their responsibilities to private enterprise,'' ''Especially ones that haven't sought out that role.''
+T122	Cue 5606 5610	said
+T123	Source 5611 5691	David Greene, director for civil liberties at the Electronic Frontier Foundation
+T124	Attribution 5606 5610	said
+E31	Attribution:T124 Source:T123 Cue:T122 Content:T121
+T125	Content 5764 5782;5804 5865	Internet companies for not taking down websites that belong to the Islamic State
+T126	Cue 5783 5803	have been criticized
+T127	Attribution-no-source 5783 5803	have been criticized
+E32	Attribution-no-source:T127 Cue:T126 Content:T125
+T128	Cue 5875 5899	have it discovered later
+T129	Content 5900 5934	that the sites were critical of it
+T130	Attribution-no-source 5875 5899	have it discovered later
+E33	Attribution-no-source:T130 Content:T129 Cue:T128
+T131	Source 5936 6007	Matthew Prince, chief executive of CloudFlare, a San Francisco company,
+T132	Cue 6008 6012	said
+T133	Content 6013 6175	that in one case Internet activists criticized his company for keeping several Islamic State websites online when, in fact, the sites in question were pro-Kurdish
+T134	Attribution 6008 6012	said
+E34	Attribution:T134 Content:T133 Cue:T132 Source:T131
+T135	Content 6178 6320	''It's particularly risky to take a bunch of tech companies that are not certified policy experts and insert them into Middle East politics,''
+T136	Source 6321 6331	Mr. Prince
+T137	Cue 6332 6336	said
+T138	Attribution 6332 6336	said
+E35	Attribution:T138 Cue:T137 Source:T136 Content:T135
+T139	Content 6339 6373	Pulling all terror-related content
+T140	Cue 6374 6397	is not always preferred
+T141	Source 6401 6416	law enforcement
+T142	Attribution 6374 6397	is not always preferred
+E36	Attribution:T142 Source:T141 Cue:T140 Content:T139
+T143	Content 6418 6434;6457 6684	In several cases they have been asked to keep terror-related content online so that law enforcement agents can monitor terrorist networks or because the content was created by law enforcement agents to lure terrorists into divulging information
+T144	Source 6436 6451	tech executives
+T145	Cue 6452 6455	say
+T146	Attribution 6452 6455	say
+E37	Attribution:T146 Cue:T145 Source:T144 Content:T143
+T147	Content 6747 6764;6775 6788	the bulk of posts to be private
+T148	Cue 6765 6774	are meant
+T149	Attribution-no-source 6765 6774	are meant
+E38	Attribution-no-source:T149 Cue:T148 Content:T147
+T150	Content 6790 6858;6976 7005	''Do you want Facebook looking at over 1.5 billion people's posts?'' ''And if so, then for what?''
+T151	Cue 6859 6863	said
+T152	Source 6864 6974	Zeynep Tufekci, an assistant professor in technology policy at the University of North Carolina at Chapel Hill
+T153	Attribution 6859 6863	said
+E39	Attribution:T153 Source:T152 Cue:T151 Content:T150
+T154	Cue 7132 7146	is informed of
+T155	Content 7147 7174	specific terrorist activity
+T156	Attribution-no-source 7132 7146	is informed of
+E40	Attribution-no-source:T156 Content:T155 Cue:T154
+T157	Source 7295 7372	Tashfeen Malik, one of two terrorists involved in the San Bernardino attacks,
+T158	Cue 7373 7379	posted
+T159	Content 7380 7409	her public allegiance to ISIS
+T160	Attribution 7373 7379	posted
+E41	Attribution:T160 Content:T159 Cue:T158 Source:T157
+T161	Content 7479 7487	The post
+T162	Cue 7488 7521	did not initiate any user reports
+T163	Attribution-no-source 7488 7521	did not initiate any user reports
+E42	Attribution-no-source:T163 Cue:T162 Content:T161
+T164	Discuss 7479 7521	The post did not initiate any user reports
+T165	Cue 7630 7642	According to
+T166	Source 7643 7668	law enforcement officials
+T167	Content 7670 7769	the Facebook account that Ms. Malik used was linked to an email account she had used for many years
+T168	Attribution 7630 7642	According to
+E43	Attribution:T168 Content:T167 Source:T166 Cue:T165
+T169	Content 7855 8020	''We work aggressively to ensure that we do not have terrorists or terror groups using the site, and we also remove any content that praises or supports terrorism,''
+T170	Cue 8021 8025	said
+T171	Source 8026 8083	Monika Bickert, head of global product policy at Facebook
+T172	Attribution 8021 8025	said
+E44	Attribution:T172 Source:T171 Cue:T170 Content:T169
+T173	Source 8086 8111	A spokeswoman for YouTube
+T174	Cue 8112 8116	said
+T175	Content 8117 8271	that it had policies prohibiting terrorist recruitment and content meant to incite violence and that it quickly removed those videos when flagged by users
+T176	Attribution 8112 8116	said
+E45	Attribution:T176 Content:T175 Cue:T174 Source:T173
+T177	Source 8491 8500	Companies
+T178	Cue 8501 8504	say
+T179	Content 8505 8666	that weakening the encryption in their products would only make regular users more vulnerable to cybertheft and set a bad precedent for other countries to follow
+T180	Attribution 8501 8504	say
+E46	Attribution:T180 Content:T179 Cue:T178 Source:T177
+T181	Source 8681 8685	they
+T182	Cue 8686 8690	note
+T183	Content 8668 8679;8692 8787	What's more there are plenty of encryption options not made by American companies and many of them are free
+T184	Attribution 8686 8690	note
+E47	Attribution:T184 Content:T183 Cue:T182 Source:T181
+T185	Cue 8790 8800	Addressing
+T186	Content 8801 8810	the topic
+T187	Source 8822 8837	the White House
+T188	Attribution 8790 8800	Addressing
+E48	Attribution:T188 Source:T187 Content:T186 Cue:T185
+T189	Cue 8838 8843	urged
+T190	Content 8844 8879	Silicon Valley to find a compromise
+T191	Attribution 8838 8843	urged
+E49	Attribution:T191 Cue:T189 Content:T190 Source:T187
+T192	Content 8882 8956	''We are going to resist the urge to trample a bunch of civil liberties,''
+T193	Source 8957 8968	Mr. Earnest
+T194	Cue 8969 8973	said
+T195	Attribution 8969 8973	said
+E50	Attribution:T195 Cue:T194 Source:T193 Content:T192
+T196	Source 9007 9009	he
+T197	Cue 9010 9015	added
+T198	Content 9017 9081	''We don't want terrorists to have a safe haven in cyberspace.''
+T199	Attribution 9010 9015	added
+E51	Attribution:T199 Content:T198 Cue:T197 Source:T196

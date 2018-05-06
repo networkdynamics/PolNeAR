@@ -1,0 +1,182 @@
+T1	Source 567 570	who
+T2	Cue 571 576	wants
+T3	Content 577 621	to simplify the tax code and lower tax rates
+T4	Attribution 571 576	wants
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 324 339	Hillary Clinton
+T6	Cue 341 349	dangling
+T7	Content 350 525	the prospect of a tuition-free education at an in-state public college or university for a majority of American undergraduates, including many from upper middle-class families
+T8	Attribution 341 349	dangling
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 1120 1131	would offer
+T10	Source 1115 1119	they
+T11	Content 1092 1114	measurable improvement
+T12	Attribution 1120 1131	would offer
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Source 1254 1262	Jeb Bush
+T14	Cue 1262 1263	:
+T15	Content 1264 1308	Student loans Some big ideas do come to pass
+T16	Attribution 1262 1263	:
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 1342 1344	's
+T18	Cue 1345 1366	assume for the moment
+T19	Content 1367 1438	that Mrs. Clinton gets elected and her college proposal becomes reality
+T20	Attribution 1345 1366	assume for the moment
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1679 1682	she
+T22	Cue 1683 1688	drops
+T23	Content 1689 1697	her plan
+T24	Attribution 1683 1688	drops
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1866 1874	Jeb Bush
+T26	Cue 1874 1889	's proposal for
+T27	Content 1890 1944	a radical overhaul of the federal student loan program
+T28	Attribution 1874 1889	's proposal for
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 2803 2807	they
+T30	Cue 2808 2824	are not aware of
+T31	Content 2825 2899	the confusing array of income-driven repayment programs that already exist
+T32	Attribution 2808 2824	are not aware of
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 3245 3323	Teenage undergraduates with nonexistent credit histories might not be so lucky
+T34	Cue 3325 3337	according to
+T35	Source 3338 3401	Jason Delisle, who was an informal adviser to the Bush campaign
+T36	Attribution 3325 3337	according to
+E9	Attribution:T36 Source:T35 Cue:T34 Content:T33
+T37	Cue 3409 3419	the desire
+T38	Content 3420 3439	to do more for them
+T39	Attribution-no-source 3409 3419	the desire
+E10	Attribution-no-source:T39 Content:T38 Cue:T37
+T40	Source 3673 3687	Bernie Sanders
+T41	Cue 3687 3688	:
+T42	Content 3689 3726	Credit scores On his campaign website
+T43	Attribution 3687 3688	:
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 3728 3750	Senator Bernie Sanders
+T45	Cue 3751 3760	calls for
+T46	Content 3761 3868	credit score reform, ''to make the banking and credit industries work for borrowers and not just lenders.''
+T47	Attribution 3751 3760	calls for
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 3869 3871	He
+T49	Cue 3872 3886	does not offer
+T50	Content 3887 3902	further details
+T51	Attribution 3872 3886	does not offer
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 3908 3920	his campaign
+T53	Cue 3921 3939	did not respond to
+T54	Content 3940 3973	my requests last week for comment
+T55	Attribution 3921 3939	did not respond to
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 4199 4214	Senator Sanders
+T57	Cue 4215 4223	proposed
+T58	Content 4224 4233	just that
+T59	Attribution 4215 4223	proposed
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Cue 4249 4259	seems like
+T61	Content 4244 4248;4260 4280	This a fine and fair idea
+T62	Attribution-no-source 4249 4259	seems like
+E16	Attribution-no-source:T62 Content:T61 Cue:T60
+T63	Content 4484 4603	''The score you would get once per year would not be the one that your lender is using, and it would change tomorrow,''
+T64	Cue 4604 4608	said
+T65	Source 4609 4764	John Ulzheimer, who writes about the credit industry for consumers and frequently serves as an expert witness, mostly for lenders or others in the industry
+T66	Attribution 4604 4608	said
+E17	Attribution:T66 Source:T65 Cue:T64 Content:T63
+T67	Source 4767 4774	The law
+T68	Cue 4775 4797	does currently require
+T69	Content 4798 4874	mortgage lenders to give all applicants the credit score that they are using
+T70	Attribution 4775 4797	does currently require
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Source 4886 4897	any company
+T72	Cue 4898 4913	that turns down
+T73	Content 4914 4923	customers
+T74	Attribution 4898 4913	that turns down
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Cue 4957 4961	asks
+T76	Content 4967 5009	to pay more than they might have otherwise
+T77	Attribution 4957 4961	asks
+E20	Attribution:T77 Cue:T75 Content:T76 Source:T71
+T78	Source 5154 5172	the next president
+T79	Cue 5173 5193	could try to require
+T80	Content 5194 5270	that every company hand out the ones they are using to any consumer who asks
+T81	Attribution 5173 5193	could try to require
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Source 5279 5282	who
+T83	Cue 5283 5286	ask
+T84	Content 5287 5294	for one
+T85	Attribution 5283 5286	ask
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Source 5648 5652	FICO
+T87	Cue 5653 5667	has encouraged
+T88	Content 5668 5721	other companies to make scores available to customers
+T89	Attribution 5653 5667	has encouraged
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Source 5724 5735	Marco Rubio
+T91	Cue 5735 5736	:
+T92	Content 5737 5770	Retirement accounts Two years ago
+T93	Attribution 5735 5736	:
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 5772 5802	Senator Marco Rubio of Florida
+T95	Cue 5803 5811	proposed
+T96	Content 5812 5962	that everyone in America ought to be able to invest through the United States government's retirement program, which is called the Thrift Savings Plan
+T97	Attribution 5803 5811	proposed
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 6347 6350	who
+T99	Cue 6351 6356	think
+T100	Content 6357 6373	they know better
+T101	Attribution 6351 6356	think
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Source 5964 5966	He
+T103	Cue 5967 5978	had in mind
+T104	Content 5979 6039	the millions of people who have no workplace retirement plan
+T105	Attribution 5967 5978	had in mind
+E27	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Source 6624 6681	William A. Birdthistle, author of ''Empire of the Fund,''
+T107	Cue 6741 6758	first pointed out
+T108	Content 6759 6779	Mr. Rubio's interest
+T109	Attribution 6741 6758	first pointed out
+E28	Attribution:T109 Content:T108 Cue:T107 Source:T106
+T110	Source 6787 6789	He
+T111	Cue 6790 6798	wondered
+T112	Content 6809 6877	why the senator didn't have much to say about it during his campaign
+T113	Attribution 6790 6798	wondered
+E29	Attribution:T113 Content:T112 Cue:T111 Source:T110
+T114	Source 6879 6898	His representatives
+T115	Cue 6899 6921	declined to comment on
+T116	Content 6922 7012	whether he still supported letting every American invest the way that federal employees do
+T117	Attribution 6899 6921	declined to comment on
+E30	Attribution:T117 Content:T116 Cue:T115 Source:T114
+T118	Source 7015 7206	Mr. Birdthistle, who worked for a big law firm that defended troubled mutual fund companies before he became a professor at the Illinois Institute of Technology's Chicago-Kent College of Law,
+T119	Cue 7207 7216	points to
+T120	Content 7217 7300	the political pickle a candidate might be in for supporting the Thrift Savings Plan
+T121	Attribution 7207 7216	points to
+E31	Attribution:T121 Content:T120 Cue:T119 Source:T118
+T122	Source 7302 7308	Voters
+T123	Cue 7309 7320	might blame
+T124	Content 7321 7331	a Democrat
+T125	Attribution 7309 7320	might blame
+E32	Attribution:T125 Content:T124 Cue:T123 Source:T122
+T126	Source 7420 7432	A Republican
+T127	Cue 7443 7460	would be praising
+T128	Content 7461 7581	a giant government savings plan that offers better investments and lower prices than most of the private sector delivers
+T129	Attribution 7443 7460	would be praising
+E33	Attribution:T129 Content:T128 Cue:T127 Source:T126
+T130	Source 7867 7882	Mr. Birdthistle
+T131	Cue 7883 7892	suggested
+T132	Content 7893 8032	that the government might build a parallel program alongside the current plan so as not to impose those new costs on incumbent participants
+T133	Attribution 7883 7892	suggested
+E34	Attribution:T133 Content:T132 Cue:T131 Source:T130
+T134	Source 8470 8472	he
+T135	Cue 8473 8484	recommended
+T136	Content 8485 8556	a different investment firm, one that is best known for its index funds
+T137	Attribution 8473 8484	recommended
+E35	Attribution:T137 Content:T136 Cue:T135 Source:T134
+T138	Source 8646 8657	the partner
+T139	Cue 8658 8662	told
+T140	Content 8632 8644;8669 8679	The solution was simple
+T141	Attribution 8658 8662	told
+E36	Attribution:T141 Content:T140 Cue:T139 Source:T138
+T142	Content 8681 8717	''Just put your money in Vanguard,''
+T143	Source 8718 8720	he
+T144	Cue 8721 8725	said
+T145	Attribution 8721 8725	said
+E37	Attribution:T145 Cue:T144 Source:T143 Content:T142

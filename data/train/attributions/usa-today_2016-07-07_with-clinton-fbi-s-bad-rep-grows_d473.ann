@@ -1,0 +1,68 @@
+T1	Content 36 105	"I'd rather have a sister in a whorehouse than a brother in the FBI."
+T2	Cue 111 121	quote from
+T3	Source 122 166	Alabama Securities Commissioner Thomas Krebs
+T4	Attribution 111 121	quote from
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Content 303 305	it
+T6	Cue 305 340	's a sentiment that could be shared
+T7	Source 344 359	a lot of people
+T8	Attribution 305 340	's a sentiment that could be shared
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Source 456 458	he
+T10	Cue 459 467	laid out
+T11	Content 468 519	an extended record of misconduct by Hillary Clinton
+T12	Attribution 459 467	laid out
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 524 538	then announced
+T14	Content 539 581	that he wouldn't recommend prosecuting her
+T15	Attribution 524 538	then announced
+E4	Attribution:T15 Cue:T13 Source:T9 Content:T14
+T16	Source 755 777	the Russian government
+T17	Cue 745 751	warned
+T18	Content 778 798	that he was a threat
+T19	Attribution 745 751	warned
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 1036 1113	The FBI made a "mistake" in the background check for mass shooter Dylann Roof
+T21	Source 1115 1120	Comey
+T22	Cue 1121 1129	has said
+T23	Attribution 1121 1129	has said
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Content 1227 1231;1249 1261	what a hate crime
+T25	Source 1232 1241	officials
+T26	Cue 1242 1248	called
+T27	Attribution 1242 1248	called
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 1268 1273	Comey
+T29	Cue 1263 1267	Said
+T30	Content 1275 1426	"The thought that an error on our part is connected to this guy's purchase of a gun that he used to slaughter these good people is very painful to us."
+T31	Attribution 1263 1267	Said
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 1517 1523	warned
+T33	Content 1530 1557	Orlando shooter Omar Mateen
+T34	Attribution-no-source 1517 1523	warned
+E9	Attribution-no-source:T34 Content:T33 Cue:T32
+T35	Source 1776 1786	the bureau
+T36	Cue 1787 1792	asked
+T37	Content 1849 1918	to stonewall records requests from the news media about what happened
+T38	Attribution 1787 1792	asked
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Content 1921 1925	This
+T40	Cue 1926 1951	has to be very painful to
+T41	Source 1952 2004	the many hardworking non-political people at the FBI
+T42	Attribution 1926 1951	has to be very painful to
+E11	Attribution:T42 Source:T41 Cue:T40 Content:T39
+T43	Cue 2899 2909	has seemed
+T44	Content 2874 2898;2910 2963	one agency after another ready, willing and able to be compromised by politics
+T45	Attribution-no-source 2899 2909	has seemed
+E12	Attribution-no-source:T45 Content:T44 Cue:T43
+T46	Source 3112 3124	The Atlantic
+T47	Cue 3125 3139	recently noted
+T48	Content 3141 3191	trust in government is collapsing around the world
+T49	Attribution 3125 3139	recently noted
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 3452 3453	I
+T51	Cue 3454 3461	predict
+T52	Content 3446 3450;3463 3480	This will not end well
+T53	Attribution 3454 3461	predict
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Discard 3483 3596	Glenn Harlan Reynolds, a University of Tennessee law professor, is a member of USA TODAY's Board of Contributors.

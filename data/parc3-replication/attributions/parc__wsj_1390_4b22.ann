@@ -1,0 +1,147 @@
+T1	Source 9 24	Maidenform Inc.
+T2	Cue 25 30	loves
+T3	Content 31 101	to be intimate with its customers, but not with the rest of the public
+T4	Attribution 25 30	loves
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 361 365	says
+T6	Source 366 423	Robert A. Brawer, 52 years old, recently named president,
+T7	Content 287 360	"There are very few companies that can boast of such a close-knit group,"
+T8	Attribution 361 365	says
+E2	Attribution:T8 Content:T7 Source:T6 Cue:T5
+T9	Source 522 524	he
+T10	Cue 525 530	muses
+T11	Content 494 521	"We are a vanishing breed,"
+T12	Attribution 525 530	muses
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 552 555	who
+T14	Cue 556 564	declined
+T15	Content 565 582	to be interviewed
+T16	Attribution 556 564	declined
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 690 700	Maidenform
+T18	Cue 701 705	says
+T19	Content 706 727	it is very profitable
+T20	Attribution 701 705	says
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 732 740	declines
+T22	Content 741 761	to provide specifics
+T23	Attribution 732 740	declines
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T17
+T24	Source 937 995	men like Christopher Reeve, star of the "Superman" movies,
+T25	Cue 996 1009	talking about
+T26	Content 1010 1033	their lingerie turn-ons
+T27	Attribution 996 1009	talking about
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Discuss 937 995	men like Christopher Reeve, star of the "Superman" movies,
+#1	AnnotatorNotes T28	It seems like they're attributing the talking to both men in general, while also giving Christopher as a specific example
+T29	Source 1097 1184	Joan Sinopoli, account supervisor of the campaign by Levine, Huntley, Schmidt & Beaver,
+T30	Cue 1092 1096	says
+T31	Content 1037 1091	The Maidenform name "is part of American pop culture,"
+T32	Attribution 1092 1096	says
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 1399 1403	says
+T34	Source 1404 1414	Mr. Brawer
+T35	Content 1363 1398	"Capitalizing on the brand is key,"
+T36	Attribution 1399 1403	says
+E9	Attribution:T36 Content:T35 Source:T34 Cue:T33
+T37	Source 1416 1421	whose
+T38	Cue 1422 1445	immediate plans include
+T39	Content 1446 1537	further international expansion and getting better control of distribution outside the U.S.
+T40	Attribution 1422 1445	immediate plans include
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Cue 1666 1670	says
+T42	Source 1671 1760	David S. Leibowitz, a special situations analyst at American Securities Corp. in New York
+T43	Content 1540 1665	"The intimate apparel industry is perceived to be a growth industry and clearly {Maidenform} is a force to be reckoned with,"
+T44	Attribution 1666 1670	says
+E11	Attribution:T44 Content:T43 Source:T42 Cue:T41
+T45	Source 1920 1922	he
+T46	Cue 1923 1927	said
+T47	Content 1762 1919	Although working women are "forced to wear the uniform of the day, to retain their femininity they are buying better quality, more upscale intimate apparel,"
+T48	Cue 1978 1995	was long expected
+T49	Content 1940 1977	Mr. Brawer's appointment as president
+T50	Attribution 1923 1927	said
+E12	Attribution:T50 Source:T45 Cue:T46 Content:T47
+T51	Attribution-no-source 1978 1995	was long expected
+E13	Attribution-no-source:T51 Content:T49 Cue:T48
+T52	Discuss 2322 2361	Mr. Lesk couldn't be reached to comment
+T53	Source 2367 2387	Maidenform officials
+T54	Cue 2388 2391	say
+T55	Content 2392 2444;2450 2485	that after spending 24 years at Maidenform, Mr. Lesk made it clear he wanted the top job
+T56	Attribution 2388 2391	say
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Cue 2565 2569	says
+T58	Source 2570 2632	James Mogan, 45, who was named senior vice president of sales,
+T59	Content 2487 2564	"If you want the presidency of the company, this isn't the firm to work for,"
+T60	Attribution 2565 2569	says
+E15	Attribution:T60 Content:T59 Source:T58 Cue:T57
+T61	Source 2838 2848	Mr. Brawer
+T62	Cue 2849 2853	says
+T63	Content 2809 2837	"My style is less informal,"
+T64	Attribution 2849 2853	says
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 2857 2869	Top officers
+T66	Cue 2870 2876	insist
+T67	Content 2877 2931	Maidenform's greatest strength is its family ownership
+T68	Attribution 2870 2876	insist
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 3007 3010	one
+T70	Cue 3011 3019	delights
+T71	Content 2933 3006	"You can't go anywhere in this company and find an organizational chart,"
+T72	Attribution 3011 3019	delights
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Source 3065 3075	Mr. Brawer
+T74	Cue 3076 3080	says
+T75	Content 3021 3064;3082 3109	"It is fun competing as a private company," "You can think long range."
+T76	Attribution 3076 3080	says
+E19	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Source 3112 3151	Other major players in intimate apparel
+T78	Cue 3152 3167	apparently feel
+T79	Content 3168 3180	the same way
+T80	Attribution 3152 3167	apparently feel
+E20	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Cue 3686 3690	says
+T82	Source 3691 3731	Executive Vice President David C. Masket
+T83	Content 3637 3684;3733 3769	Buy-out offers for Maidenform aren't infrequent but they aren't taken very seriously
+T84	Source 3841 3851	Mr. Masket
+T85	Cue 3852 3856	says
+T86	Content 3771 3839	When he gets calls, "I don't even have to consult" with Mrs. Coleman
+T87	Attribution 3686 3690	says
+E21	Attribution:T87 Cue:T81 Content:T83 Source:T82
+T88	Attribution 3852 3856	says
+E22	Attribution:T88 Content:T86 Cue:T85 Source:T84
+T89	Cue 4051 4055	says
+T90	Source 4056 4122	Deborah Bronston, Prudential-Bache Securities Inc. apparel analyst
+T91	Content 3914 4050	"Over the past three and a half years, apparel companies, many of whom have strong brand names, have been bought at about 60% of sales,"
+T92	Attribution 4051 4055	says
+E23	Attribution:T92 Content:T91 Source:T90 Cue:T89
+T93	Source 4495 4505	Mr. Brawer
+T94	Cue 4506 4510	says
+T95	Content 4468 4494	"We are all very amiable,"
+T96	Attribution 4506 4510	says
+E24	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Source 4514 4524	Executives
+T98	Cue 4525 4528	say
+T99	Content 4529 4619	Mrs. Coleman is very involved in the day-to-day operations, especially product development
+T100	Attribution 4525 4528	say
+E25	Attribution:T100 Content:T99 Cue:T98 Source:T97
+T101	Source 4802 4804	he
+T102	Cue 4805 4809	said
+T103	Content 4796 4801;4810 4931	which gave women a "maiden form" compared with the "boyish form" they got from the "flat bandages" used for support at the time
+T104	Attribution 4805 4809	said
+E26	Attribution:T104 Content:T103 Cue:T102 Source:T101
+T105	Source 4990 5004	his wife, Ida,
+T106	Cue 5005 5020	concentrated on
+T107	Content 5021 5054	sales and other financial matters
+T108	Attribution 5005 5020	concentrated on
+E27	Attribution:T108 Content:T107 Cue:T106 Source:T105
+#2	AnnotatorNotes T52	This isn't so much Mr.Lesk declining to comment, but his lack of an appearance.
+T109	Cue 5076 5086	was coined
+T110	Content 5056 5075	The name Maidenform
+T111	Source 5090 5128	a third business partner, Enid Bissett
+T112	Attribution 5076 5086	was coined
+E28	Attribution:T112 Source:T111 Content:T110 Cue:T109
+T113	Cue 5424 5429	plans
+T114	Content 5430 5441	to add more
+T115	Source 5318 5329	the company
+T116	Attribution 5424 5429	plans
+E29	Attribution:T116 Source:T115 Content:T114 Cue:T113

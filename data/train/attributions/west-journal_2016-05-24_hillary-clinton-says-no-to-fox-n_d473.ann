@@ -1,0 +1,55 @@
+T1	Source 0 15	Hillary Clinton
+T2	Cue 16 20	Says
+T3	Content 21 35	No To Fox News
+T4	Attribution 16 20	Says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 67 119	Democratic presidential front-runner Hillary Clinton
+T6	Cue 120 132	has rejected
+T7	Content 133 215	a Fox News proposal for one final debate with rival Sen. Bernie Sanders of Vermont
+T8	Attribution 120 132	has rejected
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 218 404	“As we have said previously, we plan to compete hard in the remaining primary states, particularly California, while turning our attention to the threat a Donald Trump presidency poses,”
+T10	Source 405 471	Jennifer Palmieri, the Clinton campaign’s communications director,
+T11	Cue 472 491	said in a statement
+T12	Attribution 472 491	said in a statement
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 494 560	Fox News Vice President and Washington Managing Editor Bill Sammon
+T14	Cue 561 570	expressed
+T15	Content 571 596	the network’s frustration
+T16	Attribution 561 570	expressed
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 599 824	“Naturally, Fox News is disappointed that Secretary Clinton has declined our debate invitation, especially given that the race is still contested and she had previously agreed to a final debate before the California primary,”
+T18	Source 825 831	Sammon
+T19	Cue 832 836	said
+T20	Attribution 832 836	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 848 851	who
+T22	Cue 852 860	had said
+T23	Content 861 893	he would debate the front-runner
+T24	Attribution 852 860	had said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 839 846	Sanders
+T26	Cue 895 905	criticized
+T27	Content 906 927	Clinton on two fronts
+T28	Attribution 895 905	criticized
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Discuss 839 927	Sanders, who had said he would debate the front-runner, criticized Clinton on two fronts
+T30	Content 1058 1279;930 1018	“I think it’s a little bit insulting to the people of California — our largest state — that she is not prepared to have a discussion with me about how she will help the Californians address the major crises that we face.” “I was disturbed but not surprised that Secretary Clinton has backed out of the debate,”
+T31	Source 1019 1026	Sanders
+T32	Cue 1027 1056	said at a rally in California
+T33	Attribution 1027 1056	said at a rally in California
+E8	Attribution:T33 Cue:T32 Source:T31 Content:T30
+T34	Source 1281 1283	He
+T35	Cue 1284 1310	also issued a statement on
+T36	Content 1311 1322	the subject
+T37	Attribution 1284 1310	also issued a statement on
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Cue 1324 1330	saying
+T39	Content 1332 1564	“I also would suggest that Secretary Clinton may want to be not quite so presumptuous about thinking that she is a certain winner. In the last several weeks, the people of Indiana, West Virginia and Oregon have suggested otherwise.”
+T40	Attribution 1324 1330	saying
+E10	Attribution:T40 Cue:T38 Source:T34 Content:T39
+T41	Content 1913 1966;1988 2145	“You’re going to see me running all over California,” “We’re going to do everything that we can to get every vote and every delegate that we can and go into that convention with as much momentum as is possible.”
+T42	Source 1967 1974	Sanders
+T43	Cue 1975 1986	said Sunday
+T44	Attribution 1975 1986	said Sunday
+E11	Attribution:T44 Cue:T43 Source:T42 Content:T41

@@ -1,0 +1,110 @@
+T1	Source 0 12	Absent Trump
+T2	Cue 13 20	derides
+T3	Content 21 27	debate
+T4	Attribution 13 20	derides
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 82 94	Donald Trump
+T6	Cue 95 105	threatened
+T7	Content 106 156	to run away from the Republican presidential field
+T8	Attribution 95 105	threatened
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 332 340	angry at
+T10	Content 341 369	how Fox News has treated him
+T11	Source 323 328	Trump
+T12	Attribution 332 340	angry at
+E3	Attribution:T12 Source:T11 Content:T10 Cue:T9
+T13	Source 382 385	his
+T14	Cue 386 390	plan
+T15	Content 391 484	to boycott the debate and sponsor a separate event benefiting veterans less than 3 miles away
+T16	Attribution 386 390	plan
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 630 632	he
+T18	Cue 633 640	accused
+T19	Content 641 711	the debate moderators of asking too many "please attack Ted" questions
+T20	Attribution 633 640	accused
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 714 786	"If you guys ask one more mean question, I may have to leave the stage,"
+T22	Source 787 791	Cruz
+T23	Cue 792 799	quipped
+T24	Attribution 792 799	quipped
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Source 835 840	Those
+T26	Cue 841 853	most willing
+T27	Content 854 867	to attack him
+T28	Attribution 841 853	most willing
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1023 1090	"Don't worry, I'm not leaving the stage no matter what you ask me,"
+T30	Source 1091 1096	Rubio
+T31	Cue 1097 1101	said
+T32	Attribution 1097 1101	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Source 1454 1458	both
+T34	Cue 1459 1464	vowed
+T35	Content 1465 1580	to be tougher as president by focusing on stopping illegal immigrants before addressing the 12 million already here
+T36	Attribution 1459 1464	vowed
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 1583 1633;1646 1695	"This is the lie that Ted's campaign is built on," That Cruz is more conservative than everyone else
+T38	Source 1634 1639	Rubio
+T39	Cue 1640 1645	said:
+T40	Attribution 1640 1645	said:
+E10	Attribution:T40 Cue:T39 Source:T38 Content:T37
+T41	Content 1697 1780;1793 1838	"Throughout this campaign, you've been willing to say or do anything to get votes," "Now you want to trump Trump on immigration."
+T42	Source 1781 1786	Rubio
+T43	Cue 1787 1791	said
+T44	Attribution 1787 1791	said
+E11	Attribution:T44 Cue:T43 Source:T42 Content:T41
+T45	Source 1840 1844	Cruz
+T46	Cue 1845 1849	said
+T47	Content 1850 2057	both he and Rubio promised as Senate candidates to lead the fight against amnesty for illegal immigrants -- but only he kept his promise, while Rubio sought a compromise plan endorsed by top Senate Democrats
+T48	Attribution 1845 1849	said
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 2151 2181	New Jersey Gov. Chris Christie
+T50	Cue 2182 2186	said
+T51	Content 2188 2243	"I feel like I need a Washington-to-English converter."
+T52	Attribution 2182 2186	said
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Cue 2886 2891	hoped
+T54	Content 2892 2946	to revive their candidacies heading into New Hampshire
+T55	Source 2726 2885	The other candidates at the prime-time debate -- former Florida governor Jeb Bush, Ohio Gov. John Kasich, retired neurosurgeon Ben Carson, Christie and Paul --
+T56	Attribution 2886 2891	hoped
+E14	Attribution:T56 Source:T55 Content:T54 Cue:T53
+T57	Cue 3093 3105	to criticize
+T58	Content 3106 3155	the media for ignoring them and counting them out
+T59	Source 2991 3000	Four more
+T60	Attribution 3093 3105	to criticize
+E15	Attribution:T60 Source:T59 Content:T58 Cue:T57
+T61	Content 3324 3391	The media are "manipulating and shaping and framing this campaign,"
+T62	Source 3392 3399	Gilmore
+T63	Cue 3400 3404	said
+T64	Attribution 3400 3404	said
+E16	Attribution:T64 Cue:T63 Source:T62 Content:T61
+T65	Source 3406 3413	Fiorina
+T66	Cue 3435 3439	said
+T67	Content 3441 3493	"Last time I looked, you hadn't started voting yet."
+T68	Attribution 3435 3439	said
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 3520 3530	a new poll
+T70	Cue 3531 3537	showed
+T71	Content 3538 3605	Trump moving ahead of Cruz in Iowa, 32%-25%, while Rubio was at 18%
+T72	Attribution 3531 3537	showed
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Content 3758 3825	"Trump is positioned to run the house in these first three states,"
+T74	Cue 3826 3830	said
+T75	Source 3831 3905	Lee Miringoff, director of the Marist College Institute for Public Opinion
+T76	Attribution 3826 3830	said
+E19	Attribution:T76 Source:T75 Cue:T74 Content:T73
+T77	Source 3988 3990	he
+T78	Cue 3991 3997	claims
+T79	Content 3984 3987;3998 4020	who has been unfair to him
+T80	Attribution 3991 3997	claims
+E20	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Cue 4079 4089	challenged
+T82	Content 4090 4141	Trump to a one-on-one debate before Monday's caucus
+T83	Source 4023 4027	Cruz
+T84	Attribution 4079 4089	challenged
+E21	Attribution:T84 Source:T83 Content:T82 Cue:T81
+T85	Source 4167 4171	Cruz
+T86	Cue 4172 4176	said
+T87	Content 4177 4276	any candidate who wants to win Iowa "owes it to the men and women" of the state to answer questions
+T88	Attribution 4172 4176	said
+E22	Attribution:T88 Content:T87 Cue:T86 Source:T85

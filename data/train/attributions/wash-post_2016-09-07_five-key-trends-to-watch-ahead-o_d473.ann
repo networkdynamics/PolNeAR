@@ -1,0 +1,34 @@
+T1	Content 1009 1088	Hillary Clinton leads Donald Trump by double digits in all five of these states
+T2	Cue 1090 1102	according to
+T3	Source 1103 1115	the new poll
+T4	Attribution 1090 1102	according to
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Cue 1247 1259	according to
+T6	Source 1260 1284	the recent 50-state poll
+T7	Content 1242 1245;1286 1303	Now some are swinging
+T8	Attribution 1247 1259	according to
+E2	Attribution:T8 Content:T7 Source:T6 Cue:T5
+T9	Source 1736 1753	the 50-state poll
+T10	Cue 1754 1762	suggests
+T11	Content 1763 1806	Clinton could be competitive in both states
+T12	Attribution 1754 1762	suggests
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 1841 1858	The 50-state poll
+T14	Cue 1859 1864	finds
+T15	Content 1865 1980	Trump faring better in the Rust Belt states of Indiana, Michigan, Ohio and Pennsylvania than in other battlegrounds
+T16	Attribution 1859 1864	finds
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 1982 1990	offering
+T18	Content 1991 2032	a glimpse of a potential route to victory
+T19	Attribution 1982 1990	offering
+E5	Attribution:T19 Cue:T17 Content:T18 Source:T13
+T20	Content 3582 3621	Trump leads by 57 percent to 33 percent
+T21	Cue 3622 3624	in
+T22	Source 3625 3642	the 50-state poll
+T23	Attribution 3622 3624	in
+E6	Attribution:T23 Source:T22 Cue:T21 Content:T20
+T24	Source 3971 3992	The new 50-state poll
+T25	Cue 3993 3998	finds
+T26	Content 3999 4088	Trump up a narrow four points, while other recent surveys show Clinton with a narrow edge
+T27	Attribution 3993 3998	finds
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24

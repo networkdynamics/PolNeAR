@@ -1,0 +1,73 @@
+T1	Source 0 23	Daughter Of Eric Garner
+T2	Cue 24 30	Blasts
+T3	Content 31 38	Clinton
+T4	Attribution 24 30	Blasts
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 45 54	WikiLeaks
+T6	Cue 55 62	Reveals
+T7	Content 63 105	Effort To Use His Death For Political Gain
+T8	Attribution 55 62	Reveals
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 108 197	The daughter of Eric Garner, an unarmed black man who died in a police chokehold in 2014,
+T10	Cue 198 206	sent out
+T11	Content 207 320	a series of scathing tweets Thursday targeted at Democratic presidential nominee Hillary Clinton and her campaign
+T13	Source 327 336	WikiLeaks
+T14	Cue 337 345	released
+T15	Content 346 430	an email showing Clinton had wanted to use her father’s death for political purposes
+T16	Attribution 337 345	released
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 433 569	“I’m troubled by the revelation that you and this campaign actually discussed ‘using’ Eric Garner … Why would you want to ‘use’ my dad?”
+T18	Source 570 582	Erica Garner
+T19	Cue 583 587	said
+T20	Attribution 583 587	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 589 592	She
+T22	Cue 593 606	also sent out
+T23	Content 607 635	links to the WikiLeaks email
+T24	Attribution 593 606	also sent out
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 895 902	Merrill
+T26	Cue 903 909	wrote:
+T27	Content 910 1052	“I know we have Erica Garner issues but we don’t want to mention Eric at all? I can see her coming after us for leaving him out of the piece.”
+T28	Attribution 903 909	wrote:
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1054 1116	“Eric Garner not included because not killed by gun violence,”
+T30	Source 1117 1144	Clinton staffer Maya Harris
+T31	Cue 1145 1152	replied
+T32	Attribution 1145 1152	replied
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Content 1155 1184	“That’s a pretty good point,”
+T34	Source 1185 1192	Merrill
+T35	Cue 1193 1200	replied
+T36	Attribution 1193 1200	replied
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33
+T37	Source 1203 1209	Garner
+T38	Cue 1210 1245	responded to these revelations with
+T39	Content 1246 1269	a profanity-laden tweet
+T40	Attribution 1210 1245	responded to these revelations with
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Content 1272 1406	“I’m glad you had Maya on your team to explain why you wont be USING my dad in you f—— gun violence piece… Black woman saved your a—,”
+T42	Source 1407 1413	Garner
+T43	Cue 1414 1419	wrote
+T44	Attribution 1414 1419	wrote
+E11	Attribution:T44 Cue:T43 Source:T42 Content:T41
+T45	Cue 1421 1427	adding
+T46	Content 1429 1535	“These people will co opt anything to push their agenda. Police violence is not the same as gun violence.”
+T47	Attribution 1421 1427	adding
+E12	Attribution:T47 Cue:T45 Source:T42 Content:T46
+T48	Source 1537 1543	Garner
+T49	Cue 1544 1552	endorsed
+T50	Content 1553 1572	Sen. Bernie Sanders
+T51	Attribution 1544 1552	endorsed
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Cue 1608 1638	has recently shown support for
+T53	Content 1639 1671	Green Party candidate Jill Stein
+T54	Attribution 1608 1638	has recently shown support for
+E14	Attribution:T54 Cue:T52 Content:T53 Source:T48
+T55	Source 1896 1931	U.S. Attorney General Loretta Lynch
+T56	Cue 1932 1951	announced on Monday
+T57	Content 1952 2105	she was appointing Justice Department investigators to take over a civil rights probe after they failed to find criminal charges to file against Pantaleo
+T58	Attribution 1932 1951	announced on Monday
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T12	Attribution 198 206	sent out
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9

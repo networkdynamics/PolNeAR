@@ -1,0 +1,20 @@
+T1	Source 0 15	Hillary Clinton
+T2	Cue 16 21	Calls
+T3	Content 52 63	‘Genocide.’
+T4	Attribution 16 21	Calls
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 89 138	Democratic presidential candidate Hillary Clinton
+T6	Cue 150 154	said
+T7	Content 155 266	that Islamic State violence against Iraqi Yazidis and other religious minorities in the Middle East is genocide
+T8	Attribution 150 154	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 269 446	“I think I was asked this a couple months ago, and I said that term carries with it legal import, it is a very important concept and label for behavior that deserves that name,”
+T10	Source 447 454	Clinton
+T11	Cue 455 459	said
+T12	Attribution 455 459	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Content 523 707	“I am now sure we have enough evidence, what is happening is genocide deliberately aimed at destroying lives and wiping out the existence of Christians and other religious minorities,”
+T14	Source 708 715	Clinton
+T15	Cue 716 720	said
+T16	Attribution 716 720	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13

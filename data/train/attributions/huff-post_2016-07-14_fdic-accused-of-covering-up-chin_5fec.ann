@@ -1,0 +1,165 @@
+T1	Cue 5 15	Accused Of
+T2	Content 0 4;16 67	FDIC Covering Up China Hacking To Protect Chairman’s Job
+T3	Attribution-no-source 5 15	Accused Of
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Content 93 277	The Chinese government likely hacked computers at the Federal Deposit Insurance Corporation in 2010, 2011 and 2013 and employees at the U.S. banking regulator covered up the intrusions
+T5	Cue 279 291	according to
+T6	Source 292 314	a congressional report
+T7	Attribution 279 291	according to
+E2	Attribution:T7 Source:T6 Cue:T5 Content:T4
+T8	Source 329 339	The report
+T9	Cue 340 345	cited
+T10	Content 346 440	an internal FDIC investigation as identifying Beijing as the likely perpetrator of the attacks
+T11	Attribution 340 345	cited
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 448 457	the probe
+T13	Cue 458 462	said
+T14	Content 442 447;463 531	which were covered up to protect the job of FDIC Chairman Martin Gruenberg
+T15	Attribution 458 462	said
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 537 550	was nominated
+T17	Content 533 536;551 563	who for his post
+T18	Attribution-no-source 537 550	was nominated
+E5	Attribution-no-source:T18 Content:T17 Cue:T16
+T19	Content 573 659;801 875	“The committee’s interim report sheds light on the FDIC’s lax cyber security efforts,” “The FDIC’s intent to evade congressional oversight is a serious offense.”
+T20	Cue 660 664	said
+T21	Source 665 799	Lamar Smith, a Republican representative from Texas who chairs the House of Representatives Committee on Science, Space and Technology
+T22	Attribution 660 664	said
+E6	Attribution:T22 Source:T21 Cue:T20 Content:T19
+T23	Cue 887 899	was released
+T24	Content 876 886	The report
+T25	Attribution-no-source 887 899	was released
+E7	Attribution-no-source:T25 Content:T24 Cue:T23
+T26	Cue 905 926	growing concern about
+T27	Content 927 1097	the vulnerability of the international banking system to hackers and the latest example of how deeply Washington believes Beijing has penetrated U.S. government computers
+T28	Attribution-no-source 905 926	growing concern about
+E8	Attribution-no-source:T28 Content:T27 Cue:T26
+T29	Source 1099 1109	The report
+T30	Cue 1110 1125	did not provide
+T31	Content 1126 1174	specific evidence that China was behind the hack
+T32	Attribution 1110 1125	did not provide
+E9	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1176 1279	Shane Shook, a cyber security expert who has helped investigate some of the breaches uncovered to date,
+T34	Cue 1280 1284	said
+T35	Content 1285 1386	he did not see convincing evidence in the report that the Chinese government was behind the FDIC hack
+T36	Attribution 1280 1284	said
+E10	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 1388 1510	“As with all government agencies, there are management issues stemming from leadership ignorance of technology oversight,”
+T38	Source 1513 1514	o
+T39	Cue 1517 1521	said
+T40	Attribution 1517 1521	said
+E11	Attribution:T40 Cue:T39 Source:T38 Content:T37
+T41	Source 1544 1586	Chinese Foreign Ministry spokesman Lu Kang
+T42	Cue 1587 1595	repeated
+T43	Content 1596 1643	that China opposed hacking and acted against it
+T44	Attribution 1587 1595	repeated
+E12	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Content 1645 1763;1783 1817	People should provide evidence for their accusations and not wave around speculative words like “maybe” and “perhaps”, “This is extremely irresponsible.”
+T46	Source 1764 1766	he
+T47	Cue 1767 1771	told
+T48	Attribution 1767 1771	told
+E13	Attribution:T48 Cue:T47 Source:T46 Content:T45
+T49	Source 1818 1916	The FDIC, a major U.S. banking regulator which keeps confidential data on America’s biggest banks,
+T50	Cue 1917 1925	declined
+T51	Content 1926 1936	to comment
+T52	Attribution 1917 1925	declined
+E14	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Cue 1948 1960	is scheduled
+T54	Content 1938 1947;1961 2048	Gruenberg to testify on Thursday before the committee on the regulator’s cyber security practices
+T55	Attribution-no-source 1948 1960	is scheduled
+E15	Attribution-no-source:T55 Content:T54 Cue:T53
+T56	Source 2050 2060	Washington
+T57	Cue 2061 2072	has accused
+T58	Content 2073 2282	China of hacking computers at a range of federal agencies in recent years, including the theft of more than 21 million background check records from the federal Office of Personnel Management beginning in 2014
+T59	Attribution 2061 2072	has accused
+E16	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Content 2314 2411	Hackers also accessed the computer of FDIC Chairman Martin Gruenberg’s  predecessor, Sheila Bair,
+T61	Cue 2412 2424	according to
+T62	Source 2429 2453	the congressional report
+T63	Attribution 2412 2424	according to
+E17	Attribution:T63 Source:T62 Cue:T61 Content:T60
+T64	Cue 2533 2561	had been previously reported
+T65	Content 2472 2532	The compromise of the FDIC computers by a foreign government
+T66	Attribution-no-source 2533 2561	had been previously reported
+E18	Attribution-no-source:T66 Content:T65 Cue:T64
+T67	Source 2573 2587	some lawmakers
+T68	Cue 2588 2601	had mentioned
+T69	Content 2602 2629	China as a possible suspect
+T70	Attribution 2588 2601	had mentioned
+E19	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Source 2635 2645	the report
+T72	Cue 2659 2683	for the first time cited
+T73	Content 2684 2775	a 2013 memo by the FDIC’s inspector general, an internal watchdog, as pointing toward China
+T74	Attribution 2659 2683	for the first time cited
+E20	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Content 2777 2877	“Even the former Chairwoman’s computer had been hacked by a foreign government, likely the Chinese,”
+T76	Source 2878 2902	the congressional report
+T77	Cue 2903 2907	said
+T78	Attribution 2903 2907	said
+E21	Attribution:T78 Cue:T77 Source:T76 Content:T75
+T79	Cue 2909 2921	referring to
+T80	Content 2922 2959	Gruenberg’s predecessor, Sheila Bair,
+T81	Attribution 2909 2921	referring to
+E22	Attribution:T81 Source:T76 Content:T80 Cue:T79
+T82	Discuss 3046 3095	Bair could not be immediately reached for comment
+T83	Source 3097 3170	A redacted copy of the 2013 FDIC inspector general’s memo seen by Reuters
+T84	Cue 3171 3175	said
+T85	Content 3176 3275	investigators were unable to determine exactly which files had been extracted from agency computers
+T86	Attribution 3171 3175	said
+E23	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Source 3277 3337	But a source familiar with the FDIC’s internal investigation
+T88	Cue 3338 3342	said
+T89	Content 3343 3458	the areas of the regulator’s network that were hacked suggested the intruders were seeking “economic intelligence.”
+T90	Attribution 3338 3342	said
+E24	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Content 3459 3634	In all, hackers compromised 12 FDIC workstations, including those of other executives such as the regulator’s former chief of staff and former general counsel, and 10 servers,
+T92	Source 3635 3659	the congressional report
+T93	Cue 3660 3664	said
+T94	Attribution 3660 3664	said
+E25	Attribution:T94 Cue:T93 Source:T92 Content:T91
+T95	Source 3666 3667	I
+T96	Cue 3669 3676	accused
+T97	Content 3677 3779	the FDIC of trying to cover up the hacks so as not to endanger the congressional approval of Gruenberg
+T98	Attribution 3669 3676	accused
+E26	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Content 3781 3784	who
+T100	Cue 3785 3798	was nominated
+T101	Source 3802 3824	President Barack Obama
+T102	Attribution 3785 3798	was nominated
+E27	Attribution:T102 Source:T101 Cue:T100 Content:T99
+T103	Content 3876 4076	A witness interviewed by congressional staff said the FDIC’s current head of its technology division, Russ Pittman, instructed employees not to disclose information about the foreign government’s hack
+T104	Source 4078 4088	the report
+T105	Cue 4089 4093	said
+T106	Attribution 4089 4093	said
+E28	Attribution:T106 Cue:T105 Source:T104 Content:T103
+T107	Content 4095 4201	The witness said the hush order was to “avoid effecting the outcome of Chairman Gruenberg’s confirmation,”
+T108	Cue 4202 4214	according to
+T109	Source 4215 4225	the report
+T110	Attribution 4202 4214	according to
+E29	Attribution:T110 Source:T109 Cue:T108 Content:T107
+T111	Discuss 4227 4281	Pittman could not immediately be contacted for comment
+T112	Source 4283 4293	The report
+T113	Cue 4294 4307	also provided
+T114	Content 4308 4413	details of data breaches in which FDIC employees leaving the regulator took sensitive documents with them
+T115	Attribution 4294 4307	also provided
+E30	Attribution:T115 Content:T114 Cue:T113 Source:T112
+T116	Source 4415 4417	It
+T117	Cue 4418 4422	said
+T118	Content 4423 4533	current FDIC officials have purposely concealed information about breaches that had been requested by Congress
+T119	Attribution 4418 4422	said
+E31	Attribution:T119 Content:T118 Cue:T117 Source:T116
+T120	Source 4535 4562	U.S. intelligence officials
+T121	Cue 4563 4570	believe
+T122	Content 4571 4755	Beijing has decreased its hacking activity since signing a pledge with Washington last September to refrain from breaking into computer systems for the purposes of commercial espionage
+T123	Attribution 4563 4570	believe
+E32	Attribution:T123 Content:T122 Cue:T121 Source:T120
+T124	Source 4775 4780	Obama
+T125	Cue 4781 4797	has acknowledged
+T126	Content 4798 4851	difficulties in keeping government information secure
+T127	Attribution 4781 4797	has acknowledged
+E33	Attribution:T127 Content:T126 Cue:T125 Source:T124
+T128	Source 4867 4886	epublican opponents
+T129	Cue 4887 4896	have said
+T130	Content 4897 5080	that Democratic presidential candidate Hillary Clinton’s use of a private email server when she was secretary of state could have exposed classified information to foreign governments
+T131	Attribution 4887 4896	have said
+E34	Attribution:T131 Content:T130 Cue:T129 Source:T128

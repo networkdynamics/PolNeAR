@@ -1,0 +1,32 @@
+T1	Source 63 82	The Washington Post
+T2	Cue 83 91	reported
+T3	Content 103 316	based on the current delegates count, if Sen. Marco Rubio wins his home state of Florida and Gov. John Kasich wins his home state of Ohio, the GOP nominee will almost certainly be decided at the convention in July
+T4	Attribution 83 91	reported
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 811 845	The most recent polling in Florida
+T6	Cue 846 851	shows
+T7	Content 852 968	Rubio closing the gap to pull within 5 points of Trump (35-30), after trailing by double digits only a few weeks ago
+T8	Attribution 846 851	shows
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 1155 1256	Meanwhile in Ohio, Kasich has also been surging and has pulled within 4 points of the GOP frontrunner
+T10	Cue 1258 1270	according to
+T11	Source 1271 1318	the Real Clear Politics average of recent polls
+T12	Attribution 1258 1270	according to
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Discard 1321 1387	<tweet tweet-author="@mmurraypolitics" tweet-date="March 7, 2016">
+T14	Discuss 1452 1461	<tweet/>.
+T15	Source 1463 1488	The Post’s Chris Cillizza
+T16	Cue 1489 1496	writes:
+T17	Content 1497 1666;1667 1838;1839 1895	“Should Rubio win Florida and Kasich win Ohio, it’s a near-certainty that no candidate will come close to getting the required number of delegates to win the nomination. Trump remains the only one with an even-marginally viable path, but he would need to win 69 percent of the remaining delegates after March 15 if he loses Ohio and Florida. Mathematically possible but practically very difficult.”
+T18	Attribution 1489 1496	writes:
+E4	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Cue 1897 1908	As reported
+T20	Source 1912 1930	Western Journalism
+T21	Content 1932 2036	there are 150 delegates at stake in Tuesday night’s contests in Michigan, Mississippi, Idaho, and Hawaii
+T22	Attribution 1897 1908	As reported
+E5	Attribution:T22 Content:T21 Source:T20 Cue:T19
+T23	Cue 2038 2046	Based on
+T24	Source 2047 2062	current polling
+T25	Content 2064 2101	Trump is looking to have a good night
+T26	Attribution 2038 2046	Based on
+E6	Attribution:T26 Content:T25 Source:T24 Cue:T23

@@ -1,0 +1,144 @@
+T1	Source 318 341	the New Jersey governor
+T2	Cue 342 346	told
+T3	Content 301 316;358 381	Sooner or later "it starts to pay off."
+T4	Source 901 907	Jindal
+T5	Cue 908 912	said
+T6	Content 780 900;930 957	"A lot of the candidates haven't invested here like we have: farms, churches, factories, people's homes, house parties," "You name it, we're there."
+T7	Attribution 342 346	told
+E1	Attribution:T7 Cue:T2 Source:T1 Content:T3
+T8	Attribution 908 912	said
+E2	Attribution:T8 Content:T6 Cue:T5 Source:T4
+T9	Cue 1510 1532	national discussion of
+T10	Content 1533 1551	the GOP nomination
+T11	Attribution-no-source 1510 1532	national discussion of
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Source 2237 2269	former Florida governor Jeb Bush
+T13	Cue 2270 2287	increasingly sees
+T14	Content 2288 2352	the state as the most fertile ground on which to wage a comeback
+T15	Attribution 2270 2287	increasingly sees
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 2785 2819	Huckabee spokeswoman Alice Stewart
+T17	Cue 2820 2824	said
+T18	Content 2656 2784	"We expect to do well in Iowa following the same playbook we had before: Meet people not once, but twice, and keep coming back,"
+T19	Attribution 2820 2824	said
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 3339 3357	are not considered
+T21	Content 3221 3306;3358 3388	Other candidates, such as Sen. Rand Paul (Ky.) and former businesswoman Carly Fiorina top-tier contenders in either.
+T22	Attribution-no-source 3339 3357	are not considered
+E6	Attribution-no-source:T22 Content:T21 Cue:T20
+T23	Source 3832 3856	Some veteran strategists
+T24	Cue 3857 3862	think
+T25	Content 3863 3874	it will not
+T26	Attribution 3857 3862	think
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Cue 4006 4010	said
+T28	Source 4011 4068	Stuart Stevens, who was Mitt Romney's top adviser in 2012
+T29	Content 3877 4005	"It's all about who is going to win these states. That's how we have our crazy system set up. We don't have a national primary,"
+T30	Attribution 4006 4010	said
+E8	Attribution:T30 Content:T29 Source:T28 Cue:T27
+T31	Source 4151 4158	Stevens
+T32	Cue 4159 4163	said
+T33	Content 4071 4149;4165 4405	Evaluating the candidates on the basis of who is up and down in national polls "is like looking at someone's bowling average to determine if they can play tennis. It's completely irrelevant. At the end of the day, all that matters are these [early] states, where you run for president like you're running for governor."
+T34	Attribution 4159 4163	said
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 4499 4531	a CNN-ORC survey released Friday
+T36	Cue 4532 4535	had
+T37	Content 4536 4575	him at 4 percent in the sprawling field
+T38	Attribution 4532 4535	had
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 4686 4772	Michael Demastus, pastor of the Fort Des Moines Church of Christ and a Cruz supporter,
+T40	Cue 4773 4778	said:
+T41	Content 4779 5025	"I've heard a lot of candidates pray, but I've never heard anyone pray like Bobby Jindal. He's clearly got a deep and personal relationship with Jesus Christ. It's not a rote, ritual kind of prayer, and people have responded to the way he prays."
+T42	Attribution 4773 4778	said:
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Cue 5281 5285	said
+T44	Source 5286 5357	conservative activist Bob Klaus, who is not affiliated with a candidate
+T45	Content 5194 5280;5359 5412	"It's Cuba's best role and just tells you everything about why Dr. Carson is special," "It's a hot item among conservatives - it really is."
+T46	Attribution 5281 5285	said
+E12	Attribution:T46 Content:T45 Source:T44 Cue:T43
+T47	Cue 5949 5953	said
+T48	Source 5954 6072	Eric Woolson, who worked for Wisconsin Gov. Scott Walker before he dropped out, and guided Huckabee to victory in 2008
+T49	Content 5797 5948	"You've seen some people who usually would be knocked out by now surviving. If Jindal had been seventh or eighth, you might have written his obituary,"
+T50	Attribution 5949 5953	said
+E13	Attribution:T50 Content:T49 Source:T48 Cue:T47
+T51	Content 6336 6341	which
+T52	Cue 6342 6365	have drawn concern from
+T53	Source 6366 6381	rival campaigns
+T54	Attribution 6342 6365	have drawn concern from
+E14	Attribution:T54 Source:T53 Cue:T52 Content:T51
+T55	Source 6493 6501	Christie
+T56	Cue 6502 6518	talking candidly
+T57	Content 6534 6554	about drug addiction
+T58	Attribution 6502 6518	talking candidly
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 6652 6663	more voters
+T60	Cue 6664 6693	had an unfavorable opinion of
+T61	Content 6694 6697	him
+T62	Attribution 6664 6693	had an unfavorable opinion of
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 6728 6740	recent polls
+T64	Cue 6741 6745	show
+T65	Content 6746 6763	that has reversed
+T66	Attribution 6741 6745	show
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Source 6766 6774	Christie
+T68	Cue 6775 6779	told
+T69	Content 6811 7050	"I've said to you all along that I could feel things happening here on the ground and that as people start to make up their mind in New Hampshire that we'll start to do better, and I think they're just starting to make up their minds now."
+T70	Attribution 6775 6779	told
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Source 7052 7074	Polls in New Hampshire
+T72	Cue 7075 7079	show
+T73	Content 7080 7159	the top two candidates are the same as in Iowa and nationally: Trump and Carson
+T74	Attribution 7075 7079	show
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Source 7260 7281	a WBUR poll last week
+T76	Cue 7282 7288	showed
+T77	Content 7289 7404	Rubio in third at 11 percent, followed closely by Kasich at 10 percent, Christie at 8 percent and Bush at 7 percent
+T78	Attribution 7282 7288	showed
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 7450 7454	Bush
+T80	Cue 7539 7544	plans
+T81	Content 7545 7564	to return regularly
+T82	Attribution 7539 7544	plans
+E21	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Source 7937 7943	Kasich
+T84	Cue 7944 7951	boasted
+T85	Content 7987 8010	"the best in the state"
+T86	Attribution 7944 7951	boasted
+E22	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Cue 8017 8025	stressed
+T88	Content 8026 8065	the state's importance to his prospects
+T89	Attribution 8017 8025	stressed
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T83
+T90	Source 8109 8115	Kasich
+T91	Cue 8116 8120	said
+T92	Content 8068 8108;8122 8230	"We're like the little engine that can," "All of my lifetime, people have always discounted what my teams of people can do. Do it at your own peril."
+T93	Attribution 8116 8120	said
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 8611 8615	said
+T95	Cue 8616 8687	Steve Duprey, a Republican National Committee member from New Hampshire
+T96	Content 8533 8610;8689 8854	"It's vastly different on the ground here than these nationalized campaigns," "It's door-to-door, hand-to-hand election combat. . . . If you're walking down the street, you'll have a candidate come up to you and offer to carry your groceries."
+T97	Attribution 8616 8687	Steve Duprey, a Republican National Committee member from New Hampshire
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 65 79	Chris Christie
+T99	Cue 80 87	learned
+T100	Content 88 141	he had been bumped off the main national debate stage
+T101	Attribution 80 87	learned
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Cue 1117 1139	coast-to-coast chatter
+T103	Content 1181 1243	about the insurgent front-runners, Donald Trump and Ben Carson
+T104	Attribution-no-source 1117 1139	coast-to-coast chatter
+E27	Attribution-no-source:T104 Content:T103 Cue:T102
+T105	Source 4653 4658	those
+T106	Cue 4659 4666	backing
+T107	Content 4667 4683	other candidates
+T108	Attribution 4659 4666	backing
+E28	Attribution:T108 Content:T107 Cue:T106 Source:T105
+T109	Content 4577 4579	He
+T110	Cue 4580 4614	is attracting particular attention
+T111	Source 4620 4640	social conservatives
+T112	Attribution 4580 4614	is attracting particular attention
+E29	Attribution:T112 Source:T111 Cue:T110 Content:T109
+T113	Discuss 4577 4640	He is attracting particular attention from social conservatives
+T114	Discuss 6652 6722	more voters had an unfavorable opinion of him than had a favorable one
+T115	Discard 8856 8887	Costa reported from Washington.

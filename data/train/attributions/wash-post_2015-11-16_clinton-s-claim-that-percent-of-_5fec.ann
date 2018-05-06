@@ -1,0 +1,231 @@
+T1	Source 0 7	Clinton
+T2	Cue 7 15	's claim
+T3	Content 16 93	that 90 percent of her e-mails were 'in the system' is her camp's calculation
+T4	Attribution 7 15	's claim
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 96 120	Rep. Trey Gowdy (R-S.C.)
+T6	Cue 120 121	:
+T7	Content 121 291	"I have not heard anyone other than you ever cite that figure. Who told you that 90 to 95 percent of your e-mails were in the State Department system? Who told you that?"
+T8	Attribution 120 121	:
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 293 341	Former secretary of state Hillary Rodham Clinton
+T10	Cue 341 342	:
+T11	Content 342 511	"We learned that from the State Department and their analysis of the e-mails that were already on the system. We were trying to help them close some gaps that they had."
+T12	Attribution 341 342	:
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 598 617	A number of readers
+T14	Cue 618 644	have asked questions about
+T15	Content 645 737	Clinton's assertion that 90 to 95 percent of the e-mails were in the State Department system
+T16	Attribution 618 644	have asked questions about
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 819 826	Clinton
+T18	Cue 827 836	suggested
+T19	Content 837 883	that the figure came from the State Department
+T20	Attribution 827 836	suggested
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 903 931	a State Department spokesman
+T22	Cue 932 941	indicated
+T23	Content 942 1056	that the number did not come from any State Department analysis but was a calculation made by the Clinton campaign
+T24	Attribution 932 941	indicated
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 1059 1065	a fact
+T26	Cue 1066 1081	later confirmed
+T27	Source 1085 1099	the department
+T28	Attribution 1066 1081	later confirmed
+E7	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Source 1150 1155	Gowdy
+T30	Cue 1156 1166	referenced
+T31	Content 1167 1266	an inspector general's report that "less than one percent of State Department emails" were captured
+T32	Attribution 1156 1166	referenced
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 1344 1373	The "90 to 95 percent" figure
+T34	Cue 1374 1383	came from
+T35	Source 1384 1404	the Clinton campaign
+T36	Attribution 1374 1383	came from
+E9	Attribution:T36 Source:T35 Cue:T34 Content:T33
+T37	Content 1473 1504	the 55,000 pages of the e-mails
+T38	Cue 1505 1513	provided
+T39	Source 1517 1524	Clinton
+T40	Attribution 1505 1513	provided
+E10	Attribution:T40 Source:T39 Cue:T38 Content:T37
+T41	Source 1449 1469	the State Department
+T42	Content 1427 1440	a calculation
+T43	Cue 1406 1426	There has never been
+T44	Attribution 1406 1426	There has never been
+E11	Attribution:T44 Cue:T43 Content:T42 Source:T41
+T45	Source 1561 1568	Clinton
+T46	Cue 1578 1583	wrong
+T47	Content 1573 1577	that
+T48	Attribution 1578 1583	wrong
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 1586 1755;1791 2184	"Of the more than 30,000e-mails that Secretary Clinton provided to the State Department last year, more than 90 percent were sent to or from a state.gov e-mail address," "That is observable by looking at the e-mails that were provided for release by the department. These messages would have been captured in the State Department's record system. It has since been learned that the State Department's archiving system did not maintain every e-mail, but that does not change that these messages were captured by State's system and thus should have been available."
+T50	Source 1756 1784	a Clinton campaign spokesman
+T51	Cue 1785 1789	said
+T52	Attribution 1785 1789	said
+E13	Attribution:T52 Cue:T51 Source:T50 Content:T49
+T53	Source 2228 2245	Clinton's lawyers
+T54	Cue 2277 2282	found
+T55	Content 2283 2415	that at least one person in the e-mail chain - either sending an e-mail to Clinton or receiving one - had a state.gov e-mail address
+T56	Attribution 2277 2282	found
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Content 2435 2443;2458 2514	a search of the e-mails of a person who corresponded with Clinton
+T58	Cue 2444 2457	was requested
+T59	Attribution-no-source 2444 2457	was requested
+E15	Attribution-no-source:T59 Cue:T58 Content:T57
+T60	Source 2568 2575	Clinton
+T61	Cue 2576 2595	often has explained
+T62	Content 2596 2600	this
+T63	Attribution 2576 2595	often has explained
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Cue 2620 2633	the assertion
+T65	Content 2634 2676	that it was a State Department calculation
+T66	Attribution-no-source 2620 2633	the assertion
+E17	Attribution-no-source:T66 Content:T65 Cue:T64
+T67	Source 2679 2699	The Clinton campaign
+T68	Cue 2737 2767	worded it even more carefully:
+T69	Content 2768 3064	"Clinton's practice was to email government officials on their '.gov' accounts, so her work emails were immediately captured and preserved. In fact, more than 90% of those emails should have already been captured in the State Department's email system before she provided them with paper copies."
+T70	Attribution 2737 2767	worded it even more carefully:
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Cue 3100 3109	requested
+T72	Content 3110 3136	search of Clinton'se-mails
+T73	Attribution-no-source 3100 3109	requested
+E19	Attribution-no-source:T73 Content:T72 Cue:T71
+T74	Discuss 3100 3165	requested search of Clinton'se-mails would have turned up nothing
+T75	Cue 3363 3393	it's also not unreasonable for
+T76	Content 3394 3480	Clinton to assert that most of these e-mails resided in the State Department's systems
+T77	Attribution-no-source 3363 3393	it's also not unreasonable for
+E20	Attribution-no-source:T77 Content:T76 Cue:T75
+T78	Source 3483 3488	Gowdy
+T79	Cue 3489 3499	referenced
+T80	Content 3500 3590	a 2015 inspector general's report concerning poor e-mail retention at the State Department
+T81	Attribution 3489 3499	referenced
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Source 3596 3607	that report
+T83	Cue 3608 3617	concerned
+T84	Content 3618 3685	the e-mails of lower-level officials, under a system known as SMART
+T85	Attribution 3608 3617	concerned
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Source 3735 3759	A footnote in the report
+T87	Cue 3760 3777	makes that clear:
+T88	Content 3778 3995	"These assessments do not apply to the system used by the Department's high-level principals, the Secretary, the Deputy Secretaries, the Under Secretaries, and their immediate staffs, which maintain separate systems."
+T89	Attribution 3760 3777	makes that clear:
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Content 4057 4143	There are actually four that track the records of the Office of the Secretary of State
+T91	Cue 4145 4157	according to
+T92	Source 4158 4178	the State Department
+T93	Attribution 4145 4157	according to
+E24	Attribution:T93 Source:T92 Cue:T91 Content:T90
+T94	Source 4238 4257	an automated system
+T95	Cue 4263 4291	to track, control and record
+T96	Content 4292 4478	documents containing substantive foreign policy information passing to, from and through the offices of the secretary of state, the deputy secretary of state and other principal officers
+T97	Attribution 4263 4291	to track, control and record
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Cue 4552 4560	designed
+T99	Content 4531 4551;4561 4615	an electronic system to distribute cables among the department's principals
+T100	Attribution-no-source 4552 4560	designed
+E26	Attribution-no-source:T100 Content:T99 Cue:T98
+T101	Cue 4682 4690	designed
+T102	Content 4661 4681;4691 4771	an electronic system to provide access to a contemporary portion of the department's telegram archive
+T103	Attribution-no-source 4682 4690	designed
+E27	Attribution-no-source:T103 Content:T102 Cue:T101
+T104	Cue 4833 4846	a request for
+T105	Content 4847 4887	e-mails concerning 2012 Benghazi attacks
+T106	Attribution-no-source 4833 4846	a request for
+E28	Attribution-no-source:T106 Content:T105 Cue:T104
+T107	Cue 5094 5106	according to
+T108	Content 4889 5092	officials used those systems to search the records of three people who were closest to Clinton then: Chief of Staff Cheryl Mills, Deputy Chief of Staff Jake Sullivan and Deputy Chief of Staff Huma Abedin
+T109	Source 5107 5224	a declaration filed in federal court by John F. Hackett, director of the Office of Information Programs and Services,
+T110	Attribution 5094 5106	according to
+E29	Attribution:T110 Source:T109 Content:T108 Cue:T107
+T111	Source 5413 5417	that
+T112	Cue 5418 5427	contained
+T113	Content 5428 5439	these terms
+T114	Attribution 5418 5427	contained
+E30	Attribution:T114 Content:T113 Cue:T112 Source:T111
+T115	Discuss 5266 5399	Officials searched their records for terms containing words such as "ambassador," "attack," "Benghazi," "Libya" and "talking points."
+T116	Cue 5677 5688	were deemed
+T117	Content 5664 5676;5689 5697	no documents relevant
+T118	Attribution-no-source 5677 5688	were deemed
+E31	Attribution-no-source:T118 Content:T117 Cue:T116
+T119	Source 5720 5734	the department
+T120	Cue 5735 5740	asked
+T121	Content 5741 5800	Mills, Sullivan and Abedin to search their personal e-mails
+T122	Attribution 5735 5740	asked
+E32	Attribution:T122 Content:T121 Cue:T120 Source:T119
+T123	Source 5802 5809	Hackett
+T124	Cue 5810 5814	said
+T125	Content 5815 5990	that one of Sullivan's personale-mails helped officials realize that a Clinton e-mail previously deemed as not relevant actually concerned the infamous Benghazi talking points
+T126	Attribution 5810 5814	said
+E33	Attribution:T126 Content:T125 Cue:T124 Source:T123
+T127	Content 5996 6000	that
+T128	Cue 6001 6024	wasn't previously clear
+T129	Source 6028 6074	thee-mail chain contained in Clinton's records
+T130	Attribution 6001 6024	wasn't previously clear
+E34	Attribution:T130 Source:T129 Cue:T128 Content:T127
+T131	Discuss 5992 6074	But that wasn't previously clear in thee-mail chain contained in Clinton's records
+T132	Source 6077 6085	Sullivan
+T133	Cue 6086 6103	had not forwarded
+T134	Content 6104 6128	that part of the message
+T135	Attribution 6086 6103	had not forwarded
+E35	Attribution:T135 Content:T134 Cue:T133 Source:T132
+T136	Cue 6164 6192	are not necessarily expected
+T137	Content 6155 6163;6193 6213	agencies to find every record
+T138	Attribution-no-source 6164 6192	are not necessarily expected
+E36	Attribution-no-source:T138 Content:T137 Cue:T136
+T139	Cue 6228 6240	are expected
+T140	Content 6223 6227;6241 6339	they to produce records based on a "reasonable search" of what's in its custody and control at the time
+T141	Attribution-no-source 6228 6240	are expected
+E37	Attribution-no-source:T141 Content:T140 Cue:T139
+T142	Source 6414 6419	which
+T143	Cue 6420 6425	means
+T144	Content 6426 6484	that individuals and offices are tasked with FOIA requests
+T145	Attribution 6420 6425	means
+E38	Attribution:T145 Content:T144 Cue:T143 Source:T142
+T146	Source 6486 6500	Each custodian
+T147	Cue 6501 6519	is responsible for
+T148	Content 6520 6562	producing any responsive records they have
+T149	Attribution 6501 6519	is responsible for
+E39	Attribution:T149 Content:T148 Cue:T147 Source:T146
+T150	Source 6679 6699	the State Department
+T151	Cue 6700 6704	says
+T152	Content 6705 6809	it started automatically preserving the records of Secretary of State John F. Kerry and his senior aides
+T153	Attribution 6700 6704	says
+E40	Attribution:T153 Content:T152 Cue:T151 Source:T150
+T154	Source 6833 6840	Clinton
+T155	Cue 6841 6864	clearly erred in saying
+T156	Content 6865 6929	that the "90 to 95 percent" figure was from the State Department
+T157	Attribution 6841 6864	clearly erred in saying
+E41	Attribution:T157 Content:T156 Cue:T155 Source:T154
+T158	Source 6968 6971	she
+T159	Cue 6972 6986	should correct
+T160	Content 6987 6997	the record
+T161	Attribution 6972 6986	should correct
+E42	Attribution:T161 Content:T160 Cue:T159 Source:T158
+T162	Source 7087 7115	what has been made available
+T163	Cue 7117 7125	suggests
+T164	Content 7126 7209	that a substantial majority are to and from at least one "state.gov" e-mail address
+T165	Attribution 7117 7125	suggests
+E43	Attribution:T165 Content:T164 Cue:T163 Source:T162
+T166	Cue 7067 7085	have been released
+T167	Content 7006 7066	not all of the e-mails she submitted to the State Department
+T168	Attribution-no-source 7067 7085	have been released
+E44	Attribution-no-source:T168 Content:T167 Cue:T166
+T169	Cue 7211 7247	It is not an unreasonable assumption
+T170	Content 7248 7332	that these e-mails are contained somewhere within the bowels of the State Department
+T171	Attribution-no-source 7211 7247	It is not an unreasonable assumption
+E45	Attribution-no-source:T171 Content:T170 Cue:T169
+T172	Source 7338 7345	Clinton
+T173	Cue 7385 7411	certainly cannot attribute
+T174	Content 7412 7440	that to the State Department
+T175	Attribution 7385 7411	certainly cannot attribute
+E46	Attribution:T175 Content:T174 Cue:T173 Source:T172
+T176	Discuss 7334 7440	But Clinton cannot make a definitive statement and certainly cannot attribute that to the State Department
+T177	Source 7473 7480	Clinton
+T178	Cue 7481 7503	would do better to say
+T179	Content 7504 7651	that "my staff has calculated that 90 percent were sent to or from a state.gov e-mail address" rather than "90 percent were already in the system."
+T180	Attribution 7481 7503	would do better to say
+E47	Attribution:T180 Content:T179 Cue:T178 Source:T177
+T181	Cue 7446 7461	the interest of
+T182	Content 7462 7471	precision
+T183	Attribution-no-source 7446 7461	the interest of
+E48	Attribution-no-source:T183 Content:T182 Cue:T181

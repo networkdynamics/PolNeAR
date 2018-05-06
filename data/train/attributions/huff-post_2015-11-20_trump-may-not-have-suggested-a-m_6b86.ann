@@ -1,0 +1,61 @@
+T1	Source 0 5	Trump
+T2	Cue 6 28	May Not Have Suggested
+T3	Content 29 46	A Muslim Registry
+T4	Attribution 6 28	May Not Have Suggested
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 52 54	He
+T6	Cue 55 70	Fully Supported
+T7	Content 71 74	One
+T8	Attribution 55 70	Fully Supported
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 77 89	Donald Trump
+T10	Cue 130 154	tweeted on Friday to say
+T11	Content 155 225	he had never suggested the U.S. should use a database to track Muslims
+T12	Attribution 130 154	tweeted on Friday to say
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Discard 228 469	<tweet pic="" author="realDonaldTrump" timestamp="1448038800" tweet_id="667777348029292544">I didn’t suggest a database-a reporter did. We must defeat Islamic terrorism & have surveillance, including a watch list, to protect America</tweet>.
+T14	Source 481 483	he
+T15	Cue 484 501	may not have made
+T16	Content 502 524	the initial suggestion
+T17	Attribution 484 501	may not have made
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 526 531	Trump
+T19	Cue 532 543	did support
+T20	Content 544 583	the idea of such a database on Thursday
+T21	Attribution 532 543	did support
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Content 610 691	“Should there be a database system that tracks the Muslims here in this country?”
+T23	Source 692 702	a reporter
+T24	Cue 716 722	asking
+T25	Attribution 716 722	asking
+E6	Attribution:T25 Cue:T24 Source:T23 Content:T22
+T26	Content 754 807;833 892	“There should be a lot of systems, beyond databases,” “We should have a lot of systems, and today you can do it.”
+T27	Source 808 823	the businessman
+T28	Cue 824 831	replied
+T29	Attribution 824 831	replied
+E7	Attribution:T29 Cue:T28 Source:T27 Content:T26
+T30	Content 894 941	“I would certainly implement that, absolutely,”
+T31	Source 942 944	he
+T32	Cue 945 950	added
+T33	Attribution 945 950	added
+E8	Attribution:T33 Cue:T32 Source:T31 Content:T30
+T34	Discuss 98 103	vying
+T35	Source 953 958	Trump
+T36	Cue 959 965	argued
+T37	Content 966 1038	that a database would keep people from coming into the country illegally
+T38	Attribution 959 965	argued
+E9	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Cue 1040 1046	saying
+T40	Content 1047 1075	it’s “all about management.”
+T41	Attribution 1040 1046	saying
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T35
+T42	Source 1082 1097	an NBC reporter
+T43	Cue 1098 1109	later asked
+T44	Content 1116 1232	if having Muslims register in a database would be any different from having Jews wear a yellow badge in Nazi Germany
+T45	Attribution 1098 1109	later asked
+E11	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Content 1252 1266	“You tell me,”
+T47	Source 1267 1269	he
+T48	Cue 1270 1274	said
+T49	Attribution 1270 1274	said
+E12	Attribution:T49 Cue:T48 Source:T47 Content:T46

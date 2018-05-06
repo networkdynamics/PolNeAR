@@ -1,0 +1,30 @@
+T1	Source 541 565	A reporter for USA Today
+T2	Cue 608 616	reported
+T3	Content 617 629	her presence
+T4	Attribution 608 616	reported
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 831 865	Stein spokeswoman Melezia Figueroa
+T6	Cue 866 870	said
+T7	Content 871 1039	the candidate was headed to the venue to participate in media interviews, which she was doing when law enforcement and campus security located her and told her to leave
+T8	Attribution 866 870	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 1109 1152	“We were there under legitimate pretenses,”
+T10	Source 1153 1161	Figueroa
+T11	Cue 1162 1166	told
+T12	Attribution 1162 1166	told
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 1179 1187	Figueroa
+T14	Cue 1188 1192	said
+T15	Content 1193 1303	the campaign planned to bus in supporters to stage a protest to grant her admission into Monday night’s debate
+T16	Attribution 1188 1192	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 1312 1315	she
+T18	Cue 1316 1328	acknowledged
+T19	Content 1329 1352	it was unlikely to work
+T20	Attribution 1316 1328	acknowledged
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1355 1360	Stein
+T22	Cue 1361 1365	said
+T23	Content 1366 1472	she plans to join her supporters at the protest and live stream her response to the debate on social media
+T24	Attribution 1361 1365	said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21

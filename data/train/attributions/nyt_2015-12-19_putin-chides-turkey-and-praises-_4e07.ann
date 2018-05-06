@@ -1,0 +1,188 @@
+T1	Source 0 5	Putin
+T2	Cue 6 12	chides
+T3	Content 13 19	Turkey
+T4	Attribution 6 12	chides
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 24 31	praises
+T6	Content 32 37	Trump
+T7	Attribution 24 31	praises
+E2	Attribution:T7 Cue:T5 Content:T6 Source:T1
+T8	Source 70 79	Mr. Putin
+T9	Cue 80 88	forecast
+T10	Content 89 133	that the slumping economy would soon rebound
+T11	Attribution 80 88	forecast
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 138 145	praised
+T13	Content 146 224	efforts by Secretary of State John Kerry to find a political solution in Syria
+T14	Attribution 138 145	praised
+E4	Attribution:T14 Cue:T12 Content:T13 Source:T8
+T15	Source 286 313	President Vladimir V. Putin
+T16	Cue 314 327	held forth on
+T17	Content 328 398	a sweeping array of topics in his traditional year-end news conference
+T18	Attribution 314 327	held forth on
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Cue 400 416	even throwing in
+T20	Content 417 456	a glowing assessment of Donald J. Trump
+T21	Attribution 400 416	even throwing in
+E6	Attribution:T21 Cue:T19 Source:T15 Content:T20
+T22	Source 530 532	he
+T23	Cue 533 543	lashed out
+T24	Content 554 591	for having shot down a Russian bomber
+T25	Attribution 533 543	lashed out
+E7	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Cue 597 602	dared
+T27	Content 613 679	to try it again with Russia's advanced air defense system in place
+T28	Attribution 597 602	dared
+E8	Attribution:T28 Cue:T26 Source:T22 Content:T27
+T29	Source 773 775	he
+T30	Cue 776 780	said
+T31	Content 781 846	perhaps they ''wanted to lick the Americans in a certain place.''
+T32	Attribution 776 780	said
+E9	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 682 718	Using a crude expression to describe
+T34	Content 719 771	the Turks as ingratiating themselves with Washington
+T35	Attribution 682 718	Using a crude expression to describe
+E10	Attribution:T35 Cue:T33 Content:T34 Source:T29
+T36	Source 1045 1047	he
+T37	Cue 1048 1055	praised
+T38	Content 1056 1149	the efforts of Secretary of State John Kerry to find a political solution to the war in Syria
+T39	Attribution 1048 1055	praised
+E11	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1152 1161	Mr. Putin
+T41	Cue 1162 1195	also veered close to an admission
+T42	Content 1196 1258	that Russian soldiers had fought in the war in eastern Ukraine
+T43	Attribution 1162 1195	also veered close to an admission
+E12	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Cue 1260 1266	saying
+T45	Content 1268 1373	''We never said there were no people there solving certain questions, including in the military sphere,''
+T46	Attribution 1260 1266	saying
+E13	Attribution:T46 Cue:T44 Content:T45 Source:T40
+T47	Source 1378 1380	he
+T48	Cue 1381 1387	denied
+T49	Content 1388 1439	that they were on active duty with the regular army
+T50	Attribution 1381 1387	denied
+E14	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Content 1442 1478	''Get a sense of that distinction,''
+T52	Source 1479 1481	he
+T53	Cue 1482 1486	said
+T54	Attribution 1482 1486	said
+E15	Attribution:T54 Cue:T53 Source:T52 Content:T51
+T55	Source 1489 1491	He
+T56	Cue 1492 1516	even gave a few hints of
+T57	Content 1517 1548	his closely guarded family life
+T58	Attribution 1492 1516	even gave a few hints of
+E16	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Cue 1550 1568	talking proudly of
+T60	Content 1569 1592	his two adult daughters
+T61	Attribution 1550 1568	talking proudly of
+E17	Attribution:T61 Cue:T59 Content:T60 Source:T55
+T62	Source 1598 1600	he
+T63	Cue 1601 1605	said
+T64	Content 1606 1676	were living in Russia and ''taking the first steps of their careers.''
+T65	Attribution 1601 1605	said
+E18	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Cue 1769 1779	announcing
+T67	Content 1780 1844	the release of the imprisoned oil tycoon Mikhail B. Khodorkovsky
+T68	Source 1745 1747	he
+T69	Attribution 1769 1779	announcing
+E19	Attribution:T69 Source:T68 Content:T67 Cue:T66
+T70	Source 1857 1859	he
+T71	Cue 1860 1882	rose to the defense of
+T72	Content 1883 1895	Sepp Blatter
+T73	Attribution 1860 1882	rose to the defense of
+E20	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Cue 2013 2019	saying
+T75	Content 2020 2071	Mr. Blatter should be awarded the Nobel Peace Prize
+T76	Attribution 2013 2019	saying
+E21	Attribution:T76 Cue:T74 Content:T75 Source:T70
+T77	Content 2248 2312;2338 2472	''There is no doubt that he is a very bright and talented man,'' ''It is not our business to assess his merits; that is up to the U.S. voters. But he is an absolute leader of the presidential race.''
+T78	Source 2313 2331	the Russian leader
+T79	Cue 2332 2336	said
+T80	Attribution 2332 2336	said
+E22	Attribution:T80 Cue:T79 Source:T78 Content:T77
+T81	Cue 2510 2516	seemed
+T82	Content 2500 2509;2517 2632	Mr. Putin most concerned with driving home the point to his domestic audience that Russia's battered economy had bottomed out
+T83	Attribution-no-source 2510 2516	seemed
+E23	Attribution-no-source:T83 Content:T82 Cue:T81
+T84	Source 2732 2741	Mr. Putin
+T85	Cue 2742 2750	lingered
+T86	Content 2789 2879	those that allowed him to reassure Russians that their living standards were not imperiled
+T87	Attribution 2742 2750	lingered
+E24	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Source 2882 2884	He
+T89	Cue 2885 2911	went out of his way to say
+T90	Content 2912 2993	that Russia's economy had hit bottom this year, and that it was now bouncing back
+T91	Attribution 2885 2911	went out of his way to say
+E25	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Source 3061 3087	a report issued this month
+T93	Content 3003 3056;3089 3114	independent economists and even Russia's central bank have contested that view.
+T94	Cue 3058 3062	in a
+T95	Attribution 3058 3062	in a
+E26	Attribution:T95 Cue:T94 Content:T93 Source:T92
+T96	Source 3126 3135	Mr. Putin
+T97	Cue 3136 3147	sugarcoated
+T98	Content 3148 3210	grim economic news Russians were bound to discover in any case
+T99	Attribution 3136 3147	sugarcoated
+E27	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Source 3314 3316	he
+T101	Cue 3317 3321	said
+T102	Content 3212 3312;3323 3387	While the government might soon lift the retirement age to save money, that is cause for celebration because Russians are now living longer - to an average age of 71
+T103	Attribution 3317 3321	said
+E28	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Source 3390 3399	Mr. Putin
+T105	Cue 3400 3414	backpedaled on
+T106	Content 3415 3505	his prediction a year ago that Russia would pull out of its current slump within two years
+T107	Attribution 3400 3414	backpedaled on
+E29	Attribution:T107 Content:T106 Cue:T105 Source:T104
+T108	Cue 3511 3517	blamed
+T109	Content 3518 3542	the tumble in oil prices
+T110	Attribution 3511 3517	blamed
+E30	Attribution:T110 Cue:T108 Content:T109 Source:T104
+T111	Content 3544 3622	''After this fall in prices in energy resources, all the indicators slipped,''
+T112	Source 3623 3625	he
+T113	Cue 3626 3630	said
+T114	Attribution 3626 3630	said
+E31	Attribution:T114 Cue:T113 Source:T112 Content:T111
+T115	Content 4085 4215	Russians now say they admire Mr. Putin more for a role as a ''protector'' from external threats than for the role of ''provider,''
+T116	Source 4216 4284	a study by an influential Russian sociologist, Mikhail E. Dmitriyev,
+T117	Cue 4285 4294	concluded
+T118	Attribution 4285 4294	concluded
+E32	Attribution:T118 Cue:T117 Source:T116 Content:T115
+T119	Source 4458 4460	he
+T120	Cue 4461 4486	complained bitterly about
+T121	Content 4487 4537	the United States' backing independence for Kosovo
+T122	Attribution 4461 4486	complained bitterly about
+E33	Attribution:T122 Content:T121 Cue:T120 Source:T119
+T123	Cue 4543 4555	railed about
+T124	Content 4556 4649	Washington's propensity to intervene in countries' internal affairs where and when it saw fit
+T125	Attribution 4543 4555	railed about
+E34	Attribution:T125 Cue:T123 Content:T124 Source:T119
+T126	Content 4651 4708;4725 4815	''We are told all the time, 'Kosovo is a special case,''' ''It is all lies. There is no special case, and everybody understands it perfectly well.''
+T127	Source 4709 4718	Mr. Putin
+T128	Cue 4719 4723	said
+T129	Attribution 4719 4723	said
+E35	Attribution:T129 Cue:T128 Source:T127 Content:T126
+T130	Source 4817 4819	He
+T131	Cue 4820 4830	propounded
+T132	Content 4831 4902	the same anti-interventionist theme in later years in the case of Libya
+T133	Attribution 4820 4830	propounded
+E36	Attribution:T133 Content:T132 Cue:T131 Source:T130
+T134	Source 4909 4911	he
+T135	Cue 4912 4929	was embittered at
+T136	Content 4930 5067	having been misled into supporting a ''humanitarian'' intervention that ended up in what he saw as a disastrous exercise in regime change
+T137	Attribution 4912 4929	was embittered at
+E37	Attribution:T137 Content:T136 Cue:T135 Source:T134
+T138	Content 5070 5146;5164 5312	''No matter how they explained their position, the state is falling apart,'' ''Interethnic, interclan and intertribal conflicts continue.'' He added, ''And you want us to constantly repeat these mistakes in other countries?''
+T139	Source 5147 5149	he
+T140	Cue 5150 5154	said
+T141	Attribution 5150 5154	said
+E38	Attribution:T141 Cue:T140 Source:T139 Content:T138
+T142	Source 5314 5316	He
+T143	Cue 5317 5331	argued against
+T144	Content 5332 5371	intervention by outside powers in Syria
+T145	Attribution 5317 5331	argued against
+E39	Attribution:T145 Content:T144 Cue:T143 Source:T142
+T146	Cue 5381 5387	adding
+T147	Content 5388 5477	that Russia was ''not concerned with the fate'' of President Bashar al-Assad's government
+T148	Attribution 5381 5387	adding
+E40	Attribution:T148 Cue:T146 Content:T147 Source:T142

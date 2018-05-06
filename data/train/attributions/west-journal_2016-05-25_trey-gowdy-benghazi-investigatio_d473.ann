@@ -1,0 +1,58 @@
+T1	Source 0 10	Trey Gowdy
+T2	Cue 10 11	:
+T3	Content 12 70	Benghazi Investigation Helped Reveal Clinton Email Scandal
+T4	Attribution 10 11	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 73 85	According to
+T6	Source 86 101	Rep. Trey Gowdy
+T7	Content 103 241	Congressional probing of the Benghazi scandal was at least partly responsible for the forced exposure of the Hillary Clinton email scandal
+T8	Attribution 73 85	According to
+E2	Attribution:T8 Content:T7 Source:T6 Cue:T5
+T9	Source 250 290	the State Department’s inspector general
+T10	Cue 291 339	released a scathing report Wednesday documenting
+T11	Content 340 375	Clinton’s abuse of federal protocol
+T12	Attribution 291 339	released a scathing report Wednesday documenting
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 377 382	Gowdy
+T14	Cue 383 416	released a statement highlighting
+T15	Content 417 465	the role Congress played in uncovering the truth
+T16	Attribution 383 416	released a statement highlighting
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 468 842	“There is only one reason why these facts are now available to the American people: thorough congressional oversight, including the Select Committee on Benghazi’s insistence that any truly comprehensive review of what happened before, during, and after the 2012 terrorist attacks in Libya must include public records from the former Secretary of State and her senior staff,”
+T18	Cue 843 847	said
+T19	Source 848 853	Gowdy
+T20	Attribution 843 847	said
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Source 856 885	The South Carolina Republican
+T22	Cue 886 894	admitted
+T23	Content 895 1004	that while Clinton’s email server was never central to the House Select Committee on Benghazi’s investigation
+T24	Attribution 886 894	admitted
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1006 1008	he
+T26	Cue 1009 1015	argued
+T27	Content 1016 1113	the probe could not have moved forward without access to then-Secretary of State Clinton’s emails
+T28	Attribution 1009 1015	argued
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1116 1404	“If anyone wonders why the investigation is not yet complete, the malfeasance and numerous problems identified in this report are Exhibit A, and prove the committee has faced serial delays from Day One at the hands of public officials who sought to avoid transparency and accountability,”
+T30	Cue 1405 1410	added
+T31	Source 1411 1416	Gowdy
+T32	Attribution 1405 1410	added
+E8	Attribution:T32 Source:T31 Cue:T30 Content:T29
+T33	Cue 1437 1463	have often faced criticism
+T34	Content 1425 1436;1464 1550	Republicans for the lengthy ongoing investigation into the events surrounding the Benghazi tragedy
+T35	Attribution-no-source 1437 1463	have often faced criticism
+E9	Attribution-no-source:T35 Content:T34 Cue:T33
+T36	Cue 1553 1569	often labeled as
+T37	Content 1570 1584	a “witch hunt”
+T38	Source 1588 1597	Democrats
+T39	Attribution 1553 1569	often labeled as
+E10	Attribution:T39 Source:T38 Content:T37 Cue:T36
+T40	Cue 1603 1608	seems
+T41	Content 1609 1703	likely Gowdy is correct in his assessment of the lack of cooperation from the State Department
+T42	Attribution-no-source 1603 1608	seems
+E11	Attribution-no-source:T42 Content:T41 Cue:T40
+T43	Source 1706 1726	The State Department
+T44	Cue 1756 1764	admitted
+T45	Content 1765 1783	it withheld emails
+T46	Attribution 1756 1764	admitted
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43

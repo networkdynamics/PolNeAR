@@ -1,0 +1,24 @@
+T1	Source 0 5	Rubio
+T2	Cue 5 6	:
+T3	Content 7 82	I Still Believe Trump Can’t Be Trusted with America’s Nuclear Weapons Codes
+T4	Attribution 5 6	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 142 153	Marco Rubio
+T6	Cue 154 168	still believes
+T7	Content 169 235	that the presumptive GOP nominee is unfit to be commander-in-chief
+T8	Attribution 154 168	still believes
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 101 111	announcing
+T10	Content 112 140	his support for Donald Trump
+T11	Attribution 101 111	announcing
+E3	Attribution:T11 Cue:T9 Content:T10 Source:T5
+T12	Content 237 288	“I stand by everything I said during the campaign,”
+T13	Source 289 308	the Florida senator
+T14	Cue 309 313	told
+T15	Attribution 309 313	told
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Source 314 333	THE WEEKLY STANDARD
+T17	Cue 351 356	asked
+T18	Content 357 452	if he still believes Trump cannot be trusted with access to the country’s nuclear weapons codes
+T19	Attribution 351 356	asked
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16

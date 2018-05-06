@@ -1,0 +1,85 @@
+T1	Cue 40 42	In
+T2	Source 43 62	Survey Of US Troops
+T3	Content 0 39	Trump’s Support Twice That Of Clinton’s
+T4	Attribution 40 42	In
+E1	Attribution:T4 Content:T3 Source:T2 Cue:T1
+T5	Cue 239 251	according to
+T6	Source 252 275	a Military Times survey
+T7	Content 65 237	The men and women who would be sent to fight for their country in the next administration would prefer to march under the orders of Donald Trump rather than Hillary Clinton
+T8	Attribution 239 251	according to
+E2	Attribution:T8 Content:T7 Source:T6 Cue:T5
+T9	Source 287 291	many
+T10	Cue 292 313	would also prefer not
+T11	Content 314 421	to have had to choose between the two and up to 20 percent may note vote at all given the choices they face
+T12	Attribution 292 313	would also prefer not
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 424 434	The survey
+T14	Cue 435 441	showed
+T15	Content 442 621	that 54 percent of active duty military personnel said they would vote for Trump, the Republican nominee, while only 25 percent would vote for Clinton, the Democratic front-runner
+T16	Attribution 435 441	showed
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 651 661	21 percent
+T18	Cue 662 666	said
+T19	Content 667 693	they would not vote at all
+T20	Attribution 662 666	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 869 879	10 percent
+T22	Cue 880 892	not planning
+T23	Content 893 900	to vote
+T24	Attribution 880 892	not planning
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 933 947	Military Times
+T26	Cue 948 953	found
+T27	Content 954 1062	Democrats favored Clinton, 72 percent to 8 percent, while Republicans favored Trump, 82 percent to 6 percent
+T28	Attribution 948 953	found
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1064 1077	Female troops
+T30	Cue 1078 1087	preferred
+T31	Content 1088 1095	Clinton
+T32	Attribution 1078 1087	preferred
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1128 1139	male troops
+T34	Cue 1140 1146	backed
+T35	Content 1147 1152	Trump
+T36	Attribution 1140 1146	backed
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1181 1189	Officers
+T38	Cue 1190 1197	favored
+T39	Content 1198 1203	Trump
+T40	Attribution 1190 1197	favored
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1236 1254	enlisted personnel
+T42	Cue 1255 1262	favored
+T43	Content 1263 1268	Trump
+T44	Attribution 1255 1262	favored
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1332 1352	the Marines surveyed
+T46	Content 1305 1308	his
+T47	Cue 1309 1325	greatest support
+T48	Attribution 1309 1325	greatest support
+E12	Attribution:T48 Cue:T47 Content:T46 Source:T45
+T49	Content 1372 1379	Clinton
+T50	Cue 1379 1398	’s greatest support
+T51	Source 1422 1437	naval personnel
+T52	Attribution 1379 1398	’s greatest support
+E13	Attribution:T52 Source:T51 Cue:T50 Content:T49
+T53	Source 1440 1462	Some of those surveyed
+T54	Cue 1463 1490	shared their concerns about
+T55	Content 1491 1512	the choices they face
+T56	Attribution 1463 1490	shared their concerns about
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Content 1515 1572;1662 1741	“The candidates left just don’t understand the military,” “The military perspective on some of their policies are just so far out there.”
+T58	Cue 1573 1577	said
+T59	Source 1578 1604	Army Capt. Christian Pardo
+T60	Attribution 1573 1577	said
+E15	Attribution:T60 Source:T59 Cue:T58 Content:T57
+T61	Source 1606 1609	who
+T62	Cue 1610 1614	said
+T63	Content 1615 1660	he would not vote for either Clinton or Trump
+T64	Attribution 1610 1614	said
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Content 1743 1820;1862 1901	“I really don’t understand how a better candidate didn’t jump into the race,” “I was hoping we’d see something else.”
+T66	Cue 1821 1825	said
+T67	Source 1826 1860	Air Force 1st Lt. Tyler Livingston
+T68	Attribution 1821 1825	said
+E17	Attribution:T68 Source:T67 Cue:T66 Content:T65

@@ -1,0 +1,215 @@
+T1	Source 12 19	Sanders
+T2	Cue 20 28	declares
+T3	Content 29 42	‘revolution,’
+T4	Attribution 20 28	declares
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 43 50	ignores
+T6	Content 51 57	losses
+T7	Attribution 43 50	ignores
+E2	Attribution:T7 Source:T1 Cue:T5 Content:T6
+T8	Source 374 384	his speech
+T9	Cue 385 410	carried little mention of
+T10	Content 411 415	them
+T11	Attribution 385 410	carried little mention of
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 576 578	he
+T13	Cue 579 595	barely discussed
+T14	Content 596 679	those contests or the day’s races in Illinois or Missouri that have not been called
+T15	Attribution 579 595	barely discussed
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 682 689	Sanders
+T17	Cue 738 746	decrying
+T18	Content 747 785	the influence of big money in politics
+T19	Attribution 738 746	decrying
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 787 789	He
+T21	Cue 790 795	vowed
+T22	Content 796 851	that “billionaires would have to pay their fair share.”
+T23	Attribution 790 795	vowed
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1280 1289	GOP rules
+T25	Cue 1290 1297	require
+T26	Content 1298 1384	delegates to vote for the candidate who won them on the first ballot at the convention
+T27	Attribution 1290 1297	require
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1538 1543	Rubio
+T29	Cue 1544 1551	can ask
+T30	Content 1552 1585	them to support another candidate
+T31	Attribution 1544 1551	can ask
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1629 1637	Ted Cruz
+T33	Cue 1638 1642	says
+T34	Content 1643 1746	his “friend and colleague” Marco Rubio ran “an optimistic campaign focused on the future of our party.”
+T35	Source 1843 1847	Cruz
+T36	Cue 1848 1852	said
+T37	Content 1853 1942	he’s certain Rubio will continue to be “a champion for limitless opportunity in America.”
+T38	Attribution 1638 1642	says
+E9	Attribution:T38 Source:T32 Cue:T33 Content:T34
+T39	Attribution 1848 1852	said
+E10	Attribution:T39 Content:T37 Cue:T36 Source:T35
+T40	Source 2076 2088	his campaign
+T41	Cue 2089 2105	was still hoping
+T42	Content 2106 2211	to pick up delegates in states that award delegates proportionally: Missouri, Illinois and North Carolina
+T43	Attribution 2089 2105	was still hoping
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 2214 2218	Cruz
+T45	Cue 2219 2227	has said
+T46	Content 2238 2304	he’s the only candidate in the field who can beat Trump one-on-one
+T47	Attribution 2219 2227	has said
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 2324 2335	John Kasich
+T49	Cue 2336 2340	says
+T50	Content 2341 2445	he won’t take the “low road” in his party’s divisive presidential primary after a home-state win in Ohio
+T51	Attribution 2336 2340	says
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Content 2701 2724	“The campaign goes on,”
+T53	Source 2725 2731	Kasich
+T54	Cue 2732 2736	told
+T55	Attribution 2732 2736	told
+E14	Attribution:T55 Cue:T54 Source:T53 Content:T52
+T56	Source 2905 2911	Kasich
+T57	Cue 2912 2917	joked
+T58	Content 2918 3025	that he appreciates a good, “peaceful protest every once in a while” since he went to college in the 1970’s
+T59	Attribution 2912 2917	joked
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Source 3656 3671	Hillary Clinton
+T61	Cue 3672 3676	says
+T62	Content 3677 3824	a president must be ready to “start making decisions” immediately upon assuming office since it’s a job that will affect every person on the planet
+T63	Attribution 3672 3676	says
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 3827 3847	Clinton, a Democrat,
+T65	Cue 3848 3863	did not mention
+T66	Content 3864 3908	Republican front-runner Donald Trump by name
+T67	Attribution 3848 3863	did not mention
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 3914 3917	she
+T69	Cue 3918 3922	said
+T70	Content 3931 4050	that any president would have to keep the country safe, make “positive changes” in people’s lives and unite the country
+T71	Attribution 3918 3922	said
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Source 4053 4060	Clinton
+T73	Cue 4061 4083	has repeatedly accused
+T74	Content 4084 4116	Trump of using divisive rhetoric
+T75	Attribution 4061 4083	has repeatedly accused
+E19	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 4118 4121	She
+T77	Cue 4122 4137	also called for
+T78	Content 4138 4286	all candidates to lay out specifics — including the cost — of their plans, something she has repeatedly asked of her Democratic rival Bernie Sanders
+T79	Attribution 4122 4137	also called for
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Source 4465 4480	Hillary Clinton
+T81	Cue 4481 4493	is declaring
+T82	Content 4494 4589	that she is moving closer to the Democratic nomination after three early states wins on Tuesday
+T83	Attribution 4481 4493	is declaring
+E21	Attribution:T83 Content:T82 Cue:T81 Source:T80
+T84	Source 4735 4742	Clinton
+T85	Cue 4782 4791	declaring
+T86	Content 4792 4835	it “another super Tuesday for our campaign”
+T87	Attribution 4782 4791	declaring
+E22	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Cue 4840 4844	said
+T89	Content 4845 4898	it was another step closer to winning the White House
+T90	Attribution 4840 4844	said
+E23	Attribution:T90 Source:T84 Cue:T88 Content:T89
+T91	Source 5957 5963	Kasich
+T92	Cue 5964 5989	has sought to distinguish
+T93	Content 5990 6038	himself as the candidate with a positive message
+T94	Attribution 5964 5989	has sought to distinguish
+E24	Attribution:T94 Content:T93 Cue:T92 Source:T91
+T95	Source 6040 6042	He
+T96	Cue 6043 6070	avoided direct criticism of
+T97	Content 6071 6089	front-runner Trump
+T98	Attribution 6043 6070	avoided direct criticism of
+E25	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Source 6114 6116	he
+T100	Cue 6117 6134	expressed concern
+T101	Content 6135 6207	that the billionaire businessman was encouraging violence at his rallies
+T102	Attribution 6117 6134	expressed concern
+E26	Attribution:T102 Content:T101 Cue:T100 Source:T99
+T103	Source 6486 6488	he
+T104	Cue 6489 6502	congratulated
+T105	Content 6503 6538	Florida primary winner Donald Trump
+T106	Attribution 6489 6502	congratulated
+E27	Attribution:T106 Content:T105 Cue:T104 Source:T103
+T107	Source 6540 6545	Rubio
+T108	Cue 6546 6553	offered
+T109	Content 6564 6633	an emotional evaluation on the state of politics in the United States
+T110	Attribution 6546 6553	offered
+E28	Attribution:T110 Content:T109 Cue:T108 Source:T107
+T111	Source 6684 6703	The Florida senator
+T112	Cue 6765 6771	saying
+T113	Content 6773 6819	he person would “not get beat up” at his rally
+T114	Attribution 6765 6771	saying
+E29	Attribution:T114 Content:T113 Cue:T112 Source:T111
+T115	Source 6885 6887	He
+T116	Cue 6888 6892	said
+T117	Content 6893 6959	that he would offer “a prayer” for the eventual Republican nominee
+T118	Attribution 6888 6892	said
+E30	Attribution:T118 Content:T117 Cue:T116 Source:T115
+T119	Cue 6964 6979	did not suggest
+T120	Content 6980 6997	it would be Trump
+T121	Attribution 6964 6979	did not suggest
+E31	Attribution:T121 Source:T115 Cue:T119 Content:T120
+T122	Source 7066 7068	He
+T123	Cue 7069 7094	has waffled of late as to
+T124	Content 7095 7192	whether he would support Trump if the celebrity businessman became the Republican standard-bearer
+T125	Attribution 7069 7094	has waffled of late as to
+E32	Attribution:T125 Content:T124 Cue:T123 Source:T122
+T126	Source 7195 7200	Rubio
+T127	Cue 7201 7214	also bemoaned
+T128	Content 7215 7320	the current political climate in which people “literally hate each other” because they differ politically
+T129	Attribution 7201 7214	also bemoaned
+E33	Attribution:T129 Content:T128 Cue:T127 Source:T126
+T130	Source 8398 8403	Rubio
+T131	Cue 8404 8408	told
+T132	Content 8434 8535	that he knows that voters are angry and that there is a hunger for new faces and voices in government
+T133	Attribution 8404 8408	told
+E34	Attribution:T133 Content:T132 Cue:T131 Source:T130
+T134	Content 8726 8728	he
+T135	Source 8735 8744	tea party
+T136	Cue 8745 8753	favorite
+T137	Attribution 8745 8753	favorite
+E35	Attribution:T137 Cue:T136 Source:T135 Content:T134
+T138	Content 8925 8928;8943 8956	who as mainstream
+T139	Cue 8929 8942	was lambasted
+T140	Attribution-no-source 8929 8942	was lambasted
+E36	Attribution-no-source:T140 Cue:T139 Content:T138
+T141	Source 11465 11498	Trump’s official campaign account
+T142	Cue 11514 11551	re-tweeting several negative comments
+T143	Content 11552 11603	about Fox News host Megyn Kelly’s election coverage
+T144	Attribution 11514 11551	re-tweeting several negative comments
+E37	Attribution:T144 Content:T143 Cue:T142 Source:T141
+T145	Source 12079 12115	many in the Republican establishment
+T146	Cue 12116 12126	had backed
+T147	Content 12075 12078	who
+T148	Attribution 12116 12126	had backed
+E38	Attribution:T148 Content:T147 Cue:T146 Source:T145
+T149	Cue 12127 12141	in the hope of
+T150	Content 12142 12182	derailing Trump’s dash to the nomination
+T151	Attribution 12127 12141	in the hope of
+E39	Attribution:T151 Source:T145 Cue:T149 Content:T150
+T152	Source 12449 12528	About two-thirds of Republican primary voters in all five states voting Tuesday
+T153	Cue 12529 12536	support
+T154	Content 12537 12608	temporarily banning non-citizen Muslims from entering the United States
+T155	Attribution 12529 12536	support
+E40	Attribution:T155 Content:T154 Cue:T153 Source:T152
+T156	Source 12614 12636	majorities in all five
+T157	Cue 12637 12640	say
+T158	Content 12641 12731	they want immigrants already in the United States illegally to be allowed a chance to stay
+T159	Attribution 12637 12640	say
+E41	Attribution:T159 Content:T158 Cue:T157 Source:T156
+T160	Content 12734 12738	That
+T161	Cue 12738 12753	’s according to
+T162	Source 12754 12860	early results of exit polls conducted for the Associated Press and television networks for Edison Research
+T163	Attribution 12738 12753	’s according to
+E42	Attribution:T163 Source:T162 Cue:T161 Content:T160
+T164	Source 12863 12913	Only about 4 in 10 Republican voters in each state
+T165	Cue 12914 12918	want
+T166	Content 12919 12973	all immigrants in the country illegally to be deported
+T167	Attribution 12914 12918	want
+E43	Attribution:T167 Content:T166 Cue:T165 Source:T164
+T168	Source 12994 13012	GOP primary voters
+T169	Cue 13013 13019	saying
+T170	Content 13020 13085	they want a ban on non-citizen Muslims entering the United States
+T171	Attribution 13013 13019	saying
+E44	Attribution:T171 Content:T170 Cue:T169 Source:T168

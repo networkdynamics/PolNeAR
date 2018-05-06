@@ -1,0 +1,45 @@
+T1	Source 316 350	DNC Chair Debbie Wasserman Schultz
+T2	Cue 351 360	announced
+T3	Content 368 506	she will resign her post after the convention, to be replaced by veteran Democratic strategist Donna Brazile through the November election
+T4	Attribution 351 360	announced
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 534 541	the DNC
+T6	Cue 542 598	issued a statement apologizing to Sanders for the emails
+T7	Content 688 1236	“On behalf of everyone at the DNC, we want to offer a deep and sincere apology to Senator Sanders, his supporters and everyone in the Democratic Party for the inexcusable remarks made over email. These comments to not reflect the values of the DNC or our steadfast commitment to neutrality during the nominating process. The DNC does not — and will not — tolerate disrespectful language toward our candidates. Individual staffers have rightly apologized for their comments and the DNC is taking appropriate action to ensure it never happens again.”
+T8	Attribution 542 598	issued a statement apologizing to Sanders for the emails
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 1338 1355	Sanders delegates
+T10	Cue 1399 1416	have loudly booed
+T11	Content 1417 1508	the mention of Hillary Clinton or her newly-announced running mate, Virginia Sen. Tim Kaine
+T12	Attribution 1399 1416	have loudly booed
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 1511 1518	Sanders
+T15	Content 1591 1628	not to stage protests inside the hall
+T14	Cue 1519 1585	sent a mass text message to his supporters in Philadelphia, asking
+T16	Attribution 1519 1585	sent a mass text message to his supporters in Philadelphia, asking
+E4	Attribution:T16 Cue:T14 Content:T15 Source:T13
+T17	Cue 1799 1811	according to
+T18	Source 1812 1815	CNN
+T19	Content 1693 1797;1817 1882	“I ask you as a personal courtesy to me not to engage in any kind of protest on the floor,” Sanders said “It’s of utmost importance you explain this to your delegations.”
+T20	Attribution 1799 1811	according to
+E5	Attribution:T20 Content:T19 Source:T18 Cue:T17
+T21	Source 258 271	leaked emails
+T22	Cue 272 278	showed
+T23	Content 279 313	DNC staff favoring Hillary Clinton
+T24	Source 88 121	The Democratic National Committee
+T25	Cue 122 199	released a statement at the outset of the party’s convention Monday, offering
+T26	Content 200 251	“a deep and sincere apology” to Sen. Bernie Sanders
+T27	Attribution 272 278	showed
+E6	Attribution:T27 Source:T21 Cue:T22 Content:T23
+T28	Attribution 122 199	released a statement at the outset of the party’s convention Monday, offering
+E7	Attribution:T28 Content:T26 Cue:T25 Source:T24
+T29	Source 0 3	DNC
+T30	Cue 4 10	issues
+T31	Content 11 55	‘deep and sincere apology’ to Bernie Sanders
+T32	Attribution 4 10	issues
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 615 628	staff members
+T34	Cue 629 639	suggesting
+T35	Content 640 685	someone should question Sanders’ Jewish faith
+T36	Attribution 629 639	suggesting
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33

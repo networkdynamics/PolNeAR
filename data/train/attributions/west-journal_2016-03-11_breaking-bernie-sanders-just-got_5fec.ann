@@ -1,0 +1,55 @@
+T1	Discard 2208 2222	h/t: The Hill.
+T2	Source 95 110	A judge in Ohio
+T3	Cue 111 117	issued
+T4	Content 118 126	a ruling
+T5	Attribution 111 117	issued
+E1	Attribution:T5 Content:T4 Cue:T3 Source:T2
+T7	Content 223 356	that 17-year-olds who will turn 18 prior to the November presidential election are eligible to vote in the state’s primary on Tuesday
+T6	Cue 217 222	ruled
+T8	Source 207 216	The judge
+T9	Attribution 217 222	ruled
+E2	Attribution:T9 Source:T8 Cue:T6 Content:T7
+T10	Source 463 477	younger voters
+T11	Cue 439 457	has struck a chord
+T12	Content 400 438	whose rhetoric throughout the campaign
+T13	Attribution 439 457	has struck a chord
+E3	Attribution:T13 Content:T12 Cue:T11 Source:T10
+T14	Source 479 487	His team
+T15	Cue 488 516	had filed a lawsuit aimed at
+T16	Content 517 646	changing the existing law barring 17-year-olds from voting in the primary, even if they would be eligible to vote on election day
+T17	Attribution 488 516	had filed a lawsuit aimed at
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 770 806	Joh Husted, Ohio Secretary of State,
+T19	Cue 807 813	voiced
+T20	Content 814 843	his disapproval of the ruling
+T21	Attribution 807 813	voiced
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Content 845 919;933 1114	“This last-minute legislating from the bench on election law has to stop,” “Our system cannot give one county court the power to change 30 years of election law for the entire state of Ohio, 23 days into early voting and only four days before an election.”
+T23	Source 920 926	Husted
+T24	Cue 927 931	said
+T25	Attribution 927 931	said
+E6	Attribution:T25 Cue:T24 Source:T23 Content:T22
+T26	Source 1116 1122	Husted
+T27	Cue 1123 1142	continued by saying
+T28	Content 1144 1341	“We will appeal this decision because if there is a close election on Tuesday we need clarity from the Supreme Court to make sure that ineligible voters don’t determine the outcome of an election.”
+T29	Attribution 1123 1142	continued by saying
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 1546 1626	The Real Clear Politics average of three polls conducted the first week of March
+T31	Cue 1627 1630	has
+T32	Content 1631 1673	Clinton leading by an average of 20 points
+T33	Attribution 1627 1630	has
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1680 1694	a CNN/ORC poll
+T35	Cue 1695 1701	giving
+T36	Content 1702 1739	Clinton a whopping 30-point advantage
+T37	Attribution 1695 1701	giving
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Cue 1349 1361	it’s assumed
+T39	Content 1362 1440	the ruling should benefit Sanders because of his popularity among young voters
+T40	Attribution-no-source 1349 1361	it’s assumed
+E10	Attribution-no-source:T40 Content:T39 Cue:T38
+T41	Source 1742 1755	Twitter users
+T42	Cue 1756 1780	posted their thoughts on
+T43	Content 1781 1804	the Ohio judge’s ruling
+T44	Attribution 1756 1780	posted their thoughts on
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41

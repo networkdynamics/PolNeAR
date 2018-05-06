@@ -1,0 +1,72 @@
+T1	Source 0 22	Billionaire Mark Cuban
+T2	Cue 23 36	Just Revealed
+T3	Content 37 73	Who He’d Pick Between Cruz And Trump
+T4	Attribution 23 36	Just Revealed
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 118 125	backing
+T6	Content 126 138	Barack Obama
+T7	Source 140 185	billionaire Dallas Mavericks owner Mark Cuban
+T8	Attribution 118 125	backing
+E2	Attribution:T8 Source:T7 Content:T6 Cue:T5
+T9	Discuss 100 105	Eight
+T10	Cue 186 209	is once again sizing up
+T11	Content 210 232	the presidential field
+T12	Attribution 186 209	is once again sizing up
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T7
+T13	Cue 242 254	to determine
+T14	Content 255 277	his favorite candidate
+T15	Attribution 242 254	to determine
+E4	Attribution:T15 Source:T7 Cue:T13 Content:T14
+T16	Source 400 403	one
+T17	Cue 404 414	soliciting
+T18	Content 415 448	his views on the GOP primary race
+T19	Attribution 404 414	soliciting
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 454 464	describing
+T21	Content 465 496	fellow billionaire Donald Trump
+T22	Source 498 503	Cuban
+T23	Attribution 454 464	describing
+E6	Attribution:T23 Source:T22 Content:T21 Cue:T20
+T24	Cue 504 508	said
+T25	Content 509 597	he sees someone without the intellectual curiosity needed to serve as commander in chief
+T26	Attribution 504 508	said
+E7	Attribution:T26 Source:T22 Cue:T24 Content:T25
+T27	Content 600 633;652 735;736 838;839 916	“You’ve got to be able to adapt,” “whether you’re a politician or you’re a business person or you’re an entrepreneur. You’ve got to be curious, you’ve got to want to learn, you’ve got to be excited about always learning. And that’s what I want in a candidate — someone who’s learning and evolving.”
+T28	Source 634 636	he
+T29	Cue 637 641	said
+T30	Attribution 637 641	said
+E8	Attribution:T30 Cue:T29 Source:T28 Content:T27
+T31	Discuss 918 976	<tweet tweet-author="@bcuban" tweet-date="March 12, 2016">
+T32	Source 976 986	Mark Cuban
+T33	Cue 986 987	:
+T34	Content 988 1050	A businessman can run this country, but Trump has gone ‘crazy’
+T35	Attribution 986 987	:
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1099 1104	Cuban
+T37	Cue 1105 1109	said
+T38	Content 1110 1153;1154 1192	that in a race between Trump and Texas Sen. Ted Cruz, he would support the former.
+T39	Source 1193 1195	He
+T40	Cue 1196 1211	went on to call
+T41	Content 1212 1260	Cruz “the absolutely worst politician in Texas.”
+T42	Attribution 1105 1109	said
+E10	Attribution:T42 Source:T36 Cue:T37 Content:T38
+T43	Attribution 1196 1211	went on to call
+E11	Attribution:T43 Content:T41 Cue:T40 Source:T39
+T44	Content 1293 1298;1306 1384;1385 1400	Cuban to rely on an ad hominem attack against Cruz by Republican South Carolina Sen. Lindsey Graham.
+T45	Cue 1299 1305	seemed
+T46	Attribution-no-source 1299 1305	seemed
+E12	Attribution-no-source:T46 Cue:T45 Content:T44
+T47	Content 1402 1520;1540 1560	“If you’re in the Senate and another senator says you could get shot and nobody in the Senate would come to your aid,” “that’s even worse.”
+T48	Source 1521 1533	the investor
+T49	Cue 1534 1538	said
+T50	Attribution 1534 1538	said
+E13	Attribution:T50 Cue:T49 Source:T48 Content:T47
+T51	Source 1562 1567	Cuban
+T52	Cue 1568 1583	also complained
+T53	Content 1584 1611	that Cruz is too principled
+T54	Attribution 1568 1583	also complained
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Cue 1613 1623	suggesting
+T56	Content 1624 1691	the first-term senator sees issues as “absolutely black and white.”
+T57	Attribution 1613 1623	suggesting
+E15	Attribution:T57 Source:T51 Cue:T55 Content:T56

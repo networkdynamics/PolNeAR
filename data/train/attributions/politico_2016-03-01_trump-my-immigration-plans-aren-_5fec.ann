@@ -1,0 +1,60 @@
+T1	Source 0 5	Trump
+T2	Cue 5 6	:
+T3	Content 7 47	My immigration plans aren't set in stone
+T4	Attribution 5 6	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 50 62	Donald Trump
+T6	Cue 63 67	says
+T7	Content 68 165	parts of his immigration proposals are “negotiable,” but only minor details about his border wall
+T8	Attribution 63 67	says
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 520 623	“The New York Times is claiming today that they had an off-the-record conversation with you in January,
+T10	Source 625 632	Hannity
+T11	Cue 633 640	started
+T12	Attribution 633 640	started
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Content 643 739	“We had a board meeting, it was off-the-record, suddenly they leak it, it’s all over the place,”
+T14	Source 740 745	Trump
+T15	Cue 746 750	said
+T16	Attribution 746 750	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Content 753 793	“They said it’s negotiable on the wall,”
+T18	Source 794 801	Hannity
+T19	Cue 802 910	said in reference to Trump’s stance on Mexican immigration and his oft-stated promise to build a border wall
+T20	Attribution 802 910	said in reference to Trump’s stance on Mexican immigration and his oft-stated promise to build a border wall
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Content 913 966;979 1028	“By the way it is negotiable. Things are negotiable,” “I’ll make the wall 2 feet shorter or something.”
+T22	Source 967 972	Trump
+T23	Cue 973 977	said
+T24	Attribution 973 977	said
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Source 1030 1035	Trump
+T26	Cue 1036 1052	was quick to add
+T27	Content 1053 1117;1120 1150	that the negotiation does not include nixing the idea altogether “Building it? Not negotiable.”
+T28	Attribution 1036 1052	was quick to add
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1152 1198;1216 1282	“Would it be negotiable about the 11 million?” “Maybe let some people stay if they register in a period of time?”
+T30	Source 1199 1206	Hannity
+T31	Cue 1207 1214	pressed
+T32	Attribution 1207 1214	pressed
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Content 1284 1303;1320 1439	“I would say this,” “We will work out some system that’s fair, but we either have a country or we don’t. We need a border. We need a wall.”
+T34	Source 1304 1309	Trump
+T35	Cue 1310 1318	answered
+T36	Attribution 1310 1318	answered
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33
+T37	Source 1441 1527	Trump’s leading Republican rivals, Sens. Ted Cruz of Texas and Marco Rubio of Florida,
+T38	Cue 1528 1543	have both urged
+T39	Content 1544 1636	the Manhattan mogul to release the audio tapes of his conversation with the Times from Jan 5
+T40	Attribution 1528 1543	have both urged
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1638 1679	Former presidential candidate Mitt Romney
+T42	Cue 1680 1696	tweeted his call
+T43	Content 1697 1766	that the billionaire front-runner share the contents of the recording
+T44	Attribution 1680 1696	tweeted his call
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 229 234	Trump
+T46	Cue 235 264	responded to a question about
+T47	Content 265 517	a recent claim, first introduced by BuzzFeed earlier in the day, that he told The New York Times editorial board in an off-the-record tape-recorded meeting that he may not follow through with his proposed immigration measures if he is elected president
+T48	Attribution 235 264	responded to a question about
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45

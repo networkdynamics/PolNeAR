@@ -1,0 +1,65 @@
+T1	Source 0 5	Woman
+T2	Cue 6 13	Reveals
+T3	Content 14 74	Stunning Thing Trump Did To Her After Her Dad Killed Himself
+T4	Attribution 6 13	Reveals
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 77 113	Betsy Sharp of Burke County, Georgia
+T6	Cue 115 120	knows
+T7	Content 121 205	Donald Trump in a way few other Americans know the Republican presidential candidate
+T8	Attribution 115 120	knows
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 257 270	often labeled
+T10	Content 253 256;271 290	him brash and bellicose
+T11	Attribution-no-source 257 270	often labeled
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Cue 293 295	To
+T13	Source 296 301	Sharp
+T14	Content 303 422	Trump is the “kind-hearted and caring” man who saved her family’s farm back in 1986 in the wake of her father’s suicide
+T15	Attribution 293 295	To
+E4	Attribution:T15 Content:T14 Source:T13 Cue:T12
+T16	Source 536 564	a picture taken back in 1986
+T17	Cue 570 576	showed
+T18	Content 577 630	Trump and her mother burning the mortgage to the farm
+T19	Attribution 570 576	showed
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 791 794	who
+T21	Cue 813 819	hoping
+T22	Content 820 889	the insurance proceeds would allow the family to hold onto their land
+T23	Attribution 813 819	hoping
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Cue 1047 1062	the interest of
+T25	Source 1063 1128	an even-then-famous New York City entrepreneur named Donald Trump
+T26	Content 956 1011	The plight of a farmer killing himself to save his land
+T27	Attribution 1047 1062	the interest of
+E7	Attribution:T27 Content:T26 Source:T25 Cue:T24
+T28	Discuss 1012 1041	drew national media attention
+T29	Content 1131 1323;1336 1439	“Today my brother lives on the farm and he has one of his daughters, they have built a house. But if it wasn’t for his generosity, his kind heart – he didn’t know us from Burke County at all,” “And he saw the story and he couldn’t believe that the bank was forcing my father to go to that depth.”
+T30	Source 1324 1329	Sharp
+T31	Cue 1330 1334	said
+T32	Attribution 1330 1334	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Content 1441 1674	“What I want you all to know is how kind-hearted and caring he is. He cares about America and he cares about farmers. He cares about veterans. He truly wants to make America great again, and I think if we help him, we can get there,”
+T34	Source 1675 1678	she
+T35	Cue 1679 1683	said
+T36	Attribution 1679 1683	said
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33
+T37	Source 1686 1691	Trump
+T38	Cue 1692 1700	recalled
+T39	Content 1701 1924	Leonard Hill’s widow, Anita, who he helped, as “a great woman, and passed away, but passed away happy. I love to do things; I do a lot of that. Its good to do things like that for people. It’s nice. It makes you feel good.”
+T40	Attribution 1692 1700	recalled
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Content 1926 2029	“She was having a very tough time, and I read about it, and I paid off her mortgage – big deal, right?”
+T42	Source 2030 2035	Trump
+T43	Cue 2036 2040	said
+T44	Attribution 2036 2040	said
+E11	Attribution:T44 Cue:T43 Source:T42 Content:T41
+T45	Source 2043 2048	Trump
+T46	Cue 2049 2053	told
+T47	Content 2064 2121	that helping save the farm was more work than he expected
+T48	Attribution 2049 2053	told
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 2124 2193;2203 2456	“I figured I could do it a lot cheaper than paying off the mortgage,” “I found out the name of the bank. That was a mean banker, I want to tell you. I called up: ‘We’re gonna take you through hell, we’re gonna this, we’re gonna that.’ I couldn’t get the guy to cut! So I bought the mortgage and I said, ‘The hell with it.'”
+T50	Source 2194 2196	he
+T51	Cue 2197 2201	said
+T52	Attribution 2197 2201	said
+E13	Attribution:T52 Cue:T51 Source:T50 Content:T49

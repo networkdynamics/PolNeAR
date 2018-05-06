@@ -1,0 +1,61 @@
+T1	Source 0 10	Leadership
+T2	Cue 11 20	Announces
+T3	Content 21 73	Dissolution Of Secret Club For Hollywood Republicans
+T4	Attribution 11 20	Announces
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 100 126	conservatives in Hollywood
+T6	Cue 127 145	have been privy to
+T7	Content 146 187	a secret club known as the Friends of Abe
+T8	Attribution 127 145	have been privy to
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 203 230	the dissolution of the club
+T10	Cue 231 244	was announced
+T11	Attribution-no-source 231 244	was announced
+E3	Attribution-no-source:T11 Cue:T10 Content:T9
+T12	Source 274 278	some
+T13	Cue 282 291	speculate
+T14	Content 292 384	that disagreement over Donald Trump’s presidential campaign may have been partially to blame
+T15	Attribution 282 291	speculate
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 387 399	According to
+T17	Source 400 412	The Guardian
+T18	Content 414 503	an email was sent from the club’s executive director, Jeremy Boreing, to the club members
+T19	Attribution 387 399	According to
+E5	Attribution:T19 Content:T18 Source:T17 Cue:T16
+T20	Source 505 514	The email
+T21	Cue 515 519	said
+T22	Content 521 725	“Effective immediately, we are going to begin to wind down the 501 c3 organization, bring the Sustaining Membership dues to an end, and do away with the costly infrastructure and the abespal.com website.”
+T23	Attribution 515 519	said
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 727 736	The email
+T25	Cue 737 751	went on to say
+T26	Content 753 1016	“Today, because we have been successful in creating a community that extends far beyond our events, people just don’t feel as much of a need to show up for every speaker or bar night, and fewer people pay the dues that help us maintain that large infrastructure.”
+T27	Attribution 737 751	went on to say
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1131 1143	Many members
+T29	Cue 1144 1174	were surprised and dismayed at
+T30	Content 1175 1254	the loss of what they consider a refuge from Hollywood’s bullying liberal ethos
+T31	Attribution 1144 1174	were surprised and dismayed at
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1257 1278	Filmmaker Jack Marino
+T33	Cue 1279 1283	said
+T34	Content 1285 1473	“As a conservative, if you expressed your political views at work you would be weeded out. At Abe events we could get together over dinner and hang out with our own kind and speak freely.”
+T35	Attribution 1279 1283	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1475 1482	Boreing
+T37	Cue 1483 1487	said
+T38	Content 1488 1539	the members will still meet for drinks and speakers
+T39	Attribution 1483 1487	said
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1545 1549	said
+T41	Content 1551 1586	“It’s time we change how we do it,”
+T42	Attribution 1545 1549	said
+E11	Attribution:T42 Cue:T40 Content:T41 Source:T36
+T43	Cue 1587 1596	promising
+T44	Content 1597 1640	the Friends of Abe will return to its roots
+T45	Attribution 1587 1596	promising
+E12	Attribution:T45 Cue:T43 Content:T44 Source:T36
+T46	Content 1752 1761;1775 1790	the group Abraham Lincoln
+T47	Cue 1763 1774	named after
+T48	Attribution-no-source 1763 1774	named after
+E13	Attribution-no-source:T48 Cue:T47 Content:T46

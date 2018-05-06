@@ -1,0 +1,69 @@
+T1	Source 0 7	Hillary
+T2	Cue 8 21	Just Vowed To
+T3	Content 22 67	Never Utter These 2 Words During Her Campaign
+T4	Attribution 8 21	Just Vowed To
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 73 75	It
+T6	Cue 76 80	Says
+T7	Content 81 86	A LOT
+T8	Attribution 76 80	Says
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 89 104	Hillary Clinton
+T10	Cue 105 113	promised
+T11	Content 125 209	to refrain from using the phrase “illegal immigrant” during the rest of her campaign
+T12	Attribution 105 113	promised
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 211 217	saying
+T14	Content 218 284	she had made a “poor choice of words” at a previous campaign event
+T15	Attribution 211 217	saying
+E4	Attribution:T15 Source:T9 Cue:T13 Content:T14
+T16	Source 287 332	Jose Antonia Vargas, an immigration activist,
+T17	Cue 333 338	asked
+T18	Content 339 470	the former secretary of state during a Telemundo Facebook chat if she would commit to his “#wordsmatter” pledge regarding the issue
+T19	Attribution 333 338	asked
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 473 781	“On behalf of the organization I founded, Define American, and the 11.7 million undocumented immigrants in this country — including myself — I am asking all the presidential candidates to recognize that #wordsmatter by committing to not using the term ‘illegal’ when referencing the undocumented population,”
+T21	Source 782 788	Vargas
+T22	Cue 789 806	wrote on Facebook
+T23	Attribution 789 806	wrote on Facebook
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 809 925	Vargas and others seeking a recognized status by the government for those who moved into the United States illegally
+T25	Cue 926 932	prefer
+T26	Content 933 968	the term “undocumented immigrants.”
+T27	Attribution 926 932	prefer
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 970 977	Clinton
+T29	Cue 978 987	responded
+T30	Content 1029 1264	“Yes, I will. That was a poor choice of words. As I’ve said throughout this campaign, the people at the heart of this issue are children, parents, families, DREAMers. They have names, and hopes and dreams that deserve to be respected.”
+T31	Attribution 978 987	responded
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Content 1266 1386;1402 1433	“I’ve talked about undocumented immigrants hundreds of times and fought for years for comprehensive immigration reform,” “And I will continue to do so.”
+T33	Source 1387 1394	Clinton
+T34	Cue 1395 1400	added
+T35	Content 1435 1577	“We are a country built by immigrants and our diversity makes us stronger as a nation – it’s something to be proud of, celebrate, and defend,”
+T36	Source 1578 1581	she
+T37	Cue 1582 1591	concluded
+T38	Attribution 1395 1400	added
+E9	Attribution:T38 Content:T32 Source:T33 Cue:T34
+T39	Attribution 1582 1591	concluded
+E10	Attribution:T39 Cue:T37 Source:T36 Content:T35
+T40	Cue 1654 1663	was asked
+T41	Content 1664 1728	about securing the border to stop the flow of illegal immigrants
+T42	Attribution-no-source 1654 1663	was asked
+E11	Attribution-no-source:T42 
+E12	Attribution-no-source:T42 Content:T41 Cue:T40
+T43	Content 1731 1918	“Look, I voted numerous times when I was a senator to spend money to build a barrier to try to prevent illegal immigrants from coming in. And I do think you have to control your borders,”
+T44	Source 1919 1926	Clinton
+T45	Cue 1927 1931	said
+T46	Attribution 1927 1931	said
+E13	Attribution:T46 Cue:T45 Source:T44 Content:T43
+T47	Content 1934 2114	“I will say for those of us who believe people ought to come to this country legally and we should enforce the law, we’re tired of being told it is anti-immigrant, it’s offensive!”
+T48	Source 2115 2119	Cruz
+T49	Cue 2120 2124	said
+T50	Attribution 2120 2124	said
+E14	Attribution:T50 Cue:T49 Source:T48 Content:T47
+T51	Content 2127 2285;2296 2612	“I am the son of an immigrant who came legally from Cuba to seek the American dream and we can embrace legal immigration, while believing in the rule of law,” “And I would note, try going illegally to another country. Try going to China or Japan. Try going to Mexico. See what they do. Every sovereign nation secure its borders and it is not compassionate to say we are not going to enforce the law and we are going to drive down wages for millions of hardworking Americans.”
+T52	Source 2286 2288	he
+T53	Cue 2289 2293	said
+T54	Attribution 2289 2293	said
+E15	Attribution:T54 Cue:T53 Source:T52 Content:T51

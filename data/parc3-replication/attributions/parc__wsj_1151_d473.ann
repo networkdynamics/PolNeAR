@@ -1,0 +1,71 @@
+T1	Content 9 32	The stock market's woes
+T2	Cue 33 40	spooked
+T3	Source 41 57	currency traders
+T4	Attribution 33 40	spooked
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Cue 73 91	quiet little party
+T6	Source 98 112	bond investors
+T7	Attribution 73 91	quiet little party
+E2	Attribution:T7 Cue:T5 Source:T6 Content:T1
+T8	Cue 219 235	growing evidence
+T9	Content 236 260	the economy is weakening
+T10	Attribution-no-source 219 235	growing evidence
+E3	Attribution-no-source:T10 Content:T9 Cue:T8
+T11	Source 479 491	UAL Corp. 's
+T12	Cue 492 516	announcement late Monday
+T13	Content 517 573	that the proposed management-labor buy-out had collapsed
+T14	Attribution 492 516	announcement late Monday
+E4	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Source 986 994	analysts
+T16	Cue 995 999	said
+T17	Content 1000 1152	the combination of a second consecutive decline in monthly durable-goods orders and lackluster mid-October auto sales helped prop up the Treasury market
+T18	Attribution 995 999	said
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Cue 1332 1345	didn't appear
+T20	Content 1277 1331;1346 1355	the decline in September durable goods -- only 0.1% -- very weak
+T21	Attribution-no-source 1332 1345	didn't appear
+E6	Attribution-no-source:T21 Content:T20 Cue:T19
+T22	Source 1498 1509	Auto makers
+T23	Cue 1510 1518	reported
+T24	Content 1519 1599	that mid-October sales were running at an annual rate of about 5.8 million units
+T25	Attribution 1510 1518	reported
+E7	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Content 1619 1636	6.6 million units
+T27	Source 1637 1645	analysts
+T28	Cue 1646 1658	had expected
+T29	Attribution 1646 1658	had expected
+E8	Attribution:T29 Cue:T28 Source:T27 Content:T26
+T30	Source 1676 1716	the auto-sales and durable-goods reports
+T31	Cue 1717 1726	confirmed
+T32	Content 1727 1771	perceptions that the economy is bogging down
+T33	Attribution 1717 1726	confirmed
+E9	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1784 1792	analysts
+T35	Cue 1793 1805	don't expect
+T36	Content 1806 1852	the Federal Reserve to ease credit policy soon
+T37	Attribution 1793 1805	don't expect
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Source 1854 1882	reports like those yesterday
+T39	Cue 1883 1906	help build the case for
+T40	Content 1907 1918	lower rates
+T41	Attribution 1883 1906	help build the case for
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Source 1924 1938	bond investors
+T43	Cue 1939 1957	are looking toward
+T44	Content 1958 2105	next week's report from national purchasing managers and the government's October employment report as potentially prompting the Fed to lower rates
+T45	Attribution 1939 1957	are looking toward
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Content 2109 2144	The stock market's precipitous drop
+T47	Cue 2145 2155	frightened
+T48	Source 2156 2173	foreign investors
+T49	Attribution 2145 2155	frightened
+E13	Attribution:T49 Source:T48 Cue:T47 Content:T46
+T50	Source 2300 2307	dealers
+T51	Cue 2308 2312	said
+T52	Content 2313 2448	investors are becoming more bearish toward the dollar in the wake of the stock market's recent troubles and as the U.S. economy weakens
+T53	Attribution 2308 2312	said
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Cue 2745 2755	was quoted
+T55	Content 2732 2744;2756 2786	the currency at 1.8355 marks and 141.45 yen
+T56	Attribution-no-source 2745 2755	was quoted
+E15	Attribution-no-source:T56 Content:T55 Cue:T54

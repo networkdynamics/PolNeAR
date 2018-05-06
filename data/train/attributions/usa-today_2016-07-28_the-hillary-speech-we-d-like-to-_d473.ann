@@ -1,0 +1,171 @@
+T1	Source 19 21	we
+T2	Cue 21 28	'd like
+T3	Content 0 18;29 36	The Hillary speech to hear
+T5	Content 197 201;212 247	what to see loaded into her teleprompter
+T6	Cue 204 211	'd like
+T7	Source 202 204	we
+T8	Attribution 204 211	'd like
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T4	Attribution 21 28	'd like
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T9	Source 413 414	I
+T10	Cue 415 421	accept
+T11	Content 422 477	your nomination for the presidency of the United States
+T12	Attribution 415 421	accept
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 484 486	me
+T14	Cue 493 500	express
+T15	Content 501 722	my gratitude to those of you who have taken on the challenge of running for office, particularly that great champion of working men and women, the senator from Vermont, my onetime rival and new best friend, Bernie Sanders
+T16	Attribution 493 500	express
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 781 792	Many of you
+T18	Cue 793 803	have noted
+T19	Content 804 966	the difference between the dark and foreboding, even authoritarian, vision espoused by Republicans and the uplifting yet pragmatic approach that we Democrats take
+T20	Attribution 793 803	have noted
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 968 979	Many of you
+T22	Cue 980 1000	have also questioned
+T23	Content 1001 1099	whether our opponent in this election has the experience, temperament and judgment to be president
+T24	Attribution 980 1000	have also questioned
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1279 1281	He
+T26	Cue 1282 1303	has openly questioned
+T27	Content 1304 1357	America's commitment to its allies in Europe and Asia
+T28	Attribution 1282 1303	has openly questioned
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1359 1361	He
+T30	Cue 1362 1375	has suggested
+T31	Content 1376 1443	that the United States could simply default on its debt obligations
+T32	Source 1481 1483	he
+T33	Cue 1484 1489	urged
+T34	Content 1490 1525	the Russians to hack into my emails
+T35	Attribution 1362 1375	has suggested
+E8	Attribution:T35 Cue:T30 Source:T29 Content:T31
+T36	Attribution 1484 1489	urged
+E9	Attribution:T36 Content:T34 Cue:T33 Source:T32
+T37	Source 1465 1468	you
+T38	Cue 1469 1476	believe
+T39	Content 1477 1479	it
+T40	Attribution 1469 1476	believe
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1528 1529	I
+T42	Cue 1530 1546	don't know about
+T43	Content 1547 1550	you
+T44	Attribution 1530 1546	don't know about
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1556 1557	I
+T46	Cue 1558 1562	find
+T47	Content 1563 1583	his message chilling
+T48	Attribution 1558 1562	find
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 1585 1586	I
+T50	Cue 1587 1591	find
+T51	Content 1592 1667	his cluelessness on national security and global economic matters troubling
+T52	Attribution 1587 1591	find
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 1673 1674	I
+T54	Cue 1675 1679	find
+T55	Content 1680 1744	his divisive language on race, religion and ethnicity deplorable
+T56	Attribution 1675 1679	find
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 1760 1761	I
+T58	Cue 1762 1772	would like
+T59	Content 1773 1842	to do something other than reciting what is wrong with the other side
+T60	Attribution 1762 1772	would like
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 1844 1845	I
+T62	Cue 1846 1850	want
+T63	Content 1851 1983	to take this time to tell you who I am and what we can hope to accomplish should you give me the great honor of being your president
+T64	Attribution 1846 1850	want
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 1986 1987	I
+T66	Cue 1988 2002	am fully aware
+T67	Content 2003 2042	that many of you have concerns about me
+T68	Attribution 1988 2002	am fully aware
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 2044 2047	You
+T70	Cue 2048 2056	question
+T71	Content 2057 2080	my judgment, my honesty
+T72	Attribution 2048 2056	question
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Source 2082 2093	Some of you
+T74	Cue 2094 2115	just plain don't like
+T75	Content 2116 2118	me
+T76	Attribution 2094 2115	just plain don't like
+E19	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Source 2338 2339	I
+T78	Cue 2340 2350	believe in
+T79	Content 2351 2444	accomplishing things quietly and with hard work, often with the help of Republican colleagues
+T80	Attribution 2340 2350	believe in
+E20	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Cue 2644 2652	Imposing
+T82	Content 2653 2676	tough sanctions on Iran
+T83	Attribution-no-source 2644 2652	Imposing
+E21	Attribution-no-source:T83 Content:T82 Cue:T81
+T84	Source 2731 2732	I
+T85	Cue 2733 2742	recognize
+T86	Content 2743 2831	that I am far from the perfect champion in fighting against Trump's most dangerous flaws
+T87	Attribution 2733 2742	recognize
+E22	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Content 3056 3060;3070 3075	that to be
+T89	Source 3061 3062	I
+T90	Cue 3063 3069	aspire
+T91	Attribution 3063 3069	aspire
+E23	Attribution:T91 Cue:T90 Source:T89 Content:T88
+T92	Source 3105 3106	I
+T93	Cue 3107 3128	am not here to recite
+T94	Content 3129 3140	my mistakes
+T95	Attribution 3107 3128	am not here to recite
+E24	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Source 3142 3143	I
+T97	Cue 3144 3159	am here to tell
+T98	Content 3164 3217	what I am doing to show that I have learned from them
+T99	Attribution 3144 3159	am here to tell
+E25	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Source 3220 3221	I
+T101	Cue 3222 3233	have chosen
+T102	Content 3234 3342	a strong vice president who does not need the position to burnish his distinguished career in public service
+T103	Attribution 3222 3233	have chosen
+E26	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Cue 3453 3460	be seen
+T105	Content 3464 3492	a ceiling on our aspirations
+T106	Attribution-no-source 3453 3460	be seen
+E27	Attribution-no-source:T106 Content:T105 Cue:T104
+T107	Source 3513 3544	I, along with Chelsea and Bill,
+T108	Cue 3545 3559	have appointed
+T109	Content 3560 3637	a new board to manage winding down the Clinton Foundation while I'm president
+T110	Attribution 3545 3559	have appointed
+E28	Attribution:T110 Content:T109 Cue:T108 Source:T107
+T111	Cue 3776 3788	doubts about
+T112	Content 3789 3848	whether your president is working for you and for you alone
+T113	Attribution-no-source 3776 3788	doubts about
+E29	Attribution-no-source:T113 Content:T112 Cue:T111
+T114	Source 3851 3852	I
+T115	Cue 3853 3866	have informed
+T116	Content 3878 4011	that during my administration, he will take no money from anyone with any interest in influencing the policies of the U.S. government
+T117	Attribution 3853 3866	have informed
+E30	Attribution:T117 Content:T116 Cue:T115 Source:T114
+T118	Source 4122 4123	I
+T119	Cue 4124 4138	have called on
+T120	Content 4139 4227	congressional leaders to add penalties for violations of the Freedom of Information laws
+T121	Attribution 4124 4138	have called on
+E31	Attribution:T121 Content:T120 Cue:T119 Source:T118
+T122	Source 4274 4275	I
+T123	Cue 4276 4298	have made a commitment
+T124	Content 4299 4362	to hold regular news conferences to explain my policy decisions
+T125	Attribution 4276 4298	have made a commitment
+E32	Attribution:T125 Content:T124 Cue:T123 Source:T122
+T126	Cue 4437 4450	acknowledging
+T127	Content 4451 4459	mistakes
+T128	Attribution-no-source 4437 4450	acknowledging
+E33	Attribution-no-source:T128 Content:T127 Cue:T126
+T129	Source 4588 4589	I
+T130	Cue 4590 4598	envision
+T131	Content 4579 4586;4602 4683	America a place where people of all backgrounds treat each other with dignity and respect
+T132	Attribution 4590 4598	envision
+E34	Attribution:T132 Content:T131 Cue:T130 Source:T129
+T133	Source 5310 5317	leaders
+T134	Cue 5318 5325	willing
+T135	Content 5326 5411	to work hard, to learn, to make adjustments and to keep trying after initial setbacks
+T136	Attribution 5318 5325	willing
+E35	Attribution:T136 Content:T135 Cue:T134 Source:T133

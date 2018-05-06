@@ -1,0 +1,100 @@
+T1	Source 0 5	Trump
+T2	Cue 6 33	Stands Tall On Proposal For
+T3	Content 34 57	Border Wall With Mexico
+T4	Attribution 6 33	Stands Tall On Proposal For
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 159 171	Donald Trump
+T6	Cue 172 181	discussed
+T7	Content 182 281	one of his signature proposals — the wall that would run along the southern U.S. border with Mexico
+T8	Attribution 172 181	discussed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 289 291	he
+T10	Cue 292 307	first described
+T11	Content 308 316	the wall
+T12	Attribution 292 307	first described
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 330 332	he
+T14	Cue 333 337	said
+T15	Content 339 500	“We’re going to do a wall; we’re going to have a big, fat beautiful door on the wall; we’re going to have people come in, but they’re going to come in legally,.”
+T16	Attribution 333 337	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 502 509	Hannity
+T18	Source 510 515	asked
+T19	Content 532 573	if the project was still in Trump’s plans
+T20	Attribution 502 509	Hannity
+E5	Attribution:T20 Content:T19 Source:T18 Cue:T17
+T21	Source 642 647	Trump
+T22	Cue 648 652	said
+T23	Content 576 641;653 759	“We’re going to build a wall. Yeah, 100 percent. It’s so simple,” “Bush and even Obama sent people back so we can be more aggressive with that, but we can follow the laws.”
+T24	Attribution 648 652	said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 793 798	Trump
+T26	Cue 799 804	added
+T27	Content 761 792	“We are going to build a wall,”
+T28	Attribution 799 804	added
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 806 808	He
+T30	Cue 814 828	had a question
+T31	Content 845 873	“Who’s going to pay for it?”
+T32	Attribution 814 828	had a question
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 885 897	the audience
+T34	Cue 898 911	screamed back
+T35	Content 875 884	“Mexico!”
+T36	Attribution 898 911	screamed back
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 914 921	Hannity
+T38	Cue 922 927	asked
+T39	Content 934 960	how high the wall would be
+T40	Attribution 922 927	asked
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1100 1102	he
+T42	Cue 1103 1107	told
+T43	Content 963 1099	“I think the height could be 35 to 45 feet. That’s a good height. That’s a good height. Anywhere in that neighborhood. Could be higher,”
+T44	Attribution 1103 1107	told
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1257 1259	he
+T46	Cue 1260 1264	said
+T47	Content 1190 1256;1266 1314	“It’s not a question of wanting (to build it). We have no choice,” “It’ll get done so quickly your head will spin.”
+T48	Source 1345 1352	Hannity
+T49	Cue 1353 1358	asked
+T50	Content 1365 1430	if he would deport all illegal immigrants or just “the bad ones.”
+T51	Attribution 1260 1264	said
+E12	Attribution:T51 Cue:T46 Source:T45 Content:T47
+T52	Attribution 1353 1358	asked
+E13	Attribution:T52 Content:T50 Cue:T49 Source:T48
+T53	Cue 1466 1471	Trump
+T54	Source 1472 1477	asked
+T55	Content 1432 1465	“The bad ones, the gang members?”
+T56	Attribution 1466 1471	Trump
+E14	Attribution:T56 Content:T55 Source:T54 Cue:T53
+T57	Source 1549 1557	he crowd
+T58	Cue 1558 1564	yelled
+T59	Content 1542 1547	Out!”
+T60	Attribution 1558 1564	yelled
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 1607 1612	Trump
+T62	Cue 1613 1618	asked
+T63	Content 1567 1606;1620 1661	“The ones who have been here 20 years,” “Do we throw them out or work with them?”
+T64	Attribution 1613 1618	asked
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 1685 1692	Hannity
+T66	Cue 1693 1705	interjected:
+T67	Content 1706 1756	“So you’re saying there will be some flexibility?”
+T68	Attribution 1693 1705	interjected:
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 1851 1856	Trump
+T70	Cue 1857 1861	said
+T71	Content 1807 1850;1863 1952	“Everybody agrees we get the bad ones out,” “People feel that throwing out a family that has been here a long time is a tough thing.”
+T72	Attribution 1857 1861	said
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Source 1967 1972	Trump
+T74	Cue 1973 1981	has said
+T75	Content 1982 2027	his proposed wall might be 40 to 50 feet high
+T76	Attribution 1973 1981	has said
+E19	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Source 2098 2100	he
+T78	Cue 2101 2109	has said
+T79	Content 2125 2174	that he will ensure that Mexico pays for the wall
+T80	Attribution 2101 2109	has said
+E20	Attribution:T80 Content:T79 Cue:T78 Source:T77

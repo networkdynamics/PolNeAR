@@ -1,0 +1,109 @@
+T1	Source 0 11	Republicans
+T2	Cue 11 21	' reaction
+T3	Content 23 46	'Is that all there is?'
+T4	Attribution 11 21	' reaction
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 49 59	Candidates
+T6	Cue 60 63	say
+T7	Content 64 110	president's anti-terror strategy is inadequate
+T8	Attribution 60 63	say
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 113 128	President Obama
+T10	Cue 129 142	isn't seeking
+T11	Content 143 154	re-election
+T12	Attribution 129 142	isn't seeking
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 160 277	his address Sunday about fighting Islamic State-style terrorism will be a major topic of the 2016 race to succeed him
+T14	Cue 279 291	according to
+T15	Source 292 328	Republicans who critiqued the speech
+T16	Attribution 279 291	according to
+E4	Attribution:T16 Source:T15 Cue:T14 Content:T13
+T17	Source 331 376	Donald Trump, the leader in Republican polls,
+T18	Cue 377 384	tweeted
+T19	Content 385 515	that Obama had too little to say about defeating the Islamic State in the wake of mass attacks in Paris and San Bernardino, Calif.
+T20	Attribution 377 384	tweeted
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 517 540;553 587	"Is that all there is?" "We need a new President -- FAST!"
+T22	Source 541 546	Trump
+T23	Cue 547 551	said
+T24	Attribution 547 551	said
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Source 589 614	Sen. Marco Rubio, R-Fla.,
+T26	Cue 661 665	said
+T27	Content 666 746	Obama failed to address public concerns about the threats from the Islamic State
+T28	Attribution 661 665	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 748 805	Nothing the president said "will assuage people's fears,"
+T30	Source 806 825	the Florida senator
+T31	Cue 826 830	said
+T32	Attribution 826 830	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Content 833 879	"We are at war with a radical jihadist group,"
+T34	Source 880 885	Rubio
+T35	Cue 886 890	said
+T36	Attribution 886 890	said
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33
+T37	Source 893 910	Other Republicans
+T38	Cue 911 917	echoed
+T39	Content 918 932	those comments
+T40	Attribution 911 917	echoed
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Cue 934 940	saying
+T42	Content 941 1085	Obama's strategy -- airstrikes against Islamic State positions in Iraq and Syria and training local ground forces -- is inadequate to the threat
+T43	Attribution 934 940	saying
+E11	Attribution:T43 Source:T37 Content:T42 Cue:T41
+T44	Source 1087 1091	They
+T45	Cue 1092 1102	criticized
+T46	Content 1103 1150	Obama for again proposing gun control proposals
+T47	Attribution 1092 1102	criticized
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 1153 1217	Sen. Lindsey Graham, R-S.C., a long-shot presidential candidate,
+T49	Cue 1218 1222	said
+T50	Content 1223 1314	Obama is overselling the successes that coalition forces have had against the Islamic State
+T51	Attribution 1218 1222	said
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Discuss 1316 1343	also known as ISIS and ISIL
+T53	Source 1346 1352	Graham
+T54	Cue 1439 1446	tweeted
+T55	Content 1447 1517	that the president's strategy "will not destroy ISIL and he knows it."
+T56	Attribution 1439 1446	tweeted
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 1354 1357	who
+T58	Cue 1358 1362	says
+T59	Content 1363 1437	the United States and allies should contribute ground forces to the battle
+T60	Attribution 1358 1362	says
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 1519 1616	A former Republican presidential candidate -- John McCain, who lost the 2008 election to Obama --
+T62	Cue 1617 1621	said
+T63	Content 1622 1708	the president "offered no changes to his reactive, indirect and incremental strategy."
+T64	Attribution 1617 1621	said
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Content 1794 1799	which
+T66	Cue 1800 1812	were claimed
+T67	Source 1816 1833	the Islamic State
+T68	Attribution 1800 1812	were claimed
+E17	Attribution:T68 Source:T67 Cue:T66 Content:T65
+T69	Source 1917 1924	reports
+T70	Cue 1925 1929	that
+T71	Content 1930 2029	the husband-and-wife shooting team may have been radicalized by the Islamic State's calls for jihad
+T72	Attribution 1925 1929	that
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Source 2051 2062	Republicans
+T74	Cue 2063 2078	have criticized
+T75	Content 2079 2182	various aspects of the strategy Obama trumpeted during Sunday's prime-time address from the Oval Office
+T76	Attribution 2063 2078	have criticized
+E19	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Source 2185 2200	Some candidates
+T78	Cue 2201 2216	have called for
+T79	Content 2217 2330	the United States and allies to organize ground forces to fight the Islamic State on the ground in Syria and Iraq
+T80	Attribution 2201 2216	have called for
+E20	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Cue 2332 2338	saying
+T82	Content 2339 2370	airstrikes have been inadequate
+T83	Attribution 2332 2338	saying
+E21	Attribution:T83 Source:T77 Cue:T81 Content:T82
+T84	Source 2373 2390	Other Republicans
+T85	Cue 2391 2395	want
+T86	Content 2396 2501	Obama to push for new laws that would help government investigators penetrate encrypted Internet messages
+T87	Attribution 2391 2395	want
+E22	Attribution:T87 Content:T86 Cue:T85 Source:T84

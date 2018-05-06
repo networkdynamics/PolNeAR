@@ -1,0 +1,291 @@
+T1	Source 0 5	Trump
+T2	Cue 6 22	turns attacks on
+T3	Content 23 38	another Clinton
+T4	Attribution 6 22	turns attacks on
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 126 141	Donald J. Trump
+T6	Cue 142 155	once defended
+T7	Content 156 210	Bill Clinton against allegations of scandal and sexism
+T8	Attribution 142 155	once defended
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 336 351	Donald J. Trump
+T10	Cue 352 364	always hoped
+T11	Content 320 335;365 372	the best friend to have
+T12	Attribution 352 364	always hoped
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 468 556	''He's probably got the toughest skin I've ever seen, and I think he's a terrific guy,''
+T14	Source 557 566	Mr. Trump
+T15	Cue 567 571	told
+T16	Attribution 567 571	told
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 594 603	Mr. Trump
+T18	Cue 603 613	's pitches
+T19	Content 638 687	to settle in a gilded Trump building in Manhattan
+T20	Attribution 603 613	's pitches
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 773 852	His overtures for them to vacation at his Mar-a-Lago estate in Palm Beach, Fla.
+T22	Cue 854 872	were also rebuffed
+T23	Attribution-no-source 854 872	were also rebuffed
+E6	Attribution-no-source:T23 Cue:T22 Content:T21
+T24	Source 874 886	The Clintons
+T25	Cue 887 896	preferred
+T26	Content 897 919	the Dominican Republic
+T27	Attribution 887 896	preferred
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 997 1006	Mr. Trump
+T29	Cue 1007 1014	boasted
+T30	Content 1015 1094	that he welcomed the former president to a newly built Trump National Golf Club
+T31	Attribution 1007 1014	boasted
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Content 1159 1221	''He's a great gentleman, a good golfer and a wonderful guy,''
+T33	Source 1222 1247	the real estate developer
+T34	Cue 1248 1267	said of Mr. Clinton
+T35	Attribution 1248 1267	said of Mr. Clinton
+E9	Attribution:T35 Cue:T34 Source:T33 Content:T32
+T36	Content 1641 1783	''If Hillary thinks she can unleash her husband, with his terrible record of women abuse, while playing the women's card on me, she's wrong!''
+T37	Source 1784 1793	Mr. Trump
+T38	Cue 1794 1810	wrote on Twitter
+T39	Attribution 1794 1810	wrote on Twitter
+E10	Attribution:T39 Cue:T38 Source:T37 Content:T36
+T40	Cue 1823 1839	The criticism of
+T41	Content 1840 1867	Mr. Clinton's personal life
+T42	Attribution-no-source 1823 1839	The criticism of
+E11	Attribution-no-source:T42 Content:T41 Cue:T40
+T43	Cue 1939 1949	mentioning
+T44	Content 1950 1953	him
+T45	Source 1877 1889	Mrs. Clinton
+T46	Attribution 1939 1949	mentioning
+E12	Attribution:T46 Source:T45 Content:T44 Cue:T43
+T47	Source 1980 1983	she
+T48	Cue 1984 1991	praises
+T49	Content 1992 2011	his economic record
+T50	Attribution 1984 1991	praises
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 2017 2026	Mr. Trump
+T52	Cue 2026 2039	's attacks on
+T53	Content 2040 2043	him
+T54	Attribution 2026 2039	's attacks on
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Source 2084 2141	other candidates and even a prominent newspaper columnist
+T56	Cue 2142 2152	suggesting
+T57	Content 2153 2199	that Mr. Clinton's sexual history is fair game
+T58	Attribution 2142 2152	suggesting
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Content 2202 2317;2377 2451	''This works for Trump because it reinforces what his most ardent supporters believe to be his greatest strength,'' ''He will say things that no one else will say but that need to be said.''
+T60	Cue 2318 2322	said
+T61	Source 2323 2375	Kevin Madden, a Republican communications strategist
+T62	Attribution 2318 2322	said
+E16	Attribution:T62 Source:T61 Cue:T60 Content:T59
+T63	Source 2641 2646	polls
+T64	Cue 2647 2651	show
+T65	Content 2652 2716	Mrs. Clinton slightly trailing Senator Bernie Sanders of Vermont
+T66	Attribution 2647 2651	show
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Source 2788 2800	Mrs. Clinton
+T68	Cue 2907 2914	accused
+T69	Content 2915 2955	him of having a ''penchant for sexism.''
+T70	Attribution 2907 2914	accused
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Source 2817 2826	Mr. Trump
+T72	Cue 2826 2872	's use of a crude sexual reference to describe
+T73	Content 2873 2905	her loss to Barack Obama in 2008
+T74	Attribution 2826 2872	's use of a crude sexual reference to describe
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Source 2719 2728	Mr. Trump
+T76	Cue 2728 2743	's turn against
+T77	Content 2744 2764	the former president
+T78	Attribution 2728 2743	's turn against
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 2970 2979	Mr. Trump
+T80	Cue 2980 2996	said on Twitter:
+T81	Content 2997 3141	''Hillary Clinton has announced that she is letting her husband out to campaign but HE'S DEMONSTRATED A PENCHANT FOR SEXISM, so inappropriate!''
+T82	Attribution 2980 2996	said on Twitter:
+E21	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Source 3143 3145	He
+T84	Cue 3171 3177	saying
+T85	Content 3178 3344	that in Mr. Clinton's political career, ''there were certainly a lot of abuse of women, and you look at whether it's Monica Lewinsky or Paula Jones or many of them.''
+T86	Attribution 3171 3177	saying
+E22	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Source 3391 3414	Mrs. Clinton's campaign
+T88	Cue 3415 3434	said in a statement
+T89	Content 3435 3555	that ''Hillary Clinton won't be bullied'' or ''distracted by the slings he throws at her and former President Clinton.''
+T90	Attribution 3415 3434	said in a statement
+E23	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Source 3556 3583	A spokesman for Mr. Clinton
+T92	Cue 3584 3592	declined
+T93	Content 3593 3603	to comment
+T94	Attribution 3584 3592	declined
+E24	Attribution:T94 Content:T93 Cue:T92 Source:T91
+T95	Cue 3707 3718	revelations
+T96	Content 3719 3806	that Mr. Clinton had a relationship with Ms. Lewinsky, a 22-year-old White House intern
+T97	Attribution-no-source 3707 3718	revelations
+E25	Attribution-no-source:T97 Content:T96 Cue:T95
+T98	Source 3857 3870	a young woman
+T99	Cue 3871 3895	asked Mrs. Clinton about
+T100	Content 3896 3961	several women who said they were sexually harassed by Mr. Clinton
+T101	Attribution 3871 3895	asked Mrs. Clinton about
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Content 3964 4017;4034 4069	''You say that all rape victims should be believed,'' ''Should we believe them as well?''
+T103	Source 4018 4027	the woman
+T104	Cue 4028 4032	said
+T105	Attribution 4028 4032	said
+E27	Attribution:T105 Cue:T104 Source:T103 Content:T102
+T106	Content 4102 4212	''Well, I would say that everybody should be believed at first until they are disbelieved based on evidence,''
+T107	Source 4213 4216	she
+T108	Cue 4217 4245	said, with an awkward smile,
+T109	Attribution 4217 4245	said, with an awkward smile,
+E28	Attribution:T109 Cue:T108 Source:T107 Content:T106
+T110	Source 4340 4408	Other Republican candidates, including Carly Fiorina and Ben Carson,
+T111	Cue 4441 4447	saying
+T112	Content 4448 4495	Mr. Clinton's history is a legitimate criticism
+T113	Attribution 4441 4447	saying
+E29	Attribution:T113 Content:T112 Cue:T111 Source:T110
+T114	Source 4504 4516	Mrs. Fiorina
+T115	Cue 4517 4521	said
+T116	Content 4522 4551	she doubted voters would care
+T117	Attribution 4517 4521	said
+E30	Attribution:T117 Content:T116 Cue:T115 Source:T114
+T118	Cue 4288 4307	seems to be echoing
+T119	Content 4278 4287	the issue
+T120	Source 4324 4338	her detractors
+T121	Attribution 4288 4307	seems to be echoing
+E31	Attribution:T121 Source:T120 Content:T119 Cue:T118
+T122	Source 4653 4694	The Washington Post columnist Ruth Marcus
+T123	Cue 4695 4715	has been critical of
+T124	Content 4716 4725	Mr. Trump
+T125	Attribution 4695 4715	has been critical of
+E32	Attribution:T125 Content:T124 Cue:T123 Source:T122
+T126	Cue 4741 4746	wrote
+T127	Content 4747 4830	that she agreed with him that Mr. Clinton's past is relevant to his wife's campaign
+T128	Attribution 4741 4746	wrote
+E33	Attribution:T128 Source:T122 Content:T127 Cue:T126
+T129	Content 4832 4883;4895 4926	''Trump has smeared women because of their looks,'' ''Clinton has preyed on them.''
+T130	Source 4884 4887	she
+T131	Cue 4888 4893	wrote
+T132	Attribution 4888 4893	wrote
+E34	Attribution:T132 Cue:T131 Source:T130 Content:T129
+T133	Source 4966 4969	his
+T134	Cue 4970 4980	attacks on
+T135	Content 4981 4992	Mr. Clinton
+T136	Attribution 4970 4980	attacks on
+E35	Attribution:T136 Content:T135 Cue:T134 Source:T133
+T137	Source 4998 5009	Republicans
+T138	Cue 5011 5026	concerned about
+T139	Content 5027 5064	the party's declining appeal to women
+T140	Attribution 5011 5026	concerned about
+E36	Attribution:T140 Content:T139 Cue:T138 Source:T137
+T141	Cue 5066 5086	have long considered
+T142	Content 5087 5203	using the former president's personal life and Mrs. Clinton's response to the women who claimed extramarital affairs
+T143	Attribution 5066 5086	have long considered
+E37	Attribution:T143 Source:T137 Content:T142 Cue:T141
+T144	Source 5206 5314	Stuart Stevens, a Republican operative and Mitt Romney's chief strategist in his 2012 presidential campaign,
+T145	Cue 5315 5319	said
+T146	Content 5320 5493	the way the Clinton operation disparaged women who complained about the president's behavior in the 1990s ''would be all but disqualifying in a Democratic primary'' nowadays
+T147	Attribution 5315 5319	said
+E38	Attribution:T147 Content:T146 Cue:T145 Source:T144
+T148	Source 5532 5560	Betsey Wright, a close aide,
+T149	Cue 5561 5610	coined the term ''bimbo eruptions'' in describing
+T150	Content 5611 5665	rumors of extramarital affairs involving the candidate
+T151	Attribution 5561 5610	coined the term ''bimbo eruptions'' in describing
+E39	Attribution:T151 Content:T150 Cue:T149 Source:T148
+T152	Cue 5667 5679	According to
+T153	Source 5680 5777	White House-era documents from Diane D. Blair, a close friend of Mrs. Clinton's who died in 2000,
+T154	Content 5778 5855	the first lady had referred to Ms. Lewinsky as ''a narcissistic loony toon.''
+T155	Attribution 5667 5679	According to
+E40	Attribution:T155 Content:T154 Source:T153 Cue:T152
+T156	Source 5874 5883	Mr. Trump
+T157	Cue 5884 5924	had hardly uttered a negative word about
+T158	Content 5925 5936	Mr. Clinton
+T159	Attribution 5884 5924	had hardly uttered a negative word about
+E41	Attribution:T159 Content:T158 Cue:T157 Source:T156
+T160	Source 5947 5949	he
+T161	Cue 5950 5954	said
+T162	Content 5955 6033	the president had been treated unfairly for his relationship with Ms. Lewinsky
+T163	Attribution 5950 5954	said
+E42	Attribution:T163 Content:T162 Cue:T161 Source:T160
+T164	Cue 6050 6062	according to
+T165	Source 6063 6111	an interview with The New York Times at the time
+T166	Content 6035 6048;6113 6196	His criticism was the president's choice of paramour: ''It was Monica! I mean, terrible choice.''
+T167	Attribution 6050 6062	according to
+E43	Attribution:T167 Content:T166 Source:T165 Cue:T164
+T168	Content 6627 6732;6821 6855	''He liked them and their star quality, and he respected a lot of things Bill Clinton did as president,'' ''That's all out the window now.''
+T169	Cue 6733 6737	said
+T170	Source 6738 6819	Edward G. Rendell, a former governor of Pennsylvania who is close to the Clintons
+T171	Attribution 6733 6737	said
+E44	Attribution:T171 Source:T170 Cue:T169 Content:T168
+T172	Source 6870 6879	Mr. Trump
+T173	Cue 6880 6884	said
+T174	Content 6885 6938	his friendship with Mr. Clinton was strictly business
+T175	Attribution 6880 6884	said
+E45	Attribution:T175 Content:T174 Cue:T173 Source:T172
+T176	Content 6940 6999;7010 7047	''It was my obligation to get along with all politicians,'' ''And I did it better than anybody.''
+T177	Source 7000 7002	he
+T178	Cue 7003 7008	wrote
+T179	Attribution 7003 7008	wrote
+E46	Attribution:T179 Cue:T178 Source:T177 Content:T176
+T180	Source 7049 7051	He
+T181	Cue 7052 7056	said
+T182	Content 7057 7134	he did not recall whether the Clintons had stayed at Mar-a-Lago in Palm Beach
+T183	Attribution 7052 7056	said
+E47	Attribution:T183 Content:T182 Cue:T181 Source:T180
+T184	Content 7136 7229	''If they did want to stay there, or stayed there, it only shows that they have good taste,''
+T185	Source 7230 7232	he
+T186	Cue 7233 7238	added
+T187	Attribution 7233 7238	added
+E48	Attribution:T187 Cue:T186 Source:T185 Content:T184
+T188	Source 7241 7245	Some
+T189	Cue 7246 7260	have suggested
+T190	Content 7261 7441	that Mr. Trump, whose own affair with Marla Maples and his split from his first wife, Ivana Trump, were splashed across tabloids, is an imperfect messenger on the issue of fidelity
+T191	Attribution 7246 7260	have suggested
+E49	Attribution:T191 Content:T190 Cue:T189 Source:T188
+T192	Cue 7479 7494	criticism about
+T193	Content 7495 7516	his own personal life
+T194	Attribution-no-source 7479 7494	criticism about
+E50	Attribution-no-source:T194 Content:T193 Cue:T192
+T195	Cue 7528 7539	allegations
+T196	Content 7540 7569	that he assaulted Ivana Trump
+T197	Attribution-no-source 7528 7539	allegations
+E51	Attribution-no-source:T197 Content:T196 Cue:T195
+T198	Source 7577 7579	he
+T199	Cue 7580 7590	has denied
+T200	Content 7571 7576	which
+T201	Attribution 7580 7590	has denied
+E52	Attribution:T201 Content:T200 Cue:T199 Source:T198
+T202	Source 7651 7660	Mr. Trump
+T203	Cue 7671 7675	said
+T204	Content 7676 7762	he was ''the perfect messenger because I fully understand life and all its wrinkles,''
+T205	Attribution 7671 7675	said
+E53	Attribution:T205 Content:T204 Cue:T203 Source:T202
+T206	Source 7767 7769	he
+T207	Cue 7770 7790	reiterated his claim
+T208	Content 7791 7879	that Mrs. Clinton had bullied some of the women who accused her husband of improprieties
+T209	Attribution 7770 7790	reiterated his claim
+E54	Attribution:T209 Content:T208 Cue:T207 Source:T206
+T210	Source 7882 7902	Republican opponents
+T211	Cue 7903 7919	have highlighted
+T212	Content 7920 7977	Mr. Trump's previously fawning comments about Mr. Clinton
+T213	Attribution 7903 7919	have highlighted
+E55	Attribution:T213 Content:T212 Cue:T211 Source:T210
+T214	Source 7993 8002	Mr. Trump
+T215	Cue 8003 8012	expressed
+T216	Content 8013 8065	admiration for Mr. Clinton's retail political skills
+T217	Attribution 8003 8012	expressed
+E56	Attribution:T217 Content:T216 Cue:T215 Source:T214
+T218	Cue 8067 8074	telling
+T219	Content 8081 8127	''I wish I could be like that. I just can't.''
+T220	Attribution 8067 8074	telling
+E57	Attribution:T220 Source:T214 Content:T219 Cue:T218
+T221	Source 8158 8160	he
+T222	Cue 8161 8167	echoed
+T223	Content 8168 8180	that comment
+T224	Attribution 8161 8167	echoed
+E58	Attribution:T224 Content:T223 Cue:T222 Source:T221
+T225	Cue 8182 8191	recalling
+T226	Content 8192 8243	an anecdote about watching Mr. Clinton work a crowd
+T227	Attribution 8182 8191	recalling
+E59	Attribution:T227 Source:T221 Content:T226 Cue:T225
+T228	Content 8246 8290;8353 8399	''He shook hands with everybody out there,'' ''And some of these people had filthy hands.''
+T229	Cue 8291 8295	said
+T230	Source 8296 8351	Mr. Trump, who is regarded as something of a germaphobe
+T231	Attribution 8291 8295	said
+E60	Attribution:T231 Source:T230 Cue:T229 Content:T228

@@ -1,0 +1,94 @@
+T1	Source 0 5	Trump
+T2	Cue 6 10	Says
+T3	Content 11 64	He Never Pledged To Kill Family Members Of Terrorists
+T4	Attribution 6 10	Says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 67 79	Donald Trump
+T6	Cue 80 84	said
+T7	Content 101 168	that he doesn’t necessarily want to kill the families of terrorists
+T8	Attribution 80 84	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 196 198	he
+T10	Cue 199 209	has raised
+T11	Content 171 195	a controversial proposal
+T12	Attribution 199 209	has raised
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 259 264	Trump
+T14	Cue 265 269	told
+T15	Content 250 257;275 347	Instead his policy would merely be “to go after them” if he wins the White House
+T16	Attribution 265 269	told
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 490 551;552 629;630 702;703 743	“We have to do something and it’s the only way you stop it.”  “We have to be a lot tougher. We are playing with a different set of rules.”  “We have to play the game at a much tougher level than we are playing.”  “We’re not fighting it strongly enough.”
+T18	Source 430 435	Trump
+T19	Cue 436 487	spoke only in evasive bromides during the interview
+T20	Attribution 436 487	spoke only in evasive bromides during the interview
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 749 754	those
+T22	Cue 755 783	with even modest interest in
+T23	Content 784 818	international laws and moral norms
+T24	Attribution 755 783	with even modest interest in
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 843 848	Trump
+T26	Cue 849 861	did rule out
+T27	Content 862 930	cutting off the heads of captured family members of those terrorists
+T28	Attribution 849 861	did rule out
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 942 944	he
+T30	Cue 945 949	said
+T31	Content 950 1013	he would bring back waterboarding for the terrorists themselves
+T32	Attribution 945 949	said
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1015 1017	he
+T34	Cue 1018 1027	clarified
+T35	Content 1028 1068	that it would be on firm legal grounding
+T36	Attribution 1018 1027	clarified
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 1083 1182;1195 1231	“I’m in total support of waterboarding. It has to be within the law, but I have to expand the law,” “I’ll work on it with the generals.”
+T38	Source 1183 1188	Trump
+T39	Cue 1189 1193	said
+T40	Attribution 1189 1193	said
+E10	Attribution:T40 Cue:T39 Source:T38 Content:T37
+T41	Source 1287 1294	Trump’s
+T42	Cue 1295 1302	view of
+T43	Content 1303 1320	counter-terrorism
+T44	Attribution 1295 1302	view of
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1393 1396	You
+T46	Cue 1397 1420	could leave it thinking
+T47	Content 1421 1518	that Trump is totally fine doing some very dark things in the name of defeating the Islamic State
+T48	Attribution 1397 1420	could leave it thinking
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 1521 1587;1610 1724	“It’s very interesting what’s happens with the Geneva Convention,” “Everybody believes in the Geneva Convention until they start losing and then it’s okay, let’s take out the bomb.”
+T50	Source 1588 1590	he
+T51	Cue 1591 1608	said at one point
+T52	Attribution 1591 1608	said at one point
+E13	Attribution:T52 Cue:T51 Source:T50 Content:T49
+T53	Source 1859 1862	you
+T54	Cue 1863 1895	can leave the interview thinking
+T55	Content 1726 1838	"Everybody believes in the Geneva Convention until they start losing and then it’s okay, let’s take out the bomb
+T56	Cue 1838 1839	.
+T57	Source 1840 1852	Donald Trump
+T58	Attribution 1838 1839	.
+E14	Attribution:T58 Cue:T56 Content:T55 Source:T57
+T59	Content 1896 1929;1937 1980	that Trump’s guiding principle is getting through Anderson Cooper’s questions
+T60	Attribution 1863 1895	can leave the interview thinking
+E15	Attribution:T60 Content:T59 Cue:T54 Source:T53
+T61	Source 1999 2001	he
+T62	Cue 2002 2010	insisted
+T63	Content 2011 2083	that he never actually said he wanted to kill the families of terrorists
+T64	Attribution 2002 2010	insisted
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Content 2085 2089	that
+T66	Cue 2090 2117	was the obvious implication
+T67	Attribution-no-source 2090 2117	was the obvious implication
+E17	Attribution-no-source:T67 Cue:T66 Content:T65
+T68	Content 2120 2163;2209 2364	“I would be very, very firm with families,” “Frankly, that will make people think, because they may not care much about their lives, but they do care, believe it or not, about their families’ lives.”
+T69	Source 2164 2169	Trump
+T70	Cue 2170 2207	said at one point during the campaign
+T71	Attribution 2170 2207	said at one point during the campaign
+E18	Attribution:T71 Cue:T70 Source:T69 Content:T68
+T72	Content 2366 2414;2456 2678	“We’re fighting a very politically correct war,” “And the other thing is with the terrorists, you have to take out their families. They, they care about their lives. Don’t kid yourself. But they say they don’t care about their lives. You have to take out their families.”
+T73	Source 2415 2417	he
+T74	Cue 2418 2454	said in a different media appearance
+T75	Attribution 2418 2454	said in a different media appearance
+E19	Attribution:T75 Cue:T74 Source:T73 Content:T72

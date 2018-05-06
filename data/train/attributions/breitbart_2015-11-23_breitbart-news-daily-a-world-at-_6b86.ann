@@ -1,0 +1,35 @@
+T1	Source 365 375	Dave Gorab
+T2	Cue 376 382	called
+T3	Content 383 431	the show “the conservative news show of record.”
+T4	Attribution 376 382	called
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 769 787	Author Roger Stone
+T6	Cue 788 800	will discuss
+T7	Content 801 886	his new book, The Clinton’s War on Women, and Hillary Clinton’s presidential campaign
+T8	Attribution 788 800	will discuss
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 889 927	Breitbart Jerusalem editor Aaron Klein
+T10	Cue 928 940	will discuss
+T11	Content 941 1005	an overlooked Benghazi connection to a recent Mali hotel assault
+T12	Attribution 928 940	will discuss
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 1041 1081	will call in LIVE from London to discuss
+T14	Content 1082 1117	the Syrian migrant crisis in Europe
+T15	Source 1008 1040	Breitbart London’s Raheem Kassam
+T16	Attribution 1041 1081	will call in LIVE from London to discuss
+E4	Attribution:T16 Source:T15 Content:T14 Cue:T13
+T17	Cue 1157 1195	will come on the program to talk about
+T18	Content 1196 1260	the Southern border and how many Syrians can easily slip through
+T19	Source 1120 1156	Breitbart Texas editor Brandon Darby
+T20	Attribution 1157 1195	will come on the program to talk about
+E5	Attribution:T20 Source:T19 Content:T18 Cue:T17
+T21	Source 1428 1440	Pope Francis
+T22	Cue 1441 1448	calling
+T23	Content 1449 1465	Christmas a sham
+T24	Attribution 1441 1448	calling
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Cue 1648 1683	will come on the show to talk about
+T26	Source 1614 1647	Investigative reporter Julia Hahn
+T27	Content 1684 1760	immigration and how it’s transforming the country’s demographics and culture
+T28	Attribution 1648 1683	will come on the show to talk about
+E7	Attribution:T28 Content:T27 Source:T26 Cue:T25

@@ -1,0 +1,64 @@
+T1	Source 0 5	Maher
+T2	Cue 6 11	Tells
+T3	Content 18 51	Muslim Violence is Beyond Compare
+T4	Attribution 6 11	Tells
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 59 90	guests on his Friday night show
+T6	Cue 91 105	made the point
+T7	Content 106 194	that individuals other than Muslims kill people in mass shootings or acts of destruction
+T8	Attribution 91 105	made the point
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 196 221	Real Time host Bill Maher
+T10	Cue 222 226	said
+T11	Content 227 298	it was wrong to compare the violence of Christians with that of Muslims
+T12	Attribution 222 226	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 364 366	he
+T14	Cue 367 377	brought up
+T15	Content 378 403	the Oklahoma City bombing
+T16	Attribution 367 377	brought up
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 408 418	later said
+T18	Content 420 460	“It’s not just Muslims shooting people.”
+T19	Attribution 408 418	later said
+E5	Attribution:T19 Cue:T17 Content:T18 Source:T13
+T20	Content 462 492;508 602	“That is a false equivalency!” “How many Muslim-inspired terrorist attacks have there been… and how many Christian-inspired?”
+T21	Source 493 498	Maher
+T22	Cue 499 506	replied
+T23	Source 650 652	He
+T24	Cue 653 664	returned to
+T25	Content 665 667	it
+T26	Attribution 499 506	replied
+E6	Attribution:T26 Cue:T22 Content:T20 Source:T21
+T27	Attribution 653 664	returned to
+E7	Attribution:T27 Content:T25 Cue:T24 Source:T23
+T28	Source 680 721	Business Insider senior editor Josh Barro
+T29	Cue 722 727	noted
+T30	Content 728 890	that the odds of dying in a terrorist attack were very low, and that Americans should worry more about other things that might actually kill them, such as obesity
+T31	Attribution 722 727	noted
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 893 898	Maher
+T33	Cue 899 919	was still focused on
+T34	Content 920 927	Muslims
+T35	Attribution 899 919	was still focused on
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Content 930 1073	“Except, they are trying to get a nuclear weapon and I don’t think there are any Christian groups that trying to obtain a nuclear weapon, sir,”
+T37	Source 1074 1079	Maher
+T38	Cue 1080 1084	said
+T39	Attribution 1080 1084	said
+E10	Attribution:T39 Cue:T38 Source:T37 Content:T36
+T40	Content 1087 1335	“No one is saying that the only bad things happen in the Muslim world, we are saying, I am saying, lots of people…that there — you have to go where the preponderance of it is. And there is no doubt that it — that most of it happens in this sphere,”
+T41	Cue 1336 1340	said
+T42	Source 1341 1346	Maher
+T43	Attribution 1336 1340	said
+E11	Attribution:T43 Source:T42 Cue:T41 Content:T40
+T44	Source 1349 1354	Maher
+T45	Cue 1355 1369	also suggested
+T46	Content 1370 1421	American politicians don’t fully understand Muslims
+T47	Attribution 1355 1369	also suggested
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Content 1424 1666	“Hillary Clinton said this week, freedom-loving Muslims. Well, this is what Bush — this was his mistake, to think, all people in the world want to be just like us. I don’t know if freedom, as we think of it, is the same way they think of it,”
+T49	Source 1667 1669	he
+T50	Cue 1670 1674	said
+T51	Attribution 1670 1674	said
+E13	Attribution:T51 Cue:T50 Source:T49 Content:T48

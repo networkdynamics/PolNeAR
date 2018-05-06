@@ -1,0 +1,70 @@
+T1	Cue 90 101	's known as
+T2	Content 102 206;88 90	"issue ownership": to be known to voters as the party that cares most about something, and is best at it it
+T3	Attribution-no-source 90 101	's known as
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Cue 589 593	says
+T5	Source 594 662	Roy Licklider, a Rutgers University expert on politics and terrorism
+T6	Content 504 588	"It ought to be a golden opportunity for the Republicans to play to their strength,"
+T7	Cue 838 861	has been criticized for
+T8	Content 822 837;862 949	President Obama using the term to describe his achievements in Syria and Iraq against the Islamic State
+T9	Attribution 589 593	says
+E2	Attribution:T9 Cue:T4 Source:T5 Content:T6
+T10	Attribution-no-source 838 861	has been criticized for
+E3	Attribution-no-source:T10 Content:T8 Cue:T7
+T11	Source 1017 1019	he
+T12	Cue 1020 1050	used stronger language, saying
+T13	Content 1051 1081	the group "must be destroyed."
+T14	Attribution 1020 1050	used stronger language, saying
+E4	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Source 1083 1125	Jeb Bush and Hillary Clinton, among others
+T16	Cue 1127 1133	reject
+T17	Content 1134 1154	the term containment
+T18	Source 1157 1164	Clinton
+T19	Cue 1164 1165	:
+T20	Content 1166 1241	"Our goal is not to deter or contain ISIS, but to defeat and destroy ISIS."
+T21	Attribution 1127 1133	reject
+E5	Attribution:T21 Cue:T16 Content:T17 Source:T15
+T22	Attribution 1164 1165	:
+E6	Attribution:T22 Content:T20 Cue:T19 Source:T18
+T23	Source 1242 1246	Bush
+T24	Cue 1246 1247	:
+T25	Content 1248 1302	"The mission is to destroy ISIS -- not to contain it."
+T26	Attribution 1246 1247	:
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 1810 1861	Western New England University historian John Baick
+T28	Cue 1862 1867	calls
+T29	Content 1800 1809;1868 1908	one which "a foundation of our political culture."
+T30	Attribution 1862 1867	calls
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Cue 2432 2448	now recalled for
+T32	Content 2420 2431;2449 2475	eight years their relative tranquility
+T33	Attribution-no-source 2432 2448	now recalled for
+E9	Attribution-no-source:T33 Content:T32 Cue:T31
+T34	Cue 2539 2552	was known for
+T35	Content 2525 2538;2553 2607	Ronald Reagan his hatred of what he called the Soviet "Evil Empire,"
+T36	Attribution-no-source 2539 2552	was known for
+E10	Attribution-no-source:T36 Content:T35 Cue:T34
+T37	Source 2618 2653	his famous demand in Berlin in 1987
+T38	Cue 2653 2654	:
+T39	Content 2655 2692	"Mr. Gorbachev, tear down this wall!"
+T40	Attribution 2653 2654	:
+E11	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 2693 2706	Conservatives
+T42	Cue 2707 2719	still praise
+T43	Content 2720 2769	his refusal to accept the geopolitical status quo
+T44	Attribution 2707 2719	still praise
+E12	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Cue 3217 3222	seems
+T46	Content 3191 3216;3223 3261	no presidential candidate willing to endorse containment of ISIL
+T47	Attribution-no-source 3217 3222	seems
+E13	Attribution-no-source:T47 Content:T46 Cue:T45
+T48	Source 3263 3266	few
+T49	Cue 3267 3282	are calling for
+T50	Content 3283 3322	full-blown, unilateral rollback, either
+T51	Attribution 3267 3282	are calling for
+E14	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 2142 2206	Eisenhower and his future secretary of State, John Foster Dulles
+T53	Cue 2208 2218	criticized
+T54	Content 2219 2277	President Truman's strategy of containing the Soviet Union
+T55	Attribution 2208 2218	criticized
+E15	Attribution:T55 Content:T54 Cue:T53 Source:T52

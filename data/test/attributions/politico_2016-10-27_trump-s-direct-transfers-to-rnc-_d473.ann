@@ -1,0 +1,45 @@
+T1	Content 59 188	The Republican National Committee received only a few million dollars from its fundraising agreement with Donald Trump this month
+T2	Cue 190 202	according to
+T3	Source 203 238	Federal Election Commission records
+T4	Attribution 190 202	according to
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Source 241 250	The RNC's
+T6	Cue 251 281	latest report to the FEC shows
+T7	Content 282 335	a $2.2 million transfer on Oct. 14 from Trump Victory
+T8	Attribution 251 281	latest report to the FEC shows
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Discuss 241 335	The RNC's latest report to the FEC shows a $2.2 million transfer on Oct. 14 from Trump Victory
+T12	Content 409 498	The GOP nominee isn't planning any more high-dollar events that raise money for the party
+T10	Source 500 549	Trump's national finance chairman, Steve Mnuchin,
+T11	Cue 550 554	told
+T13	Attribution 550 554	told
+E3	Attribution:T13 Cue:T11 Source:T10 Content:T12
+T14	Content 594 655	Trump Victory continued to hold fundraising events this month
+T15	Source 657 682	RNC spokesman Sean Spicer
+T16	Cue 683 687	said
+T17	Attribution 683 687	said
+E4	Attribution:T17 Cue:T16 Source:T15 Content:T14
+T18	Content 802 905	The arrangement directed $38.9 million to the RNC and $10.9 million to GOP state parties as of Sept. 30
+T19	Source 907 918	FEC records
+T20	Cue 919 923	show
+T21	Attribution 919 923	show
+E5	Attribution:T21 Cue:T20 Source:T19 Content:T18
+T22	Content 1331 1344;1357 1458	Trump Victory to distribute the money it raises according to a formula agreed with all the participating committees
+T23	Cue 1345 1356	is required
+T24	Attribution-no-source 1345 1356	is required
+E6	Attribution-no-source:T24 Cue:T23 Content:T22
+T25	Content 1460 1485;1498 1534	the RNC and state parties unlimited transfers among themselves
+T26	Cue 1486 1497	are allowed
+T27	Attribution-no-source 1486 1497	are allowed
+E7	Attribution-no-source:T27 Cue:T26 Content:T25
+T28	Discuss 2246 2391	This story has been corrected. An earlier version said the RNC did not receive any money directly from Trump Victory. POLITICO regrets the error.
+T29	Source 2277 2295	An earlier version
+T30	Cue 2296 2300	said
+T31	Content 2301 2362	the RNC did not receive any money directly from Trump Victory
+T32	Attribution 2296 2300	said
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 2364 2372	POLITICO
+T34	Cue 2373 2380	regrets
+T35	Content 2381 2390	the error
+T36	Attribution 2373 2380	regrets
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33

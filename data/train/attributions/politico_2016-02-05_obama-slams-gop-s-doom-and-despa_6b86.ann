@@ -1,0 +1,115 @@
+T1	Source 0 5	Obama
+T2	Cue 6 11	slams
+T3	Content 12 47	GOP’s ‘doom and despair’ on economy
+T4	Attribution 6 11	slams
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 183 188	Obama
+T6	Cue 199 239	held an impromptu press briefing to brag
+T7	Content 240 327	that the unemployment rate has fallen below 5 percent for the first time in eight years
+T8	Attribution 199 239	held an impromptu press briefing to brag
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 332 358	to once again rail against
+T10	Content 359 426	his GOP would-be successors for warning about an America in decline
+T11	Attribution-no-source 332 358	to once again rail against
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Content 429 585	"I know that’s still inconvenient for Republican stump speeches as their doom-and-despair tour plays in New Hampshire. I guess you cannot please everybody,"
+T13	Source 586 591	Obama
+T14	Cue 592 596	told
+T15	Attribution 592 596	told
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Content 609 801	Unemployment dipped to 4.9 percent in January, with the economy adding 151,000 jobs during the month – something you wouldn’t know if you listen to the likes of Donald Trump and his GOP rivals
+T17	Source 803 808	Obama
+T18	Cue 809 813	said
+T19	Content 1090 1293;816 1077	"Or, alternatively they argue the reason you’re feeling insecure is because immigrants, or poor people are taking more and more of your paycheck and that is just not true. The facts don’t bear that out.” “Those who are running down the economy and adding to the anxiety don’t seem to have any plausible, coherent recipe other than cut taxes for those who have been doing the very best in this economy and somehow magically, that’s gonna make other folks feel good,"
+T20	Source 1078 1083	Obama
+T21	Cue 1084 1088	said
+T22	Attribution 1084 1088	said
+E5	Attribution:T22 Cue:T21 Source:T20 Content:T19
+T23	Attribution 809 813	said
+E6	Attribution:T23 Cue:T18 Source:T17 Content:T16
+T24	Source 1295 1300	Obama
+T25	Cue 1301 1307	hailed
+T26	Content 1308 1364	the record streak 71 months of private-sector job growth
+T27	Attribution 1301 1307	hailed
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 1366 1377	challenging
+T29	Content 1378 1456	Republicans to prove to him that the American economy is not the best on Earth
+T30	Attribution 1366 1377	challenging
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T24
+T31	Content 1459 1553	“The United States of America right now has the strongest, most durable economy in the world,"
+T32	Source 1554 1556	he
+T33	Cue 1557 1561	said
+T34	Attribution 1557 1561	said
+E9	Attribution:T34 Cue:T33 Source:T32 Content:T31
+T35	Source 1581 1586	Obama
+T36	Cue 1587 1600	remarked upon
+T37	Content 1601 1648	the fact that there is still "more work to do,"
+T38	Attribution 1587 1600	remarked upon
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Cue 1649 1655	noting
+T40	Content 1656 1727	flagging economic conditions in China, Europe and in developing markets
+T41	Attribution 1649 1655	noting
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T35
+T42	Source 1730 1740	The number
+T43	Cue 1741 1747	marked
+T44	Content 1748 1776	a symbolic victory for Obama
+T45	Attribution 1741 1747	marked
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 1778 1781	who
+T47	Cue 1782 1808	has often complained about
+T48	Content 1809 1941	not getting enough credit for bringing the economy back out from the gutter after the housing bubble burst on George W. Bush’s watch
+T49	Attribution 1782 1808	has often complained about
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Cue 2234 2250	was much derided
+T51	Content 2193 2233	his oversight of the auto sector bailout
+T52	Attribution-no-source 2234 2250	was much derided
+E14	Attribution-no-source:T52 Content:T51 Cue:T50
+T53	Cue 2150 2187	has been the subject of fierce debate
+T54	Content 2074 2149	The impact of Obama’s massive stimulus package that passed in February 2009
+T55	Attribution-no-source 2150 2187	has been the subject of fierce debate
+E15	Attribution-no-source:T55 Content:T54 Cue:T53
+T56	Cue 2380 2387	accused
+T57	Content 2388 2424	Obama of bungling the rehabilitation
+T58	Source 2291 2302	Mitt Romney
+T59	Attribution 2380 2387	accused
+E16	Attribution:T59 Source:T58 Content:T57 Cue:T56
+T60	Source 2426 2428	He
+T61	Cue 2429 2436	pledged
+T62	Content 2437 2522	that he would get the unemployment rate down to 6 percent over a period of four years
+T63	Attribution 2429 2436	pledged
+E17	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 2650 2652	he
+T65	Cue 2653 2721	used his State of the Union address this year to forcefully call out
+T66	Content 2722 2757	Trump and the rest of the GOP field
+T67	Attribution 2653 2721	used his State of the Union address this year to forcefully call out
+E18	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 2762 2764	he
+T69	Cue 2765 2775	accused of
+T70	Content 2758 2761;2776 2861	who preying on the anxieties of Americans who have not yet fully experienced the recovery
+T71	Attribution 2765 2775	accused of
+E19	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Content 2864 2939	"Anyone claiming that America’s economy is in decline is peddling fiction,"
+T73	Source 2940 2945	Obama
+T74	Cue 2946 2950	said
+T75	Attribution 2946 2950	said
+E20	Attribution:T75 Cue:T74 Source:T73 Content:T72
+T76	Source 2975 2980	Obama
+T77	Cue 2981 3019	took a lighter tone, still calling out
+T78	Content 3020 3075	the Republicans while reveling in the economic recovery
+T79	Attribution 2981 3019	took a lighter tone, still calling out
+E21	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Content 3077 3191	“We should be proud of the progress we've made. We have recovered from the worst economic crisis since the 1930s,”
+T81	Source 3192 3194	he
+T82	Cue 3195 3199	said
+T83	Attribution 3195 3199	said
+E22	Attribution:T83 Cue:T82 Source:T81 Content:T80
+T84	Source 3202 3204	He
+T85	Cue 3205 3216	also wished
+T86	Content 3217 3240	reporters a fun weekend
+T87	Attribution 3205 3216	also wished
+E23	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Content 3242 3294	“I hope you guys have a wonderful Super Bowl party,”
+T89	Source 3295 3297	he
+T90	Cue 3298 3302	said
+T91	Attribution 3298 3302	said
+E24	Attribution:T91 Cue:T90 Source:T89 Content:T88

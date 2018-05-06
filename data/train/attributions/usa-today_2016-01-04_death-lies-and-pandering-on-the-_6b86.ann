@@ -1,0 +1,69 @@
+T1	Source 106 118	Donald Trump
+T2	Cue 119 123	said
+T3	Content 124 155	Hillary Clinton "caused death."
+T4	Attribution 119 123	said
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 156 170	Bernie Sanders
+T6	Cue 171 177	called
+T7	Content 178 206	Trump a "pathological liar."
+T8	Attribution 171 177	called
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 207 220	Carly Fiorina
+T10	Cue 221 225	said
+T11	Content 226 282	Ted Cruz "says whatever he needs to say to get elected."
+T12	Attribution 221 225	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 799 819	the GOP front-runner
+T14	Cue 820 824	said
+T15	Content 825 904	Democratic front-runner Clinton "caused tremendous death" as secretary of State
+T16	Attribution 820 824	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 1018 1136;907 1005	"The entire world, it's a different place. During Barack Obama and Hillary Clinton's term, she's done a horrible job." "She caused a lot of the problems that we have right now. You could say she caused the migration,"
+T18	Source 1006 1011	Trump
+T19	Cue 1012 1016	said
+T20	Attribution 1012 1016	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 1156 1180	the New York billionaire
+T22	Cue 1181 1192	brushed off
+T23	Content 1193 1350	the significance of a terrorist recruiting video by the organization al-Shabaab that cites his call for a temporary ban on Muslims entering the United States
+T24	Attribution 1181 1192	brushed off
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 1352 1410;1423 1519	"What am I going to do? I have to say what I have to say," "There's a problem. We have to find out what is the problem. And we have to solve that problem."
+T26	Source 1411 1416	Trump
+T27	Cue 1417 1421	said
+T28	Attribution 1417 1421	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 1693 1698	Trump
+T30	Cue 1699 1705	blamed
+T31	Content 1706 1797	the problem of mass shootings on "sickos" and suggested building institutions to house them
+T32	Attribution 1699 1705	blamed
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1799 1831	Former Florida governor Jeb Bush
+T34	Cue 1832 1838	called
+T35	Content 1839 1885	the use of executive orders "quite dangerous."
+T36	Attribution 1832 1838	called
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1886 1916	New Jersey Gov. Chris Christie
+T38	Cue 1952 1958	called
+T39	Content 1959 2042	Obama a "petulant child" who's acting "as if he is a king, as if he is a dictator."
+T40	Attribution 1952 1958	called
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 2279 2347	Bush, Christie, Ohio Gov. John Kasich and Sen. Rand Paul of Kentucky
+T42	Cue 2352 2389	appeared on Sunday news shows to tout
+T43	Content 2390 2449	their continued viability as alternatives to Trump and Cruz
+T44	Attribution 2352 2389	appeared on Sunday news shows to tout
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 2635 2666	Retired neurosurgeon Ben Carson
+T46	Cue 2667 2700	went on ABC's This Week to defend
+T47	Content 2701 2726	his recent staff shake-up
+T48	Attribution 2667 2700	went on ABC's This Week to defend
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Cue 2728 2734	viewed
+T50	Content 2735 2804	as a sign his campaign may be in trouble at the worst possible moment
+T51	Attribution-no-source 2728 2734	viewed
+E13	Attribution-no-source:T51 Content:T50 Cue:T49
+T52	Source 2985 2987	He
+T53	Cue 2988 2995	praised
+T54	Content 2996 3121	those who left but said, "We're in a different ballgame, and we need the ability to execute and not just to have good ideas."
+T55	Attribution 2988 2995	praised
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52

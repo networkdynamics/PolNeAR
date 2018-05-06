@@ -1,0 +1,86 @@
+T1	Content 110 112;135 147	it a smart move
+T2	Cue 113 134	must have seemed like
+T3	Source 66 108	the leading lights of the Democratic Party
+T4	Attribution 113 134	must have seemed like
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Content 317 320	who
+T6	Cue 321 344	is already widely known
+T7	Attribution-no-source 321 344	is already widely known
+E2	Attribution-no-source:T7 Cue:T6 Content:T5
+T8	Cue 349 356	seen as
+T9	Content 357 394	the party's most formidable candidate
+T10	Attribution-no-source 349 356	seen as
+E3	Attribution-no-source:T10 Content:T9 Cue:T8
+T11	Content 537 548	Republicans
+T12	Source 565 573	national
+T13	Cue 574 586	conversation
+T14	Attribution 574 586	conversation
+E4	Attribution:T14 Cue:T13 Source:T12 Content:T11
+T15	Source 980 995	The Republicans
+T16	Cue 996 1028	have used their massive platform
+T17	Content 1029 1045	to shape opinion
+T18	Attribution 996 1028	have used their massive platform
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Cue 1047 1051	bash
+T20	Content 1052 1059	Clinton
+T21	Attribution 1047 1051	bash
+E6	Attribution:T21 Cue:T19 Content:T20 Source:T15
+T22	Cue 1064 1069	leave
+T23	Content 1070 1138	what could be lasting (though not necessarily favorable) impressions
+T24	Attribution 1064 1069	leave
+E7	Attribution:T24 Cue:T22 Source:T15 Content:T23
+T25	Source 1146 1150	they
+T26	Cue 1151 1188	don't yet have a common message about
+T27	Content 1189 1230	what a Republican presidency would entail
+T28	Attribution 1151 1188	don't yet have a common message about
+E8	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1232 1236	they
+T30	Cue 1237 1254	do have one about
+T31	Content 1255 1268	the Democrats
+T32	Attribution 1237 1254	do have one about
+E9	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1306 1325	a Republican debate
+T34	Cue 1326 1341	without hearing
+T35	Content 1342 1436	that President Obama and Clinton, as his former secretary of State, have made a mess of things
+T36	Attribution 1326 1341	without hearing
+E10	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1575 1584	Democrats
+T38	Cue 1585 1615	shouldn't take much comfort in
+T39	Content 1616 1620	this
+T40	Attribution 1585 1615	shouldn't take much comfort in
+E11	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1723 1736	The Democrats
+T42	Cue 1737 1767	have a decent counter-argument
+T43	Content 1768 1885	that the GOP has been taken over by its far-right fringe, leaving Democrats as the  champions of the broad mainstream
+T44	Attribution 1737 1767	have a decent counter-argument
+E12	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1891 1903	party bosses
+T46	Cue 1904 1929	are apparently so worried
+T47	Content 1930 1993	that Clinton could be derailed or commit a gaffe in the debates
+T48	Attribution 1904 1929	are apparently so worried
+E13	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 1999 2003	they
+T50	Cue 2004 2025	are willing to stifle
+T51	Content 2026 2038	this message
+T52	Attribution 2004 2025	are willing to stifle
+E14	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 2310 2340	a spokesman for Bernie Sanders
+T54	Cue 2341 2356	could only quip
+T55	Content 2358 2393	"I guess Christmas Eve was booked."
+T56	Attribution 2341 2356	could only quip
+E15	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 2444 2457	The Democrats
+T58	Cue 2458 2468	understood
+T59	Content 2469 2473	this
+T60	Attribution 2458 2468	understood
+E16	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 2552 2556	They
+T62	Cue 2557 2563	staged
+T63	Content 2564 2581	26 debates in all
+T64	Attribution 2557 2563	staged
+E17	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 3186 3201	the Republicans
+T66	Cue 3202 3213	will gladly
+T67	Content 3214 3228	do it for them
+T68	Attribution 3202 3213	will gladly
+E18	Attribution:T68 Content:T67 Cue:T66 Source:T65

@@ -1,0 +1,80 @@
+T1	Source 0 4	Dems
+T2	Cue 5 9	hope
+T3	Content 10 55	Trump's behavior will help them regain Senate
+T4	Attribution 5 9	hope
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 58 118	Democrats trying to regain control of the Senate in November
+T6	Cue 119 122	say
+T7	Content 123 168	they have a powerful new weapon: Donald Trump
+T8	Attribution 119 122	say
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 171 253	Montana Sen. Jon Tester, chairman of the Democratic Senatorial Campaign Committee,
+T10	Cue 254 258	said
+T11	Content 259 415	having Trump at the top of the GOP ticket puts even such senior Republicans as Arizona's John McCain and Iowa's Chuck Grassley at risk of losing their seats
+T12	Attribution 254 258	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 417 419	He
+T14	Cue 420 427	derided
+T15	Content 428 531	efforts by some GOP contenders to keep their distance from the party's presumptive presidential nominee
+T16	Attribution 420 427	derided
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 534 738;781 903	"Donald Trump for the last year-plus has said things and done things that have been totally inappropriate, and he's gotten away with it, yet the folks here in the Senate have endorsed him almost en bloc," "I just think when you do that kind of stuff, knowing full well what you've got, it speaks to who you are as a candidate."
+T18	Source 739 745	Tester
+T19	Cue 746 750	told
+T20	Attribution 746 750	told
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 905 907	He
+T22	Cue 908 917	dismissed
+T23	Content 918 1047	efforts by some Republicans to spotlight their differences with Trump while saying they still will vote for their party's nominee
+T24	Attribution 908 917	dismissed
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 1050 1285;1341 1469	"The people who stand up and said, 'He said this thing about a judge that I didn't like, but I'm still going to vote for him, I still endorse him' -- that's as good as standing for all the principles that he stands for, in my opinion," "He's their guy, and he's a known commodity, yet they still endorse him; they still stand up for the policies he stands up for."
+T26	Source 1286 1292	Tester
+T27	Cue 1293 1297	told
+T28	Attribution 1293 1297	told
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 1491 1502	Republicans
+T30	Cue 1503 1521	are likely to hear
+T31	Content 1479 1490;1522 1608	an argument in Democratic attack ads this fall tying them to Trump's most provocative declarations
+T32	Attribution 1503 1521	are likely to hear
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1861 1870	Democrats
+T34	Cue 1871 1875	hope
+T35	Content 1876 1994	they will be able to gain the ground necessary to reclaim control of the chamber two years after Republicans gained it
+T36	Attribution 1871 1875	hope
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 2238 2283;2297 2309	"I feel very good about chances in November," "Very good."
+T38	Source 2284 2290	Tester
+T39	Cue 2291 2295	said
+T40	Attribution 2291 2295	said
+E10	Attribution:T40 Cue:T39 Source:T38 Content:T37
+T41	Source 2311 2313	He
+T42	Cue 2314 2333	did express concern
+T43	Content 2335 2498	that conservative donors, including the Koch brothers network, would divert to Senate contests money they typically would have contributed to the presidential race
+T44	Attribution 2314 2333	did express concern
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 2501 2507	Tester
+T46	Cue 2508 2515	credits
+T47	Content 2516 2580	the Democrats' bright prospects to the quality of its candidates
+T48	Attribution 2508 2515	credits
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 2588 2590	he
+T50	Cue 2591 2595	said
+T51	Content 2596 2661	Trump's presence on the ballot "is going to help our candidates."
+T52	Attribution 2591 2595	said
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Content 2663 2783	Even McCain, chairman of the Armed Services Committee, and Grassley, chairman of the Judiciary Committee, are in trouble
+T54	Source 2785 2791	Tester
+T55	Cue 2792 2796	said
+T56	Attribution 2792 2796	said
+E14	Attribution:T56 Cue:T55 Source:T54 Content:T53
+T57	Source 2799 2801	He
+T58	Cue 2802 2806	said
+T59	Content 2807 3018	Grassley could lose to Democrat Patty Judge not only because he supports Trump but also because he denied Merrick Garland, President Obama's nominee for the Supreme Court, a confirmation hearing before his panel
+T60	Attribution 2802 2806	said
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Content 3021 3063;3077 3103	"That's not Iowa; that's not Iowa values," "He's made his bed there."
+T62	Source 3064 3070	Tester
+T63	Cue 3071 3075	said
+T64	Attribution 3071 3075	said
+E16	Attribution:T64 Cue:T63 Source:T62 Content:T61

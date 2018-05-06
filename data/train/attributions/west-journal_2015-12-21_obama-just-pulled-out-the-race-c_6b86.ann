@@ -1,0 +1,51 @@
+T1	Source 113 135	President Barack Obama
+T2	Cue 136 146	castigated
+T3	Content 147 295	Republican presidential candidate Donald Trump for exploiting the fears of working class Americans who have lost their jobs under his administration
+T4	Attribution 136 146	castigated
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 297 302	Obama
+T6	Cue 303 312	also slid
+T7	Content 313 348	the issue of race into the campaign
+T8	Attribution 303 312	also slid
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 351 500	“Obama … argued that some of the scorn directed at him personally stems from the fact that he is the first African-American to hold the White House,”
+T10	Source 501 519	the New York Times
+T11	Cue 520 565	reported Monday in its story on the interview
+T12	Attribution 520 565	reported Monday in its story on the interview
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 586 591	Obama
+T14	Cue 592 596	said
+T15	Content 597 719	inevitable economic changes cost many working-class people their jobs, and some people have trouble adjusting to that fact
+T16	Attribution 592 596	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 722 954	“Particularly blue-collar men have had a lot of trouble in this new economy, where they are no longer getting the same bargain that they got when they were going to a factory and able to support their families on a single paycheck,”
+T18	Source 955 960	Obama
+T19	Cue 961 965	said
+T20	Attribution 961 965	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Content 1137 1262;968 1115	“I think somebody like Mr. Trump is taking advantage of that. That’s what he’s exploiting during the course of his campaign.” “You combine those things, and it means that there is going to be potential anger, frustration, fear — some of it justified, but just misdirected,”
+T22	Source 1116 1129	the president
+T23	Cue 1130 1135	added
+T24	Attribution 1130 1135	added
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Content 1337 1418;1441 1470	“People are sick and tired of stupid and incompetent people leading our nation,”  “We have incompetent people.”
+T26	Source 1418 1423	Trump
+T27	Cue 1424 1428	said
+T28	Attribution 1424 1428	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Discard 1501 1515	Like the page:
+T30	Source 1517 1522	Obama
+T31	Cue 1523 1527	said
+T32	Content 1528 1614	some of the criticism he takes is due to the fact that he is the first black president
+T33	Attribution 1523 1527	said
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Content 1617 2050	“If you are referring to specific strains in the Republican Party that suggest that somehow I’m different, I’m Muslim, I’m disloyal to the country, etc. — which unfortunately is pretty far out there, and gets some traction in certain pockets of the Republican Party, and that have been articulated by some of their elected officials — what I’d say there is that that’s probably pretty specific to me, and who I am and my background,”
+T35	Source 2051 2056	Obama
+T36	Cue 2057 2061	said
+T37	Attribution 2057 2061	said
+E9	Attribution:T37 Cue:T36 Source:T35 Content:T34
+T38	Source 2064 2077	The president
+T39	Cue 2078 2087	also told
+T40	Content 2120 2182	that he believes he, “may represent change that worries them.”
+T41	Attribution 2078 2087	also told
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38

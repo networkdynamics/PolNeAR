@@ -1,0 +1,85 @@
+T1	Source 60 67	Sanders
+T2	Cue 79 83	vows
+T3	Content 84 111	to press on to next primary
+T4	Attribution 79 83	vows
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 130 142	was declared
+T6	Content 114 129;143 206	Hillary Clinton the winner in the Pennsylvania, Maryland and Delaware primaries
+T7	Source 210 228	news organizations
+T8	Attribution 130 142	was declared
+E2	Attribution:T8 Source:T7 Content:T6 Cue:T5
+T9	Content 354 361;375 401	Sanders the winner in Rhode Island
+T10	Cue 362 374	was declared
+T11	Attribution-no-source 362 374	was declared
+E3	Attribution-no-source:T11 Cue:T10 Content:T9
+T12	Discuss 407 461	it is clear that he has no plan to get out of the race
+T13	Content 477 484;498 520	Clinton the winner in Maryland
+T14	Cue 485 497	was declared
+T15	Attribution-no-source 485 497	was declared
+E4	Attribution-no-source:T15 Cue:T14 Content:T13
+T16	Source 522 529	Sanders
+T17	Cue 530 534	told
+T18	Content 535 705	a cheering crowd in West Virginia that he expects to win that state's May 10 primary and he is doing better against Donald Trump in general election polls than Clinton is
+T19	Attribution 530 534	told
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 708 841;856 883	"The reason that we are generating this enthusiasm is because we are doing something very unusual in contemporary American politics," "We are telling the truth."
+T21	Source 842 849	Sanders
+T22	Cue 850 854	said
+T23	Attribution 850 854	said
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 1078 1085	Clinton
+T25	Cue 1086 1098	acknowledged
+T26	Content 1099 1115	Sanders' success
+T27	Attribution 1086 1098	acknowledged
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 1117 1123	saying
+T29	Content 1124 1236	she applauded him and his supporters for "challenging us to get unaccountable money" out of the political system
+T30	Attribution 1117 1123	saying
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T24
+T31	Content 1238 1289	"There's much more than unites us than divides us,"
+T32	Source 1290 1297	Clinton
+T33	Cue 1298 1302	said
+T34	Attribution 1298 1302	said
+E9	Attribution:T34 Cue:T33 Source:T32 Content:T31
+T35	Source 1459 1474	Sanders himself
+T36	Cue 1475 1505	acknowledged in an MSNBC forum
+T37	Content 1519 1616	"it will be very hard for us to win" if he continues to lose ground in the pledged delegate count
+T38	Attribution 1475 1505	acknowledged in an MSNBC forum
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 1623 1667	a new poll from USA TODAY/Suffolk University
+T40	Cue 1668 1673	found
+T41	Content 1674 1733	40% of Sanders' voters aren't sure they'll vote for Clinton
+T42	Attribution 1668 1673	found
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1739 1762	Republican Donald Trump
+T44	Cue 1763 1787	has been invoking him in
+T45	Content 1788 1810	lobbing attacks on her
+T46	Attribution 1763 1787	has been invoking him in
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Content 1841 1848;1859 1901	Clinton implore Sanders to let up on his critiques
+T48	Cue 1849 1858	seemed to
+T49	Attribution-no-source 1849 1858	seemed to
+E13	Attribution-no-source:T49 Cue:T48 Content:T47
+T50	Cue 1905 1916	referencing
+T51	Content 1917 1997	her own role in rallying her supporters behind then-senator Barack Obama in 2008
+T52	Attribution-no-source 1905 1916	referencing
+E14	Attribution-no-source:T52 Content:T51 Cue:T50
+T53	Content 2000 2120;2131 2215	"I did not put down conditions. I did not say, you know what, if Sen. Obama does X, Y and Z, I will support Sen. Obama," "I spent an enormous amount of time convincing my supporters to support Sen. Obama."
+T54	Source 2121 2124	she
+T55	Cue 2125 2129	said
+T56	Attribution 2125 2129	said
+E15	Attribution:T56 Cue:T55 Source:T54 Content:T53
+T57	Content 2224 2231;2410 2427	Sanders ready to ease off
+T58	Cue 2395 2409	doesn't appear
+T59	Attribution-no-source 2395 2409	doesn't appear
+E16	Attribution-no-source:T59 Cue:T58 Content:T57
+T60	Source 2233 2236	who
+T61	Cue 2237 2241	sees
+T62	Content 2242 2393	himself as the father of a new political movement that's already pushed Clinton leftward on issues including trade agreements and the Keystone pipeline
+T63	Attribution 2237 2241	sees
+E17	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 2464 2471	Sanders
+T65	Cue 2472 2492	continued delivering
+T66	Content 2493 2566	an extended version of his stump speech to hitting all of his core issues
+T67	Attribution 2472 2492	continued delivering
+E18	Attribution:T67 Content:T66 Cue:T65 Source:T64

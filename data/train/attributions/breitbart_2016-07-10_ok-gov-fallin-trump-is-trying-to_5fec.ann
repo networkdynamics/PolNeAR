@@ -1,0 +1,45 @@
+T1	Source 0 13	OK Gov Fallin
+T2	Cue 13 14	:
+T3	Content 15 101	Trump Is ‘Trying To Campaign As A Racial Healer,’ ‘That Has Been Part of His Message.’
+T4	Attribution 13 14	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 325 352	Governor Mary Fallin (R-OK)
+T6	Cue 148 161	commenting on
+T7	Content 162 323	the racial divide in America highlighted by the recent police shootings in Louisiana and Minnesota and a sniper targeting and killing five Dallas police officers
+T8	Attribution 148 161	commenting on
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 353 357	said
+T10	Content 358 458	presumptive Republican presidential nominee Donald Trump is “trying to campaign as a racial healer.”
+T11	Attribution 353 357	said
+E3	Attribution:T11 Source:T5 Content:T10 Cue:T9
+T12	Source 492 503	JAKE TAPPER
+T13	Cue 503 504	:
+T14	Content 505 589	Donald Trump released a video on Friday talking about racial healing. Take a listen.
+T15	Attribution 503 504	:
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 612 617	TRUMP
+T17	Cue 617 618	:
+T18	Content 619 852	The deaths of Alton Sterling in Louisiana and Philando Castile in Minnesota, also make clear how much more work we have to do to make every American feel that their safety is protected. Racial divisions have gotten worse, not better.
+T19	Attribution 617 618	:
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 873 879	TAPPER
+T21	Cue 879 880	:
+T22	Content 1051 1328;881 1049	Specifically I’ve heard from a number of Latino-Americans, Muslim-Americans, Native Americans, Jewish-Americans, African-Americans, all expressing concern about some of the things that Donald Trump has said. Talk to them. How do you think he will be able to be a racial healer? And obviously, you’re supporting Donald Trump, I think there are probably some skeptical Americans hearing that message from Mr. Trump about healing the racial divides.
+T23	Attribution 879 880	:
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1330 1336	FALLIN
+T25	Cue 1336 1337	:
+T26	Content 1338 1894	Well, I think the whole nation needs to work together, and certainly as anyone that’s a nominee, whether it is Donald Trump, whether it is Secretary Clinton, we all need to work towards unity as a nation, and understand that, people are scared. They want safe homes. They want safe streets. They want safe communities. They want — they don’t want to be profiled. They don’t want to be discriminated against. Everyone wants to be treated equal, with equal justice for all. And I think that’s the message that any candidate running for president should have.
+T27	Attribution 1336 1337	:
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1900 1906	TAPPER
+T29	Cue 1906 1907	:
+T30	Content 1908 1968	Do you think Donald Trump has campaigned as a racial healer?
+T31	Attribution 1906 1907	:
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1970 1976	FALLIN
+T33	Cue 1976 1977	:
+T34	Content 1978 2462	I think he is trying to campaign as a racial healer. I think that has been part of his message. If you watch what he said this week, he talked about how devastating it was for Dallas, how we need to respect our law enforcement, how we need to pray for those who are killed and those who are injured. And I think that is his intent. I trust him with his words, and I think we all need to move towards being compassionate, loving, healing, but yet, also, respecting our law enforcement.
+T35	Attribution 1976 1977	:
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Discard 2464 2501	Follow Pam Key On Twitter @pamkeyNEN.

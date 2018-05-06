@@ -1,0 +1,127 @@
+T1	Source 169 215	the head of the RNC’s powerful rules committee
+T2	Cue 216 255	has accused his own party leadership of
+T3	Content 256 281	a “major breach of trust”
+T4	Source 320 322	he
+T5	Cue 323 327	said
+T6	Content 328 421	would make it harder to reopen the GOP nomination fight at a contested convention this summer
+T7	Attribution 216 255	has accused his own party leadership of
+E1	Attribution:T7 Cue:T2 Content:T3 Source:T1
+T8	Attribution 323 327	said
+E2	Attribution:T8 Content:T6 Cue:T5 Source:T4
+T9	Source 690 724	Rules Committee Chairman Bruce Ash
+T10	Cue 725 735	criticized
+T11	Content 736 778	RNC Chairman Reince Priebus and his allies
+T12	Attribution 725 735	criticized
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 814 830	accusing them of
+T14	Content 831 962	working to scuttle the proposal and prevent it from getting a hearing at this week’s RNC spring meeting in Hollywood Beach, Florida
+T15	Attribution 814 830	accusing them of
+E4	Attribution:T15 Cue:T13 Source:T9 Content:T14
+T16	Content 1247 1463;1538 1691	“It became apparent to me during the discussions with Reince and others at the RNC that there might be an underlying political result that adherence to the House Rules achieved, and that Roberts made more difficult,” “Reopening the nominations for President during the balloting to permit a more acceptable candidate to be nominated other than Donald Trump or Ted Cruz.”
+T17	Source 1464 1467	Ash
+T18	Cue 1468 1473	wrote
+T19	Attribution 1468 1473	wrote
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Source 1516 1536	The Associated Press
+T21	Content 1488 1493	which
+T22	Cue 1494 1515	was first reported by
+T23	Attribution 1494 1515	was first reported by
+E6	Attribution:T23 Cue:T22 Content:T21 Source:T20
+T24	Cue 1943 1954	is expected
+T25	Content 1931 1942;1955 1994	a role that to be filled by House Speaker Paul Ryan
+T26	Attribution-no-source 1943 1954	is expected
+E7	Attribution-no-source:T26 Content:T25 Cue:T24
+T27	Source 1693 1773	The proposal, which is the brainchild of Solomon Yue, an RNC member from Oregon,
+T28	Cue 1774 1795	would further empower
+T29	Content 1796 1861	delegates to determine the course of the convention’s proceedings
+T30	Attribution 1774 1795	would further empower
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 1996 1999	Yue
+T32	Cue 2000 2008	has said
+T33	Content 2009 2086	he’s looking to increase transparency by decreasing the influence of insiders
+T34	Attribution 2000 2008	has said
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 2092 2095	Ash
+T36	Cue 2095 2102	’s view
+T37	Content 2104 2256	the change would have a profound impact on how the convention is run, potentially making it harder for insiders to push through a white knight candidate
+T38	Attribution 2095 2102	’s view
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 2272 2275	Ash
+T40	Cue 2276 2291	bluntly accused
+T41	Content 2292 2455	Priebus and his allies of trying to quash the proposal because it could make it harder to reopen the nomination process for a candidate who isn’t currently running
+T42	Attribution 2276 2291	bluntly accused
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 2519 2522	Ash
+T44	Cue 2523 2528	wrote
+T45	Content 2529 2777	that Priebus and other RNC officials have made “numerous requests” to withdraw or table the motion, “and even to agree to cancel the Rules Committee meeting or to prohibit any amendments from being considered at the meeting when the committee met.”
+T46	Attribution 2523 2528	wrote
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 2799 2802	Ash
+T48	Cue 2803 2808	wrote
+T49	Content 2779 2797;2810 2974	The breaking point came on Friday, when the RNC counsel’s office sent out an agenda for this week’s meeting that omits Yue’s proposal — even though it had been submitted weeks earlier
+T50	Source 2990 2993	Ash
+T51	Cue 2994 3003	described
+T52	Content 3004 3042	the move as a “major breach of trust,”
+T53	Attribution 2803 2808	wrote
+E13	Attribution:T53 Cue:T48 Source:T47 Content:T49
+T54	Attribution 2994 3003	described
+E14	Attribution:T54 Content:T52 Cue:T51 Source:T50
+T55	Cue 3043 3050	adding:
+T56	Content 3051 3254	“I am now informing all of our committee members of this incident and insist Solomon’s amendment was pre-submitted and will be given priority consideration at the Rules Committee when we meet next week.”
+T57	Attribution 3043 3050	adding:
+E15	Attribution:T57 Cue:T55 Content:T56 Source:T50
+T58	Source 3256 3325	John Ryder, the RNC’s chief counsel and an RNC member from Tennessee,
+T59	Cue 3326 3348	replied later Saturday
+T60	Content 3349 3400	to suggest the dispute is a simple misunderstanding
+T61	Attribution 3326 3348	replied later Saturday
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Content 3402 3443	“I thought we were all on the same page,”
+T63	Source 3444 3449	Ryder
+T64	Cue 3450 3455	wrote
+T65	Attribution 3450 3455	wrote
+E17	Attribution:T65 Cue:T64 Source:T63 Content:T62
+T66	Source 3491 3494	who
+T67	Cue 3495 3503	has said
+T68	Content 3504 3549	he doesn’t support changing the party’s rules
+T69	Attribution 3495 3503	has said
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Content 3552 3728;3742 3818	“Especially in the middle of the current primary contest, it is important that the RNC not take action that can be interpreted as attempting to favor one candidate or another,” “Major changes now are dangerous and not a good idea, in my humble opinion.”
+T71	Source 3729 3734	Ryder
+T72	Cue 3735 3740	wrote
+T73	Attribution 3735 3740	wrote
+E19	Attribution:T73 Cue:T72 Source:T71 Content:T70
+T74	Source 3833 3836	Ash
+T75	Cue 3837 3843	argued
+T76	Content 3820 3831;3858 3948;3951 4229	If anything the incident is an illustration of why the convention should adopt Robert’s Rules of Order “In light of this serious breach and an unwillingness to conduct a proper debate is it prudent for the RNC to continue to give the extraordinary power of the House Rules to the presiding officer as opposed to the more transparent, democratic and majoritarian rules in Robert’s?”
+T77	Attribution 3837 3843	argued
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Content 4825 4981;4996 5200	“I don’t think that it’s a good idea for us next week, I mean, before the convention to make serious rules changes or recommendations of changes right now,” “I think we’re in a politically charged environment. I think it’s too complicated. I think that the RNC Rules Committee, going forward, with making rules amendment suggestions is — it is not a good idea.”
+T79	Source 4982 4989	Priebus
+T80	Cue 4990 4994	said
+T81	Attribution 4990 4994	said
+E21	Attribution:T81 Cue:T80 Source:T79 Content:T78
+T82	Source 5202 5204	He
+T83	Cue 5205 5210	noted
+T84	Content 5211 5387	that any changes at the spring meeting in Florida would only be recommendations anyway, before another rules committee governing the convention gathers in Cleveland this summer
+T85	Attribution 5205 5210	noted
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Content 5390 5435;5445 5581	“It’s up to the delegates at the convention,” “So the recommendations, I think, just confuse people. I think it’s a bad idea. And the environment, I think, is not conducive to that.”
+T87	Source 5436 5438	he
+T88	Cue 5439 5443	said
+T89	Attribution 5439 5443	said
+E23	Attribution:T89 Cue:T88 Source:T87 Content:T86
+T90	Source 4720 4732	The chairman
+T91	Cue 4733 4744	said Sunday
+T92	Content 4752 4822	that he opposes the RNC’s rules committee making any changes this week
+T93	Attribution 4733 4744	said Sunday
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 4540 4547	Priebus
+T95	Cue 4548 4579	has aggressively pushed back on
+T96	Content 4580 4593	those charges
+T97	Attribution 4548 4579	has aggressively pushed back on
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 4381 4386	Trump
+T99	Cue 4387 4397	has argued
+T100	Content 4398 4538	that the committee has overseen a “rigged” nomination process that gives undue power to insiders to determine the delegate-selection process
+T101	Attribution 4387 4397	has argued
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98

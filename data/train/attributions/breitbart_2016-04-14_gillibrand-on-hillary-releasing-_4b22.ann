@@ -1,0 +1,20 @@
+T1	Content 70 89	‘I Think She Will.’
+T2	Source 0 10	Gillibrand
+T3	Cue 68 69	:
+T4	Attribution 68 69	:
+E1	Attribution:T4 Cue:T3 Content:T1 Source:T2
+T5	Cue 211 215	told
+T6	Content 233 339	she believed that Clinton would inevitably release a transcript of a speech she had given to Goldman Sachs
+T7	Source 123 148	Kristen Gillibrand (D-NY)
+T8	Attribution 211 215	told
+E2	Attribution:T8 Source:T7 Content:T6 Cue:T5
+T9	Cue 150 164	a supporter of
+T10	Content 165 210	Hillary Clinton’s 2016 bid for the presidency
+T11	Attribution 150 164	a supporter of
+E3	Attribution:T11 Cue:T9 Content:T10 Source:T7
+T12	Content 342 361;382 934	“I think she will,” “I think she’s been clear that she’s going to. Yes, I would. I post my taxes online. I was one of the first senators to do that. I like transparency and accountability. I know Hillary does as well. She wants to bring accountability into government, particularly on foreign policy and national security. I think last night you saw she was very, very lucid who we can create stability in the Middle East as well as how do we keep America safe. I think she cares about openness and transparency. And I think she will release them at the appropriate time.”
+T13	Source 362 372	Gillibrand
+T14	Cue 373 380	replied
+T16	Discard 936 975	Follow Jeff Poor on Twitter @jeff_poor.
+T15	Attribution 373 380	replied
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12

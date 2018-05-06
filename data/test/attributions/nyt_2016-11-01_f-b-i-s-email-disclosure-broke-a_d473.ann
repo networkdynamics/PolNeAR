@@ -1,0 +1,226 @@
+T1	Discard 70 79	ABSTRACT.
+T2	Discard 248 258	FULL TEXT.
+T3	Source 426 440	The first case
+T4	Cue 441 449	involved
+T5	Content 450 544	Donald J. Trump's campaign chairman, Paul Manafort, and secretive business dealings in Ukraine
+T6	Attribution 441 449	involved
+E1	Attribution:T6 Content:T5 Cue:T4 Source:T3
+T7	Source 546 556	The second
+T8	Cue 557 567	focused on
+T9	Content 568 636	Hillary Clinton's relationships with donors to her family foundation
+T10	Attribution 557 567	focused on
+E2	Attribution:T10 Content:T9 Cue:T8 Source:T7
+T11	Discuss 426 544	The first case involved Donald J. Trump's campaign chairman, Paul Manafort, and secretive business dealings in Ukraine
+T12	Discuss 546 636	The second focused on Hillary Clinton's relationships with donors to her family foundation
+T15	Content 639 798	At the urging of the Justice Department, the F.B.I. agreed not to issue subpoenas or take other steps that would make the cases public so close to the election
+T13	Cue 800 812	according to
+T14	Source 813 846	federal law enforcement officials
+T16	Attribution 800 812	according to
+E3	Attribution:T16 Source:T14 Cue:T13 Content:T15
+T17	Cue 876 884	decision
+T18	Source 888 924	the F.B.I. director, James B. Comey,
+T19	Content 925 1020	to send a letter to Congress last week about a renewed inquiry concerning Mrs. Clinton's emails
+T20	Attribution 876 884	decision
+E4	Attribution:T20 Content:T19 Source:T18 Cue:T17
+T21	Content 1162 1166	what
+T22	Source 1167 1184	Justice officials
+T23	Cue 1185 1205	were trying to avoid
+T24	Attribution 1185 1205	were trying to avoid
+E5	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Discuss 1162 1205	what Justice officials were trying to avoid
+T26	Content 1208 1226	Mr. Comey's letter
+T27	Cue 1297 1304	outrage
+T28	Source 1305 1323	across party lines
+T29	Attribution 1297 1304	outrage
+E6	Attribution:T29 Source:T28 Cue:T27 Content:T26
+T30	Source 1356 1360	that
+T31	Cue 1361 1370	laid bare
+T32	Content 1371 1410	the government's internal deliberations
+T33	Attribution 1361 1370	laid bare
+E7	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Cue 1415 1422	exposed
+T35	Source 1325 1327	It
+T36	Content 1423 1529	the infighting and occasional mistrust between rank-and-file F.B.I. agents and senior department officials
+T37	Attribution 1415 1422	exposed
+E8	Attribution:T37 Content:T36 Source:T35 Cue:T34
+T38	Content 1669 1745	It is increasingly unlikely that the review will be complete by Election Day
+T39	Source 1747 1763	F.B.I. officials
+T40	Cue 1764 1768	said
+T41	Attribution 1764 1768	said
+E9	Attribution:T41 Cue:T40 Source:T39 Content:T38
+T42	Source 1779 1783	they
+T43	Cue 1784 1788	said
+T44	Content 1789 1846	there was a chance they could offer updates before Nov. 8
+T45	Attribution 1784 1788	said
+E10	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 1885 1891	nobody
+T47	Cue 1892 1902	is willing
+T48	Content 1903 1945	to predict what the coming days will bring
+T49	Attribution 1892 1902	is willing
+E11	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2052 2061	Officials
+T51	Cue 2062 2066	said
+T52	Content 2067 2159	it would take something extraordinary to change the conclusion that nobody should be charged
+T53	Attribution 2062 2066	said
+E12	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Cue 2204 2225	festering speculation
+T55	Content 2226 2261	that the emails must be significant
+T56	Attribution-no-source 2204 2225	festering speculation
+E13	Attribution-no-source:T56 Content:T55 Cue:T54
+T57	Source 2264 2347	Daniel C. Richman, an adviser to Mr. Comey and a Columbia University law professor,
+T58	Cue 2348 2354	argued
+T59	Content 2355 2507	that despite the backlash, Mr. Comey's decision to inform Congress preserved the F.B.I.'s independence, which will ultimately benefit the next president
+T60	Attribution 2348 2354	argued
+E14	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Content 2510 2762;2781 3006	"Those arguing that the director should have remained silent until the new emails could be reviewed - even if that process lasted, or was delayed, until after the election - give too little thought to the governing that needs to happen after November," "If the F.B.I. director doesn't have the credibility to keep Congress from interfering in the bureau's work and to assure Congress that a matter has been or is being looked into, the new administration will pay a high price."
+T62	Source 2763 2774	Mr. Richman
+T63	Cue 2775 2779	said
+T64	Attribution 2775 2779	said
+E15	Attribution:T64 Cue:T63 Source:T62 Content:T61
+T65	Source 3008 3063	Former senior law enforcement officials in both parties
+T66	Cue 3073 3076	say
+T67	Content 3077 3163	Mr. Comey's decision to break with Justice Department guidelines caused these problems
+T68	Attribution 3073 3076	say
+E16	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Cue 3297 3314	the argument goes
+T70	Content 3165 3295;3316 3467	Had he handled the case the way the F.B.I. handled its investigations into the Clinton Foundation and Mr. Manafort over the summer he would have endured criticism from Republicans in the future but would have preserved a larger principle that has guided cases involving both parties
+T71	Attribution-no-source 3297 3314	the argument goes
+E17	Attribution-no-source:T71 Content:T70 Cue:T69
+T72	Content 3838 3887	The cases involving Mr. Manafort and Mrs. Clinton
+T73	Cue 3888 3902	were described
+T74	Source 3906 4043	federal law enforcement officials who spoke on the condition of anonymity because they were not authorized to discuss open investigations
+T75	Attribution 3888 3902	were described
+E18	Attribution:T75 Source:T74 Cue:T73 Content:T72
+T76	Source 4059 4071	Mr. Manafort
+T77	Cue 4072 4078	denied
+T78	Content 4079 4146	the existence of an F.B.I. investigation into his business dealings
+T79	Attribution 4072 4078	denied
+E19	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Cue 4151 4155	said
+T81	Content 4156 4290	that reports of one were "an outrageous smear being driven by" Democrats who are trying to distract attention from Ms. Abedin's emails
+T82	Attribution 4151 4155	said
+E20	Attribution:T82 Cue:T80 Content:T81 Source:T76
+T83	Content 4292 4352	"There is nothing of my business activities to investigate,"
+T84	Source 4353 4355	he
+T85	Cue 4356 4360	said
+T86	Attribution 4356 4360	said
+E21	Attribution:T86 Cue:T85 Source:T84 Content:T83
+T87	Source 4374 4392	The New York Times
+T88	Cue 4393 4401	reported
+T89	Content 4402 4539	that anti-corruption investigators in Ukraine had found handwritten ledgers showing $12.7 million in undisclosed payments to Mr. Manafort
+T90	Attribution 4393 4401	reported
+E22	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Source 4541 4620	The investigators, from Ukraine's newly formed National Anti-Corruption Bureau,
+T92	Cue 4621 4627	assert
+T93	Content 4628 4742	that the payments were part of an illegal off-the-books system whose beneficiaries also included elected officials
+T94	Attribution 4621 4627	assert
+E23	Attribution:T94 Content:T93 Cue:T92 Source:T91
+T95	Source 4745 4754	The Times
+T96	Cue 4755 4763	reported
+T97	Content 4764 5014	that other prosecutors in Ukraine were examining a group of offshore shell companies that members of Mr. Yanukovych's inner circle had used to fund lavish lifestyles, including a presidential residence with a private zoo, golf course and tennis court
+T98	Attribution 4755 4763	reported
+E24	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Source 5016 5033	Those prosecutors
+T100	Cue 5034 5048	are looking at
+T101	Content 5049 5308	many transactions that involved Mr. Manafort, including an $18 million deal that sold Ukrainian cable television assets to a partnership put together by Mr. Manafort and a Russian oligarch, Oleg Deripaska, a close ally of President Vladimir V. Putin of Russia
+T102	Attribution 5034 5048	are looking at
+E25	Attribution:T102 Content:T101 Cue:T100 Source:T99
+T103	Source 5327 5336	The Times
+T104	Cue 5337 5346	published
+T105	Content 5347 5395	the story about Mr. Manafort's business dealings
+T106	Attribution 5337 5346	published
+E26	Attribution:T106 Content:T105 Cue:T104 Source:T103
+T107	Source 5397 5399	he
+T108	Cue 5400 5408	resigned
+T109	Content 5409 5441	as Mr. Trump's campaign chairman
+T110	Attribution 5400 5408	resigned
+E27	Attribution:T110 Content:T109 Cue:T108 Source:T107
+T111	Discuss 5397 5441	he resigned as Mr. Trump's campaign chairman
+T112	Content 5629 5641;5651 5701	the decision to keep the Manafort investigation at a low simmer
+T113	Cue 5642 5650	was made
+T114	Attribution-no-source 5642 5650	was made
+E28	Attribution-no-source:T114 Cue:T113 Content:T112
+T115	Source 5703 5713	the F.B.I.
+T116	Cue 5714 5727	grappled with
+T117	Content 5728 5785	whether to issue subpoenas in the Clinton Foundation case
+T118	Attribution 5714 5727	grappled with
+E29	Attribution:T118 Content:T117 Cue:T116 Source:T115
+T119	Content 5851 6019	The investigation, based in New York, had not developed much evidence and was based mostly on information that had surfaced in news stories and the book "Clinton Cash,"
+T120	Cue 6020 6032	according to
+T121	Source 6033 6086	several law enforcement officials briefed on the case
+T122	Attribution 6020 6032	according to
+E30	Attribution:T122 Source:T121 Cue:T120 Content:T119
+T123	Source 6089 6097	The book
+T124	Cue 6098 6106	asserted
+T125	Content 6107 6297	that foreign entities gave money to former President Bill Clinton and the Clinton Foundation, and in return received favors from the State Department when Mrs. Clinton was secretary of state
+T126	Attribution 6098 6106	asserted
+E31	Attribution:T126 Content:T125 Cue:T124 Source:T123
+T127	Source 6299 6311	Mrs. Clinton
+T128	Cue 6312 6332	has adamantly denied
+T129	Content 6333 6345	those claims
+T130	Attribution 6312 6332	has adamantly denied
+E32	Attribution:T130 Content:T129 Cue:T128 Source:T127
+T131	Source 6361 6411	the Justice Department and senior F.B.I. officials
+T132	Cue 6412 6418	agreed
+T133	Content 6419 6553	that making the Clinton Foundation investigation public could influence the presidential race and suggest they were favoring Mr. Trump
+T134	Attribution 6412 6418	agreed
+E33	Attribution:T134 Content:T133 Cue:T132 Source:T131
+T135	Source 6568 6572	they
+T136	Cue 6573 6585	acknowledged
+T137	Content 6559 6566;6587 6635	waiting could open them up to criticism from Republicans
+T138	Attribution 6573 6585	acknowledged
+E34	Attribution:T138 Content:T137 Cue:T136 Source:T135
+T139	Source 6637 6640	who
+T140	Cue 6641 6655	were demanding
+T141	Content 6656 6672	an investigation
+T142	Attribution 6641 6655	were demanding
+E35	Attribution:T142 Content:T141 Cue:T140 Source:T139
+T143	Source 6675 6679	They
+T144	Cue 6680 6686	agreed
+T145	Content 6687 6772	to keep the case open but wait until after the election to determine their next steps
+T146	Attribution 6680 6686	agreed
+E36	Attribution:T146 Content:T145 Cue:T144 Source:T143
+T147	Content 6774 6782	The move
+T148	Cue 6783 6793	infuriated
+T149	Source 6794 6805	some agents
+T150	Attribution 6783 6793	infuriated
+E37	Attribution:T150 Source:T149 Cue:T148 Content:T147
+T151	Source 6807 6810	who
+T152	Cue 6811 6818	thought
+T153	Content 6819 6885	that the F.B.I.'s leaders were reining them in because of politics
+T154	Attribution 6811 6818	thought
+E38	Attribution:T154 Content:T153 Cue:T152 Source:T151
+T155	Source 6888 6906	Mr. Comey's allies
+T156	Cue 6907 6910	say
+T157	Content 6911 7095	he could not have simply followed this script last week when he learned that agents had discovered new emails on a laptop belonging to Ms. Abedin's estranged husband, Anthony D. Weiner
+T158	Attribution 6907 6910	say
+E39	Attribution:T158 Content:T157 Cue:T156 Source:T155
+T159	Source 7135 7137	he
+T160	Cue 7138 7147	concluded
+T161	Content 7097 7133;7149 7219	News of the search would surely leak and it would appear that he had withheld the information from Congress
+T162	Attribution 7138 7147	concluded
+E40	Attribution:T162 Content:T161 Cue:T160 Source:T159
+T165	Content 7221 7423	He also thought that he alone was a trusted voice on the Clinton case because of Attorney General Loretta E. Lynch's highly criticized meeting with Mr. Clinton in the original investigation's final days
+T163	Source 7425 7434	officials
+T164	Cue 7435 7439	said
+T166	Attribution 7435 7439	said
+E41	Attribution:T166 Cue:T164 Source:T163 Content:T165
+T167	Source 7446 7459	F.B.I. agents
+T168	Cue 7550 7574	have struggled to defend
+T169	Content 7575 7587	his decision
+T170	Attribution 7550 7574	have struggled to defend
+E42	Attribution:T170 Content:T169 Cue:T168 Source:T167
+T171	Source 7461 7473	many of whom
+T172	Cue 7474 7500	are strongly supportive of
+T173	Content 7501 7548	Mr. Comey and his approachable leadership style
+T174	Attribution 7474 7500	are strongly supportive of
+E43	Attribution:T174 Content:T173 Cue:T172 Source:T171
+T175	Source 7589 7593	They
+T176	Cue 7594 7605	acknowledge
+T177	Content 7606 7627	that he was in a bind
+T178	Attribution 7594 7605	acknowledge
+E44	Attribution:T178 Content:T177 Cue:T176 Source:T175
+T179	Cue 7633 7636	say
+T180	Content 7637 7700	the backlash against the F.B.I. is unlike any in recent history
+T181	Attribution 7633 7636	say
+E45	Attribution:T181 Cue:T179 Content:T180 Source:T175

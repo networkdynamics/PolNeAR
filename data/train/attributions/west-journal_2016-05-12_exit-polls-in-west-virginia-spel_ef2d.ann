@@ -1,0 +1,66 @@
+T1	Source 0 27	Exit Polls In West Virginia
+T2	Cue 28 33	Spell
+T3	Content 34 62	Bad News For Hillary Clinton
+T4	Attribution 28 33	Spell
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 367 370	she
+T6	Cue 371 382	is disliked
+T7	Source 386 433	supporters of her opponent, Sen. Bernie Sanders
+T8	Attribution 371 382	is disliked
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Cue 683 688	seems
+T10	Content 689 750	the public’s view of her, even among her supporters, is awful
+T11	Attribution-no-source 683 688	seems
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Cue 758 763	asked
+T13	Content 764 820	which quality was most important in choosing a candidate
+T14	Attribution-no-source 758 763	asked
+E4	Attribution-no-source:T14 Content:T13 Cue:T12
+T15	Source 822 900	only 23 percent of those who selected someone who “cares about people like me”
+T16	Cue 901 910	voted for
+T17	Content 911 918	Clinton
+T18	Attribution 901 910	voted for
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 926 976	only 21 percent who chose “honest and trustworthy”
+T20	Cue 977 992	cast a vote for
+T21	Content 993 996	her
+T22	Attribution 977 992	cast a vote for
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 1065 1088	36 percent of Democrats
+T24	Cue 1089 1093	said
+T25	Content 1094 1180	they were willing to flip their support to presumptive Republican nominee Donald Trump
+T26	Attribution 1089 1093	said
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Content 1207 1214	Sanders
+T28	Cue 1215 1225	supporters
+T29	Attribution-no-source 1215 1225	supporters
+E8	Attribution-no-source:T29 Cue:T28 Content:T27
+T30	Cue 1249 1262	supporters of
+T31	Content 1263 1270	Clinton
+T32	Attribution-no-source 1249 1262	supporters of
+E9	Attribution-no-source:T32 Content:T31 Cue:T30
+T33	Source 1324 1327	she
+T34	Cue 1328 1338	can expect
+T35	Content 1339 1412	a decent portion of those currently voting for Sanders to defect to Trump
+T36	Attribution 1328 1338	can expect
+E10	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1464 1468	that
+T38	Cue 1469 1474	asked
+T39	Content 1485 1547	how likely Clinton was to defeat Trump in the general election
+T40	Attribution 1469 1474	asked
+E11	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1558 1568	21 percent
+T42	Cue 1569 1573	said
+T43	Content 1574 1590	“not too likely”
+T44	Attribution 1569 1573	said
+E12	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1595 1605	14 percent
+T46	Cue 1606 1610	said
+T47	Content 1611 1631	“not at all likely.”
+T48	Attribution 1606 1610	said
+E13	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 1640 1684	two-thirds of those who picked these options
+T50	Cue 1685 1703	were supporters of
+T51	Content 1704 1711	Sanders
+T52	Attribution 1685 1703	were supporters of
+E14	Attribution:T52 Content:T51 Cue:T50 Source:T49

@@ -1,0 +1,81 @@
+T1	Source 60 90	Some miffed Sanders supporters
+T2	Cue 91 99	threaten
+T3	Content 100 121	to cast protest votes
+T4	Attribution 91 99	threaten
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 350 387	Hundreds of pro-Sanders demonstrators
+T6	Cue 482 490	chanting
+T7	Content 491 517	"Bernie or Jill, No Hill,"
+T8	Attribution 482 490	chanting
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 518 547	raising fresh questions about
+T10	Content 548 696	whether Clinton will face a bleed of Sanders' most devoted backers if they bail on the Democratic Party and back the presumptive Green Party nominee
+T11	Attribution-no-source 518 547	raising fresh questions about
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Source 854 859	Stein
+T13	Cue 860 881	has framed herself as
+T14	Content 882 923	the Plan B for the "Bernie or Bust" crowd
+T15	Attribution 860 881	has framed herself as
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 970 1042	Stein, a physician from Massachusetts and longtime Green Party activist,
+T17	Cue 1043 1050	accused
+T18	Content 1051 1119	the Democratic National Committee of sabotaging the Sanders campaign
+T19	Attribution 1043 1050	accused
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 1121 1135	a reference to
+T21	Content 1136 1253	thousands of emails leaked last week that showed senior members at the committee sought to undercut Sanders' campaign
+T22	Attribution 1121 1135	a reference to
+E6	Attribution:T22 Cue:T20 Content:T21 Source:T16
+T23	Source 1255 1267	One official
+T24	Cue 1268 1282	even suggested
+T25	Content 1283 1361	raising questions about whether Sanders, who is Jewish, was in fact an atheist
+T26	Attribution 1268 1282	even suggested
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Cue 1364 1378	The release of
+T28	Content 1379 1389	the emails
+T29	Source 1393 1402	Wikileaks
+T30	Attribution 1364 1378	The release of
+E8	Attribution:T30 Source:T29 Content:T28 Cue:T27
+T31	Source 1407 1446	DNC chairwoman Debbie Wasserman Schultz
+T32	Cue 1447 1458	to announce
+T33	Content 1459 1488	her resignation from her post
+T34	Attribution 1447 1458	to announce
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 1564 1567	her
+T36	Cue 1568 1575	efforts
+T37	Content 1576 1645	to unify the party following her tough nomination battle with Sanders
+T38	Attribution 1568 1575	efforts
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Discuss 1564 1645	her efforts to unify the party following her tough nomination battle with Sanders
+T40	Content 1648 1718;1746 1900	"We are leaving behind the corruption, the backstabbing and the lies," "They have said they said bad things about Bernie and have apologized. They have said much more than bad things. They sabotaged a revolutionary campaign."
+T41	Source 1719 1724	Stein
+T42	Cue 1725 1729	told
+T43	Attribution 1725 1729	told
+E11	Attribution:T43 Cue:T42 Source:T41 Content:T40
+T44	Source 1994 2084	many diehard Sanders supporters who came to Philadelphia to protest this week's convention
+T45	Cue 2085 2088	say
+T46	Content 2089 2260	they'll shift their support to Stein unless Sanders disavows the endorsement he gave Clinton after it became clear he would fall short of winning the Democratic nomination
+T47	Attribution 2085 2088	say
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 2290 2297	Sanders
+T49	Cue 2298 2314	again reiterated
+T50	Content 2315 2404	that the party must support Clinton in November to defeat Republican nominee Donald Trump
+T51	Attribution 2298 2314	again reiterated
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Content 2406 2409;2421 2496	who as a "bully and demagogue" who made bigotry the cornerstone of his campaign
+T53	Source 2410 2412	he
+T54	Cue 2413 2420	blasted
+T55	Attribution 2413 2420	blasted
+E14	Attribution:T55 Cue:T54 Source:T53 Content:T52
+T56	Discuss 2554 2578	self-described "Berners"
+T57	Source 2541 2578	thousands of self-described "Berners"
+T58	Cue 2579 2614	have descended this week to express
+T59	Content 2615 2658	their frustration with the Democratic Party
+T60	Attribution 2579 2614	have descended this week to express
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 2725 2759	Some in the "Bernie or Bust" crowd
+T62	Cue 2760 2767	suggest
+T63	Content 2768 2896	the idea of a Hillary Clinton presidency is as unpalatable -- perhaps even more so -- than the idea of a Donald Trump presidency
+T64	Attribution 2760 2767	suggest
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Discard 2899 2926	Contributing: Grant Miller.

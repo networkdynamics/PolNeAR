@@ -1,0 +1,57 @@
+T1	Content 21 29;35 44	Benghazi Way Worse
+T2	Cue 30 34	Look
+T3	Attribution-no-source 30 34	Look
+E1	Attribution-no-source:T3 Cue:T2 Content:T1
+T4	Discuss 0 3	The
+T5	Cue 296 308	according to
+T6	Content 101 184;185 294	Even as terrorists attacked a U.S. diplomatic compound in Benghazi, Libya, on Sept. 11, 2012, the Hilary Clinton-run State Department was told that military forces were ready to come to its aid
+T7	Source 309 355	a newly uncovered email previously kept secret
+T8	Attribution 296 308	according to
+E2	Attribution:T8 Source:T7 Content:T6 Cue:T5
+T9	Content 358 452;495 652;653 762	“The Obama administration and Clinton officials hid this compelling Benghazi email for years,” “The email makes readily apparent that the military was prepared to launch immediate assistance that could have made a difference, at least at the CIA Annex. The fact that the Obama Administration withheld this email for so long only worsens the scandal of Benghazi.”
+T10	Cue 453 457	said
+T11	Source 458 493	Judicial Watch President Tom Fitton
+T12	Attribution 453 457	said
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Attribution-no-source 453 457	said
+E4	Attribution-no-source:T13 Cue:T10
+T14	Content 1081 1175	“I just tried you on the phone but you were all in with S (an apparent reference to Clinton),”
+T15	Source 1176 1178	it
+T16	Cue 1179 1184	reads
+T17	Attribution 1179 1184	reads
+E5	Attribution:T17 Cue:T16 Source:T15 Content:T14
+T18	Content 1187 1318;1319 1352;1353 1380	“After consulting with General Dempsey, General Ham and the Joint Staff, we have identified the forces that could move to Benghazi. They are spinning up as we speak. They include a (REDACTED),”
+T19	Source 1381 1383	it
+T20	Cue 1384 1388	said
+T21	Attribution 1384 1388	said
+E6	Attribution:T21 Cue:T20 Source:T19 Content:T18
+T22	Content 1391 1503;1504 1573	“Assuming Principals agree to deploy these elements, we will ask State to procure the approval from host nation. Please advise how you wish to convey that approval to us (REDACTED),”
+T23	Source 1574 1576	it
+T24	Cue 1577 1581	read
+T25	Attribution 1577 1581	read
+E7	Attribution:T25 Cue:T24 Source:T23 Content:T22
+T26	Content 1762 1771;1780 1991	The email to contradict 2013 comments from former Secretary of Defense Leon Panetta that “time, distance, the lack of an adequate warning, events that moved very quickly on the ground prevented a more immediate response.”
+T27	Cue 1772 1779	appears
+T28	Discuss 1762 1765	The
+T29	Attribution-no-source 1772 1779	appears
+E8	Attribution-no-source:T29 Cue:T27 Content:T26
+T30	Source 1993 2007	Judicial Watch
+T31	Cue 2033 2038	noted
+T32	Content 2039 2128;2129 2154	congressional testimony by Gregory Hicks, the former deputy chief of mission for the U.S. Embassy in Tripoli, Libya
+T33	Source 2157 2162	Hicks
+T34	Attribution 2033 2038	noted
+E9	Attribution:T34 Source:T30 Cue:T31 Content:T32
+T35	Cue 2163 2167	said
+T36	Content 2168 2357	the four Americans killed in the attack might have been saved “if we had been able to scramble a fighter or aircraft or two over Benghazi as quickly as possible after the attack commenced.”
+T37	Attribution 2163 2167	said
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T33
+T38	Content 2359 2487;2488 2584	“I believe there would not have been a mortar attack on the annex in the morning because I believe the Libyans would have split. They would have been scared to death that we would have gotten a laser on them and killed them,”
+T39	Source 2585 2590	Hicks
+T40	Cue 2591 2600	testified
+T41	Attribution 2591 2600	testified
+E11	Attribution:T41 Cue:T40 Source:T39 Content:T38
+T42	Source 2603 2651	Staff for the House Select Committee on Benghazi
+T43	Cue 2652 2656	said
+T44	Content 2657 2749	the panel has the full, unredacted Bash email and will address the email in its final report
+T45	Attribution 2652 2656	said
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T42

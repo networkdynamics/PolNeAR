@@ -1,0 +1,218 @@
+T1	Content 0 26	Pfizer deal's tax strategy
+T2	Cue 27 35	assailed
+T3	Attribution-no-source 27 35	assailed
+E1	Attribution-no-source:T3 Cue:T2 Content:T1
+T4	Cue 64 80	announced Monday
+T5	Content 38 63	A $160 billion megamerger
+T6	Attribution-no-source 64 80	announced Monday
+E2	Attribution-no-source:T6 Content:T5 Cue:T4
+T7	Cue 410 419	criticism
+T8	Source 425 462	Democrats and Republicans in Congress
+T9	Content 299 338	Pfizer's deal with Botox-maker Allergan
+T10	Attribution 410 419	criticism
+E3	Attribution:T10 Content:T9 Source:T8 Cue:T7
+T11	Source 463 466	who
+T12	Cue 467 472	agree
+T13	Content 473 504	that such deals are problematic
+T14	Attribution 467 472	agree
+E4	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Cue 509 557	have so far not taken legislative action against
+T16	Content 558 562	them
+T17	Attribution 509 557	have so far not taken legislative action against
+E5	Attribution:T17 Cue:T15 Content:T16 Source:T11
+T18	Source 564 568	They
+T19	Cue 569 576	slammed
+T20	Content 577 616	the tax loophole called an "inversion,"
+T21	Attribution 569 576	slammed
+E6	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Content 751 928;996 1124	"By nominally moving overseas while continuing to take all the benefits of a U.S. company, Pfizer is gaming the system and will avoid paying its fair share of U.S. tax dollars," "It's time for Congress to get serious, close the loopholes, and prevent these kind of inversions from happening in the future."
+T23	Source 929 974	Senate Minority Leader Harry M. Reid (D-Nev.)
+T24	Cue 975 994	said in a statement
+T25	Attribution 975 994	said in a statement
+E7	Attribution:T25 Cue:T24 Source:T23 Content:T22
+T26	Source 1126 1137	Republicans
+T27	Cue 1138 1152	also denounced
+T28	Content 1153 1161	the deal
+T29	Attribution 1138 1152	also denounced
+E8	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Content 1163 1228	which would slash Pfizer's corporate tax rate to 17 or 18 percent
+T31	Cue 1230 1242	according to
+T32	Source 1243 1258	company leaders
+T33	Attribution 1230 1242	according to
+E9	Attribution:T33 Source:T32 Cue:T31 Content:T30
+T34	Source 1309 1313	some
+T35	Cue 1314 1350	were reluctant to place the blame on
+T36	Content 1351 1360	companies
+T37	Attribution 1314 1350	were reluctant to place the blame on
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Content 1363 1562	"Other nations have restructured their tax code to make themselves more attractive to multinational corporations, and we must do the same so American businesses can compete on a level playing field,"
+T39	Cue 1563 1567	said
+T40	Source 1568 1660	Rep. Patrick J. Tiberi (R-Ohio), a senior member of the tax-writing Ways and Means Committee
+T41	Attribution 1563 1567	said
+E11	Attribution:T41 Source:T40 Cue:T39 Content:T38
+T42	Source 1695 1726	Pfizer chief executive Ian Read
+T43	Cue 1727 1731	said
+T44	Content 1732 1881	company leaders had paid attention to the political debate around inversions but decided to proceed with the deal because it was a good business move
+T45	Attribution 1727 1731	said
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Content 1884 2111	"On the political risk, we've assessed this deal looking at the present regulations, the new notices and all the information we can glean, and we believe this deal is a great deal for shareholders, both of Allergan and Pfizer,"
+T47	Source 2112 2116	Read
+T48	Cue 2117 2121	said
+T49	Attribution 2117 2121	said
+E13	Attribution:T49 Cue:T48 Source:T47 Content:T46
+T50	Source 2143 2181	Congress's Joint Committee on Taxation
+T51	Cue 2182 2191	projected
+T52	Content 2192 2263	that inversions will cost the United States $33.6 billion over a decade
+T53	Attribution 2182 2191	projected
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 2277 2300	the Treasury Department
+T55	Cue 2301 2310	announced
+T56	Content 2311 2451	new measures that make it less financially attractive for a U.S. company to move its headquarters to a country where it does little business
+T57	Attribution 2301 2310	announced
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Cue 3261 3272	is expected
+T59	Content 3234 3260;3273 3340	The final combined company to generate an operating cash flow of more than $25 billion by 2018
+T60	Attribution-no-source 3261 3272	is expected
+E16	Attribution-no-source:T60 Content:T59 Cue:T58
+T61	Cue 3343 3358	Disagreement on
+T62	Content 3359 3367	response
+T63	Attribution-no-source 3343 3358	Disagreement on
+E17	Attribution-no-source:T63 Content:T62 Cue:T61
+T64	Cue 3384 3402	's broad agreement
+T65	Content 3403 3449	that action should be taken to curb inversions
+T66	Attribution-no-source 3384 3402	's broad agreement
+E18	Attribution-no-source:T66 Content:T65 Cue:T64
+T67	Source 3451 3462	politicians
+T68	Cue 3463 3474	disagree on
+T69	Content 3475 3495	how it should happen
+T70	Attribution 3463 3474	disagree on
+E19	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Source 3497 3508	Republicans
+T72	Cue 3509 3520	have argued
+T73	Content 3521 3594	that curtailing tax inversions should be part of comprehensive tax reform
+T74	Attribution 3509 3520	have argued
+E20	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Source 3600 3609	Democrats
+T76	Cue 3610 3625	have pushed for
+T77	Content 3626 3707	immediate action while a broader overhaul of the corporate tax code is worked out
+T78	Attribution 3610 3625	have pushed for
+E21	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 3714 3723	lawmakers
+T80	Cue 3724 3743	remain at odds over
+T81	Content 3744 3805	whether and how to lower the corporate tax rate of 35 percent
+T82	Attribution 3724 3743	remain at odds over
+E22	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Source 3846 3856	Both sides
+T84	Cue 3857 3879	have also acknowledged
+T85	Content 3880 3951	that addressing the problems in the complicated tax code will take time
+T86	Attribution 3857 3879	have also acknowledged
+E23	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Source 4028 4059	Several presidential candidates
+T88	Cue 4060 4073	weighed in on
+T89	Content 4074 4082	the deal
+T90	Attribution 4060 4073	weighed in on
+E24	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Content 4085 4198	"This proposed merger, and so-called 'inversions' by other companies, will leave U.S. taxpayers holding the bag,"
+T92	Source 4199 4235	Democratic candidate Hillary Clinton
+T93	Cue 4236 4255	said in a statement
+T94	Attribution 4236 4255	said in a statement
+E25	Attribution:T94 Cue:T93 Source:T92 Content:T91
+T95	Cue 4257 4267	calling on
+T96	Content 4268 4347	Congress to act and force large corporations to pay "their fair share" of taxes
+T97	Attribution 4257 4267	calling on
+E26	Attribution:T97 Cue:T95 Source:T92 Content:T96
+T98	Source 4350 4380	Sen. Bernie Sanders of Vermont
+T99	Cue 4381 4390	called on
+T100	Content 4391 4433	the Obama administration to block the deal
+T101	Attribution 4381 4390	called on
+E27	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Source 4457 4470	the only ones
+T103	Cue 4471 4484	worried about
+T104	Content 4485 4540	companies taking advantage of inversions to avoid taxes
+T105	Attribution 4471 4484	worried about
+E28	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Content 4543 4634	"The fact that Pfizer is leaving our country with a tremendous loss of jobs is disgusting,"
+T107	Source 4635 4668	Republican candidate Donald Trump
+T108	Cue 4669 4688	said in a statement
+T109	Attribution 4669 4688	said in a statement
+E29	Attribution:T109 Cue:T108 Source:T107 Content:T106
+T110	Cue 4760 4783	political opposition to
+T111	Content 4784 4788	them
+T112	Attribution-no-source 4760 4783	political opposition to
+E30	Attribution-no-source:T112 Content:T111 Cue:T110
+T113	Source 4832 4847	President Obama
+T114	Cue 4848 4858	has called
+T115	Content 4859 4884	inversions "unpatriotic,"
+T116	Source 5312 5324	the Treasury
+T117	Cue 5325 5331	issued
+T118	Content 5332 5343	those rules
+T119	Attribution 4848 4858	has called
+E31	Attribution:T119 Cue:T114 Source:T113 Content:T115
+T120	Attribution 5325 5331	issued
+E32	Attribution:T120 Content:T118 Cue:T117 Source:T116
+T121	Source 5345 5429	Raleigh, N.C.-based Salix Pharmaceuticals and the Italian firm Cosmo Pharmaceuticals
+T122	Cue 5459 5465	citing
+T123	Content 5466 5502	changes in the political environment
+T124	Attribution 5459 5465	citing
+E33	Attribution:T124 Content:T123 Cue:T122 Source:T121
+T125	Source 5505 5525	A Treasury spokesman
+T126	Cue 5526 5530	said
+T127	Content 5531 5583	the agency does not comment on specific transactions
+T128	Attribution 5526 5530	said
+E34	Attribution:T128 Content:T127 Cue:T126 Source:T125
+T129	Source 5617 5648	Treasury Secretary Jacob J. Lew
+T130	Cue 5649 5661	acknowledged
+T131	Content 5662 5706	the agency's limitation in ending inversions
+T132	Attribution 5649 5661	acknowledged
+E35	Attribution:T132 Content:T131 Cue:T130 Source:T129
+T133	Content 5709 5811;5845 5929	"Our actions can only slow the pace of these transactions. Only legislation can decisively stop them," "There is only so much Treasury can do to prevent these tax-avoidance transactions."
+T134	Source 5812 5815	Lew
+T135	Cue 5816 5843	said in the conference call
+T136	Attribution 5816 5843	said in the conference call
+E36	Attribution:T136 Cue:T135 Source:T134 Content:T133
+T137	Source 5931 6009	Edward D. Kleinbard, former chief of staff of the Joint Committee on Taxation,
+T138	Cue 6010 6016	agreed
+T139	Content 6017 6093	that the Treasury Department has limited power to stop corporate tax dodging
+T140	Attribution 6010 6016	agreed
+E37	Attribution:T140 Content:T139 Cue:T138 Source:T137
+T141	Content 6096 6248;6258 6385	"Treasury is trying to hold back the tide with a broom, but that is an unfair position into which to put Treasury. The U.S. Congress owns the tax code," "What is going on here is a dereliction of duty by Congress, and Treasury is doing the best it can in an impossible situation."
+T142	Source 6249 6251	he
+T143	Cue 6252 6256	said
+T144	Attribution 6252 6256	said
+E38	Attribution:T144 Cue:T143 Source:T142 Content:T141
+T145	Cue 6418 6435	is best known for
+T146	Content 6409 6417;6436 6480	Allergan making the wrinkle-smoothing treatment Botox
+T147	Attribution-no-source 6418 6435	is best known for
+E39	Attribution-no-source:T147 Content:T146 Cue:T145
+T148	Content 6488 6494;6513 6658	Pfizer making a wide variety of iconic drugs, including cholesterol-lowering Lipitor, the antidepressant Zoloft and the erectile dysfunction drug Viagra
+T149	Cue 6495 6512	is well known for
+T150	Attribution-no-source 6495 6512	is well known for
+E40	Attribution-no-source:T150 Cue:T149 Content:T148
+T151	Source 6660 6673	The companies
+T152	Cue 6674 6680	expect
+T153	Content 6681 6754	to save $2 billion over the first three years by eliminating redundancies
+T154	Attribution 6674 6680	expect
+E41	Attribution:T154 Content:T153 Cue:T152 Source:T151
+T155	Content 6824 6859	the pharmaceutical industry broadly
+T156	Cue 6860 6885	is under intense scrutiny
+T157	Attribution-no-source 6860 6885	is under intense scrutiny
+E42	Attribution-no-source:T157 Cue:T156 Content:T155
+T158	Cue 6897 6930	public and political outrage over
+T159	Content 6931 6947	high drug prices
+T160	Attribution-no-source 6897 6930	public and political outrage over
+E43	Attribution-no-source:T160 Content:T159 Cue:T158
+T161	Source 6950 7050	Gustav Ando, research director for IHS Life Sciences, a business information and consulting company,
+T162	Cue 7051 7055	said
+T163	Content 7056 7227	he thought the deal was carefully structured to avoid the issues that scuttled other mergers among major pharmaceutical companies seeking to relocate abroad to avoid taxes
+T164	Attribution 7051 7055	said
+E44	Attribution:T164 Content:T163 Cue:T162 Source:T161
+T165	Source 7234 7236	he
+T166	Cue 7237 7241	said
+T167	Content 7229 7232;7243 7360	But it is a risky strategy at a time when politicians are already raising questions about drug companies' business models
+T168	Attribution 7237 7241	said
+E45	Attribution:T168 Content:T167 Cue:T166 Source:T165
+T169	Content 7363 7557;7569 7717	"This merger isn't meant to benefit patients; it isn't meant to innovate in any kind of way. It's basically a tax inversion strategy, and certainly the benefits won't be passed on to consumers," "It's pretty easy at the moment to paint the pharmaceutical industry in a negative light, and this certainly doesn't do anything to help the cause."
+T170	Source 7558 7562	Ando
+T171	Cue 7563 7567	said
+T172	Attribution 7563 7567	said
+E46	Attribution:T172 Cue:T171 Source:T170 Content:T169

@@ -1,0 +1,197 @@
+T1	Discard 74 83	ABSTRACT.
+T2	Content 147 213;231 252	the hiring of Stephen Bannon and the elevation of Kellyanne Conway as a demotion for him
+T3	Cue 214 222	was seen
+T4	Source 223 230	by some
+T5	Attribution 214 222	was seen
+E1	Attribution:T5 Source:T4 Cue:T3 Content:T2
+T6	Discard 255 265	FULL TEXT.
+T7	Content 837 917;935 965	the staffing change, hammered out on Sunday and formally announced on Wednesday, as a demotion for Mr. Manafort
+T8	Cue 918 926	was seen
+T9	Source 927 934	by some
+T10	Attribution 918 926	was seen
+E2	Attribution:T10 Source:T9 Cue:T8 Content:T7
+T11	Source 990 1000	Ms. Conway
+T12	Cue 1001 1009	rejected
+T13	Content 1010 1058	the idea that the changes amounted to a shake-up
+T14	Attribution 1001 1009	rejected
+E3	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Cue 1063 1067	said
+T16	Content 1068 1110	that Mr. Manafort was not being diminished
+T17	Attribution 1063 1067	said
+E4	Attribution:T17 Source:T11 Cue:T15 Content:T16
+T18	Content 1113 1187	''It's an expansion at a busy time in the final stretch of the campaign,''
+T19	Source 1188 1191	she
+T20	Cue 1192 1196	said
+T21	Attribution 1192 1196	said
+E5	Attribution:T21 Cue:T20 Source:T19 Content:T18
+T22	Cue 1198 1204	adding
+T23	Content 1205 1278	that Mr. Manafort and his deputy, Rick Gates, would remain in their roles
+T24	Attribution 1198 1204	adding
+E6	Attribution:T24 Content:T18 Cue:T22 Content2:T23
+T25	Content 1281 1317	''We met as the 'core four' today,''
+T26	Source 1318 1328	Ms. Conway
+T27	Cue 1329 1334	added
+T28	Attribution 1329 1334	added
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Cue 1336 1348	referring to
+T30	Content 1349 1396	herself, Mr. Bannon, Mr. Manafort and Mr. Gates
+T31	Attribution 1336 1348	referring to
+E8	Attribution:T31 Source:T26 Cue:T29 Content:T30
+T32	Source 1399 1425	People briefed on the move
+T33	Cue 1426 1430	said
+T34	Content 1431 1512	that it reflected Mr. Trump's realization that his campaign was at a crisis point
+T35	Attribution 1426 1430	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Cue 1521 1530	indicates
+T37	Content 1531 1763	that the candidate - who has chafed at making the types of changes his current aides have asked for, even though he had acknowledged they would need to occur - has decided to embrace his aggressive style for the duration of the race
+T38	Attribution-no-source 1521 1530	indicates
+E10	Attribution-no-source:T38 Content:T37 Cue:T36
+T39	Source 1798 1821	whose news organization
+T40	Cue 1822 1848	has been very favorable to
+T41	Content 1849 1858	Mr. Trump
+T42	Attribution 1822 1848	has been very favorable to
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1977 1980	who
+T44	Cue 1981 2002	have become allies of
+T45	Content 2003 2016	the candidate
+T46	Attribution 1981 2002	have become allies of
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Content 2218 2221	She
+T49	Source 2239 2352	Mr. Trump's daughter Ivanka and her husband, Jared Kushner, who had been serving as the de facto campaign manager
+T48	Cue 2222 2238	is well liked by
+T50	Attribution 2222 2238	is well liked by
+E13	Attribution:T50 Cue:T48 Source:T49 Content:T47
+T51	Source 2573 2583	Mr. Bannon
+T52	Cue 2584 2607	has been a supporter of
+T53	Content 2608 2640	Mr. Trump's pugilistic instincts
+T54	Attribution 2584 2607	has been a supporter of
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Content 2642 2647;2691 2724	which he is uncertain about suppressing
+T56	Source 2648 2661	the candidate
+T57	Cue 2662 2676	has made clear
+T58	Attribution 2662 2676	has made clear
+E15	Attribution:T58 Cue:T57 Source:T56 Content:T55
+T59	Source 2726 2728	He
+T60	Cue 2729 2758	is also deeply mistrustful of
+T61	Content 2759 2786	the political establishment
+T62	Attribution 2729 2758	is also deeply mistrustful of
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 2792 2803	his website
+T64	Cue 2804 2830	has often been critical of
+T65	Content 2831 2900	Speaker Paul D. Ryan and Senator Mitch McConnell, the majority leader
+T66	Attribution 2804 2830	has often been critical of
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Source 2903 2995	Rudolph W. Giuliani, the former mayor of New York City who has become a close Trump adviser,
+T68	Cue 2996 3010	has also urged
+T69	Content 3011 3192	the candidate to dig in and prepare to fight harder, and in a more focused way, in what has quickly become one of the nastiest presidential campaigns in modern United States history
+T70	Attribution 2996 3010	has also urged
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Source 3553 3597	Mr. Lewandowski, now a paid CNN commentator,
+T72	Cue 3598 3608	has denied
+T73	Content 3609 3631	that that was the case
+T74	Attribution 3598 3608	has denied
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Source 3683 3696	the candidate
+T76	Cue 3697 3704	seeking
+T77	Content 3705 3715	his advice
+T78	Attribution 3697 3704	seeking
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Content 3766 3768;3840 3920	he of grabbing her roughly after a news conference at one of his Florida properties
+T80	Cue 3769 3783	was accused by
+T81	Source 3784 3839	a female Breitbart reporter, who worked for Mr. Bannon,
+T82	Attribution 3769 3783	was accused by
+E21	Attribution:T82 Source:T81 Cue:T80 Content:T79
+T83	Content 3922 3924;3937 3949	He with assault
+T84	Cue 3925 3936	was charged
+T85	Attribution-no-source 3925 3936	was charged
+E22	Attribution-no-source:T85 Cue:T84 Content:T83
+T86	Source 3955 3966	prosecutors
+T87	Cue 3967 3975	declined
+T88	Content 3976 4019	to proceed with the case, which was dropped
+T89	Attribution 3967 3975	declined
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Source 4022 4055	People briefed on the reshuffling
+T91	Cue 4056 4068	were adamant
+T92	Content 4069 4142	that Mr. Trump's children would seek to block a return by Mr. Lewandowski
+T93	Attribution 4056 4068	were adamant
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 4148 4152	they
+T95	Cue 4153 4161	insisted
+T96	Content 4162 4223	that staff departures resulting from the changes would be few
+T97	Attribution 4153 4161	insisted
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 4226 4239	The candidate
+T99	Cue 4327 4334	telling
+T100	Content 4345 4389	he planned to adopt a more presidential tone
+T101	Attribution 4327 4334	telling
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Content 4392 4404	His behavior
+T103	Cue 4405 4416	has angered
+T104	Source 4417 4440	the party's top figures
+T105	Attribution 4405 4416	has angered
+E27	Attribution:T105 Source:T104 Cue:T103 Content:T102
+T106	Source 4442 4445	who
+T107	Cue 4446 4481	have openly expressed concern about
+T108	Content 4482 4587	preserving Republican majorities in the House and Senate in light of Mr. Trump's performance in the polls
+T109	Attribution 4446 4481	have openly expressed concern about
+E28	Attribution:T109 Content:T108 Cue:T107 Source:T106
+T110	Content 4695 4773	Roger Ailes, the former chairman of Fox News, also met with Mr. Trump that day
+T111	Source 4778 4796	The New York Times
+T112	Cue 4797 4805	reported
+T113	Attribution 4797 4805	reported
+E29	Attribution:T113 Cue:T112 Source:T111 Content:T110
+T114	Content 4822 4920	he will be part of efforts to prepare Mr. Trump in his debate against Mrs. Clinton and other tasks
+T115	Cue 4922 4934	according to
+T116	Source 4935 4974	three people briefed on the discussions
+T117	Attribution 4922 4934	according to
+E30	Attribution:T117 Source:T116 Cue:T115 Content:T114
+T118	Source 5124 5143	handwritten ledgers
+T119	Cue 5144 5151	showing
+T120	Content 5152 5276	he was designated to receive $12.7 million in undisclosed cash payments from a pro-Russian political party from 2007 to 2012
+T121	Attribution 5144 5151	showing
+E31	Attribution:T121 Content:T120 Cue:T119 Source:T118
+T122	Source 5501 5512	Mr. Trump's
+T123	Cue 5513 5522	assertion
+T124	Content 5523 5568	that Russia should hack Mrs. Clinton's emails
+T125	Attribution 5513 5522	assertion
+E32	Attribution:T125 Content:T124 Cue:T123 Source:T122
+T126	Source 5570 5573	his
+T127	Cue 5574 5583	criticism
+T128	Content 5584 5621	of a Muslim-American Gold Star family
+T129	Attribution 5574 5583	criticism
+E33	Attribution:T129 Content:T128 Cue:T127 Source:T126
+T130	Source 5627 5630	his
+T131	Cue 5631 5641	suggestion
+T132	Content 5642 5708	that Second Amendment supporters could revolt against Mrs. Clinton
+T133	Attribution 5631 5641	suggestion
+E34	Attribution:T133 Content:T132 Cue:T131 Source:T130
+T134	Content 5852 5874	the off-the-cuff style
+T135	Source 5875 5877	he
+T136	Cue 5878 5885	prefers
+T137	Attribution 5878 5885	prefers
+E35	Attribution:T137 Cue:T136 Source:T135 Content:T134
+T138	Source 5903 5905	he
+T139	Cue 5906 5913	offered
+T140	Content 5914 5970	yet another scripted address, this time on law and order
+T141	Attribution 5906 5913	offered
+E36	Attribution:T141 Content:T140 Cue:T139 Source:T138
+T142	Source 6161 6170	Mr. Pence
+T143	Cue 6171 6203	used his keynote speech to offer
+T144	Content 6204 6283	''encouragement'' - a word he used several times - and reassurance to the crowd
+T145	Attribution 6171 6203	used his keynote speech to offer
+E37	Attribution:T145 Content:T144 Cue:T143 Source:T142
+T146	Content 6286 6431	''We're still winning hearts and minds every day despite an avalanche of negative media coverage,'' Mr. Pence said during the closed-door session
+T147	Cue 6433 6445	according to
+T148	Source 6446 6473	audio provided to The Times
+T149	Attribution 6433 6445	according to
+E38	Attribution:T149 Source:T148 Cue:T147 Content:T146
+T150	Content 6476 6480;6499 6516	Time was on their side
+T151	Source 6482 6491	Mr. Pence
+T152	Cue 6492 6497	added
+T153	Attribution 6492 6497	added
+E39	Attribution:T153 Cue:T152 Source:T151 Content:T150
+T154	Content 6518 6556;6566 6598	''It's preseason, for heaven's sake,'' ''The gun starts on Labor Day.''
+T155	Source 6557 6559	he
+T156	Cue 6560 6564	said
+T157	Attribution 6560 6564	said
+E40	Attribution:T157 Cue:T156 Source:T155 Content:T154

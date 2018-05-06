@@ -1,0 +1,49 @@
+T1	Source 0 5	Trump
+T2	Cue 6 37	Makes Campaign Announcement For
+T3	Content 38 79	Speech Against ‘Crooked Hillary Clinton.’
+T4	Attribution 6 37	Makes Campaign Announcement For
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 161 176	Hillary Clinton
+T6	Cue 176 204	’s Tuesday speech denouncing
+T7	Content 205 226	his economic policies
+T8	Attribution 176 204	’s Tuesday speech denouncing
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 359 363	that
+T10	Cue 364 372	attacked
+T11	Content 373 380	Clinton
+T12	Attribution 364 372	attacked
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 432 447	rump’s campaign
+T14	Cue 448 452	said
+T15	Content 453 531	the speech at the Trump SoHo New York Hotel would be “regarding the election.”
+T16	Attribution 448 452	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 533 556	A Trump campaign source
+T18	Cue 557 561	told
+T19	Content 566 695	that this week’s address will lay out his case against Clinton, possibly highlighting the issues he’ll cover in the coming months
+T20	Attribution 557 561	told
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 709 725	NBC’s Ali Vitali
+T22	Cue 726 730	said
+T23	Content 731 780	the subject of the speech will be Clinton herself
+T24	Attribution 726 730	said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 851 856	Trump
+T26	Cue 857 866	indicated
+T27	Content 867 958	that a major speech was forthcoming that would highlight the shortcomings of Clinton’s past
+T28	Attribution 857 866	indicated
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1070 1418;961 994	to focus on three main areas of attack — the speaking fees Clinton has received from Wall Street companies, her role in the deaths of four Americans at Benghazi in 2012 and the subsequent investigation into her use of a private email server and Clinton’s past attacks on women with whom her husband, former President Bill Clinton, has been involved Trump’s major anti-Clinton speech
+T30	Cue 1058 1069	is expected
+T31	Attribution-no-source 1058 1069	is expected
+E8	Attribution-no-source:T31 Cue:T30 Content:T29
+T32	Source 1421 1426	Trump
+T33	Cue 1427 1451	has already foreshadowed
+T34	Content 1452 1513	the kind of rhetoric likely to come in an anti-Clinton speech
+T35	Attribution 1427 1451	has already foreshadowed
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Content 1516 1611;1624 1848	“The Clintons have turned the politics of personal enrichment into an art form for themselves,” “They’ve made hundreds of millions of dollars selling access, selling favors, selling government contracts and I mean hundreds of millions of dollars. Hillary Clinton turned the State Department into her private hedge fund.”
+T37	Source 1612 1617	Trump
+T38	Cue 1618 1622	said
+T39	Attribution 1618 1622	said
+E10	Attribution:T39 Cue:T38 Source:T37 Content:T36

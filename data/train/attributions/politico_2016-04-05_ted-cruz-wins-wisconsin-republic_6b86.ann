@@ -1,0 +1,20 @@
+T1	Content 45 94	Ted Cruz has won the Wisconsin Republican primary
+T2	Cue 96 108	according to
+T3	Source 109 134	three television networks
+T4	Attribution 96 108	according to
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Cue 268 293	picked up the endorsement
+T6	Source 297 314	Gov. Scott Walker
+T7	Content 137 154	The Texas senator
+T8	Attribution 268 293	picked up the endorsement
+E2	Attribution:T8 Content:T7 Source:T6 Cue:T5
+T9	Cue 334 345	the backing
+T10	Source 349 425	two of the state’s congressional Republicans, Reid Ribble and Glenn Grothman
+T11	Content 317 321	Cruz
+T12	Attribution 334 345	the backing
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Cue 582 585	try
+T14	Content 586 679	to prevent him from reaching the 1,237 delegates needed to clinch the GOP nomination outright
+T15	Source 577 581	they
+T16	Attribution 582 585	try
+E4	Attribution:T16 Source:T15 Content:T14 Cue:T13

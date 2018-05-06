@@ -1,0 +1,63 @@
+T1	Source 0 13	Carly Fiorina
+T2	Cue 14 22	Endorses
+T3	Content 23 65	Ted Cruz: I Am ‘Horrified’ By Donald Trump
+T4	Attribution 14 22	Endorses
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discuss 0 65	Carly Fiorina Endorses Ted Cruz: I Am ‘Horrified’ By Donald Trump
+T6	Source 68 81	Carly Fiorina
+T7	Cue 82 106	threw her support behind
+T8	Content 107 130	Sen. Ted Cruz (R-Texas)
+T9	Attribution 82 106	threw her support behind
+E2	Attribution:T9 Content:T8 Cue:T7 Source:T6
+T10	Cue 142 148	saying
+T11	Content 149 224	it is time to have a “real constitutional conservative in the White House.”
+T12	Attribution 142 148	saying
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T6
+T13	Source 393 396	She
+T14	Cue 397 406	applauded
+T15	Content 407 501	him for defying the establishment and fighting for Americans’ liberties “over and over again.”
+T16	Attribution 397 406	applauded
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 681 684	she
+T18	Cue 685 689	said
+T19	Content 503 680	“Ted Cruz has stood up and fought for our right to bear arms. He has fought for our religious liberty. He has fought for our sovereignty. And he has won over and over and over,”
+T20	Attribution 685 689	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 702 709	Fiorina
+T22	Cue 710 727	was upfront about
+T23	Content 728 788	her distaste for Donald Trump, the current GOP front-runner,
+T24	Attribution 710 727	was upfront about
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Cue 789 795	saying
+T26	Content 796 843	conservatives need to band together to stop him
+T27	Attribution 789 795	saying
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T21
+T28	Source 953 956	she
+T29	Cue 957 961	said
+T30	Content 846 952;963 1191	“There are other people in our party who are actually kind of horrified by Donald Trump. I’m one of them,” “But here’s the thing: We’re not going to beat Donald Trump by having leaders in our party tsk tsk over voters. We’re going to have to beat Donald Trump at the ballot box. And the only guy who can beat Donald Trump is Ted Cruz.”
+T31	Attribution 957 961	said
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1193 1196	She
+T33	Cue 1197 1210	also compared
+T34	Content 1211 1269	Trump to Democratic presidential candidate Hillary Clinton
+T35	Attribution 1197 1210	also compared
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Cue 1271 1277	saying
+T37	Content 1278 1355	they are both part of the system and therefore won’t do anything to reform it
+T38	Attribution 1271 1277	saying
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T32
+T39	Source 1366 1369	his
+T40	Cue 1370 1381	dislike for
+T41	Content 1382 1399	the establishment
+T42	Attribution 1370 1381	dislike for
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1401 1405	Cruz
+T44	Cue 1406 1441	is increasingly trying to encourage
+T45	Content 1442 1518	the establishment wing of his party that he is the best alternative to Trump
+T46	Attribution 1406 1441	is increasingly trying to encourage
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Content 1744 1748	Cruz
+T48	Cue 1749 1793	still has not received any endorsements from
+T49	Source 1794 1813	his fellow senators
+T50	Attribution 1749 1793	still has not received any endorsements from
+E13	Attribution:T50 Source:T49 Cue:T48 Content:T47

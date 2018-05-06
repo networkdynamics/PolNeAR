@@ -1,0 +1,56 @@
+T1	Source 93 115	die-hard conservatives
+T2	Cue 116 133	don’t really like
+T3	Content 134 146	Donald Trump
+T4	Attribution 116 133	don’t really like
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 149 172	Conservative Christians
+T6	Cue 173 183	were upset
+T7	Content 184 245	he admittedly has never asked God to forgive him for anything
+T8	Attribution 173 183	were upset
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 247 292	Constitutionalists, like Texas Sen. Ted Cruz,
+T10	Cue 293 301	consider
+T11	Content 302 313	him a phony
+T12	Attribution 293 301	consider
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 319 385	even many conservative patriots, like both of the Bush presidents,
+T14	Cue 386 404	aren’t planning on
+T15	Content 405 472	voting for the billionaire turned Republican presidential candidate
+T16	Attribution 386 404	aren’t planning on
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 540 544	many
+T18	Cue 545 554	to wonder
+T19	Content 555 610	if a more conservative third-party candidate should run
+T20	Attribution 545 554	to wonder
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 613 651	Best-selling thriller writer Brad Thor
+T22	Cue 652 656	told
+T23	Content 685 790	he would consider running as a third-party candidate if he could earn 15 percent of the vote in the polls
+T24	Attribution 652 656	told
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 853 871	Western Journalism
+T26	Cue 872 880	reported
+T27	Content 828 848;882 1000	Just a few weeks ago Thor and Beck were discussing a hypothetical situation wherein the assassination of Trump might have to be carried out
+T28	Attribution 872 880	reported
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Discard 1113 1158	<tweet tweet-id="746104714429927424"><tweet/>
+T30	Source 1274 1278	Thor
+T31	Cue 1279 1303	expressed an interest in
+T32	Content 1304 1318	debating Trump
+T33	Attribution 1279 1303	expressed an interest in
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1320 1324	Beck
+T35	Cue 1325 1333	reminded
+T36	Content 1339 1433	he’d have to earn 15 percent in the polls in order to be able to get to debate the billionaire
+T37	Attribution 1325 1333	reminded
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Source 1435 1439	Thor
+T39	Cue 1440 1449	countered
+T40	Content 1450 1547	if he was able to get 15 percent in the polls he’d simply go on to run as a third-party candidate
+T41	Attribution 1440 1449	countered
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Content 1550 1623;1659 1726	“Imagine Brad Thor going up against Trump and Clinton on the same stage,” “Not to mention, President Thor. We are the biggest badasses ever.”
+T43	Cue 1624 1629	mused
+T44	Source 1630 1657	Blaze co-host Stu Burguiere
+T45	Attribution 1624 1629	mused
+E11	Attribution:T45 Source:T44 Cue:T43 Content:T42

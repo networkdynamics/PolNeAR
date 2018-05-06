@@ -1,0 +1,60 @@
+T1	Source 39 58	Snack giant Nabisco
+T2	Cue 72 103	began the process of laying off
+T3	Content 104 146	hundreds of workers at its Chicago factory
+T4	Attribution 72 103	began the process of laying off
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discuss 39 146	Snack giant Nabisco on Wednesday began the process of laying off hundreds of workers at its Chicago factory
+T6	Cue 198 211	criticism for
+T7	Content 212 220	the move
+T8	Source 226 279	White House hopefuls Hillary Clinton and Donald Trump
+T9	Attribution 198 211	criticism for
+E2	Attribution:T9 Source:T8 Content:T7 Cue:T6
+T10	Content 282 289;302 330	Nabisco to cut 277 workers this week
+T11	Cue 290 301	is expected
+T12	Attribution-no-source 290 301	is expected
+E3	Attribution-no-source:T12 Cue:T11 Content:T10
+T13	Content 531 676	Nabisco issued a 60-day notice to affected employees in mid-January about the layoffs and "that group of employees are now leaving the business,"
+T14	Cue 677 681	said
+T15	Source 682 766	Laurie Guzzinati, a spokeswoman for Nabisco's parent company, Mondelez International
+T16	Attribution 677 681	said
+E4	Attribution:T16 Source:T15 Cue:T14 Content:T13
+T17	Source 769 806	Republican Trump and Democrat Clinton
+T18	Cue 807 822	have criticized
+T19	Content 823 843	Nabisco for the move
+T20	Attribution 807 822	have criticized
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 845 849	Both
+T22	Cue 850 863	have promised
+T23	Content 864 997	to pursue legislation if elected to force companies like Nabisco to pay back tax benefits they've received if they send jobs offshore
+T24	Attribution 850 863	have promised
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Cue 1057 1069	was promised
+T26	Content 1070 1095;1142 1162;999 1056	$90 million in incentives to remain in Chicago One of the forerunner companies of Mondelez, RJR Nabisco,
+T27	Source 1101 1122	Chicago and the state
+T28	Attribution 1057 1069	was promised
+E7	Attribution:T28 Source:T27 Content:T26 Cue:T25
+T29	Cue 1305 1316	in hopes of
+T30	Source 1204 1211	Clinton
+T31	Content 1317 1354	persuading her to reconsider the move
+T32	Attribution 1305 1316	in hopes of
+E8	Attribution:T32 Content:T31 Source:T30 Cue:T29
+T33	Source 1356 1440	Executives for Mondelez, which generated more than $30 billion in revenue last year,
+T34	Cue 1441 1444	say
+T35	Content 1445 1570	the company will save $46 million annually with the cuts and shift in production to its more efficient factory line in Mexico
+T36	Attribution 1441 1444	say
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 1573 1789	"My understanding is that Irene Rosenfeld reinforced (to Clinton) our commitment to the Chicago bakery and the U.S. market overall, where we've got a strong manufacturing presence and approximately 20,000 employees,"
+T38	Source 1790 1799	Guzzinati
+T39	Cue 1800 1804	said
+T40	Attribution 1800 1804	said
+E10	Attribution:T40 Cue:T39 Source:T38 Content:T37
+T41	Source 1807 1851	Trump, who was once a pitchman for the Oreo,
+T42	Cue 1852 1861	has vowed
+T43	Content 1862 1884	to boycott the product
+T44	Attribution 1852 1861	has vowed
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1887 1898	The company
+T46	Cue 1899 1903	says
+T47	Content 1904 2057	it considered building the factory lines in Chicago but opted not to because of the $46 million cost gap between operating in Chicago and Salinas, Mexico
+T48	Attribution 1899 1903	says
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45

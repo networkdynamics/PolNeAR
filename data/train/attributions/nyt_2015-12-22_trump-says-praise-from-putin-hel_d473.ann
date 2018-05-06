@@ -1,0 +1,99 @@
+T1	Source 0 5	Trump
+T2	Cue 6 10	says
+T3	Content 11 43	praise from Putin helps the U.S.
+T4	Attribution 6 10	says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 383 398	Donald J. Trump
+T6	Cue 427 436	to defend
+T7	Content 437 522	his praise of the Russian president, Vladimir V. Putin, and his call for a Muslim ban
+T8	Attribution 427 436	to defend
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 535 545	to respond
+T10	Content 546 578	to Jeb Bush's calling him a jerk
+T11	Attribution 535 545	to respond
+E3	Attribution:T11 Cue:T9 Content:T10 Source:T5
+T12	Source 631 658	the Democratic front-runner
+T13	Cue 659 687	had said on Saturday evening
+T14	Content 688 734	that he was ''becoming ISIS' best recruiter.''
+T15	Attribution 659 687	had said on Saturday evening
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Content 736 754;812 975	''It's nonsense,'' ''She lies like crazy about everything, whether it's trips where she was being gunned down in a helicopter or an airplane; she's a liar and everybody knows that.''
+T17	Source 755 764	Mr. Trump
+T18	Cue 765 811	said by telephone on NBC's ''Meet the Press.''
+T19	Attribution 765 811	said by telephone on NBC's ''Meet the Press.''
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Source 978 987	Mr. Trump
+T21	Cue 988 1015	was apparently referring to
+T22	Content 1016 1141	Mrs. Clinton's account in 2008 of coming under sniper fire while visiting Bosnia, later admitting she had not come under fire
+T23	Attribution 988 1015	was apparently referring to
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Discuss 977 1143	(Mr. Trump was apparently referring to Mrs. Clinton's account in 2008 of coming under sniper fire while visiting Bosnia, later admitting she had not come under fire.)
+T25	Source 1145 1154	Mr. Trump
+T26	Cue 1155 1159	said
+T27	Content 1160 1308	that even if Islamic State videos did surface of his calling for a temporary halt to Muslims entering the country, he would not change his position.
+T28	Attribution 1155 1159	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1309 1368	''I think that my words represent toughness and strength,''
+T30	Source 1369 1371	he
+T31	Cue 1372 1376	said
+T32	Attribution 1372 1376	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Cue 1435 1449	was pressed on
+T34	Content 1450 1539	why he had said it was ''a great honor'' to earn the Russian president's praise last week
+T35	Attribution-no-source 1435 1449	was pressed on
+E9	Attribution-no-source:T35 Content:T34 Cue:T33
+T36	Discuss 1379 1606	On the topic of another tough guy, Mr. Putin, Mr. Trump was pressed on why he had said it was ''a great honor'' to earn the Russian president's praise last week, given that Mr. Putin backs American adversaries around the world.
+T37	Source 1608 1617	Mr. Trump
+T38	Cue 1618 1622	said
+T39	Content 1623 1712	having Mr. Putin treat him with respect is a positive development if he becomes president
+T40	Attribution 1618 1622	said
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Content 1714 1753;1786 1853	''Obama doesn't get along with Putin,'' ''Putin can't stand our president and it's causing us difficulty.''
+T42	Source 1754 1756	he
+T43	Cue 1757 1785	said on ABC's ''This Week.''
+T44	Attribution 1757 1785	said on ABC's ''This Week.''
+E11	Attribution:T44 Cue:T43 Source:T42 Content:T41
+T45	Cue 1902 1916	was pressed by
+T46	Source 1917 1951	ABC's host, George Stephanopoulos,
+T47	Content 1952 2108	about his seeming to draw a moral equivalence between the killings of journalists under Mr. Putin and the American government's killing of terrorists abroad
+T48	Attribution 1902 1916	was pressed by
+E12	Attribution:T48 Content:T47 Source:T46 Cue:T45
+T49	Source 2146 2155	Mr. Trump
+T50	Cue 2212 2220	had said
+T51	Content 2222 2274	''I think our country does plenty of killing also.''
+T52	Attribution 2212 2220	had said
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 2276 2330	Mitt Romney, the 2012 Republican presidential nominee,
+T54	Cue 2331 2351	tweeted in response:
+T55	Content 2352 2475	''Important distinction: thug Putin kills journalists and opponents; our presidents kill terrorists and enemy combatants.''
+T56	Attribution 2331 2351	tweeted in response:
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 2508 2517	Mr. Trump
+T58	Cue 2518 2522	said
+T59	Content 2523 2578	there was no direct evidence of Mr. Putin's involvement
+T60	Attribution 2518 2522	said
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Content 2580 2636;2653 2803	''If he has killed reporters, I think that's terrible,'' ''But this isn't like somebody that's stood with a gun and he's, you know, taken the blame or he's admitted that he's killed. He's always denied it.''
+T62	Source 2637 2646	Mr. Trump
+T63	Cue 2647 2651	said
+T64	Attribution 2647 2651	said
+E16	Attribution:T64 Cue:T63 Source:T62 Content:T61
+T65	Source 2829 2851	Senator Bernie Sanders
+T66	Cue 2852 2862	questioned
+T67	Content 2863 2883	Mr. Trump's veracity
+T68	Attribution 2852 2862	questioned
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 2885 2887	He
+T70	Cue 2888 2894	called
+T71	Content 2895 3031	him a ''pathological liar'' for continuing to insist the debunked accounts of thousands of Muslims celebrating in New Jersey on Sept. 11
+T72	Attribution 2888 2894	called
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Content 3034 3071	Why does Mr. Trump remain so popular?
+T74	Cue 3084 3093	was asked
+T75	Attribution-no-source 3084 3093	was asked
+E19	Attribution-no-source:T75 Cue:T74 Content:T73
+T76	Content 3096 3203;3223 3292	''What somebody like a Donald Trump is doing is playing on the fears and anxieties of the American people,' ''And people are afraid. They're afraid of terrorism, rightfully so.'
+T77	Source 3205 3216	Mr. Sanders
+T78	Cue 3217 3221	said
+T79	Attribution 3217 3221	said
+E20	Attribution:T79 Cue:T78 Source:T77 Content:T76

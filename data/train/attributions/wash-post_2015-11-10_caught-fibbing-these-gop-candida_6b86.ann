@@ -1,0 +1,179 @@
+T1	Content 133 143;178 310	"Word is," "that Ford Motor, because of my constant badgering at packed events, is going to cancel their deal to go to Mexico and stay in U.S."
+T2	Source 144 149	Trump
+T3	Cue 150 154	said
+T4	Attribution 150 154	said
+E1	Attribution:T4 Cue:T3 Source:T2 Content:T1
+T5	Content 324 472	"Watch a fully formed fetus on the table, its heart beating, its legs kicking while someone says, 'We have to keep it alive to harvest its brain,' "
+T6	Cue 473 477	said
+T7	Source 478 513	former tech executive Carly Fiorina
+T8	Attribution 473 477	said
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Cue 544 554	suggesting
+T10	Content 555 585	that she had seen such a video
+T11	Attribution 544 554	suggesting
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T7
+T12	Content 601 660	"I'm not going to say it is a mistake, so forget about it,"
+T13	Cue 661 665	said
+T14	Source 666 697	retired neurosurgeon Ben Carson
+T15	Attribution 661 665	said
+E4	Attribution:T15 Source:T14 Cue:T13 Content:T12
+T16	Cue 699 710	asked about
+T17	Content 711 778	his claims that he had received a scholarship offer from West Point
+T18	Attribution-no-source 699 710	asked about
+E5	Attribution-no-source:T18 Content:T17 Cue:T16
+T19	Content 920 935;947 985	the race itself to take on elements of his personality
+T20	Cue 936 946	has seemed
+T21	Attribution-no-source 936 946	has seemed
+E6	Attribution-no-source:T21 Cue:T20 Content:T19
+T22	Source 1400 1404	they
+T23	Cue 1405 1412	uttered
+T24	Content 1413 1467	statements that turned out to be exaggerated or untrue
+T25	Attribution 1405 1412	uttered
+E7	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 1486 1490	they
+T27	Cue 1534 1545	criticizing
+T28	Content 1546 1563	the fact-checkers
+T29	Attribution 1534 1545	criticizing
+E8	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Cue 1568 1576	refusing
+T31	Content 1577 1617	to acknowledge that any facts were wrong
+T32	Attribution 1568 1576	refusing
+E9	Attribution:T32 Content:T31 Cue:T30 Source:T26
+T33	Source 1729 1740	Ford itself
+T34	Cue 1741 1745	said
+T35	Content 1746 1761	the deal was on
+T36	Attribution 1741 1745	said
+E10	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 1820 1826;1896 1932	"Meh," "What does Ford know about it . . ."
+T38	Cue 1827 1832	wrote
+T39	Source 1833 1894	a Trump supporter who runs the Twitter account @WomenForTrump
+T40	Attribution 1827 1832	wrote
+E11	Attribution:T40 Source:T39 Cue:T38 Content:T37
+T41	Source 1999 2015	the electorate's
+T42	Cue 2016 2032	lack of faith in
+T43	Content 2033 2044	politicians
+T44	Attribution 2016 2032	lack of faith in
+E12	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Cue 2046 2048	In
+T46	Source 2049 2090	a September Washington Post-ABC News poll
+T47	Content 2092 2165	75 percent of Republicans said "most people in politics" can't be trusted
+T48	Attribution 2046 2048	In
+E13	Attribution:T48 Content:T47 Source:T46 Cue:T45
+T49	Content 2264 2342;2491 2674	"He talks off the cuff all the time - is he going to remember everything? No," ". . . I just want somebody who speaks like we do, says what's on your mind - right or wrong, it is what it is. That's why everybody can relate to him. That's why he's doing so well."
+T50	Cue 2343 2347	said
+T51	Source 2348 2490	David Magel, 53, who lives in the Chicago suburbs and flew with his 14-year-old son in his Cessna to a Trump rally Monday in Springfield, Ill.
+T52	Attribution 2343 2347	said
+E14	Attribution:T52 Source:T51 Cue:T50 Content:T49
+T53	Cue 2921 2930	by saying
+T54	Content 2931 2991	it was the questioner, not the candidate, who had been wrong
+T55	Source 2859 2869	candidates
+T56	Attribution 2921 2930	by saying
+E15	Attribution:T56 Source:T55 Content:T54 Cue:T53
+T57	Content 2994 3033	"I never said that. I never said that,"
+T58	Source 3034 3039	Trump
+T59	Cue 3040 3044	said
+T60	Attribution 3040 3044	said
+E16	Attribution:T60 Cue:T59 Source:T58 Content:T57
+T61	Source 3052 3070	CNBC's Becky Quick
+T62	Cue 3071 3075	said
+T63	Content 3076 3217	the billionaire front-runner had derisively referred to Sen. Marco Rubio (R-Fla.) as the "personal senator" of Facebook mogul Mark Zuckerberg
+T64	Attribution 3071 3075	said
+E17	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Content 3220 3246	"My apologies, I'm sorry,"
+T66	Source 3247 3252	Quick
+T67	Cue 3253 3257	said
+T68	Attribution 3253 3257	said
+E18	Attribution:T68 Cue:T67 Source:T66 Content:T65
+T69	Source 3457 3488	CNBC moderator Carl Quintanilla
+T70	Cue 3489 3494	asked
+T71	Content 3508 3577	his relationship with a nutritional-supplement-maker called Mannatech
+T72	Attribution 3489 3494	asked
+E19	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Source 3579 3609	The company and its co-founder
+T74	Cue 3618 3627	agreed to
+T75	Content 3628 3683	a $7 million settlement with the Texas attorney general
+T76	Attribution 3618 3627	agreed to
+E20	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Source 3791 3793	It
+T78	Cue 3794 3807	did not admit
+T79	Content 3808 3818	wrongdoing
+T80	Attribution 3794 3807	did not admit
+E21	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Content 3821 3888	"I didn't have an involvement with them. That is total propaganda,"
+T82	Source 3889 3895	Carson
+T83	Cue 3896 3903	replied
+T84	Attribution 3896 3903	replied
+E22	Attribution:T84 Cue:T83 Source:T82 Content:T81
+T85	Cue 3918 3924	seemed
+T86	Content 3906 3917;3925 4007	Quintanilla taken aback and mentioned that Carson's picture had been on the company's Web site
+T87	Attribution-no-source 3918 3924	seemed
+E23	Attribution-no-source:T87 Content:T86 Cue:T85
+T88	Source 4102 4115	Quintanilla's
+T89	Cue 4116 4124	question
+T90	Content 4009 4078	"Does that not speak to your vetting process or judgment in any way?"
+T91	Attribution 4116 4124	question
+E24	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Source 4202 4204	he
+T93	Cue 4205 4228	gave testimonials about
+T94	Content 4229 4258	its products in unpaid videos
+T95	Attribution 4205 4228	gave testimonials about
+E25	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Cue 4349 4359	dismissing
+T97	Content 4360 4412	the idea that he had a relationship with the company
+T98	Source 4298 4304	Carson
+T99	Attribution 4349 4359	dismissing
+E26	Attribution:T99 Source:T98 Content:T97 Cue:T96
+T100	Source 4437 4446	Fiorina's
+T101	Cue 4447 4462	statement about
+T102	Content 4463 4500	seeing an abortion performed on video
+T103	Attribution 4447 4462	statement about
+E27	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Source 4548 4588	none of the videos she was talking about
+T105	Cue 4635 4641	showed
+T106	Content 4642 4665	the scene she described
+T107	Attribution 4635 4641	showed
+E28	Attribution:T107 Content:T106 Cue:T105 Source:T104
+T108	Content 4806 4911;4963 4990	"George Stephanopoulos told me I was mistaken, that the tape doesn't exist, that the images aren't real," "Well, yes, they are real."
+T109	Source 4912 4919	Fiorina
+T110	Cue 4920 4924	told
+T111	Attribution 4920 4924	told
+E29	Attribution:T111 Cue:T110 Source:T109 Content:T108
+T112	Source 5179 5264	Front-runner Hillary Rodham Clinton's top challenger, Sen. Bernie Sanders of Vermont,
+T113	Cue 5265 5322	effectively shut down such questions for her by rejecting
+T114	Content 5323 5407	an inquiry about her use of a private e-mail server while she was secretary of state
+T115	Attribution 5265 5322	effectively shut down such questions for her by rejecting
+E30	Attribution:T115 Content:T114 Cue:T113 Source:T112
+T116	Source 5479 5488	questions
+T117	Cue 5489 5494	about
+T118	Content 5495 5554	the most dramatic details of his up-from-poverty life story
+T119	Attribution 5489 5494	about
+E31	Attribution:T119 Content:T118 Cue:T117 Source:T116
+T120	Cue 5668 5679	asked about
+T121	Content 5680 5720	his own contradictions or factual errors
+T122	Attribution-no-source 5668 5679	asked about
+E32	Attribution-no-source:T122 Content:T121 Cue:T120
+T123	Content 5831 5913	"We made a terrible mistake getting involved [in Afghanistan] in the first place,"
+T124	Source 5914 5916	he
+T125	Cue 5917 5921	told
+T126	Attribution 5917 5921	told
+E33	Attribution:T126 Cue:T125 Source:T124 Content:T123
+T127	Content 5984 6043;6065 6125	"I've never said we made a mistake going into Afghanistan." "I never said that. Okay? Wouldn't matter, I never said it,"
+T128	Source 6126 6131	Trump
+T129	Cue 6132 6136	said
+T130	Attribution 6132 6136	said
+E34	Attribution:T130 Cue:T129 Source:T128 Content:T127
+T131	Cue 6206 6211	cites
+T132	Content 6212 6233	the crowds themselves
+T133	Source 6155 6160	Trump
+T134	Attribution 6206 6211	cites
+E35	Attribution:T134 Source:T133 Content:T132 Cue:T131
+T135	Source 6249 6251	He
+T136	Cue 6252 6256	says
+T137	Content 6257 6318	news outlets undercount his supporters, just to undermine him
+T138	Attribution 6252 6256	says
+E36	Attribution:T138 Content:T137 Cue:T136 Source:T135
+T139	Content 6414 6518;6549 6636	"They search for something he might have said 30 years ago and treat it like, 'Oh, this is important,' " "But you have Hillary and Obama lying their [expletive] off right now and no big deal."
+T140	Source 6519 6524	Magel
+T141	Cue 6525 6529	said
+T142	Attribution 6525 6529	said
+E37	Attribution:T142 Cue:T141 Source:T140 Content:T139

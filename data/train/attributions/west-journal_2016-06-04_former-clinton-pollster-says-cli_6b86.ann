@@ -1,0 +1,40 @@
+T1	Source 0 23	Former Clinton Pollster
+T2	Cue 24 28	Says
+T3	Content 29 74	Clinton Is In Trouble In California Primaries
+T4	Attribution 24 28	Says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 164 170	Schoen
+T6	Cue 171 180	described
+T7	Content 181 299	the dire situation Hillary Clinton is facing in Tuesday’s California primary against her opponent, Sen. Bernie Sanders
+T8	Attribution 171 180	described
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 506 512	Schoen
+T10	Cue 513 517	told
+T11	Content 536 576	a Clinton loss is “increasingly likely.”
+T12	Attribution 513 517	told
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 578 597	The former pollster
+T14	Cue 598 602	said
+T15	Content 604 890	“She’s behind Donald Trump in a number of polls, we’ve got the Justice Department likely to render a judgment that finds some culpability somewhere, don’t you think, Sean, that the Democratic Party will say ‘Why do we need this? Why do we need to risk a defeat with Secretary Clinton?’”
+T16	Attribution 598 602	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 892 898	Schoen
+T18	Cue 899 907	contends
+T19	Content 908 1004	the Democratic Party’s superdelegates may switch sides and nominate Sanders to run against Trump
+T20	Attribution 899 907	contends
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1007 1013	Schoen
+T22	Cue 1014 1046	elaborated in an editorial piece
+T23	Content 1075 1188;1191 1507	that superdelegates currently pledged to Clinton, even those who did so before the campaign began, may reconsider “A Sanders win in California would powerfully underscore Mrs. Clinton’s weakness as a candidate in the general election…Democratic superdelegates– chosen by the party establishment and overwhelmingly backing Mrs. Clinton, 543-44 — would seriously question whether they should continue to stand behind her candidacy.”
+T24	Attribution 1014 1046	elaborated in an editorial piece
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1509 1521	The pollster
+T26	Cue 1522 1539	even hypothesized
+T27	Content 1540 1600	Clinton could easily be replaced by Vice President Joe Biden
+T28	Attribution 1522 1539	even hypothesized
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1602 1981	“[W]ith her poll numbers dropping, her legal headaches increasing, the Sanders candidacy showing renewed vigor, and Donald Trump looming as a wrecking ball for the president’s legacy, Mr. Obama and adviser Valerie Jarrett might begin sending signals to the Democratic National Committee and to the vice president that a Biden rescue operation wouldn’t displease the White House,”
+T30	Source 1982 1988	Schoen
+T31	Cue 1989 1993	said
+T32	Attribution 1989 1993	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29

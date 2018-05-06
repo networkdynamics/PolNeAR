@@ -1,0 +1,98 @@
+T1	Source 0 9	De Blasio
+T2	Cue 10 14	says
+T3	Content 15 58	Chelsea explosion was an 'intentional act.'
+T4	Attribution 10 14	says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 144 161;196 217	an explosion that “an intentional act.”
+T6	Source 162 182	Mayor Bill de Blasio
+T7	Cue 183 195	described as
+T8	Attribution 183 195	described as
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Source 253 262	the mayor
+T10	Cue 263 272	also said
+T11	Content 273 410	that it was too early to tell whether the explosion was caused by a bomb, and there was “no evidence" yet that it was an act of terrorism
+T12	Attribution 263 272	also said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 450 459	the mayor
+T14	Cue 460 464	said
+T15	Content 413 449	"We do not see a link to terrorism,"
+T16	Attribution 460 464	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 466 472	adding
+T18	Content 473 526	that it would take "more hours” before details emerge
+T19	Attribution 466 472	adding
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T13
+T20	Source 529 538	De Blasio
+T21	Cue 539 543	said
+T22	Content 544 729	that there did not appear to be any connection to explosions that went off in New Jersey today near the start of a charity run dedicated to helping families of law enforcement officials
+T23	Attribution 539 543	said
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 731 740	The mayor
+T25	Cue 741 750	also said
+T26	Content 751 812	there had been no specific, credible threats against the city
+T27	Attribution 741 750	also said
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 889 901	according to
+T29	Source 902 933	NYPD Commissioner James O’Neill
+T30	Content 815 887	The explosion went off around 8:30 p.m. in front of 131 West 23rd Street
+T31	Attribution 889 901	according to
+E8	Attribution:T31 Content:T30 Source:T29 Cue:T28
+T32	Cue 996 1000	said
+T33	Source 1001 1008	O'Neill
+T34	Content 936 995	“The exact cause of the explosion has not been determined,”
+T35	Attribution 996 1000	said
+E9	Attribution:T35 Content:T34 Source:T33 Cue:T32
+T36	Source 1110 1117	O'Neill
+T37	Cue 1118 1122	said
+T38	Content 1123 1184	officials are in possession of video that shows the explosion
+T39	Attribution 1118 1122	said
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1186 1191	Asked
+T41	Content 1192 1240	to describe the device that caused the explosion
+T42	Attribution-no-source 1186 1191	Asked
+E11	Attribution-no-source:T42 Content:T41 Cue:T40
+T43	Source 1242 1249	O'Neill
+T44	Cue 1250 1254	said
+T45	Content 1256 1284	"Not going to go into that."
+T46	Attribution 1250 1254	said
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1286 1302	Police officials
+T48	Cue 1303 1307	said
+T49	Content 1308 1401	a second device was also found in Chelsea and that location is being treated as a crime scene
+T50	Attribution 1303 1307	said
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Cue 1414 1432	initial reports of
+T52	Content 1433 1446	the explosion
+T53	Attribution-no-source 1414 1432	initial reports of
+E14	Attribution-no-source:T53 Content:T52 Cue:T51
+T54	Source 1511 1555	Republican presidential nominee Donald Trump
+T55	Cue 1556 1560	said
+T56	Content 1593 1631	that "a bomb" had gone off in New York
+T57	Attribution 1556 1560	said
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 1759 1761	he
+T59	Cue 1762 1766	said
+T60	Content 1634 1758	“I must tell you that just before I got off the plane a bomb went off in New York and nobody knows exactly what’s going on,”
+T61	Attribution 1762 1766	said
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 1769 1803	Democratic nominee Hillary Clinton
+T63	Cue 1830 1834	said
+T64	Content 1836 2300	“I’ve been briefed about the bombings in New York and New Jersey and the attack in Minnesota. Obviously we need to do everything we can to support our first responders. Also to pray for the victims. We have to let this investigation unfold. We’ve been in touch with various officials including the mayor’s office in New York to learn what they are discovering as they conduct this investigation and I’ll have more to say about it when we actually know some facts.”
+T65	Attribution 1830 1834	said
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Discard 2751 2797	--additional reporting from Darren Samuelsohn.
+T67	Cue 2302 2313	Asked about
+T68	Content 2314 2357	Trump's declaration that it had been a bomb
+T69	Attribution-no-source 2302 2313	Asked about
+E18	Attribution-no-source:T69 Content:T68 Cue:T67
+T70	Source 2359 2366	Clinton
+T71	Cue 2367 2371	said
+T72	Content 2373 2749	“I think it’s important to know the facts about any incident like this. That’s why it’s critical to support the first responders, the investigators who are looking into it trying to determine what did happen. I think it’s also wiser to wait until you have information before making conclusions because we are just in the beginning stages of trying to determine what happened.”
+T73	Attribution 2367 2371	said
+E19	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Source 1459 1473	city officials
+T75	Cue 1474 1493	had weighed in with
+T76	Content 1494 1509	any explanation
+T77	Attribution 1474 1493	had weighed in with
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Discuss 1459 1509	city officials had weighed in with any explanation

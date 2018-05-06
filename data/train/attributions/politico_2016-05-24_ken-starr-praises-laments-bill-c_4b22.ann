@@ -1,0 +1,69 @@
+T1	Source 0 9	Ken Starr
+T2	Cue 10 26	praises, laments
+T3	Content 27 48	Bill Clinton's legacy
+T4	Attribution 10 26	praises, laments
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 51 153	Kenneth Starr, the Whitewater independent counsel who vigorously pursued Bill Clinton across the 1990s
+T6	Cue 155 170	spoke highly of
+T7	Content 171 213	the former president's personal attributes
+T8	Attribution 155 170	spoke highly of
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 494 499	Starr
+T10	Cue 500 557	said during a panel discussion on the American presidency
+T11	Content 361 493	"President Clinton was and perhaps still is the most gifted politician of the baby boomer generation. He just has remarkable gifts,"
+T12	Attribution 500 557	said during a panel discussion on the American presidency
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 630 632	he
+T14	Cue 633 641	compared
+T15	Content 642 733	the 42nd president to predecessors Lyndon B. Johnson and Jimmy Carter in different respects
+T16	Attribution 633 641	compared
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 771 789	The New York Times
+T18	Cue 753 767	first reported
+T19	Content 736 751;802 904	Starr's remarks suggested a tinge of regret about the role his investigations played in coloring Bill Clinton's legacy
+T20	Attribution 753 767	first reported
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1143 1153	The school
+T22	Cue 1154 1184	declined to comment Tuesday on
+T23	Content 1185 1241	reports that Starr had been terminated from his position
+T24	Attribution 1154 1184	declined to comment Tuesday on
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1477 1482	Trump
+T26	Cue 1483 1496	brought up as
+T27	Content 1468 1476;1497 1509	incident "very fishy"
+T28	Attribution 1483 1496	brought up as
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1733 1738	Trump
+T30	Cue 1740 1771	who has hit Hillary Clinton for
+T31	Content 1772 1803	enabling her husband's behavior
+T32	Attribution 1740 1771	who has hit Hillary Clinton for
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Discuss 1740 1771	who has hit Hillary Clinton for
+T34	Cue 2005 2019	Remarking upon
+T35	Content 2020 2048	Clinton's "genuine empathy,"
+T36	Source 2049 2054	Starr
+T37	Attribution 2005 2019	Remarking upon
+E9	Attribution:T37 Source:T36 Content:T35 Cue:T34
+T38	Cue 2055 2059	said
+T39	Content 2061 2152	"Leave aside the unpleasantness, his genuine empathy for human beings is absolutely clear."
+T40	Attribution 2055 2059	said
+E10	Attribution:T40 Cue:T38 Source:T36 Content:T39
+T41	Source 2273 2278	Starr
+T42	Cue 2279 2283	said
+T43	Content 2154 2272;2285 2332	"It is powerful. It is palpable. And the folks of Arkansas really understood that about him, that he genuinely cared," "The ‘I feel your pain’ is absolutely genuine."
+T44	Attribution 2279 2283	said
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 2334 2339	Starr
+T46	Cue 2340 2344	said
+T47	Content 2345 2433	Clinton's situation reminds him of the 1969 book titled "The Tragedy of Lyndon Johnson,"
+T48	Attribution 2340 2344	said
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Cue 2434 2444	explaining
+T50	Content 2446 2547	"because what could have been and so there are certain tragic dimensions of it, which we all lament."
+T51	Attribution 2434 2444	explaining
+E13	Attribution:T51 Cue:T49 Content:T50 Source:T45
+T52	Source 2738 2743	Starr
+T53	Cue 2744 2748	said
+T54	Content 2549 2737;2750 2854	"Now, that having been said, I think this idea of this redemptive process afterwards, we have certainly seen that powerfully I think both with President Carter and then President Clinton," "President Carter I think set a very high standard which President Clinton clearly continues to follow."
+T55	Attribution 2744 2748	said
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52

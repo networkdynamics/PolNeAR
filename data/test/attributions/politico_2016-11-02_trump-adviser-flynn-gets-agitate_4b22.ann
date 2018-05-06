@@ -1,0 +1,71 @@
+T1	Source 0 19	Trump adviser Flynn
+T2	Cue 20 38	gets agitated over
+T3	Content 39 62	Putin and KKK questions
+T4	Attribution 20 38	gets agitated over
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 198 220	direct questions about
+T6	Content 221 290	whether Trump's campaign boosts Vladimir Putin and white supremacists
+T7	Attribution-no-source 198 220	direct questions about
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Source 373 375	he
+T9	Cue 376 381	asked
+T10	Content 293 372;492 607	“How many times does Donald Trump have to say he's debunked that organization?” “Why do you bring this up? That demeans your — you, you're a good journalist. By even raising that issue, after...”
+T11	Attribution 376 381	asked
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 383 395	referring to
+T13	Content 396 412	the Ku Klux Klan
+T14	Attribution 383 395	referring to
+E4	Attribution:T14 Content:T13 Cue:T12 Source:T8
+T15	Source 632 637	Ruhle
+T16	Cue 638 652	managed to ask
+T17	Content 653 741	whether the “nationalist views” and the “tone set” by some Trump supporters is dangerous
+T18	Attribution 638 652	managed to ask
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 945 950	Flynn
+T20	Cue 951 955	said
+T21	Content 744 944	“I don't know why you're wasting your time. Here's what I know. What I know is that the American people are very smart, and the American people are very sick of the establishment in Washington, D.C.,”
+T22	Attribution 951 955	said
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 1282 1285	she
+T24	Cue 1286 1290	said
+T25	Content 1176 1281;1293 1573	“It seems so unusual to have so many people on one campaign tied to a very dangerous foreign government,” “Well — you know — I would tell you the first couple of names you mentioned, they're not tied to this campaign anymore. And, you know, what we really ought to be talking about is the fact that the FBI just reopened a major national security investigation against Hillary Clinton.”
+T26	Attribution 1286 1290	said
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 1624 1650	FBI Director James Comey's
+T28	Cue 1651 1670	Friday announcement
+T29	Content 1671 1712	that the agency is reviewing new evidence
+T30	Attribution 1651 1670	Friday announcement
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 2001 2006	Ruhle
+T32	Cue 2007 2012	asked
+T33	Content 2013 2036	Flynn to describe Putin
+T34	Attribution 2007 2012	asked
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 2061 2063	He
+T36	Cue 2083 2097	instead argued
+T37	Content 2098 2235	that the current administration made a deal with Russia “to give the leading state sponsor of terrorism, meaning Iran, a nuclear weapon.”
+T38	Attribution 2083 2097	instead argued
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Cue 2248 2257	was asked
+T40	Content 2258 2283	whether he respects Putin
+T41	Attribution-no-source 2248 2257	was asked
+E11	Attribution-no-source:T41 Content:T40 Cue:T39
+T42	Source 2285 2287	he
+T43	Cue 2288 2292	said
+T44	Content 2294 2336	“I mean, stop it with that kind of stuff.”
+T45	Attribution 2288 2292	said
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 1872 1894	The Republican nominee
+T47	Cue 1895 1906	has offered
+T48	Content 1907 1938	complimentary words about Putin
+T49	Attribution 1895 1906	has offered
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Cue 1944 1954	has denied
+T51	Content 1955 1998	he has any formal connection to the Kremlin
+T52	Attribution 1944 1954	has denied
+E14	Attribution:T52 Content:T51 Cue:T50 Source:T46
+T53	Source 984 989	Ruhle
+T54	Cue 1022 1028	citing
+T55	Content 1029 1101;1120 1174	reports that former Trump campaign manager Paul Manafort and Carter Page have been investigated for alleged ties to the Kremlin
+T56	Attribution 1022 1028	citing
+E15	Attribution:T56 Content:T55 Cue:T54 Source:T53

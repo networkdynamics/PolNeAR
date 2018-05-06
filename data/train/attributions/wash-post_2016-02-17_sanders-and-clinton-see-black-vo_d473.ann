@@ -1,0 +1,172 @@
+T1	Source 0 19	Sanders and Clinton
+T2	Cue 20 23	see
+T3	Content 24 50	black votes as key in S.C.
+T4	Attribution 20 23	see
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discuss 0 50	Sanders and Clinton see black votes as key in S.C.
+T6	Source 415 418	who
+T7	Cue 419 432	remember well
+T8	Content 433 458	the civil rights struggle
+T9	Attribution 419 432	remember well
+E2	Attribution:T9 Content:T8 Cue:T7 Source:T6
+T10	Content 461 529;671 699;709 772	"I am calling from the Hillary Clinton campaign. How are you today?" "Well, thank you so much -." "Well, you do that! Hillary will appreciate it, and so will I."
+T11	Source 530 576	Miller, a retired worker from a nuclear plant,
+T12	Cue 577 607	said pleasantly into the phone
+T13	Attribution 577 607	said pleasantly into the phone
+E3	Attribution:T13 Cue:T12 Source:T11 Content:T10
+T14	Discuss 862 1082	Across town, "shouting from the rooftops" for the Bernie Sanders campaign, is Wayne Borders, a 33-year-old African American and "child of the '80s" who left his restaurant job in November to become a full-time canvasser.
+T15	Content 1226 1424;1434 1506	"I'm knocking on doors all over town, informing people about a man who's been an advocate for working people, for the disenfranchised, who helped Jesse Jackson win the state of Vermont in the '80s," "He's not just spouting words. He'll do the work that needs to be done."
+T16	Source 1425 1427	he
+T17	Cue 1428 1432	said
+T18	Attribution 1428 1432	said
+E4	Attribution:T18 Cue:T17 Source:T16 Content:T15
+T19	Source 1600 1621	many of those over 45
+T20	Cue 1622 1632	supporting
+T21	Content 1633 1640	Clinton
+T22	Attribution 1622 1632	supporting
+E5	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 1645 1656	those under
+T24	Cue 1657 1669	more open to
+T25	Content 1670 1677	Sanders
+T26	Attribution 1657 1669	more open to
+E6	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Cue 1803 1815	are expected
+T28	Content 1799 1802;1816 1873	who to make up at least half of the South Carolina electorate
+T29	Attribution-no-source 1803 1815	are expected
+E7	Attribution-no-source:T29 Content:T28 Cue:T27
+T30	Source 1878 1881	who
+T31	Cue 1882 1921	maintain a large degree of fondness for
+T32	Content 1922 1934	the Clintons
+T33	Attribution 1882 1921	maintain a large degree of fondness for
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 2049 2052	who
+T35	Cue 2053 2065	are drawn to
+T36	Content 2066 2097	his message of economic justice
+T37	Attribution 2053 2065	are drawn to
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Cue 2102 2106	feel
+T39	Content 2107 2224	that many of the crime policies that began under President Bill Clinton have done long-term harm to their communities
+T40	Attribution 2102 2106	feel
+E10	Attribution:T40 Cue:T38 Source:T34 Content:T39
+T41	Content 2764 2795	"It's according to age groups,"
+T42	Cue 2796 2800	said
+T43	Source 2801 2903	Mattie Thomas, 66, a retired fast-food worker who lives in Lake City, about 25 miles south of Florence
+T44	Attribution 2796 2800	said
+E11	Attribution:T44 Source:T43 Cue:T42 Content:T41
+T45	Discuss 2764 2904	"It's according to age groups," said Mattie Thomas, 66, a retired fast-food worker who lives in Lake City, about 25 miles south of Florence.
+T46	Source 2905 2908	She
+T47	Cue 2921 2930	supporter
+T48	Content 2913 2920	Sanders
+T49	Attribution 2921 2930	supporter
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Cue 2935 2943	concedes
+T51	Content 2944 3025	that most of her peers love the Clintons from Bill's two terms in the Oval Office
+T52	Attribution 2935 2943	concedes
+E13	Attribution:T52 Cue:T50 Source:T46 Content:T51
+T53	Content 3028 3113	"They have a perception of the Clintons, and you're not going to change their minds,"
+T54	Source 3114 3117	she
+T55	Cue 3118 3122	said
+T56	Attribution 3118 3122	said
+E14	Attribution:T56 Cue:T55 Source:T54 Content:T53
+T57	Content 3321 3369;3437 3518	"The key demographic is African American women," "Clinton has to maintain her support. Sanders has to do the 'Carolina two-step' "
+T58	Cue 3370 3374	said
+T59	Source 3375 3435	Jaime Harrison, chair of the South Carolina Democratic Party
+T60	Attribution 3370 3374	said
+E15	Attribution:T60 Source:T59 Cue:T58 Content:T57
+T61	Source 3597 3612	Both candidates
+T62	Cue 3613 3619	sought
+T63	Content 3620 3658	to appeal to younger African Americans
+T64	Attribution 3613 3619	sought
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 3756 3763	Clinton
+T66	Cue 3764 3772	proposed
+T67	Content 3773 3922	new federal regulations that would end what she said were overly punitive school discipline policies that disproportionately affect minority students
+T68	Attribution 3764 3772	proposed
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 3945 3952	Clinton
+T70	Cue 3974 3986	also accused
+T71	Content 3987 4049	Sanders of being a Johnny-come-lately to racial justice issues
+T72	Attribution 3974 3986	also accused
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Content 4052 4143;4174 4265	"You can't just show up at election time and say the right things and think that's enough," "You can't start building relationships a few weeks before a vote and think that's enough."
+T74	Source 4144 4147	she
+T75	Cue 4148 4152	said
+T76	Attribution 4148 4152	said
+E19	Attribution:T76 Cue:T75 Source:T74 Content:T73
+T77	Source 4307 4314	Sanders
+T78	Cue 4315 4341	stepped up his emphasis on
+T79	Content 4342 4365	criminal justice issues
+T80	Attribution 4315 4341	stepped up his emphasis on
+E20	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Cue 4367 4373	saying
+T82	Content 4375 4525	"We have got to achieve the day when young black males and women can walk the streets without being worried about being harassed by a police officer."
+T83	Attribution 4367 4373	saying
+E21	Attribution:T83 Cue:T81 Source:T77 Content:T82
+T84	Cue 5142 5154	are expected
+T85	Content 5155 5207	to be increasingly visible as the primary approaches
+T86	Attribution-no-source 5142 5154	are expected
+E22	Attribution-no-source:T86 Content:T85 Cue:T84
+T87	Content 5422 5573	The campaign is paying "dozens" of canvassers $15 an hour to go door to door, primarily in the African American community, to pitch Sanders's candidacy
+T88	Cue 5575 5587	according to
+T89	Source 5588 5616	campaign manager Jeff Weaver
+T90	Attribution 5575 5587	according to
+E23	Attribution:T90 Source:T89 Cue:T88 Content:T87
+T91	Content 5619 5711	"Our outreach program in South Carolina is sort of a neighbor-to-neighbor outreach program,"
+T92	Source 5712 5718	Weaver
+T93	Cue 5719 5723	said
+T94	Attribution 5719 5723	said
+E24	Attribution:T94 Cue:T93 Source:T92 Content:T91
+T95	Cue 5796 5838	is on television with spots that highlight
+T96	Content 5839 5869	his commitment to civil rights
+T97	Source 5726 5733	Sanders
+T98	Attribution 5796 5838	is on television with spots that highlight
+E25	Attribution:T98 Source:T97 Content:T96 Cue:T95
+T99	Source 5879 5889	a narrator
+T100	Cue 5890 5897	reminds
+T101	Content 5906 5984	that Sanders participated in the 1963 March on Washington as a college student
+T102	Attribution 5890 5897	reminds
+E26	Attribution:T102 Content:T101 Cue:T100 Source:T99
+T103	Cue 5989 5993	says
+T104	Content 5994 6082	he wants to end racial profiling, combat police misconduct and dismantle private prisons
+T105	Attribution 5989 5993	says
+E27	Attribution:T105 Cue:T103 Source:T99 Content:T104
+T106	Content 6085 6206;6353 6442	"A lot of these people are undecided, or they want to know why they shouldn't vote for the household name of 'Clinton,' " "But they're very receptive. The older voters are the ones who give me the hardest time."
+T107	Cue 6207 6211	said
+T108	Source 6212 6351	Bree Maxwell, a 31-year-old Sanders volunteer in Richland County who frequently goes to colleges for speaking events to pursue young voters
+T109	Attribution 6207 6211	said
+E28	Attribution:T109 Source:T108 Cue:T107 Content:T106
+T110	Content 6692 6770	"Time is always a challenge for us, but we're in good position to make a run,"
+T111	Source 6771 6773	he
+T112	Cue 6774 6778	said
+T113	Attribution 6774 6778	said
+E29	Attribution:T113 Cue:T112 Source:T111 Content:T110
+T114	Cue 6989 7001	endorsements
+T115	Source 7007 7143	the political arm of the Congressional Black Caucus and influential state politicians such as Todd Rutherford, the House minority leader
+T116	Content 6967 6974	Clinton
+T117	Attribution 6989 7001	endorsements
+E30	Attribution:T117 Content:T116 Source:T115 Cue:T114
+T118	Source 7360 7385	Her campaign workers here
+T119	Cue 7386 7390	said
+T120	Content 7391 7440	they have been working the state since the spring
+T121	Attribution 7386 7390	said
+E31	Attribution:T121 Content:T120 Cue:T119 Source:T118
+T122	Content 7442 7511;7579 7638	"We've had offices on the ground in South Carolina since last April," "and we've been forming long-term relationships that last."
+T123	Cue 7512 7516	said
+T124	Source 7517 7578	Stephanie Formas, Clinton's in-state communications director,
+T125	Attribution 7512 7516	said
+E32	Attribution:T125 Source:T124 Cue:T123 Content:T122
+T126	Content 7855 7926;7975 8120	"Bernie has a passionate, motivational speech that draws young people," "What I love about Hillary is her facts. Her reality. She's not selling you a white picket fence. She's selling you things that she can deliver."
+T127	Source 7927 7930	she
+T128	Cue 7931 7935	said
+T129	Attribution 7931 7935	said
+E33	Attribution:T129 Cue:T128 Source:T127 Content:T126
+T130	Source 8122 8141	Bamberg, who is 28,
+T131	Cue 8142 8146	said
+T132	Content 8147 8271	he decided to support Sanders after having a chance to talk with him during a Martin Luther King Jr. celebration in Columbia
+T133	Content 8274 8352;8362 8432	"Things are picking up, and Bernie's name is coming up in every conversation," "It's going to be a lot closer than people ever believed it could be."
+T134	Source 8353 8355	he
+T135	Cue 8356 8360	said
+T136	Attribution 8142 8146	said
+E34	Attribution:T136 Cue:T131 Source:T130 Content:T132
+T137	Attribution 8356 8360	said
+E35	Attribution:T137 Cue:T135 Source:T134 Content:T133

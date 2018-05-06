@@ -1,0 +1,62 @@
+T1	Source 0 5	Pence
+T2	Cue 5 6	:
+T3	Content 7 76	Gennifer Flowers Won’t Be at Debate, Trump Was ‘Mocking’ Clinton Camp
+T4	Attribution 5 6	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 129 188	Republican vice-presidential nominee Gov. Mike Pence (R-IN)
+T6	Cue 189 193	said
+T7	Content 194 376	his running mate presidential nominee Donald Trump’s tweet to invite Gennifer Flowers to Monday night’s debate was only “to mock” Hillary Clinton for inviting Trump critic Mark Cuban
+T8	Attribution 189 193	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 412 419	WALLACE
+T10	Cue 419 420	:
+T11	Content 421 853	Let’s start with breaking news on the debate story. After the Clinton camp announced that it was inviting billionaire and Trump critic Mark Cuban to sit in the front row at the debate, Trump invited Gennifer Flowers, who once had an affair with President Clinton, to also sit in the front row. And she has accepted that invitation.  Two questions: Why would Trump do that? And will Gennifer Flowers actually be there tomorrow night?
+T12	Attribution 419 420	:
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 856 861	PENCE
+T14	Cue 861 862	:
+T15	Content 863 1434	Well, look, Hillary Clinton apparently thinks this is an episode of “Shark Tank.” But this is America, Chris. It’s serious business. The American people have an enormously important choice to make. And Donald Trump’s tweet was really mocking the fact that Hillary Clinton was trying to distract attention away from this moment in our national life where the American people are going to see a strong contrast between the broad-shouldered leadership of Donald Trump, who’s prepared to rebuild our military, reduce taxes, repeal Obamacare, stand by our Constitution, and —.
+T16	Attribution 861 862	:
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Discuss 412 853	WALLACE: Let’s start with breaking news on the debate story. After the Clinton camp announced that it was inviting billionaire and Trump critic Mark Cuban to sit in the front row at the debate, Trump invited Gennifer Flowers, who once had an affair with President Clinton, to also sit in the front row. And she has accepted that invitation.  Two questions: Why would Trump do that? And will Gennifer Flowers actually be there tomorrow night?
+T18	Source 1452 1459	WALLACE
+T19	Cue 1459 1460	:
+T20	Content 1461 1558	If I may, sir, because we’ve got limited time. I want to ask you, will Gennifer Flowers be there?
+T21	Attribution 1459 1460	:
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Source 1561 1566	PENCE
+T23	Cue 1566 1567	:
+T24	Content 1568 2368	Gennifer Flowers will not be attending the debate tomorrow night. Donald Trump was using the tweet yesterday really to mock an effort by Hillary Clinton and her campaign to really distract attention from what the American people are going to be focused tomorrow night, which is on the issues, on the choice that we face. I mean, Hillary Clinton essentially wants to continue the policies of this administration that have weakened America’s place in the world, stifled America’s economy, walked away from our most cherished constitutional principles.  And I just — I can’t wait to see the debate tomorrow night because I just know that Donald Trump, who is a leader who literally embodies the American spirit, is going to be able to present that message and present that choice to the American people.
+T25	Attribution 1566 1567	:
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 2371 2378	WALLACE
+T27	Cue 2378 2379	:
+T28	Content 2380 2704	But, Governor Pence, I’ve got to ask you, because as “The Wall Street Journal” wrote, it shows people top concern about Donald Trump is, one, his temperament, and two, his language, especially towards women. So why would Trump even go down the road of bringing up Gennifer Flowers, who once had an affair with the president.
+T29	Attribution 2378 2379	:
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 2707 2712	PENCE
+T31	Cue 2712 2713	:
+T32	Content 2714 2940	Well, the question really should be why was Hillary Clinton and her campaign, you know, inviting some celebrity basketball team owner to the debate to sit on the front row, someone who has mocked and ridiculed my running mate.
+T33	Attribution 2712 2713	:
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 2943 2950	WALLACE
+T35	Cue 2950 2951	:
+T36	Content 2952 3070	Do you really see those two as equivalent? Do you really see those two as equivalent, Mark Cuban and Gennifer Flowers?
+T37	Attribution 2950 2951	:
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Source 3073 3078	PENCE
+T39	Cue 3078 3079	:
+T40	Content 3080 3273;3276 3665;3668 4044	Well, look, you know, Mark Cuban has been out there saying some pretty tough stuff about my running mate. Mark Cuban knows as much about national security as I do about professional basketball. But the truth is that Donald Trump has a unique way of communicating to the American people. And I think his tweet yesterday was all about demonstrating that here we have in Hillary Clinton and her campaign just a couple of days before a debate of enormous importance in the life of our nation — she was trying to distract attention, her campaign trying to play games with front row seats. Donald Trump’s not about that. He’s going to focus in this debate tomorrow night as he has throughout this election on the issues the American people care about. I think that’s why you see the momentum in this campaign. Here in Iowa last night before an enormous crowd here, I was in North Carolina earlier this week, in Williamsburg, Virginia, in the pouring rain with 650 —.
+T41	Attribution 3078 3079	:
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Source 4062 4069	WALLACE
+T43	Cue 4069 4070	:
+T44	Content 4071 4135	Governor, I don’t want to interrupt, but I want to try to get —.
+T45	Attribution 4069 4070	:
+E11	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 4138 4143	PENCE
+T47	Cue 4143 4144	:
+T48	Content 4145 4205	And that’s why Donald Trump is on his way to the White House
+T49	Attribution 4143 4144	:
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Discard 4208 4247	"Follow Pam Key on Twitter @pamkeyNEN."

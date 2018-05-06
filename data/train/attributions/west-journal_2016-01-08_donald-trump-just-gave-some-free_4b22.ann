@@ -1,0 +1,83 @@
+T1	Source 305 310	Trump
+T2	Cue 311 315	said
+T3	Content 239 304	“Be very conservative, because it could be very rough out there,”
+T4	Attribution 311 315	said
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 317 323	adding
+T6	Content 324 397	a plug for himself as president. “And who can fix things better than me?”
+T7	Attribution 317 323	adding
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T1
+T8	Source 399 404	Trump
+T9	Cue 405 417	talked about
+T10	Content 418 434	the stock market
+T11	Attribution 405 417	talked about
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 439 458	made comments about
+T13	Content 459 478	U.S. foreign policy
+T14	Attribution-no-source 439 458	made comments about
+E4	Attribution-no-source:T14 Content:T13 Cue:T12
+T15	Source 480 482	He
+T16	Cue 483 487	said
+T17	Content 488 530	stocks aren’t a great investment right now
+T18	Attribution 483 487	said
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 729 734	Trump
+T20	Cue 735 739	said
+T21	Content 533 728	“By the way, speaking of stock: You see the bubble, a little bubble. It’s starting to go a little bad. Some bad numbers coming out. Some really bad things. And you better be careful. Be careful,”
+T22	Attribution 735 739	said
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 905 914	Officials
+T24	Cue 915 919	said
+T25	Content 920 982	2016 has seen the worst four-day start in a new year on record
+T26	Attribution 915 919	said
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 985 990	Trump
+T28	Cue 991 1001	is touting
+T29	Content 1002 1019	a cautious stance
+T30	Attribution 991 1001	is touting
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Cue 1041 1048	stating
+T32	Content 1116 1170	that the Chinese economy was in a precarious situation
+T33	Attribution-no-source 1041 1048	stating
+E9	Attribution-no-source:T33 Content:T32 Cue:T31
+T34	Source 1250 1252	he
+T35	Cue 1253 1257	said
+T36	Content 1173 1249;1259 1296	“They’re sitting on a little bit of a bubble – it could be a lot of bubble,” “But we’re sitting on a bubble also.”
+T37	Attribution 1253 1257	said
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Discard 1298 1341	Do you support Donald Trump? Like the page:
+T39	Source 1343 1358	The businessman
+T40	Cue 1359 1363	said
+T41	Content 1364 1464	China is expecting a 6.5 percent growth rate, while the U.S. will likely see a 2 percent growth rate
+T42	Attribution 1359 1363	said
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1466 1471	Trump
+T44	Cue 1472 1476	said
+T45	Content 1477 1510	he’s not happy with those numbers
+T46	Attribution 1472 1476	said
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1655 1660	Trump
+T48	Cue 1661 1665	said
+T49	Content 1513 1654	“I’m not satisfied, but a lot of other people are satisfied. And we shouldn’t be satisfied with that number. We should be doing much better,”
+T50	Attribution 1661 1665	said
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 1668 1670	He
+T52	Cue 1671 1675	said
+T53	Content 1676 1783	the U.S. agreement with Iran over nuclear weapons isn’t good for the United States, but will make Iran rich
+T54	Attribution 1671 1675	said
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Source 1785 1787	He
+T56	Cue 1788 1792	told
+T57	Content 1800 1852	that if Iran were a stock, he would advise buying it
+T58	Attribution 1788 1792	told
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 132 144	Donald Trump
+T60	Cue 145 149	gave
+T61	Content 210 236	some free investing advice
+T62	Attribution 145 149	gave
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 0 12	Donald Trump
+T64	Cue 13 22	Just Gave
+T65	Content 23 52	Some Free Stock Market Advice
+T66	Attribution 13 22	Just Gave
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63

@@ -1,0 +1,34 @@
+T1	Cue 71 81	reportedly
+T2	Content 60 70;82 130	The FBI is making arrangements to interview Hillary Clinton
+T3	Attribution-no-source 71 81	reportedly
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Cue 252 260	reported
+T5	Source 264 282	Western Journalism
+T6	Content 284 377	investigators found over 2,200 emails from Clinton’s server containing classified information
+T7	Attribution 252 260	reported
+E2	Attribution:T7 Content:T6 Source:T5 Cue:T4
+T8	Source 504 507	CNN
+T9	Cue 508 525	reported Thursday
+T10	Content 526 603	that the FBI has recently interviewed key Clinton aides including Huma Abedin
+T11	Attribution 508 525	reported Thursday
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Content 619 658	former Clinton employee, Bryan Pagliano
+T13	Cue 718 738	was granted immunity
+T14	Attribution-no-source 718 738	was granted immunity
+E4	Attribution-no-source:T14 Cue:T13 Content:T12
+T15	Content 803 1031	“FBI officials overseeing the probe now expect to complete their work in the next few weeks and then turn over the findings to the Justice Department, which will make a final decision on whether to bring charges against anyone,”
+T16	Cue 1032 1044	according to
+T17	Source 1045 1048	CNN
+T18	Attribution 1032 1044	according to
+E5	Attribution:T18 Source:T17 Cue:T16 Content:T15
+T19	Discard 1051 1097	<tweet tweet-id="728338863698096129"><tweet/>.
+T20	Source 1405 1412	Clinton
+T21	Cue 1413 1437	stated earlier this week
+T22	Content 1438 1492	that she is willing to sit down with the investigators
+T23	Attribution 1413 1437	stated earlier this week
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1494 1525	Campaign spokesman Brian Fallon
+T25	Cue 1526 1530	told
+T26	Content 1541 1823	“From the start, Hillary Clinton has offered to answer any questions that would help the Justice Department complete its review, and we hope and expect that anyone else who is asked would do the same. We are confident the review will conclude that nothing inappropriate took place.”
+T27	Attribution 1526 1530	told
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24

@@ -1,0 +1,20 @@
+T1	Source 0 5	Trump
+T2	Cue 5 6	:
+T3	Content 7 62	Clinton should have congratulated me for making history
+T4	Attribution 5 6	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 65 77	Donald Trump
+T6	Cue 78 89	said Friday
+T7	Content 90 240	that it would "have been cool" had Hillary Clinton congratulated him for doing something in the presidential election that nobody has ever done before
+T8	Attribution 78 89	said Friday
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 243 319;388 573	“I was curious to see whether she’d do a class act and not mention my name,” “Or mention it with respect, like, say, ‘I’d like to congratulate my Republican opponent for having done something that nobody has ever done in the history of politics in this nation.’”
+T10	Source 320 342	the Republican nominee
+T11	Cue 343 386	said at a rally with supporters in Colorado
+T12	Attribution 343 386	said at a rally with supporters in Colorado
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Content 670 854	“See, I thought she might do something like that. I thought she'd give me a big fat beautiful congratulations. If she did that, would that have been cool? Would that have been great?,”
+T14	Source 855 860	Trump
+T15	Cue 861 865	said
+T16	Attribution 861 865	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13

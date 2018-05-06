@@ -1,0 +1,85 @@
+T1	Source 323 328	State
+T2	Cue 352 368	publicly posting
+T3	Content 369 379	the emails
+T4	Attribution 352 368	publicly posting
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 0 11	State Dept.
+T6	Cue 12 17	drops
+T7	Content 18 63	more Clinton emails recovered from her server
+T8	Source 66 86	The State Department
+T9	Cue 99 106	dropped
+T10	Content 107 214	more than 1,000 additional pages of Hillary Clinton’s emails that the FBI recovered from her private server
+T11	Attribution 12 17	drops
+E2	Attribution:T11 Cue:T6 Content:T7 Source:T5
+T12	Attribution 99 106	dropped
+E3	Attribution:T12 Content:T10 Cue:T9 Source:T8
+T13	Source 549 559	WikiLeaks’
+T14	Cue 560 574	daily drops of
+T15	Content 575 652	messages hacked from Clinton campaign chairman John Podesta’s private account
+T16	Attribution 560 574	daily drops of
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 728 740	announcement
+T18	Source 756 780	FBI Director James Comey
+T19	Content 781 856	that the agency is reviewing more evidence in its probe of Clinton’s server
+T20	Attribution 728 740	announcement
+E5	Attribution:T20 Content:T19 Source:T18 Cue:T17
+T21	Source 859 877	Clinton’s campaign
+T22	Cue 878 900	has sharply criticized
+T23	Content 901 972	Comey’s decision to publicize the move just 11 days before the election
+T24	Attribution 878 900	has sharply criticized
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 979 1008	the former secretary of state
+T26	Cue 1009 1025	calling the move
+T27	Content 1026 1045	“deeply troubling.”
+T28	Attribution 1009 1025	calling the move
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1047 1069	The State Department’s
+T30	Cue 1070 1077	release
+T31	Content 1091 1125	which included roughly 1,250 pages
+T32	Attribution 1070 1077	release
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1256 1273	the new documents
+T34	Cue 1274 1282	included
+T35	Content 1283 1388	messages between Clinton and her longtime aide Huma Abedin, often dealing with State Department logistics
+T36	Attribution 1274 1282	included
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1407 1411	they
+T38	Cue 1412 1419	debated
+T39	Content 1420 1484	what kind of travel to arrange for Clinton to go to the Hamptons
+T40	Attribution 1412 1419	debated
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1486 1492	Abedin
+T42	Cue 1493 1498	wrote
+T43	Content 1499 1636	that Clinton had cut a vacation short for business, so she was “comfortable asking plane to take you there. We will pay for personal leg”
+T44	Attribution 1493 1498	wrote
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1652 1658	Abedin
+T46	Cue 1659 1667	informed
+T47	Content 1668 1689;1716 1739	Clinton that an actor had requested visa help
+T48	Attribution 1659 1667	informed
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 1741 1867;1882 1913	“he wanted us to open our embassy in london on a sunday to get a visa but we compromised and he will come in tuesday morning,” “so situation is under control”
+T50	Source 1868 1874	Abedin
+T51	Cue 1875 1880	wrote
+T52	Attribution 1875 1880	wrote
+E13	Attribution:T52 Cue:T51 Source:T50 Content:T49
+T53	Source 1985 1988	who
+T54	Cue 1989 2003	used the alias
+T55	Content 2004 2020	“Diane Reynolds”
+T56	Attribution 1989 2003	used the alias
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Content 2155 2160	which
+T58	Source 2161 2205	John Tefft, then U.S. ambassador to Ukraine,
+T59	Cue 2206 2213	praised
+T60	Source 2216 2223	Clinton
+T61	Cue 2262 2271	a request
+T62	Content 2298 2310	“Pls print.”
+T63	Attribution 2206 2213	praised
+E15	Attribution:T63 Cue:T59 Source:T58 Content:T57
+T64	Attribution 2262 2271	a request
+E16	Attribution:T64 Content:T62 Cue:T61 Source:T60
+T65	Source 2312 2326	The department
+T66	Cue 2327 2332	plans
+T67	Content 2333 2384	to publicly post a few hundred more pages on Friday
+T68	Attribution 2327 2332	plans
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65

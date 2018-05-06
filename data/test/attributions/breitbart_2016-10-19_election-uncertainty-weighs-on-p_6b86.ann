@@ -1,0 +1,59 @@
+T1	Source 192 231	the Federal Reserve’s Beige Book survey
+T2	Cue 232 246	said Wednesday
+T3	Content 88 190	Uncertainty in advance of next month’s US election is weighing on some business sectors in the country
+T4	Attribution 232 246	said Wednesday
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 249 365	The survey which collects the views of economists, business contacts and others in the 12 Federal Reserve districts,
+T6	Cue 366 370	said
+T7	Content 371 466	most regions in the world’s largest economy continued to expand at a “modest or moderate pace.”
+T8	Attribution 366 370	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 468 549	Labor market conditions remained “tight,” with “modest” employment and wage gains
+T10	Cue 551 563	according to
+T11	Source 564 574	the survey
+T12	Attribution 551 563	according to
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Content 648 722	The strength of the US dollar also held back exports of manufactured goods
+T14	Source 724 726	it
+T15	Cue 727 731	said
+T16	Attribution 727 731	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 734 744	The report
+T18	Cue 745 750	noted
+T19	Content 751 883	improving conditions in the St. Louis, Kansas City and Dallas districts while economic activity in the New York region was unchanged
+T20	Attribution 745 750	noted
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 886 1051	“Outlooks were mostly optimistic, although contacts in a few districts expressed concern about economic uncertainty surrounding the upcoming presidential elections,”
+T22	Cue 1052 1064	according to
+T23	Source 1065 1075	the report
+T24	Attribution 1052 1064	according to
+E6	Attribution:T24 Source:T23 Cue:T22 Content:T21
+T25	Content 1078 1313	Reporting collected in the Boston region found election uncertainty is “delaying some business decisions,” and caused some “subdued” demand for loans and leasing, while Dallas said there are concerns it “will impact consumer spending,”
+T26	Cue 1314 1326	according to
+T27	Source 1327 1337	the report
+T28	Attribution 1314 1326	according to
+E7	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Source 1677 1690	Trump already
+T30	Cue 1691 1701	has called
+T31	Content 1702 1736	the election results into question
+T32	Attribution 1691 1701	has called
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1808 1822	the Beige Book
+T34	Cue 1823 1827	said
+T35	Content 1789 1806;1829 1974	In other comments “Manufacturing activity was mixed, and the strong dollar continued to dampen exports of manufactured goods, according to a few district reports.”
+T36	Attribution 1823 1827	said
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 2071 2076	which
+T38	Cue 2077 2083	showed
+T39	Content 2084 2328	steady but slowing job creation, with 156,000 jobs added in September and the unemployment rate moving upward a tenth of a point to 5.0 percent as more people joined the ranks of those seeking work — a possible sign of optimism in labor markets
+T40	Attribution 2077 2083	showed
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Cue 2574 2589	is not expected
+T42	Content 2566 2573;2590 2605	the Fed to change rates
+T43	Attribution-no-source 2574 2589	is not expected
+E11	Attribution-no-source:T43 Content:T42 Cue:T41
+T44	Source 2607 2616	Observers
+T45	Cue 2617 2620	say
+T46	Content 2621 2728	a rate increase is more likely at the Federal Open Market Committee’s final meeting of the year in December
+T47	Attribution 2617 2620	say
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44

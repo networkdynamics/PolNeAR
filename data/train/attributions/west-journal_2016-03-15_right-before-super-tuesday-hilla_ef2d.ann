@@ -1,0 +1,25 @@
+T1	Source 80 148	Fewer than half of the voters surveyed in a new poll released Monday
+T2	Cue 149 156	support
+T3	Content 157 206	Democratic presidential candidate Hillary Clinton
+T4	Attribution 149 156	support
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 263 265	In
+T6	Source 266 318	the new Morning Consult poll, conducted March 11-13,
+T7	Content 319 368	40 percent of likely Democrat voters back Sanders
+T8	Attribution 263 265	In
+E2	Attribution:T8 Content:T7 Source:T6 Cue:T5
+T10	Source 762 799	Simon Rosenberg, a Clinton supporter,
+T11	Cue 800 804	told
+T12	Attribution 800 804	told
+T9	Content 1021 1155;1157 1296;571 762;822 981;982 1020	He is being perceived as somebody who is deeply in touch with a sense that something has gone wrong and that the system isn’t working. “Sanders is speaking to a rising generation who want both a better and more responsible capitalism and a better and more ethical politics.” Sanders “is tapping into something that is very deep and very profound inside the Democratic Party, which is this discontent with the system that is no longer producing for everyday people,”  “He has characterized Hillary as a champion of that system and as somebody who is actually a leader of the system, while he is the one that wants to change it. He’s not being perceived as a leftist.
+E3	Attribution:T12 Content:T9 Cue:T11 Source:T10
+T13	Content 1299 1390;1419 1604	“When people respond by the millions to your message, then that message is now mainstream,” “That changes political reality. Smart politicians like Hillary Clinton and anybody else have got to move where the action is, and the action is on those issues that I’ve been raising.”
+T14	Source 1391 1403	Sen. Sanders
+T15	Cue 1404 1417	said recently
+T16	Attribution 1404 1417	said recently
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 1606 1630	The Morning Consult poll
+T18	Cue 1631 1637	showed
+T19	Content 1638 1733;1734 1762;1763 1803;1804 1827	that Donald Trump remained in the lead on the Republican side with 42 percent, followed by Sen. Ted Cruz at 23 percent; Sen. Marco Rubio at 12 percent, and Ohio Gov. John Kasich, 9 percent.
+T20	Attribution 1631 1637	showed
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17

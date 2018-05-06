@@ -1,0 +1,187 @@
+T1	Cue 3 8	guess
+T2	Content 9 46	who's the Demogorgon in this scenario
+T3	Attribution-no-source 3 8	guess
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Source 121 142	government scientists
+T5	Cue 143 156	try to spy on
+T6	Content 157 165	Russians
+T7	Attribution 143 156	try to spy on
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Source 49 50	I
+T9	Cue 51 73	just finished watching
+T10	Content 74 92	"Stranger Things,"
+T11	Attribution 51 73	just finished watching
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 586 601	brought to mind
+T13	Content 602 614	Donald Trump
+T14	Attribution-no-source 586 601	brought to mind
+E4	Attribution-no-source:T14 Content:T13 Cue:T12
+T15	Source 734 740	others
+T16	Cue 741 753	aggrieved by
+T17	Content 754 807	women, immigrants and racial and religious minorities
+T18	Attribution 741 753	aggrieved by
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 946 949	who
+T20	Cue 950 974	didn't step up to oppose
+T21	Content 975 980	Trump
+T22	Attribution 950 974	didn't step up to oppose
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 997 1017	he and other leaders
+T24	Cue 1038 1083	probably could have rallied the GOP to reject
+T25	Content 1084 1089	Trump
+T26	Attribution 1038 1083	probably could have rallied the GOP to reject
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 1095 1099	Ryan
+T28	Cue 1136 1146	condemning
+T29	Content 1147 1185	Trump's videotaped remarks about women
+T30	Attribution 1136 1146	condemning
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Cue 1187 1197	announcing
+T32	Content 1198 1236	he won't defend or campaign with Trump
+T33	Attribution 1187 1197	announcing
+E9	Attribution:T33 Source:T27 Content:T32 Cue:T31
+T34	Cue 1241 1249	advising
+T35	Content 1258 1318	to "do what's best for you in your district" regarding Trump
+T36	Attribution 1241 1249	advising
+E10	Attribution:T36 Source:T27 Content:T35 Cue:T34
+T37	Source 1372 1376	Ryan
+T38	Cue 1377 1392	took issue with
+T39	Content 1393 1499	Trump's talk about rigged elections and other remarks that could induce violence on and after Election Day
+T40	Attribution 1377 1392	took issue with
+E11	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1501 1511	His office
+T42	Cue 1512 1539	released a statement saying
+T43	Content 1540 1585	he is "fully confident" in election integrity
+T44	Attribution 1512 1539	released a statement saying
+E12	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1587 1592	Trump
+T46	Cue 1593 1630	swiped at Ryan in a series of tweets:
+T47	Content 1631 1797	"Paul Ryan, always fighting the Republican nominee! ... Paul Ryan, a man who doesn't know how to win (including failed run four years ago). ... Paul Ryan does zilch!"
+T48	Attribution 1593 1630	swiped at Ryan in a series of tweets:
+E13	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 1840 1872	Newt Gingrich, a Trump defender,
+T50	Cue 1873 1887	tried to argue
+T51	Content 1902 2008	that Trump's major complaint about the election being rigged "is not at the poll level" but with the media
+T52	Attribution 1873 1887	tried to argue
+E14	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 2014 2019	Trump
+T54	Cue 2020 2041	issued a tweet saying
+T55	Content 2042 2107	the election is being rigged "also at many polling places - SAD."
+T56	Attribution 2020 2041	issued a tweet saying
+E15	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Content 2181 2237	"We will absolutely accept the results of the election,"
+T58	Source 2238 2240	he
+T59	Cue 2241 2245	said
+T60	Attribution 2241 2245	said
+E16	Attribution:T60 Cue:T59 Source:T58 Content:T57
+T61	Source 2263 2268	Trump
+T62	Cue 2269 2277	to tweet
+T63	Content 2285 2421	that "there is large scale voter fraud happening on and before Election Day. Why do Republican leaders deny what is going on? So naive!"
+T64	Attribution 2269 2277	to tweet
+E17	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 2468 2485	the Trump monster
+T66	Cue 2486 2554	fired off tweets and retweets with a combined 30 exclamation points:
+T67	Content 2555 2790	"CORRUPTION CONFIRMED ... voter fraud! ... RIGGED! ... another hoax ... totally phoney (sic) stories ... corrupt political machine pushing crooked Hillary Clinton ... SO CORRUPT! ... Media rigging election! ... Media rigging election!"
+T68	Attribution 2486 2554	fired off tweets and retweets with a combined 30 exclamation points:
+E18	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 2792 2797	Trump
+T70	Cue 2813 2826	has suggested
+T71	Content 2827 2846	Clinton is on drugs
+T72	Attribution 2813 2826	has suggested
+E19	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Cue 2848 2857	talked of
+T74	Content 2858 2877	a "stolen election"
+T75	Attribution 2848 2857	talked of
+E20	Attribution:T75 Source:T69 Content:T74 Cue:T73
+T76	Cue 2882 2888	called
+T77	Content 2889 2909	Clinton the "Devil."
+T78	Attribution 2882 2888	called
+E21	Attribution:T78 Source:T69 Content:T77 Cue:T76
+T79	Source 2910 2936	The Anti-Defamation League
+T80	Cue 2937 2950	has protested
+T81	Content 2951 2985	Trump's use of anti-Semitic tropes
+T82	Attribution 2937 2950	has protested
+E22	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Source 2991 2993	he
+T84	Cue 2994 3002	talks of
+T85	Content 3003 3188	Clinton meeting "in secret with international banks to plot the destruction of U.S. sovereignty" and of "media enablers" controlling the nation "through means that are very well known."
+T86	Attribution 2994 3002	talks of
+E23	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Source 3189 3194	Trump
+T88	Cue 3203 3209	called
+T89	Content 3210 3256	international-trade supporters "bloodsuckers."
+T90	Attribution 3203 3209	called
+E24	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Source 3324 3326	he
+T92	Cue 3327 3339	has directed
+T93	Content 3340 3380	his supporters to monitor polling places
+T94	Attribution 3327 3339	has directed
+E25	Attribution:T94 Content:T93 Cue:T92 Source:T91
+T95	Content 3258 3321;3412 3425	The prospect of Trump-induced violence on or after Election Day to be growing
+T96	Cue 3406 3411	seems
+T97	Attribution-no-source 3406 3411	seems
+E26	Attribution-no-source:T97 Cue:T96 Content:T95
+T98	Source 3433 3453	the Arizona Republic
+T99	Cue 3454 3462	endorsed
+T100	Content 3463 3487	a Democrat for president
+T101	Attribution 3454 3462	endorsed
+E27	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Source 3739 3744	Trump
+T103	Cue 3766 3772	saying
+T104	Content 3774 3867	"Animals representing Hillary Clinton and Dems in North Carolina just firebombed our office."
+T105	Attribution 3766 3772	saying
+E28	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Source 3650 3657	Clinton
+T107	Cue 3658 3664	called
+T108	Content 3665 3695	it "horrific and unacceptable"
+T109	Attribution 3658 3664	called
+E29	Attribution:T109 Content:T108 Cue:T107 Source:T106
+T110	Cue 3704 3713	"grateful
+T111	Content 3714 3736	that everyone is safe"
+T112	Attribution 3704 3713	"grateful
+E30	Attribution:T112 Source:T106 Content:T111 Cue:T110
+T113	Source 3973 3975	He
+T114	Cue 3976 3988	could revoke
+T115	Content 3989 4010	his Trump endorsement
+T116	Attribution 3976 3988	could revoke
+E31	Attribution:T116 Content:T115 Cue:T114 Source:T113
+T117	Source 4167 4171	They
+T118	Cue 4201 4225	are already furious with
+T119	Content 4226 4230	Ryan
+T120	Attribution 4201 4225	are already furious with
+E32	Attribution:T120 Content:T119 Cue:T118 Source:T117
+T121	Source 4270 4274	them
+T122	Cue 4275 4282	angrier
+T123	Content 4236 4258	his criticism of Trump
+T124	Attribution 4275 4282	angrier
+E33	Attribution:T124 Content:T123 Cue:T122 Source:T121
+T125	Cue 4288 4292	told
+T126	Content 4293 4318	Ryan considered resigning
+T127	Attribution-no-source 4288 4292	told
+E34	Attribution-no-source:T127 Content:T126 Cue:T125
+T128	Source 4437 4441	Ryan
+T129	Cue 4442 4469	could have been quiet about
+T130	Content 4470 4486	Trump's outrages
+T131	Attribution 4442 4469	could have been quiet about
+E35	Attribution:T131 Content:T130 Cue:T129 Source:T128
+T132	Source 4756 4764	Liberals
+T133	Cue 4765 4769	call
+T134	Content 4770 4783	Ryan cowardly
+T135	Attribution 4765 4769	call
+E36	Attribution:T135 Content:T134 Cue:T133 Source:T132
+T136	Source 4792 4794	he
+T137	Cue 4795 4820	won't formally un-endorse
+T138	Content 4821 4826	Trump
+T139	Attribution 4795 4820	won't formally un-endorse
+E37	Attribution:T139 Content:T138 Cue:T137 Source:T136
+T140	Source 4859 4862	his
+T141	Cue 4863 4871	contempt
+T142	Content 4872 4895	for his party's nominee
+T143	Attribution 4863 4871	contempt
+E38	Attribution:T143 Content:T142 Cue:T141 Source:T140
+T144	Source 4923 4924	I
+T145	Cue 4925 4931	argued
+T146	Content 4932 5004	that "Trump may be a monster, but he's the monster Republicans created."
+T147	Attribution 4925 4931	argued
+E39	Attribution:T147 Content:T146 Cue:T145 Source:T144
+T148	Discard 5104 5122	Twitter: @Milbank.

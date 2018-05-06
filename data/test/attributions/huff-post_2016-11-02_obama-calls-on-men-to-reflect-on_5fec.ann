@@ -1,0 +1,79 @@
+T1	Source 0 5	Obama
+T2	Cue 6 14	Calls On
+T3	Content 15 53	Men To Reflect On Sexism Before Voting
+T4	Attribution 6 14	Calls On
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 56 78	President Barack Obama
+T6	Cue 90 99	called on
+T7	Content 100 227	men to “look inside” themselves and think about bias if they have any doubt about voting for Democratic nominee Hillary Clinton
+T8	Attribution 90 99	called on
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 229 274;342 411	“To the guys out there, I want to be honest,” “You know, there’s a reason we haven’t had a woman president before.”
+T10	Source 275 280	Obama
+T11	Cue 281 285	told
+T12	Attribution 281 285	told
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 412 414	He
+T14	Cue 415 420	asked
+T15	Content 421 486	male voters to think about their potential biases against Clinton
+T16	Attribution 415 420	asked
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 545 727;737 915	“I want every man out there who’s voting to kinda look inside yourself and ask yourself, if you’re having problems with this stuff, how much of it is that we’re just not used to it?” “When a guy is ambitious and out in the public arena and working hard, well that’s okay. But when a woman suddenly does it, suddenly you’re all like, well, why’s she doing that?”
+T18	Source 728 730	he
+T19	Cue 731 735	said
+T20	Attribution 731 735	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 917 922	Obama
+T22	Cue 923 940	went on to praise
+T23	Content 941 948	Clinton
+T24	Attribution 923 940	went on to praise
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 1052 1129;950 1003	“She has conducted herself so much better in public life than the other guy.” “She is so much better qualified than the other guy,”
+T26	Source 1004 1006	he
+T27	Cue 1007 1011	said
+T28	Attribution 1007 1011	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Cue 1013 1025	referring to
+T30	Content 1026 1050	GOP nominee Donald Trump
+T31	Attribution 1013 1025	referring to
+E8	Attribution:T31 Source:T26 Content:T30 Cue:T29
+T32	Source 1131 1136	Obama
+T33	Cue 1137 1144	blasted
+T34	Content 1145 1191	Trump for his disrespectful treatment of women
+T35	Cue 1196 1200	said
+T36	Content 1201 1259	the behavior would continue should he be elected president
+T37	Attribution 1196 1200	said
+E9	Attribution:T37 Source:T32 Content:T36 Cue:T35
+T38	Content 1262 1350;1360 1461	“The only thing this office does is it amplifies who you are. It magnifies who you are,” “If you disrespected women before you were elected, you will disrespect women once you’re president.”
+T39	Source 1351 1353	he
+T40	Cue 1354 1358	said
+T41	Attribution 1137 1144	blasted
+E10	Attribution:T41 Source:T32 Content:T34 Cue:T33
+T42	Attribution 1354 1358	said
+E11	Attribution:T42 Cue:T40 Source:T39 Content:T38
+T43	Source 1646 1651	Obama
+T44	Cue 1652 1679	has spoken out before about
+T45	Content 1680 1746	the sexism Clinton has faced during the 2016 presidential election
+T46	Attribution 1652 1679	has spoken out before about
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1794 1799	Obama
+T48	Cue 1800 1804	said
+T49	Content 1805 1901	that positive attributes in men, such as ambition, are often seen as negative qualities in women
+T50	Attribution 1800 1804	said
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 1942 1947	Obama
+T52	Cue 1948 1952	said
+T53	Content 1903 1940;1953 2022	And even if Clinton becomes president he expects she will continue to face sexism during her time in office
+T54	Attribution 1948 1952	said
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Source 2083 2088	Obama
+T56	Cue 2089 2093	told
+T57	Content 2098 2137;2139 2402	that the choice “could not be clearer.” “If we want to build on progress on issues like climate change and gender equality and making sure that everybody has health care and making sure that young people have a good education and can afford college, they’ve gotta make sure that their voices are heard.”
+T58	Attribution 2089 2093	told
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 2039 2042	who
+T60	Cue 2043 2065	are on the fence about
+T61	Content 2066 2081	who to vote for
+T62	Attribution 2043 2065	are on the fence about
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Discard 2404 2655	Editor’s note: Donald Trump regularly incites political violence and is a serial liar, rampant xenophobe, racist, misogynist and birther who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S.

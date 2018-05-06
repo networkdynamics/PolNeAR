@@ -1,0 +1,151 @@
+T1	Source 90 102	Donald Trump
+T2	Cue 103 108	loves
+T3	Content 109 130	to disparage as phony
+T4	Attribution 103 108	loves
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 344 347	who
+T6	Cue 383 392	declaring
+T7	Content 393 430	he couldn’t yet support his candidacy
+T8	Source 460 468	both men
+T9	Cue 469 498	issued a statement expressing
+T10	Content 499 530	optimism about working together
+T11	Attribution 383 392	declaring
+E2	Attribution:T11 Cue:T6 Source:T5 Content:T7
+T12	Attribution 469 498	issued a statement expressing
+E3	Attribution:T12 Content:T10 Cue:T9 Source:T8
+T13	Source 533 537	Ryan
+T14	Cue 538 544	saying
+T15	Content 545 569	he was “very encouraged”
+T16	Attribution 538 544	saying
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 574 579	Trump
+T18	Cue 580 587	calling
+T19	Content 588 609	it a “great meeting.”
+T20	Attribution 580 587	calling
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 958 972	trying to tell
+T22	Content 985 1017	that there’s nothing to see here
+T23	Source 889 932	Trump, Ryan and RNC Chairman Reince Priebus
+T24	Attribution 958 972	trying to tell
+E6	Attribution:T24 Source:T23 Content:T22 Cue:T21
+T25	Source 1881 1924	the former reality TV star-turned-candidate
+T26	Cue 1925 1933	is eager
+T27	Content 1934 1944	to control
+T28	Attribution 1925 1933	is eager
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Cue 2054 2069	questions about
+T30	Content 2070 2144	whether the nominee will adhere to positions elemental to the GOP platform
+T31	Attribution-no-source 2054 2069	questions about
+E8	Attribution-no-source:T31 Content:T30 Cue:T29
+T32	Source 2153 2158	Trump
+T33	Cue 2159 2172	is looking to
+T34	Content 2173 2208	smooth over potential disagreements
+T35	Attribution 2159 2172	is looking to
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Cue 2264 2275	Recognizing
+T37	Content 2276 2363	the daylight between some of the candidate's positions and the traditional GOP platform
+T38	Source 2365 2385	Trump's inner circle
+T39	Attribution 2264 2275	Recognizing
+E10	Attribution:T39 Source:T38 Content:T37 Cue:T36
+T40	Cue 2386 2394	believes
+T41	Content 2395 2517	that the nominee has earned the right to dictate the terms of the convention schedule, vendor contracts and party platform
+T42	Attribution 2386 2394	believes
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T38
+T43	Content 2520 2547;2580 2655	"It's the nominee's party," "He gets to set the rules and if you don't like it, work harder next time."
+T44	Source 2548 2573	one Trump campaign source
+T45	Cue 2574 2578	said
+T46	Attribution 2574 2578	said
+E12	Attribution:T46 Cue:T45 Source:T44 Content:T43
+T47	Source 3001 3011	the base’s
+T48	Cue 3012 3033	general revulsion for
+T49	Content 3034 3055	establishment leaders
+T50	Attribution 3012 3033	general revulsion for
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Content 3139 3186;3238 3391	“Trump needs to quiet the ‘Never Trump’ crowd,” “Ryan on the other hand needs straight tickets and a unified party to get every vote for every caucus member he can. The fewer split tickets the better.”
+T52	Cue 3187 3191	said
+T53	Source 3192 3236	Bruce Haynes, a GOP strategist in Washington
+T54	Attribution 3187 3191	said
+E14	Attribution:T54 Source:T53 Cue:T52 Content:T51
+T55	Source 3393 3397	Ryan
+T56	Cue 3398 3418	is certainly feeling
+T57	Content 3419 3432	some pressure
+T58	Attribution 3398 3418	is certainly feeling
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 3436 3541	members of his caucus, including his two deputies, Majority Leader Kevin McCarthy and Whip Steve Scalise,
+T60	Cue 3542 3574	have thrown their support behind
+T61	Content 3575 3598	the presumptive nominee
+T62	Attribution 3542 3574	have thrown their support behind
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 3629 3633	many
+T64	Cue 3634 3639	think
+T65	Content 3600 3627;3641 3665	Ryan’s endorsement of Trump is only a matter of time
+T66	Attribution 3634 3639	think
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Content 3668 3749;3763 3814	“Ryan will do this in a thoughtful and deliberate way because that is who he is,” “But the gravity pulling him there is very strong.”
+T68	Source 3750 3756	Haynes
+T69	Cue 3757 3761	said
+T70	Source 3816 3832	Trump’s campaign
+T71	Cue 3833 3874	entered Thursday’s conversation believing
+T72	Content 3875 3937	they have more leverage than the party’s establishment figures
+T73	Attribution 3757 3761	said
+E18	Attribution:T73 Cue:T69 Source:T68 Content:T67
+T74	Attribution 3833 3874	entered Thursday’s conversation believing
+E19	Attribution:T74 Content:T72 Cue:T71 Source:T70
+T75	Content 3940 4046;4073 4242	“What Reince and the mainstream media don't understand is that Trump is bigger than the Republican Party,” “You may lose a handful of elites on one end of the party, but they’re more than made up for by new voters, donors. The Trump coalition is bigger than Republican Party.”
+T76	Cue 4047 4051	said
+T77	Source 4052 4071	one Trump confidant
+T78	Cue 4281 4295	is confounding
+T79	Source 4300 4304	Ryan
+T80	Content 4254 4280	Trump’s present popularity
+T81	Attribution 4281 4295	is confounding
+E20	Attribution:T81 Cue:T78 Source:T79 Content:T80
+T82	Attribution 4047 4051	said
+E21	Attribution:T82 Source:T77 Cue:T76 Content:T75
+T83	Content 4395 4472;4510 4714	“This is crucial for both of them, but it’s probably more crucial for Trump,” “Republican House members are going to be able to run their own campaigns in their own districts; whereas it will be very difficult for Donald Trump to win in November without a unified party behind him.”
+T84	Cue 4473 4477	said
+T85	Source 4478 4508	one former GOP leadership aide
+T86	Attribution 4473 4477	said
+E22	Attribution:T86 Source:T85 Cue:T84 Content:T83
+T87	Source 4716 4730	Ryan and Trump
+T88	Cue 4731 4737	agreed
+T89	Content 4738 4916	to meet again in the coming weeks, ostensibly to continue to discuss policy issues that may allay Ryan’s concerns about Trump’s conformity to traditional conservative orthodoxies
+T90	Attribution 4731 4737	agreed
+E23	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Source 4928 4935	Trump’s
+T92	Cue 4936 4957	hardline positions on
+T93	Content 4958 4969	immigration
+T94	Attribution 4936 4957	hardline positions on
+E24	Attribution:T94 Content:T93 Cue:T92 Source:T91
+T95	Source 5029 5031	he
+T96	Cue 5032 5040	views as
+T97	Content 5023 5028;5041 5071	which part of an ongoing negotiation
+T98	Attribution 5032 5040	views as
+E25	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Source 5224 5238	Trump and Ryan
+T100	Cue 5239 5250	to agree on
+T101	Content 5251 5320	the overarching need for lower taxes and a smaller federal government
+T102	Attribution 5239 5250	to agree on
+E26	Attribution:T102 Content:T101 Cue:T100 Source:T99
+T103	Cue 5321 5351	without aligning completely on
+T104	Content 5352 5369	specific policies
+T105	Attribution 5321 5351	without aligning completely on
+E27	Attribution:T105 Content:T104 Cue:T103 Source:T99
+T106	Cue 5572 5587	live footage of
+T107	Content 5588 5620	Trump’s plane leaving Washington
+T108	Attribution-no-source 5572 5587	live footage of
+E28	Attribution-no-source:T108 Content:T107 Cue:T106
+T109	Source 5621 5631	both sides
+T110	Cue 5632 5638	sought
+T111	Content 5639 5707	to give every appearance of warmth and an eagerness to work together
+T112	Attribution 5632 5638	sought
+E29	Attribution:T112 Content:T111 Cue:T110 Source:T109
+T113	Source 5377 5396	cable news networks
+T114	Cue 5397 5428	carrying saturation coverage of
+T115	Content 5429 5447	Thursday’s meeting
+T116	Attribution 5397 5428	carrying saturation coverage of
+E30	Attribution:T116 Content:T115 Cue:T114 Source:T113
+T117	Source 5721 5726	Trump
+T118	Cue 5727 5733	mocked
+T119	Content 5734 5898	Jeb Bush and Marco Rubio’s protestations that they remained good friends even amidst a growing rivalry as they competed for the nomination, as “political bullshit.”
+T120	Attribution 5727 5733	mocked
+E31	Attribution:T120 Content:T119 Cue:T118 Source:T117

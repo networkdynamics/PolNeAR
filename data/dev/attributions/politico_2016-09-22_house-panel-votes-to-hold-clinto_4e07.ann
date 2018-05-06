@@ -1,0 +1,128 @@
+T1	Source 0 11	House panel
+T2	Cue 12 17	votes
+T3	Content 18 70	to hold Clinton tech aide Bryan Pagliano in contempt
+T4	Attribution 12 17	votes
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 73 86	A House panel
+T6	Cue 87 92	voted
+T7	Content 102 284	to hold Bryan Pagliano, a former technology aide to Hillary Clinton, in contempt of Congress for refusing to testify about the private email set-up Clinton used as secretary of state
+T8	Attribution 87 92	voted
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 287 338	The House Oversight and Government Reform Committee
+T11	Content 370 417	to send a contempt resolution to the full House
+T10	Cue 339 368	voted 19-15 along party lines
+T12	Attribution 339 368	voted 19-15 along party lines
+E3	Attribution:T12 Cue:T10 Content:T11 Source:T9
+T13	Discuss 339 368	voted 19-15 along party lines
+T14	Source 487 499	his attorney
+T15	Content 500 655	that the showdown was fruitless since the computer specialist would assert his Fifth Amendment rights in response to any questions that would be put to him
+T16	Cue 464 486	repeated warnings from
+T17	Attribution 464 486	repeated warnings from
+E4	Attribution:T17 Cue:T16 Content:T15 Source:T14
+T18	Content 658 687	"Subpoenas are not optional,"
+T19	Source 688 731	panel Chairman Rep. Jason Chaffetz (R-Utah)
+T20	Cue 732 736	said
+T21	Attribution 732 736	said
+E5	Attribution:T21 Cue:T20 Source:T19 Content:T18 Content2:T22
+T22	Content 851 1027	"Mr. Pagliano is a crucial fact witness in this committee's investigation former Secretary of State Hillary Clinton's of a private email server to conduct government business."
+T23	Source 1029 1038	Democrats
+T24	Cue 1039 1045	called
+T25	Content 1046 1228	the contempt citation and the demand for Pagliano's public appearance a transparent political ploy aimed at embarrassing Clinton as the presidential election enters its final stretch
+T26	Attribution 1039 1045	called
+E6	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Content 1232 1379	Republicans want a photo op. They want a ready-made campaign commercial. No matter what anyone says, that is not a legitimate legislative purpose,"
+T28	Cue 1380 1384	said
+T29	Source 1385 1447	Rep. Elijah Cummings of Maryland, the panel's ranking Democrat
+T30	Attribution 1380 1384	said
+E7	Attribution:T30 Source:T29 Cue:T28 Content:T27
+T31	Source 1450 1492	An attorney for Pagliano, Mark MacDougall,
+T32	Cue 1493 1501	streesed
+T33	Content 1502 1602	that his client was ready to appear behind closed doors, but would not be part of a public spectacle
+T34	Attribution 1493 1501	streesed
+E8	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Content 1605 1942	"Bryan already asserted his Fifth Amendment right on the record before this Congress. He was ready to do it again today in Executive Session. But the Republicans voted for contempt because he wouldn’t play the role they had scripted - in the campaign ad that they wanted to tape six weeks before the election. That’s all there is to it,"
+T36	Source 1943 1953	MacDougall
+T37	Cue 1954 1958	said
+T38	Attribution 1954 1958	said
+E9	Attribution:T38 Cue:T37 Source:T36 Content:T35
+T39	Source 2627 2638	Republicans
+T40	Cue 2639 2643	said
+T41	Content 2644 2706	the credibility of the Congress was on the line in the dispute
+T42	Attribution 2639 2643	said
+E10	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Content 2777 2954	"We cannot have people come here and deny the right under the Constitution for us to question them. They may not want to answer and they have that right under the Constitution,"
+T44	Source 2955 2978	Rep. John Mica (R-Fla.)
+T45	Cue 2979 2983	said
+T46	Attribution 2979 2983	said
+E11	Attribution:T46 Cue:T45 Source:T44 Content:T43 Content2:T47
+T47	Content 2985 3055	"If you continue that, you destroy the whole basis of our government."
+T48	Source 3057 3066	Democrats
+T49	Cue 3067 3081	also described
+T50	Content 3082 3105	the showdown as ominous
+T51	Attribution 3067 3081	also described
+E12	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Cue 3111 3115	said
+T53	Content 3116 3161	the panel itself might be damaged by the move
+T54	Attribution-no-source 3111 3115	said
+E13	Attribution-no-source:T54 Content:T53 Cue:T52
+T55	Content 3164 3272	"This is a waste of time. It’s destroying this committee. It’s destroying the reputation of this committee,"
+T56	Cue 3273 3277	said
+T57	Source 3278 3298	Del. Stacey Plaskett
+T58	Attribution 3273 3277	said
+E14	Attribution:T58 Source:T57 Cue:T56 Content:T55
+T59	Source 3323 3332	Democrats
+T60	Cue 3333 3349	repeatedly noted
+T61	Content 3350 3458	that last year Pagliano invoked his 5th Amendment rights in a closed session of the House Benghazi Committee
+T62	Attribution 3333 3349	repeatedly noted
+E15	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 3460 3464	They
+T64	Cue 3465 3470	noted
+T65	Content 3471 3558	his attorney offered to have Pagliano appear at a closed session, but Chaffetz declined
+T66	Attribution 3465 3470	noted
+E16	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Content 3561 3615	"I don’t think it should be done behind closed doors,"
+T68	Source 3616 3624	Chaffetz
+T69	Cue 3625 3629	said
+T70	Attribution 3625 3629	said
+E17	Attribution:T70 Cue:T69 Source:T68 Content:T67 Content2:T71
+T71	Content 3631 3684	"I think it’s the way this committee should operate."
+T72	Source 3695 3723	Rep. Stephen Lynch (D-Mass.)
+T73	Cue 3724 3728	said
+T74	Content 3729 3843	the law doesn't require witnesses to show up at a public hearing to assert their rights against self-incrimination
+T75	Attribution 3724 3728	said
+E18	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 3845 3847	He
+T77	Cue 3848 3852	said
+T78	Content 3853 3950	he wasn't too worried about the contempt resolution because he doubted any court would enforce it
+T79	Attribution 3848 3852	said
+E19	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Content 3953 4022	"I don’t think it’s going anywhere, and I take comfort in that fact,"
+T81	Source 4023 4028	Lynch
+T82	Cue 4029 4033	said
+T83	Attribution 4029 4033	said
+E20	Attribution:T83 Cue:T82 Source:T81 Content:T80
+T84	Source 4036 4044	Chaffetz
+T85	Cue 4045 4053	insisted
+T86	Content 4054 4138	he has different questions for Pagliano than the ones he refused to answer last year
+T87	Attribution 4045 4053	insisted
+E21	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Source 4149 4166	Pagliano's lawyer
+T89	Cue 4167 4175	has said
+T90	Content 4176 4239	he will refuse to answer any questions from the oversight panel
+T91	Attribution 4167 4175	has said
+E22	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Source 4242 4251	Democrats
+T93	Cue 4252 4279	also persisted in arguments
+T94	Content 4280 4400	that the panel is trying to second-guess the FBI and Justice Department decision not to prosecute Clinton or anyone else
+T95	Attribution 4252 4279	also persisted in arguments
+E23	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Source 4403 4427	Rep. Trey Gowdy (R-S.C.)
+T97	Cue 4428 4432	said
+T98	Content 4433 4672	that claim smacked of hypocrisy, because Democrats have been at the forefront of questioning the FBI's decisions on issuing national security letters to demand information or not to prosecute bank executives over the 2008 economic collapse
+T99	Attribution 4428 4432	said
+E24	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Content 4675 4712	"God forbid we ask the FBI anything,"
+T101	Source 4713 4718	Gowdy
+T102	Cue 4719 4737	said sarcastically
+T103	Attribution 4719 4737	said sarcastically
+E25	Attribution:T103 Cue:T102 Source:T101 Content:T100

@@ -1,0 +1,56 @@
+T1	Source 104 124	the Associated Press
+T2	Cue 125 133	declared
+T3	Content 51 102	Hillary Clinton won the Missouri Democratic primary
+T4	Attribution 125 133	declared
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 375 434;470 491	Clinton led by about 1,500 votes out of nearly 620,000 cast in unofficial returns
+T6	Cue 493 505	according to
+T7	Source 506 526	the Associated Press
+T8	Attribution 493 505	according to
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Source 559 566	Sanders
+T10	Cue 567 587	could have requested
+T11	Content 588 597	a recount
+T12	Attribution 567 587	could have requested
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 656 676	the Sanders campaign
+T14	Cue 677 681	said
+T15	Content 682 755	it would assess its options and look into the recount process in Missouri
+T16	Attribution 677 681	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 757 806;827 861	If it’s just a small number of delegates at stake it may not bother taking that step
+T18	Source 808 820	the campaign
+T19	Cue 821 825	said
+T20	Attribution 821 825	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 877 884	Sanders
+T22	Cue 885 889	told
+T23	Content 897 929	that he would not seek a recount
+T24	Attribution 885 889	told
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1098 1168	The little polling that was done in the state before Tuesday’s primary
+T26	Cue 1169 1175	showed
+T27	Content 1176 1328	a virtual dead heat between Clinton and Sanders, with the former secretary of state leading handily among Democrats and Sanders ahead among independents
+T28	Attribution 1169 1175	showed
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1743 1755	Missouri law
+T30	Cue 1737 1742	Under
+T31	Content 1757 1843	candidates trailing by less than 0.5 percent of votes cast have the right to a recount
+T32	Attribution 1737 1742	Under
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1946 1985	The self-described democratic socialist
+T34	Cue 1986 1990	said
+T35	Content 1991 2044	he would win the state’s primary if turnout were high
+T36	Attribution 1986 1990	said
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 2047 2114;2139 2184	“The whole country thinks Missouri is a pretty conservative state,” “Why don’t you all surprise them on Tuesday?”
+T38	Source 2115 2122	Sanders
+T39	Cue 2123 2127	told
+T40	Attribution 2123 2127	told
+E10	Attribution:T40 Cue:T39 Source:T38 Content:T37
+T41	Source 2740 2759	The Washington Post
+T42	Cue 2760 2768	reported
+T43	Content 2770 2945	even if Sanders managed to split delegates with Clinton in Tuesday’s contests, he would then need to win 55 percent of the remaining delegates in order to tie the front-runner
+T44	Attribution 2760 2768	reported
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Discard 2948 2984;2986 3096	Amanda Terkel contributed reporting. This article was updated to reflect that Clinton was officially declared the winner and that Sanders conceded.

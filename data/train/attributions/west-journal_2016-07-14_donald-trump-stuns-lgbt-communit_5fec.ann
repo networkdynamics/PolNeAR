@@ -1,0 +1,51 @@
+T1	Content 257 307;393 536	“Many people are uncertain in this election year,” “but most Americans agree that our country is on the wrong track. I don’t think we can fix our problems unless we can talk about them frankly.”
+T2	Source 308 313	Thiel
+T3	Cue 314 319	wrote
+T4	Attribution 314 319	wrote
+E1	Attribution:T4 Cue:T3 Source:T2 Content:T1
+T5	Source 323 343	a statement to Wired
+T6	Cue 344 354	explaining
+T7	Content 355 391	why he is speaking at the convention
+T8	Attribution 344 354	explaining
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 538 543	Thiel
+T10	Cue 544 558	did not reveal
+T11	Content 559 593	exactly what he would say Thursday
+T12	Attribution 544 558	did not reveal
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 695 699	that
+T14	Cue 700 707	support
+T15	Content 708 781	the rights of parents to submit their LGBT children to conversion therapy
+T16	Attribution 700 707	support
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 786 792	oppose
+T18	Content 793 889	federal intervention in the right of states to decide which bathrooms transgender people can use
+T19	Attribution 786 792	oppose
+E5	Attribution:T19 Source:T13 Content:T18 Cue:T17
+T20	Content 892 917	Thiel’s support for Trump
+T21	Cue 918 933	was first noted
+T22	Attribution-no-source 918 933	was first noted
+E6	Attribution-no-source:T22 Cue:T21 Content:T20
+T23	Source 1042 1100	Gregory T. Angelo, president of the Log Cabin Republicans,
+T24	Cue 1101 1105	said
+T25	Content 1107 1327	“I’ve long said that were he to become the nominee, Donald Trump would be the most pro-gay candidate the Republican Party has ever had. Thiel’s role as an official speaker at the RNC continues to bolster that assertion.”
+T26	Attribution 1101 1105	said
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Cue 1329 1341	According to
+T28	Source 1342 1381	the initial schedule published Thursday
+T29	Content 1383 1605	Thiel is scheduled to speak next Thursday night, along with Heisman Trophy winner Tim Tebow; Rep. Marsha Blackburn, R-Tenn.; Oklahoma Gov. Mary Fallin; Florida Gov. Rick Scott; RNC Chairman Reince Priebus; and Ivanka Trump
+T30	Attribution 1329 1341	According to
+E8	Attribution:T30 Content:T29 Source:T28 Cue:T27
+T31	Source 1697 1699	he
+T32	Cue 1700 1706	backed
+T33	Content 1707 1734	Ron Paul for the presidency
+T34	Attribution 1700 1706	backed
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Cue 1772 1785	has supported
+T36	Content 1786 1854	Sen. Ted Cruz, R-Texas, and former Hewlett-Packard CEO Carly Fiorina
+T37	Attribution 1772 1785	has supported
+E10	Attribution:T37 Source:T31 Content:T36 Cue:T35
+T38	Cue 1891 1906	it was revealed
+T39	Content 1907 2000	that he bankrolled lawsuits by Hulk Hogan against Gawker Media, publisher of The Daily Gawker
+T40	Attribution-no-source 1891 1906	it was revealed
+E11	Attribution-no-source:T40 Content:T39 Cue:T38

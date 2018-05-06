@@ -1,0 +1,48 @@
+T1	Source 233 241	everyone
+T2	Cue 242 247	knows
+T3	Content 248 284	how Hillary Clinton caused this mess
+T4	Attribution 242 247	knows
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 370 379	reminding
+T6	Content 438 531	that the foreign policy decisions of Barack Obama and Hillary Clinton caused the rise of ISIS
+T7	Attribution-no-source 370 379	reminding
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Source 788 799	Pres. Obama
+T9	Cue 800 807	claimed
+T10	Content 808 862	a new era had begun in America’s attitude toward Islam
+T11	Attribution 800 807	claimed
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 946 952	people
+T13	Cue 953 969	initially hailed
+T14	Content 970 1021	these as bold moves by people desperate for freedom
+T15	Attribution 953 969	initially hailed
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 1487 1504	The United States
+T17	Cue 1505 1522	openly called for
+T18	Content 1523 1545	the overthrow of Assad
+T19	Attribution 1505 1522	openly called for
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1681 1694	Obama/Clinton
+T21	Cue 1695 1704	calls for
+T22	Content 1705 1718	regime change
+T23	Attribution 1695 1704	calls for
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 1775 1780	Assad
+T25	Cue 1808 1815	opposed
+T26	Source 1819 1827	the U.S.
+T27	Attribution 1808 1815	opposed
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Source 2340 2360	The mainstream media
+T29	Cue 2361 2388	has done nothing to explain
+T30	Content 2389 2393	this
+T31	Attribution 2361 2388	has done nothing to explain
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 2435 2446	complaining
+T33	Content 2447 2473	about the mainstream media
+T34	Attribution-no-source 2435 2446	complaining
+E9	Attribution-no-source:T34 Content:T33 Cue:T32
+T35	Source 2578 2628	the Donald Trump campaign and the Republican Party
+T36	Cue 2629 2644	need to realize
+T37	Content 2645 2722	that the ball is in their court when it comes to bringing Americans the truth
+T38	Attribution 2629 2644	need to realize
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35

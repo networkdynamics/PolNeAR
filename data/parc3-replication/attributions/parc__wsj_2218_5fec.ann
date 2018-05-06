@@ -1,0 +1,44 @@
+T1	Source 9 18	BSN Corp.
+T2	Cue 19 23	said
+T3	Content 24 229	it will begin an offer tomorrow to exchange up to one million of its common shares and all of its $16.6 million in 7 3/4% convertible debentures due 2001 for a package of new debt and common stock warrants
+T4	Attribution 19 23	said
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 233 238	Under
+T6	Source 239 257	terms of the offer
+T7	Content 259 384	the sporting goods maker will swap $9 face amount of 9 1/4% subordinated notes due 1996 and one warrant for each common share
+T8	Attribution 233 238	Under
+E2	Attribution:T8 Content:T7 Source:T6 Cue:T5
+T9	Source 386 398	Each warrant
+T10	Cue 399 405	allows
+T11	Content 406 494	the holder to buy one BSN share for $10.75 a share at any time over the next seven years
+T12	Attribution 399 405	allows
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 555 558	BSN
+T14	Cue 559 575	also is offering
+T15	Content 576 698	$850 face amount of new notes and 64 common-stock warrants for each $1,000 face amount of its convertible debt outstanding
+T16	Attribution 559 575	also is offering
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 702 713	The company
+T18	Cue 714 718	said
+T19	Content 719 771	it can redeem the warrants at its option for $1 each
+T20	Attribution 714 718	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 856 859	BSN
+T22	Cue 860 864	said
+T23	Content 865 940	it is making the offer to shrink its capital and increase shareholder value
+T24	Attribution 860 864	said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 942 1137	If all the bondholders and holders of one million common shares accept the offer, BSN will increase its debt by $9 million, but it also will recognize a $2 million gain from retiring the old debt
+T26	Cue 1139 1143	said
+T27	Source 1144 1176	Michael J. Blumenfeld, president
+T28	Attribution 1139 1143	said
+E7	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Content 1178 1224	"We have sufficient cash flow to handle that,"
+T30	Source 1225 1227	he
+T31	Cue 1228 1232	said
+T32	Attribution 1228 1232	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Cue 1247 1260	are scheduled
+T34	Content 1236 1246;1261 1294	The offers to expire in mid to late November
+T35	Attribution-no-source 1247 1260	are scheduled
+E9	Attribution-no-source:T35 Content:T34 Cue:T33

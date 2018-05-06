@@ -1,0 +1,50 @@
+T1	Source 0 12	Donald Trump
+T2	Cue 13 20	Invokes
+T3	Content 21 45	‘Pervert’ Anthony Weiner
+T4	Attribution 13 20	Invokes
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 80 92	Donald Trump
+T6	Cue 93 101	released
+T7	Content 102 285	a second presidential campaign ad Thursday that highlighted a recent announcement by FBI Director James Comey that his bureau is reviewing additional emails related to Hillary Clinton
+T8	Source 287 299	The first ad
+T9	Cue 321 327	argued
+T10	Content 328 438	the former secretary of state could not be president because she would be crippled by the “new investigation.”
+T11	Attribution 93 101	released
+E2	Attribution:T11 Cue:T6 Source:T5 Content:T7
+T12	Attribution 321 327	argued
+E3	Attribution:T12 Content:T10 Cue:T9 Source:T8
+T13	Source 493 495	It
+T14	Cue 496 508	again called
+T15	Content 509 543	Clinton unworthy of the presidency
+T16	Attribution 496 508	again called
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 560 562	it
+T18	Cue 563 570	invoked
+T19	Content 571 686	an infamous boogeyman ― “pervert” Anthony Weiner ― to cast the Democratic nominee as morally and criminally corrupt
+T20	Attribution 563 570	invoked
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 688 887	“Decades of lies, cover-ups and scandal have finally caught up with Hillary Clinton. Hillary Clinton is under FBI investigation again, after her emails were found on pervert Anthony Weiner’s laptop,”
+T22	Cue 888 892	said
+T23	Source 893 905	the narrator
+T24	Attribution 888 892	said
+E6	Attribution:T24 Source:T23 Cue:T22 Content:T21
+T25	Content 929 1003	“Hillary cannot lead a nation while crippled by a criminal investigation,”
+T26	Source 1004 1016	the narrator
+T27	Cue 1017 1026	concluded
+T28	Attribution 1017 1026	concluded
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 1028 1034	The ad
+T30	Cue 1035 1050	wrongly asserts
+T31	Content 1051 1092	the new batch of emails belong to Clinton
+T32	Attribution 1035 1050	wrongly asserts
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1544 1549	Comey
+T34	Cue 1550 1557	opposed
+T35	Content 1558 1694	signing on to a statement saying the Russian government was meddling in U.S. politics out of concern it would unduly affect the election
+T36	Attribution 1550 1557	opposed
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 1499 1507	The move
+T38	Cue 1508 1532	is especially perplexing
+T39	Attribution-no-source 1508 1532	is especially perplexing
+E10	Attribution-no-source:T39 Cue:T38 Content:T37
+T40	Discard 1696 1991;1992 2242	HUFFPOST READERS: What’s happening in your state or district? The Huffington Post wants to know about all the campaign ads, mailers, robocalls, candidate appearances and other interesting campaign news happening by you. Email any tips, videos, audio files or photos to scoops@huffingtonpost.com. Editor’s note: Donald Trump regularly incites political violence and is a serial liar,rampant xenophobe, racist, misogynist and birther who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S.

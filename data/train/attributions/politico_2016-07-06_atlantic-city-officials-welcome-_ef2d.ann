@@ -1,0 +1,195 @@
+T1	Source 0 23	Atlantic City officials
+T2	Cue 24 31	welcome
+T3	Content 32 73	Trump-Clinton fight over their misfortune
+T4	Attribution 24 31	welcome
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 92 107	Hillary Clinton
+T6	Cue 174 209	delivering a blistering critique of
+T7	Content 210 310	Donald Trump's failed casino ventures that doubled as a grim reminder of the city's sagging fortunes
+T8	Attribution 174 209	delivering a blistering critique of
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 313 393;473 540;541 564;565 683	“Donald Trump says he’s qualified for president because of his business record,” “What he did for his business and workers is nothing to brag about. In fact, it’s shameful. And every single voter in America needs to know about it, so he won’t do to our country what he did to Atlantic City.”
+T10	Source 394 401	Clinton
+T11	Cue 402 406	said
+T12	Attribution 402 406	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Cue 429 445	a faded sign for
+T14	Content 446 471	the shuttered Trump Plaza
+T15	Attribution-no-source 429 445	a faded sign for
+E4	Attribution-no-source:T15 Content:T14 Cue:T13
+T16	Discuss 429 430	a
+T17	Source 713 728	local officials
+T18	Cue 729 733	said
+T19	Content 734 769	they welcome the national attention
+T20	Attribution 729 733	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 772 826;891 955;956 1038	“At this point, I don’t think there is bad publicity," "We’ve made bad mistakes and have been making them for 50 years. We need to diversify our economy, and we were a bit foolish, being single-minded.”
+T22	Cue 827 831	said
+T23	Source 832 864	Atlantic City Mayor Don Guardian
+T24	Attribution 827 831	said
+E6	Attribution:T24 Source:T23 Cue:T22 Content:T21
+T25	Source 1040 1048	Guardian
+T26	Cue 1049 1053	said
+T27	Content 1054 1242	he understood why Clinton would travel here to scrutinize Trump’s failed ventures, since the city was clearly “devastated” by the casino closures and thousands of residents lost their jobs
+T28	Attribution 1049 1053	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1245 1317;1333 1446	“The Taj is having some difficult times now — going through bankruptcy,” “There’s certainly a story there, about the failures of these properties and the effect it had on Atlantic City.”
+T30	Source 1318 1326	Guardian
+T31	Cue 1327 1331	said
+T32	Attribution 1327 1331	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Source 1452 1529	Guardian, the first Republican mayor elected in Atlantic City in two decades,
+T34	Cue 1530 1562	stopped short of fully endorsing
+T35	Content 1563 1583	Clinton's criticisms
+T36	Attribution 1530 1562	stopped short of fully endorsing
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1586 1588	He
+T38	Cue 1589 1593	said
+T39	Content 1594 1745	that when Trump’s properties did well, the developer was a “good corporate citizen," who was involved in the community and gave back to local charities
+T41	Source 1751 1760	the mayor
+T42	Cue 1761 1765	said
+T43	Content 1766 1859	it would be difficult to measure just how much Trump contributed to the city’s financial ruin
+T44	Attribution 1761 1765	said
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Content 1862 1894;1895 1949	“That’s an interesting question. I think you could write a whole history book on that,”
+T46	Cue 1950 1954	said
+T47	Source 1955 1963	Guardian
+T48	Attribution 1950 1954	said
+E12	Attribution:T48 Source:T47 Cue:T46 Content:T45
+T40	Attribution 1589 1593	said
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T49	Source 1965 1968	who
+T50	Cue 1969 1984	declined to say
+T51	Content 1985 2009	who he plans to vote for
+T52	Attribution 1969 1984	declined to say
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 2181 2261	Gov. Chris Christie — who is being vetted as a possible running mate for Trump —
+T54	Content 2267 2293	revitalizing Atlantic City
+T55	Cue 2294 2304	a priority
+T56	Attribution 2294 2304	a priority
+E14	Attribution:T56 Cue:T55 Content:T54 Source:T53
+T57	Discuss 2181 2184	Gov
+T58	Source 2352 2354	he
+T59	Cue 2355 2366	has battled
+T60	Content 2381 2427	over how best to stabilize the city's finances
+T61	Attribution 2355 2366	has battled
+E15	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Cue 2442 2449	calling
+T63	Content 2450 2493	the mayor a "liar" who was not "honorable."
+T64	Attribution 2442 2449	calling
+E16	Attribution:T64 Source:T58 Cue:T62 Content:T63
+T65	Source 2495 2500	Trump
+T66	Cue 2501 2507	blamed
+T67	Content 2508 2523	local officials
+T68	Attribution 2501 2507	blamed
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Content 2554 2697;2708 2756;2757 2774;2775 2837	"Hillary Clinton should ask why the Democrat pols in Atlantic City made all the wrong moves - Convention Center, Airport - and destroyed City," "Even the once great Caesars is bankrupt in A.C. Others to follow. Ask the Democrat City Council what happened to Atlantic City."
+T70	Source 2698 2700	he
+T71	Cue 2701 2706	wrote
+T72	Attribution 2701 2706	wrote
+E18	Attribution:T72 Cue:T71 Source:T70 Content:T69
+T73	Source 2839 2846	Clinton
+T74	Cue 2862 2872	sided with
+T75	Content 2873 2881	Guardian
+T76	Attribution 2862 2872	sided with
+E19	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Content 2884 2945;2971 3139	"You’ve got a city council and a mayor working hand-in-hand," "And if your governor would start doing his job instead of following Donald Trump around holding his coat, maybe we could really get New Jersey’s economy moving again."
+T78	Source 2946 2949	she
+T79	Cue 2950 2954	said
+T80	Attribution 2950 2954	said
+E20	Attribution:T80 Cue:T79 Source:T78 Content:T77
+T81	Source 3141 3149	Guardian
+T82	Cue 3150 3155	hopes
+T83	Content 3156 3239	that Clinton’s focus on Atlantic City could produce a positive outcome for the city
+T84	Attribution 3150 3155	hopes
+E21	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Cue 3241 3252	pointing to
+T86	Content 3253 3344	the sale of some city-owned plots of land for $1.7 million at a real estate auction in June
+T87	Attribution 3241 3252	pointing to
+E22	Attribution:T87 Source:T81 Cue:T85 Content:T86
+T88	Source 3347 3381	City Council president Marty Small
+T89	Cue 3382 3386	said
+T90	Content 3387 3455	that Clinton’s trip to Atlantic City is an “incredible opportunity.”
+T91	Attribution 3382 3386	said
+E23	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Content 3457 3562;3599 3627;3628 3737	“It’s a positive story that the presidential candidates are making Atlantic City part of their platform,” “They understand our plight. Both Christie and Trump have horrible histories when it comes to Atlantic City and that needs to be exposed.”
+T93	Cue 3563 3567	said
+T94	Source 3568 3597	Small, who attended the rally
+T95	Attribution 3563 3567	said
+E24	Attribution:T95 Source:T94 Cue:T93 Content:T92
+T96	Source 3739 3748	Democrats
+T97	Cue 3749 3763	largely echoed
+T98	Content 3764 3941	Clinton's line of criticism — that Trump's penchant for declaring bankruptcy hurt small businesses that contracted with his casinos, and employees who ultimately lost their jobs
+T99	Attribution 3749 3763	largely echoed
+E25	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Source 3944 3949	Small
+T101	Cue 3988 3992	said
+T102	Content 3993 4097	that “Trump bagged millions of dollars and took advantage of bankruptcy laws to hurt the little people.”
+T103	Attribution 3988 3992	said
+E26	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Content 4099 4166	“A lot of businesses are still hurting because of his shenanigans,”
+T105	Source 4167 4169	he
+T106	Cue 4170 4174	said
+T107	Content 4177 4266;4357 4446	“In the primary debates he pooh-poohed this Atlantic City bankruptcy as normal business,” “But it was a big deal for the businesses that went under and the people who went under.”
+T108	Cue 4267 4271	said
+T109	Source 4272 4355	Sen. Jim Whelan who represents Atlantic City and served as its mayor for many years
+T110	Attribution 4170 4174	said
+E27	Attribution:T110 Content:T104 Source:T105 Cue:T106
+T111	Attribution 4267 4271	said
+E28	Attribution:T111 Source:T109 Cue:T108 Content:T107
+T112	Source 4448 4552	State Senate President Steve Sweeney, who also serves as a top official in the state iron workers union,
+T113	Cue 4553 4557	said
+T114	Content 4558 4618	contractors eventually built a Trump cushion into their bids
+T115	Attribution 4553 4557	said
+E29	Attribution:T115 Content:T114 Cue:T113 Source:T112
+T116	Content 4621 4689;4741 4918;4919 4936;4937 4959	“As a construction guy, he put a lot of people out of business, too" "In fact, there was an old saying down there, when people would bid his projects, you would bid him 20 percent higher, because you knew that he would screw you out of the money. Just so you know. I know that’s a fact.”
+T117	Source 4690 4696	Sweeny
+T118	Cue 4697 4701	said
+T119	Attribution 4697 4701	said
+E30	Attribution:T119 Cue:T118 Source:T117 Content:T116
+T120	Source 5064 5083	about 50 protesters
+T121	Cue 5119 5127	chanting
+T122	Content 5128 5151	"no contract, no peace"
+T123	Attribution 5119 5127	chanting
+E31	Attribution:T123 Content:T122 Cue:T121 Source:T120
+T124	Source 5305 5339	Mayra Gonzalez, a cook at the Taj,
+T125	Cue 5340 5344	said
+T126	Content 5345 5415	it was important for Clinton to publicize Trump’s failures in the city
+T127	Attribution 5340 5344	said
+E32	Attribution:T127 Content:T126 Cue:T125 Source:T124
+T128	Content 5418 5452;5487 5547	“It’s a great opportunity for us,” “Look what [Icahn’s] been doing to us and Trump did it too.”
+T129	Cue 5453 5457	said
+T130	Source 5458 5486	Gonzalez, 55, of Brigantine.
+T131	Attribution 5453 5457	said
+E33	Attribution:T131 Source:T130 Cue:T129 Content:T128
+E34	Attribution:T131 Source:T130 Cue:T129
+T132	Source 5549 5584	County freeholder Ernest D. Coursey
+T133	Cue 5585 5589	said
+T134	Content 5590 5681	it was important that Clinton "let the people on the picket line know that she hears them."
+T135	Attribution 5585 5589	said
+E35	Attribution:T135 Content:T134 Cue:T133 Source:T132
+T136	Content 5683 5811;5821 5995	“All of Trump’s properties had gone to hell in a handbasket, the only thing that’s surviving on a shoe string is the Taj Mahal,” “I’m not going to tell you Trump didn’t do good things in the heyday, but in the later years Donald got his money and ran, while there are still folks here who are starving.”
+T137	Source 5812 5814	he
+T138	Cue 5815 5819	said
+T139	Attribution 5815 5819	said
+E36	Attribution:T139 Cue:T138 Source:T137 Content:T136
+T140	Source 5997 6004	Coursey
+T141	Cue 6005 6010	noted
+T142	Content 6011 6124	that Clinton was speaking in the shadow of the same convention hall that hosted the Democratic convention of 1964
+T143	Attribution 6005 6010	noted
+E37	Attribution:T143 Content:T142 Cue:T141 Source:T140
+T144	Source 6183 6196	Atlantic City
+T145	Cue 6197 6214	make the case for
+T146	Content 6215 6233	legalized gambling
+T147	Attribution 6197 6214	make the case for
+E38	Attribution:T147 Content:T146 Cue:T145 Source:T144
+T148	Content 6235 6240	which
+T149	Cue 6241 6259	was later approved
+T150	Attribution-no-source 6241 6259	was later approved
+E39	Attribution-no-source:T150 Cue:T149 Content:T148
+T151	Content 6271 6336	“All roads to the White House are leading through Atlantic City,”
+T152	Source 6337 6339	he
+T153	Cue 6340 6344	said
+T154	Attribution 6340 6344	said
+E40	Attribution:T154 Cue:T153 Source:T152 Content:T151
+T155	Discard 6347 6382	--additional reporting by Linh Tat.

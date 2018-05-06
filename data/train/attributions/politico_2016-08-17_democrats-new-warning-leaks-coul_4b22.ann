@@ -1,0 +1,227 @@
+T1	Source 0 22	Democrats' new warning
+T2	Cue 22 23	:
+T3	Content 24 56	Leaks could include Russian lies
+T4	Attribution 22 23	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 389 392	who
+T6	Cue 393 396	say
+T7	Content 397 531	Russian security services have been known to doctor documents and images or bury fictitious, damaging details amid genuine information
+T8	Attribution 393 396	say
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 600 620	security specialists
+T10	Cue 621 624	say
+T11	Content 625 698	it’s a realistic extension of Moscow’s robust information warfare efforts
+T12	Attribution 621 624	say
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 867 879	according to
+T14	Source 880 900	a source on the call
+T15	Content 701 865	Pelosi aired her concerns during a Saturday night conference call with Democratic lawmakers and aides who had been stung by a dump of their emails and phone numbers
+T16	Attribution 867 879	according to
+E4	Attribution:T16 Content:T15 Source:T14 Cue:T13
+T17	Source 903 925	Democratic strategists
+T18	Cue 926 929	say
+T19	Content 930 1122	the party would be wise to trumpet warnings about faked leaks as it braces for the possibility of hackers releasing damaging information about Clinton or other candidates close to Election Day
+T20	Attribution 926 929	say
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 1414 1418	said
+T22	Source 1419 1531	Anita Dunn, who was White House communications director in the early part of President Barack Obama’s first term
+T23	Content 1256 1413	“It is certainly a valid issue to raise, because clearly the people who are doing these attacks have a political agenda that’s against the Democratic Party,”
+T24	Attribution 1414 1418	said
+E6	Attribution:T24 Content:T23 Source:T22 Cue:T21
+T25	Content 1754 1817;1885 1950	“why wouldn’t you want to raise the potential [for tampering]?” “I think it’s only prudent for people to raise that possibility."
+T26	Cue 1818 1823	asked
+T27	Source 1824 1883	Dunn, now a partner at communications firm SKDKnickerbocker
+T28	Attribution 1818 1823	asked
+E7	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Source 1952 1963	Republicans
+T30	Cue 1964 1967	say
+T31	Content 1968 2072	Democrats are just trying to distract the public from the most important issue: the content of the leaks
+T32	Attribution 1964 1967	say
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 2074 2078	They
+T34	Cue 2079 2082	say
+T35	Content 2083 2209	the Democrats already tried to do that with the first batch of 20,000 Democratic National Committee emails that leaked in July
+T36	Attribution 2079 2082	say
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 2211 2216	which
+T38	Cue 2285 2292	showing
+T39	Content 2293 2374	that some DNC staffers had favored Clinton over primary rival Sen. Bernie Sanders
+T40	Attribution 2285 2292	showing
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Cue 2477 2481	said
+T42	Source 2482 2529	Matt Mackowiak, a veteran Republican strategist
+T43	Content 2377 2476	“First, they made it all about Russia instead of the substance of what was actually in the emails,”
+T44	Source 2536 2538	he
+T45	Cue 2539 2544	added
+T46	Content 2546 2740	“If there is a massive trove of emails or documents relating to the Clinton campaign or the Clinton Foundation … they may just say, ‘Look, the authenticity of the emails hasn’t been confirmed.’”
+T47	Attribution 2477 2481	said
+E11	Attribution:T47 Cue:T41 Source:T42 Content:T43
+T48	Attribution 2539 2544	added
+E12	Attribution:T48 Content:T46 Cue:T45 Source:T44
+T49	Source 2742 2861	Intelligence officials — including NSA Director Adm. Michael Rogers and Director of National Intelligence James Clapper
+T50	Cue 2864 2880	have long argued
+T51	Content 2881 3045	that data manipulation more broadly is a disturbing possibility, and potentially the next front in both cybercrime and the budding digital warfare between countries
+T52	Attribution 2864 2880	have long argued
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 3060 3157	a bipartisan group of 32 national security experts at the Aspen Institute Homeland Security Group
+T54	Cue 3158 3167	warned of
+T55	Content 3168 3216	a specific type of fakery following the DNC hack
+T56	Attribution 3158 3167	warned of
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Cue 3218 3225	arguing
+T58	Content 3226 3393	that the suspected Russian hackers who struck the DNC and the Democratic Congressional Campaign Committee could “salt the files they release with plausible forgeries.”
+T59	Attribution 3218 3225	arguing
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T53
+T60	Cue 3838 3848	reportedly
+T61	Content 3821 3837;3849 3901	the hackers have infiltrated more than 100 party officials and groups
+T62	Attribution-no-source 3838 3848	reportedly
+E16	Attribution-no-source:T62 Content:T61 Cue:T60
+T63	Source 3911 3923	progressives
+T64	Cue 3924 3931	fearful
+T65	Content 3932 4001	that the entire Democratic Party apparatus is potentially compromised
+T66	Attribution 3924 3931	fearful
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Source 4027 4061	House members in competitive races
+T68	Cue 4062 4083	voiced concerns about
+T69	Content 4084 4127	what damning information might be out there
+T70	Attribution 4062 4083	voiced concerns about
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Source 4134 4153	hacking specialists
+T72	Cue 4154 4157	say
+T73	Content 4158 4212	the most harmful information might not even be genuine
+T74	Attribution 4154 4157	say
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Source 4396 4437	CrowdStrike co-founder Dmitri Alperovitch
+T76	Cue 4438 4442	told
+T77	Content 4215 4395;4453 4590	“You may have material that’s 95 percent authentic, but 5 percent is modified, and you’ll never actually be able to prove a negative, that you never wrote what’s in that material,” “Even if you released the original email, how will you prove that it’s not doctored? It’s sort of damned if you do, damned if you don’t."
+T78	Attribution 4438 4442	told
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 4592 4621	Several Democratic operatives
+T80	Cue 4622 4626	said
+T81	Content 4627 4708	they even expect fake information, though mixed with enough truth to cause damage
+T82	Attribution 4622 4626	said
+E21	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Cue 4751 4755	said
+T84	Source 4756 4804	Craig Varoga, a D.C.-based Democratic strategist
+T85	Content 4711 4750;4806 4944	“The most powerful lie contains truth,” “Whether it’s the devil or it's Russian intelligence services, they traffic in things that are true in order to put across a greater lie.”
+T86	Attribution 4751 4755	said
+E22	Attribution:T86 Content:T85 Source:T84 Cue:T83
+T87	Source 5378 5392	Syrian hackers
+T88	Cue 5393 5400	backing
+T89	Content 5401 5433	embattled President Bashar Assad
+T90	Attribution 5393 5400	backing
+E23	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Cue 5482 5494	tweeting out
+T92	Content 5495 5572	falsified reports of two explosions at the White House that had injured Obama
+T93	Attribution 5482 5494	tweeting out
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T87
+T94	Cue 5645 5657	according to
+T95	Source 5658 5667	Bloomberg
+T96	Content 5574 5643	The Dow plummeted in minutes, wiping out $136 billion in market value
+T97	Attribution 5645 5657	according to
+E25	Attribution:T97 Content:T96 Source:T95 Cue:T94
+T98	Cue 5754 5777	has long been known for
+T99	Content 5747 5753;5778 5813	Russia engaging in such propaganda warfare
+T100	Attribution-no-source 5754 5777	has long been known for
+E26	Attribution-no-source:T100 Content:T99 Cue:T98
+T101	Source 5864 5871	the KGB
+T102	Cue 5872 5904	spread conspiracy theories about
+T103	Content 5905 5979	the FBI and CIA’s involvement in President John F. Kennedy’s assassination
+T104	Attribution 5872 5904	spread conspiracy theories about
+E27	Attribution:T104 Content:T103 Cue:T102 Source:T101
+T105	Source 5995 6002	the KGB
+T106	Cue 6003 6038	planted newspaper articles alleging
+T107	Content 6039 6114	that the U.S. had invented HIV during a biological weapons research project
+T108	Attribution 6003 6038	planted newspaper articles alleging
+E28	Attribution:T108 Content:T107 Cue:T106 Source:T105
+T109	Cue 6379 6391	according to
+T110	Source 6392 6429	a former top Soviet security official
+T111	Content 6118 6377	he security agency also secretly helped an East German journalist write a book, “Who’s Who in the CIA,” that accurately outed numerous undercover CIA agents but also intentionally included a raft of people who were simply American officials stationed overseas
+T112	Attribution 6379 6391	according to
+E29	Attribution:T112 Content:T111 Source:T110 Cue:T109
+T113	Source 6584 6587	who
+T114	Cue 6588 6599	wrote about
+T115	Content 6600 6665	the “creative” use of forgeries in conjunction with genuine leaks
+T116	Attribution 6588 6599	wrote about
+E30	Attribution:T116 Content:T115 Cue:T114 Source:T113
+T117	Cue 6860 6865	wrote
+T118	Source 6866 6966	Markus Wolf, who had headed East Germany’s foreign intelligence division for more than three decades
+T119	Content 6668 6859	“Embarrassed by the publication of genuine but suppressed information, the targets were badly placed to defend themselves against the other, more damaging accusations that had been invented,”
+T120	Attribution 6860 6865	wrote
+E31	Attribution:T120 Content:T119 Source:T118 Cue:T117
+T121	Source 6988 6990	he
+T122	Cue 6991 6996	added
+T123	Content 6997 7154	that, “my principle was to stick as close to the truth as possible, especially when there was so much of it that could easily further the department’s aims.”
+T124	Attribution 6991 6996	added
+E32	Attribution:T124 Content:T123 Cue:T122 Source:T121
+T125	Cue 7629 7633	said
+T126	Source 7634 7738	James Lewis, an international cyber policy expert at the Center for Strategic and International Studies,
+T127	Content 7594 7628;7750 7947	“Standard Russian modus operandi,” “They’ve done it before in the Baltics and other parts of Europe: Leak a lot of real data and slip in some fakes (or more often, things that have been subtly modified rather than a complete fake).”
+T128	Attribution 7629 7633	said
+E33	Attribution:T128 Content:T127 Source:T126 Cue:T125
+T129	Source 7949 7974	Digital forensics experts
+T130	Cue 7975 7985	even noted
+T131	Content 7986 8054;8100 8176	that the metadata on some of the early documents leaked from the DNC had been altered, although it didn’t appear that any content was compromised
+T132	Cue 8333 8337	said
+T133	Source 8338 8452	Steve Ward, director of communications for digital security firm FireEye, which tracks many Russian hacking groups
+T134	Content 8236 8332;8454 8488	“They have information warfare as a core tenet of what they do form a geopolitical perspective,” “It’s really in their wheelhouse.”
+T135	Attribution 8333 8337	said
+E34	Attribution:T135 Cue:T132 Content:T134 Source:T133
+T136	Source 8494 8533	Ward and other digital security experts
+T137	Cue 8534 8545	acknowledge
+T138	Content 8546 8684	that the exact scenario Pelosi was discussing would be novel, and that so far, hackers have had little incentive to manipulate leaked data
+T139	Attribution 8534 8545	acknowledge
+E35	Attribution:T139 Cue:T137 Source:T136 Content:T138
+T140	Source 8894 8898	Ward
+T141	Cue 8899 8903	said
+T142	Content 8802 8893	“You’ve got to suspend disbelief and trust the bad guys when you’re looking at this stuff,”
+T143	Attribution 8899 8903	said
+E36	Attribution:T143 Cue:T141 Source:T140 Content:T142
+T144	Source 9041 9043	he
+T145	Cue 9044 9049	added
+T146	Content 8905 9040	If they make just one discredited leak, hackers are “effectively losing the value of the operation by creating distrust with the data,”
+T147	Attribution 9044 9049	added
+E37	Attribution:T147 Source:T144 Content:T146 Cue:T145
+T148	Attribution 7975 7985	even noted
+E38	Attribution:T148 Content:T131 Cue:T130 Source:T129
+T149	Source 9311 9322	strategists
+T150	Cue 9323 9327	said
+T151	Content 9295 9309;9329 9386	it makes sense for Democrats to put the concept in the public’s mind now
+T152	Attribution 9323 9327	said
+E39	Attribution:T152 Content:T151 Cue:T150 Source:T149
+T153	Cue 9440 9444	said
+T154	Source 9445 9490	Brad Bannon, a longtime Democratic consultant
+T155	Content 9389 9439;9492 9568	“What Pelosi is doing is making the response now,” “Democrats do have their antenna up over this thing. They are anticipating.”
+T156	Attribution 9440 9444	said
+E40	Attribution:T156 Content:T155 Source:T154 Cue:T153
+T157	Source 9063 9081	many cyber experts
+T158	Cue 9082 9092	to suspect
+T159	Content 9093 9208	that any release of faked emails, if it comes at all, would probably not come until days before the Nov. 8 election
+T160	Attribution 9082 9092	to suspect
+E41	Attribution:T160 Content:T159 Cue:T158 Source:T157
+T161	Cue 5269 5273	anti
+T162	Content 5274 5277	war
+T163	Source 5278 5288	protesters
+T164	Attribution 5269 5273	anti
+E42	Attribution:T164 Source:T163 Content:T162 Cue:T161
+T165	Cue 5293 5300	alleged
+T166	Content 5301 5324	communist organizations
+T167	Attribution-no-source 5293 5300	alleged
+E43	Attribution-no-source:T167 Content:T166 Cue:T165
+T168	Source 3415 3421	Pelosi
+T169	Cue 3422 3437	was underlining
+T170	Content 3438 3482	a point made by cyber experts at CrowdStrike
+T171	Attribution 3422 3437	was underlining
+E44	Attribution:T171 Content:T170 Cue:T169 Source:T168
+T172	Source 1671 1687	many researchers
+T173	Cue 1688 1695	believe
+T174	Content 1534 1665	If Russia is indeed attempting to destabilize Clinton’s candidacy through the widespread digital assault on Democratic institutions
+T175	Attribution 1688 1695	believe
+E45	Attribution:T175 Content:T174 Cue:T173 Source:T172
+T176	Discuss 1534 1723	If Russia is indeed attempting to destabilize Clinton’s candidacy through the widespread digital assault on Democratic institutions — as many researchers believe, and Democrats are alleging
+T177	Source 59 77	Democratic leaders
+T178	Cue 78 103	are putting out a warning
+T179	Content 181 290	Any future mass leaks of embarrassing party emails might contain fake information inserted by Russian hackers
+T180	Attribution 78 103	are putting out a warning
+E46	Attribution:T180 Content:T179 Cue:T178 Source:T177
+T181	Discuss 60 290	emocratic leaders are putting out a warning that could help inoculate Hillary Clinton against an October cyber surprise: Any future mass leaks of embarrassing party emails might contain fake information inserted by Russian hackers

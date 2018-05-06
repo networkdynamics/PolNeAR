@@ -1,0 +1,167 @@
+T1	Source 0 4	U.S.
+T2	Cue 5 24	officially condemns
+T3	Content 25 31	Russia
+T4	Attribution 5 24	officially condemns
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 47 61	Administration
+T6	Cue 62 69	accuses
+T7	Content 70 114	Moscow of trying to interfere with elections
+T8	Attribution 62 69	accuses
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 117 141	The Obama administration
+T10	Cue 152 170	officially accused
+T11	Content 171 333	Russia of attempting to interfere in the 2016 elections, including by hacking the computers of the Democratic National Committee and other political organizations
+T12	Attribution 152 170	officially accused
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 534 550	to publicly name
+T14	Content 551 557	Moscow
+T15	Attribution-no-source 534 550	to publicly name
+E4	Attribution-no-source:T15 Content:T14 Cue:T13
+T16	Content 651 849;896 988	"The U.S. Intelligence Community is confident that the Russian Government directed the recent compromises of e-mails from U.S. persons and institutions, including from U.S. political organizations," "... These thefts and disclosures are intended to interfere with the U.S. election process."
+T17	Cue 850 854	said
+T18	Source 855 894	a joint statement from the two agencies
+T19	Attribution 850 854	said
+E5	Attribution:T19 Source:T18 Cue:T17 Content:T16
+T20	Source 1077 1080	who
+T21	Cue 1081 1090	also said
+T22	Content 1091 1213	they now expect the administration to move to punish the Kremlin as part of an effort to deter further acts by its hackers
+T23	Attribution 1081 1090	also said
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 990 1016	The public finger-pointing
+T25	Cue 1017 1029	was welcomed
+T26	Source 1033 1075	senior Democratic and Republican lawmakers
+T27	Attribution 1017 1029	was welcomed
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Content 1216 1248;1324 1597	"Today was just the first step," "Russia must face serious consequences. Moscow orchestrated these hacks because [Russian President Vladimir] Putin believes Soviet-style aggression is worth it. The United States must upend Putin's calculus with a strong diplomatic, political, cyber and economic response."
+T29	Cue 1249 1253	said
+T30	Source 1254 1322	Sen. Ben Sasse (R-Neb.), a member of the Homeland Security Committee
+T31	Attribution 1249 1253	said
+E8	Attribution:T31 Source:T30 Cue:T29 Content:T28
+T32	Source 1599 1614	The White House
+T33	Cue 1615 1631	has been mulling
+T34	Content 1632 1651	potential responses
+T35	Attribution 1615 1631	has been mulling
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1743 1750	The DNC
+T37	Cue 1751 1769	publicly disclosed
+T38	Content 1770 1784	the intrusions
+T39	Attribution 1751 1769	publicly disclosed
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1794 1800	saying
+T41	Content 1801 1884	its investigation determined that Russian government hackers were behind the breach
+T42	Attribution 1794 1800	saying
+E11	Attribution:T42 Source:T36 Content:T41 Cue:T40
+T43	Source 2115 2133	The administration
+T44	Cue 2134 2145	also blamed
+T45	Content 2146 2313	Moscow for the hack of the Democratic Congressional Campaign Committee and the subsequent leak of private email addresses and cellphone numbers of Democratic lawmakers
+T46	Attribution 2134 2145	also blamed
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Content 2358 2390	The digitally purloined material
+T48	Cue 2391 2403	has appeared
+T49	Source 2407 2446	websites such as DC Leaks and WikiLeaks
+T50	Attribution 2391 2403	has appeared
+E13	Attribution:T50 Source:T49 Cue:T48 Content:T47
+T51	Source 2618 2664	An online persona calling himself Guccifer 2.0
+T52	Cue 2665 2676	has claimed
+T53	Content 2677 2716	responsibility for posting the material
+T54	Attribution 2665 2676	has claimed
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Content 2718 2825;2852 3003	Those sites and that persona are "consistent with the methods and motivations of Russian-directed efforts," "... We believe, based on the scope and sensitivity of these efforts, that only Russia's senior-most officials could have authorized these activities."
+T56	Source 2826 2845	the joint statement
+T57	Cue 2846 2850	said
+T58	Attribution 2846 2850	said
+E15	Attribution:T58 Cue:T57 Source:T56 Content:T55
+T59	Source 3005 3016	The Kremlin
+T60	Cue 3027 3036	dismissed
+T61	Content 3037 3068	the administration's accusation
+T62	Attribution 3027 3036	dismissed
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Content 3071 3103;3151 3368	"This is some sort of nonsense," "Every day, Putin's site gets attacked by tens of thousands of hackers. Many of these attacks can be traced to U.S. territory. It's not as though we accuse the White House or Langley of doing it each time it happens."
+T64	Cue 3104 3108	said
+T65	Source 3109 3149	Dmitry Peskov, press secretary for Putin
+T66	Attribution 3104 3108	said
+E17	Attribution:T66 Source:T65 Cue:T64 Content:T63
+T67	Source 3370 3394	The Obama administration
+T68	Cue 3395 3400	noted
+T69	Content 3401 3489	that attempts to interfere in other countries' political processes are not new to Moscow
+T70	Attribution 3395 3400	noted
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Content 3491 3595	Russian hackers have used hacking and other techniques to influence public opinion in Europe and Eurasia
+T72	Source 3597 3599	it
+T73	Cue 3600 3605	noted
+T74	Attribution 3600 3605	noted
+E19	Attribution:T74 Cue:T73 Source:T72 Content:T71
+T75	Source 3793 3819	The intelligence community
+T76	Cue 3820 3848	has for weeks been confident
+T77	Content 3849 3915	that hackers tied to Russian spy agencies were behind the DNC hack
+T78	Attribution 3820 3848	has for weeks been confident
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 3917 3967	Senior officials at the Justice Department and DHS
+T80	Cue 3968 3975	pressed
+T81	Content 3992 4023	to go public with an accusation
+T82	Attribution 3968 3975	pressed
+E21	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Source 4030 4066	a number of administration officials
+T84	Cue 4067 4079	were worried
+T85	Content 4080 4171	that such a statement would appear to politicize the issue in the weeks before the election
+T86	Attribution 4067 4079	were worried
+E22	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Source 4173 4177	They
+T88	Cue 4178 4203	were also concerned about
+T89	Content 4204 4304	the Kremlin's reaction and about inadvertently disclosing sensitive intelligence sources and methods
+T90	Attribution 4178 4203	were also concerned about
+E23	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Content 4307 4338;4471 4648	"Is it in our interest to act?" "The primary guiding and overarching focus in these discussions is: What is in the national security interest of the United States? That's the North Star for those discussions."
+T92	Source 4339 4413	Lisa O. Monaco, Obama's adviser on counterterrorism and homeland security,
+T93	Cue 4414 4418	said
+T94	Attribution 4414 4418	said
+E24	Attribution:T94 Cue:T93 Source:T92 Content:T91
+T95	Source 4650 4681	Senior administration officials
+T96	Cue 4698 4715	had begun to hint
+T97	Content 4716 4757	that a public attribution might be coming
+T98	Attribution 4698 4715	had begun to hint
+E25	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Content 4760 4853;4962 5058	"We know Russia is a bad actor in cyberspace, just as China has been, just as Iran has been," "Nobody should think that there is a free pass when you're conducting malicious cyber-activity."
+T100	Source 4854 4860	Monaco
+T101	Cue 4861 4865	said
+T102	Attribution 4861 4865	said
+E26	Attribution:T102 Cue:T101 Source:T100 Content:T99
+T103	Source 5060 5098	Assistant Attorney General John Carlin
+T104	Cue 5099 5103	said
+T105	Content 5122 5256	that the message to countries, such as Russia, that attempt to meddle in the U.S. election is, "You can and will be held accountable."
+T106	Attribution 5099 5103	said
+E27	Attribution:T106 Content:T105 Cue:T104 Source:T103
+T107	Cue 5263 5283	the public naming of
+T108	Content 5284 5290	Moscow
+T110	Source 5292 5310	the administration
+T111	Cue 5311 5340	has now officially called out
+T112	Content 5341 5423	all its major nation-state foes in cyberspace: China, Iran, North Korea and Russia
+T113	Attribution 5311 5340	has now officially called out
+E29	Attribution:T113 Content:T112 Cue:T111 Source:T110
+T109	Attribution 5263 5283	the public naming of
+E28	Attribution:T109 Source:T110 Content:T108 Cue:T107
+T114	Source 5689 5711	The Justice Department
+T115	Cue 5712 5739	could bring indictments for
+T116	Content 5740 5747	hacking
+T117	Attribution 5712 5739	could bring indictments for
+E30	Attribution:T117 Content:T116 Cue:T115 Source:T114
+T118	Source 5915 5994	Jason Healey, a senior research scholar on cyber-issues at Columbia University,
+T119	Cue 5995 5999	said
+T120	Content 6000 6070	the Pentagon's Cyber Command should disrupt Russian hacking operations
+T121	Attribution 5995 5999	said
+E31	Attribution:T121 Content:T120 Cue:T119 Source:T118
+T122	Content 6072 6109;6119 6161	"Go after their command and control," "'Counteroffensive' is the key word here."
+T123	Source 6110 6112	he
+T124	Cue 6113 6117	said
+T125	Attribution 6113 6117	said
+E32	Attribution:T125 Cue:T124 Source:T123 Content:T122
+T126	Source 6163 6255	Rep. Adam B. Schiff of California, the ranking Democrat on the House Intelligence Committee,
+T127	Cue 6256 6261	urged
+T128	Content 6281 6401	to work with European allies to develop a "concerted" response, whether it involves economic sanctions or other measures
+T129	Attribution 6256 6261	urged
+E33	Attribution:T129 Content:T128 Cue:T127 Source:T126
+T130	Content 6404 6432;6446 6583	"The best way to push back," "is in a truly international effort to let the Russians know there will be costs to this latest form of cyber-aggression against others."
+T131	Source 6433 6439	Schiff
+T132	Cue 6440 6444	said
+T133	Attribution 6440 6444	said
+E34	Attribution:T133 Cue:T132 Source:T131 Content:T130

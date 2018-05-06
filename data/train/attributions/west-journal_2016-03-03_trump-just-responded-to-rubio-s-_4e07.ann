@@ -1,0 +1,69 @@
+T1	Source 0 5	Trump
+T2	Cue 6 20	Just Responded
+T3	Content 21 50	To Rubio’s Biggest Attack Yet
+T4	Attribution 6 20	Just Responded
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 209 222	pressed about
+T6	Content 223 289	the personal attacks each has engaged in during the last few weeks
+T7	Attribution-no-source 209 222	pressed about
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Source 292 312	Moderator Bret Baier
+T9	Cue 313 347	started the exchange off by asking
+T10	Content 354 463	why he decided to attack Trump personally when he had stated last month that he did not want to go that route
+T11	Attribution 313 347	started the exchange off by asking
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 466 471	Rubio
+T13	Cue 472 481	responded
+T14	Content 482 668	that Donald Trump had been ridiculing and engaging in personal attacks the entire campaign, and the senator finally felt he had to give the billionaire candidate some of his own medicine
+T15	Attribution 472 481	responded
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 671 676	Rubio
+T17	Cue 677 693	also pointed out
+T18	Content 694 839	that the media has been rewarding Trump’s behavior by giving him tremendous amounts of airtime, when he engages in the attacks against his rivals
+T19	Attribution 677 693	also pointed out
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 842 847	Trump
+T21	Cue 848 873	responded first by saying
+T22	Content 874 919	he should not have called Rubio a lightweight
+T23	Attribution 848 873	responded first by saying
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Cue 925 941	then pointed out
+T25	Content 942 1073	that the senator had found a new line of attack by mocking his hand size and the relationship it has to another part of his anatomy
+T26	Attribution 925 941	then pointed out
+E7	Attribution:T26 Cue:T24 Content:T25 Source:T20
+T27	Content 1076 1217;1231 1343	“I have to say this, he hit my hands. Nobody has ever hit my hands, I’ve never heard of this one. Look at those hands, are they small hands?” “He referred to my hands —if they are small, something else must be small. I guarantee you, there’s no problem.”
+T28	Source 1218 1223	Trump
+T29	Cue 1224 1228	said
+T30	Attribution 1224 1228	said
+E8	Attribution:T30 Cue:T29 Source:T28 Content:T27
+T31	Source 1408 1420	Donald Trump
+T32	Cue 1421 1426	knows
+T33	Content 1427 1472	what you mean when you say he has small hands
+T34	Attribution 1421 1426	knows
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 1477 1479	he
+T36	Cue 1480 1484	says
+T37	Content 1485 1510	there’s no problem. Nope.
+T38	Attribution 1480 1484	says
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Content 1612 1698;1751 1908	“He’s always calling me ‘Little Marco.’ I admit, he’s taller than me; he’s like 6’2”,” “Which is why I don’t understand why his hands are the size of someone who is 5’2”. You know what they say about men with small hands? You can’t trust them.”
+T40	Source 1699 1704	Rubio
+T41	Cue 1705 1716	said Sunday
+T42	Attribution 1705 1716	said Sunday
+E11	Attribution:T42 Cue:T41 Source:T40 Content:T39
+T44	Source 2022 2024	he
+T45	Cue 2025 2031	called
+T46	Content 2038 2067	“Little Marco” multiple times
+T47	Attribution 2025 2031	called
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Content 1559 1590	Rubio’s comments came on Sunday
+T49	Source 1592 1600	The Hill
+T50	Cue 1601 1609	reported
+T51	Attribution 1601 1609	reported
+E13	Attribution:T51 Cue:T50 Source:T49 Content:T48
+T52	Source 1910 1915	Trump
+T53	Cue 1918 1942	attempt not to engage in
+T54	Content 1943 1959	personal attacks
+T55	Attribution 1918 1942	attempt not to engage in
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Discuss 1910 1959	Trump’s attempt not to engage in personal attacks

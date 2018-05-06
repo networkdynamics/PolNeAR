@@ -1,0 +1,77 @@
+T1	Source 414 421	Traders
+T2	Cue 422 428	expect
+T3	Content 429 470	markets to fall sharply if Mr. Trump wins
+T4	Attribution 422 428	expect
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 553 556	who
+T6	Cue 557 562	think
+T7	Content 563 671	that his low-tax policies and his promise to invest in infrastructure would eventually spur market sentiment
+T8	Attribution 557 562	think
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 1136 1147	planning to
+T10	Content 1148 1181	update investors on their results
+T11	Source 1067 1135	The British bank HSBC and the Italian bank UniCredit are among those
+T12	Attribution 1136 1147	planning to
+E3	Attribution:T12 Source:T11 Content:T10 Cue:T9
+T13	Cue 1211 1219	expected
+T14	Content 1199 1205;1220 1235	better earnings season
+T15	Attribution-no-source 1211 1219	expected
+E4	Attribution-no-source:T15 Content:T14 Cue:T13
+T16	Source 1275 1306	Credit Suisse and Deutsche Bank
+T17	Cue 1307 1321	both reporting
+T18	Content 1322 1350	profits in the third quarter
+T19	Attribution 1307 1321	both reporting
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 1355 1386	most banks meeting or exceeding
+T21	Source 1387 1396	analysts'
+T22	Cue 1397 1409	expectations
+T23	Attribution 1397 1409	expectations
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Cue 1534 1546	is to report
+T25	Content 1547 1569	third-quarter earnings
+T26	Source 1484 1533	ArcelorMittal, the world's largest steel company,
+T27	Attribution 1534 1546	is to report
+E7	Attribution:T27 Source:T26 Content:T25 Cue:T24
+T28	Cue 1779 1802	have in the past blamed
+T29	Source 1714 1778	ArcelorMittal, which is based in Luxembourg, and other companies
+T30	Content 1803 1856	a flood of Chinese exports for poor financial results
+T31	Attribution 1779 1802	have in the past blamed
+E8	Attribution:T31 Content:T30 Source:T29 Cue:T28
+T32	Cue 1914 1930	have put through
+T33	Content 1931 1998	punitive tariffs to deter dumping by Chinese and other steel makers
+T34	Source 1858 1913	Both the United States and, of late, the European Union
+T35	Attribution 1914 1930	have put through
+E9	Attribution:T35 Source:T34 Content:T33 Cue:T32
+T36	Cue 2093 2104	is expected
+T37	Content 2079 2092;2105 2158	Goldman Sachs to disclose the list of its vaunted new partner class
+T38	Attribution-no-source 2093 2104	is expected
+E10	Attribution-no-source:T38 Content:T37 Cue:T36
+T39	Source 2437 2444	Goldman
+T40	Cue 2445 2450	named
+T41	Content 2451 2466	78 new partners
+T42	Attribution 2445 2450	named
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 2729 2737	Analysts
+T44	Cue 2738 2752	have predicted
+T45	Content 2753 2778	an unusually weak quarter
+T46	Attribution 2738 2752	have predicted
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Cue 3098 3104	seemed
+T49	Content 3047 3097;3105 3118	investor concern over declines in ESPN subscribers to be abating
+T48	Attribution-no-source 3098 3104	seemed
+E13	Attribution-no-source:T48 Content:T49 Cue:T47
+T50	Source 3120 3141	new data from Nielsen
+T51	Cue 3142 3155	has suggested
+T52	Content 3156 3188	that the falloff is accelerating
+T53	Attribution 3142 3155	has suggested
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 3191 3195	ESPN
+T55	Cue 3196 3219	aggressively challenged
+T56	Content 3220 3228	the data
+T57	Attribution 3196 3219	aggressively challenged
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 3541 3569	executives at those networks
+T59	Cue 3570 3587	have largely said
+T60	Content 3588 3623;3665 3719	they were not sure what is going on but that they were confident the problem was temporary
+T61	Attribution 3570 3587	have largely said
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58

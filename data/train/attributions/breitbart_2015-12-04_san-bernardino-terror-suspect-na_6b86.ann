@@ -1,0 +1,126 @@
+T1	Content 0 29	San Bernardino Terror Suspect
+T2	Cue 30 35	Named
+T3	Source 36 45	By Police
+T4	Attribution 30 35	Named
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Discuss 30 35	Named
+T7	Cue 197 249	was announced on a publicly available police scanner
+T8	Attribution-no-source 197 249	was announced on a publicly available police scanner
+T9	Source 343 364	White House officials
+T10	Cue 373 383	to portray
+T12	Attribution 373 383	to portray
+T13	Source 480 489	911 calls
+T14	Cue 490 496	saying
+T15	Content 497 552	shots have been fired inside the Inland Regional Center
+T16	Source 566 572	Police
+T17	Cue 573 581	announce
+T19	Content 633 637	This
+T20	Cue 638 648	is tweeted
+T21	Source 649 679	by several people who heard it
+T25	Attribution 490 496	saying
+E4	Attribution:T25 Cue:T14 Content:T15 Source:T13
+T26	Attribution 573 581	announce
+T27	Attribution 638 648	is tweeted
+E6	Attribution:T27 Cue:T20 Source:T21 Content:T19
+T42	Source 1332 1338	Police
+T43	Cue 1339 1345	repeat
+T45	Attribution 1339 1345	repeat
+T46	Cue 1482 1490	is named
+T47	Source 1491 1507	in media reports
+T48	Content 1462 1481;1508 1522	One of the suspects as Syed Farook
+T49	Attribution 1482 1490	is named
+E12	Attribution:T49 Content:T48 Source:T47 Cue:T46
+T51	Discuss 1406 1421	President Obama
+T50	Cue 1422 1435	is briefed on
+T52	Content 1436 1449	the situation
+T53	Attribution-no-source 1422 1435	is briefed on
+E13	Attribution-no-source:T53 Content:T52 Cue:T50
+T54	Source 1550 1560	the police
+T55	Cue 1561 1574	has announced
+T57	Attribution 1561 1574	has announced
+T58	Source 1635 1644	the media
+T59	Cue 1645 1661	finally reported
+T60	Content 1662 1664	it
+T61	Attribution 1645 1661	finally reported
+E15	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 1774 1788	Breitbart News
+T63	Cue 1789 1821	reported, even on Friday morning
+T65	Attribution 1789 1821	reported, even on Friday morning
+T70	Source 2723 2747	the Obama Administration
+T71	Cue 2748 2766	is not forthcoming
+T72	Content 2792 2864	regarding the Islamist terror threat or in even investigating the threat
+T73	Attribution 2748 2766	is not forthcoming
+E18	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T75	Cue 2894 2977	reported after the FBI appears to have abandoned the crime scene in San Bernardino:
+T87	Source 3799 3824	Reporter Jomana Karadsheh
+T88	Cue 3825 3829	says
+T89	Content 3832 4278	"Well Anderson, according to the eyewitness up to about an hour ago he describes the situation there as a frontline. Libyan security forces were engaged in heavy clashes with members of an armed group; that is Ansar al-Sharia, that is a radical militant group that is based in eastern Libya. He also reported rocket propelled grenades hitting the consulate building. Libyan army troops were deployed. Roads were blocked off by military vehicles."
+T90	Attribution 3825 3829	says
+E22	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Source 4283 4292	Karadsheh
+T92	Cue 4293 4304	spoke about
+T93	Content 4305 4353	how the consulate had been taken over and looted
+T94	Attribution 4293 4304	spoke about
+E23	Attribution:T94 Content:T93 Cue:T92 Source:T91
+T95	Source 4355 4392	eerie video credited to Reuters/Libya
+T96	Cue 4393 4399	showed
+T97	Content 4400 4451	the scattered groups of fighters with heavy weapons
+T98	Attribution 4393 4399	showed
+E24	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Source 4499 4516	emails that night
+T100	Cue 4517 4524	showing
+T101	Content 4525 4597	that administration officials knew Ansar al-Sharia was behind the attack
+T102	Attribution 4517 4524	showing
+E25	Attribution:T102 Content:T101 Cue:T100 Source:T99
+T103	Cue 4609 4646	the first official acknowledgement of
+T104	Content 4647 4719	that Benghazi was a planned attack by Al Qaeda affiliate Ansar al-Sharia
+T105	Source 4746 4828	Former CIA Director David Petraeus, in Capitol Hill testimony on November 12, 2012
+T106	Discuss 4782 4828	in Capitol Hill testimony on November 12, 2012
+T107	Source 4886 4889	CNN
+T108	Cue 4890 4909	reported that night
+T110	Attribution 4609 4646	the first official acknowledgement of
+E26	Attribution:T110 Cue:T103 Content:T104 Source:T105
+T11	Content 178 196	Syed Farook’s name
+E2	Attribution-no-source:T8 Cue:T7 Content:T11
+T18	Content 384 451	the apparent jihad shooting as a “workplace” or “gun control” issue
+E3	Attribution:T12 Cue:T10 Source:T9 Content:T18
+T6	Content 4910 4988;4990 5127;5129 5322;5323 5348;5350 5546;5548 5740	Ex-CIA chief Petraeus testifies Benghazi attack was al Qaeda-linked terrorism. "The hearing was closed but New York Congressman Pete King spoke to reporters afterwards and said this conflicted with previous accounts. "King said Petraeus’ testimony differed from an earlier assessment the former CIA director gave lawmakers just days after the September 11 attack, which left four Americans dead, including U.S. Ambassador Chris Stevens. “He (Petraeus) … stated that he thought all along he made it clear that there was significant terrorist involvement, and that is not my recollection of what he told us on September 14,” King said. “The clear impression we were given (in September) was that the overwhelming amount of evidence was that it arose out of a spontaneous demonstration, and was not a terrorist attack,” he said."
+T24	Attribution 4890 4909	reported that night
+E5	Attribution:T24 Cue:T108 Source:T107 Content:T6
+E7	Attribution:T26 Source:T16 Cue:T17 Content:T29
+T29	Content 582 600;620 631	the suspect’s name Syed Farook
+E8	Attribution:T45 Source:T42 Cue:T43 Content:T22
+T22	Content 1346 1364	the suspect’s name
+E9	Attribution:T57 Cue:T55 Source:T54 Content:T23
+T23	Content 1575 1593	Syed Farook’s name
+E10	Attribution:T65 Cue:T63 Source:T62 Content:T28
+T28	Content 1823 1923	the Obama White House was refusing to call the San Bernardino Christmas party slaughter as terrorism
+T30	Cue 1923 1924	:
+T31	Content 1926 2131;2133 2330;2332 2575	"The Obama administration is still reluctant to call the attack in California an act of terrorism, citing the ongoing investigation by the F.B.I. before they might willing to specifically define the event. "At the White House today, reporters questioned Press Secretary Josh Earnest about the reported details of the shooters, including the recent revelation that one of them pledged allegiance to ISIS. “I don’t want to talk about the situation because there’s still an ongoing investigation to determine exactly what transpired and what motivated those individuals to take the terrible indefensible violent action that they took,” Earnest said."
+T32	Source 2577 2582	We’ve
+T33	Cue 2583 2587	seen
+T34	Content 2588 2698	this sort of “cover-up in plain sight” from the Obama administration working in tag-team with the media before
+T35	Attribution 2583 2587	seen
+E11	Attribution:T35 Cue:T33 Source:T32 Content:T34
+T36	Source 2870 2893	Breitbart’s Joel Pollak
+T37	Attribution 2894 2977	reported after the FBI appears to have abandoned the crime scene in San Bernardino:
+E14	Attribution:T37 Cue:T75 Source:T36 Content:T38
+T38	Content 2979 3486	"For example, the government has done almost nothing with the treasure trove of intelligence information it recovered during the raid on Osama bin Laden’s compound in May 2011. Stephen F. Hayes of the Weekly Standard has waged a lonely battle to force the government to take the intelligence seriously–intelligence that could disrupt terror networks and prevent future attacks around the world. “They haven’t done anything close to a full exploitation,” perhaps only 10%, he quoted one analyst in May 2015."
+T39	Source 3488 3493	We’ve
+T40	Cue 3494 3503	also seen
+T41	Content 3504 3556	this style of coverup after the 2012 Benghazi attack
+T44	Attribution 3494 3503	also seen
+E16	Attribution:T44 Cue:T40 Source:T39 Content:T41
+T56	Source 3638 3641	you
+T64	Cue 3642 3662	can see for yourself
+T66	Content 3663 3706;3708 3796	that it was reported live on September 11th 2012 on CNN’s show Anderson Cooper 360 that the attackers were the group Ansar al-Sharia
+T67	Attribution 3642 3662	can see for yourself
+E17	Attribution:T67 Cue:T64 Source:T56 Content:T66
+T68	Attribution 1923 1924	:
+E19	Attribution:T68 Cue:T30 Content:T31 Source:T62
+T69	Source 6106 6119	the Democrats
+T74	Cue 6120 6131	do not want
+T76	Content 6132 6167	Americans thinking about terrorism.
+T77	Attribution 6120 6131	do not want
+E20	Attribution:T77 Content:T76 Cue:T74 Source:T69
+T78	Discard 6169 6291	Follow Breitbart News investigative reporter and Citizen Journalism School founder Lee Stranahan on Twitter at @Stranahan.

@@ -1,0 +1,39 @@
+T1	Cue 55 66	erupting on
+T2	Content 67 135	Florida Sen. Marco Rubio for going after his attacks on Donald Trump
+T3	Source 137 163	Fox News host Sean Hannity
+T4	Attribution 55 66	erupting on
+E1	Attribution:T4 Source:T3 Content:T2 Cue:T1
+T5	Cue 164 187	indicated Tuesday night
+T6	Content 188 262	that any bad blood from the bruising Republican primary has largely abated
+T7	Attribution-no-source 164 187	indicated Tuesday night
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Content 265 363	"Marco Rubio won tonight and I was very glad to see that. I think we need him back in the Senate,"
+T9	Source 364 371	Hannity
+T10	Cue 372 376	said
+T11	Attribution 372 376	said
+E3	Attribution:T11 Cue:T10 Source:T9 Content:T8
+T12	Cue 464 473	remarking
+T13	Content 474 697	that while there are "still some conservatives angry over comprehensive immigration reform," Rubio already "paid a very heavy political price in this 2016 [presidential] primary on that issue and he said he made a mistake."
+T14	Attribution 464 473	remarking
+E4	Attribution:T14 Source:T9 Cue:T12 Content:T13
+T15	Content 699 746;761 830	Rubio "apologized numerous times on this show," "I think it’s time for people to move on, we need him in the Senate."
+T16	Source 747 754	Hannity
+T17	Cue 755 759	said
+T18	Attribution 755 759	said
+E5	Attribution:T18 Cue:T17 Source:T16 Content:T15
+T19	Source 863 897	former Arkansas Gov. Mike Huckabee
+T20	Cue 906 914	praising
+T21	Content 915 1031	his former presidential primary opponent as "one of the most gifted, up-and-coming Republican stars that we've got."
+T22	Attribution 906 914	praising
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Discuss 832 840	Weighing
+T24	Content 1033 1144;1160 1441	"He's sharp. He's articulate. The fact that he, in his first term in the Senate, really tried to do something," "You may not agree with what he did, but he went there because he was used to governing and seeing things done. And we absolutely ought to respect the fact that he apologized. He said, look, it wasn't the best thing to do. Let's not waste an extraordinary talent like Marco Rubio."
+T25	Source 1145 1153	Huckabee
+T26	Cue 1154 1158	said
+T27	Attribution 1154 1158	said
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 1443 1450	Hannity
+T29	Cue 1451 1456	added
+T30	Content 1458 1578	"I think Marco is still a rising star. I did think he made a mistake because he even said it wasn't the bill he wanted."
+T31	Attribution 1451 1456	added
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28

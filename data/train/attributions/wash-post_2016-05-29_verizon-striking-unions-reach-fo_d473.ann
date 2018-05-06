@@ -1,0 +1,111 @@
+T1	Source 0 24	Verizon, striking unions
+T2	Cue 25 30	reach
+T3	Content 31 45	four-year deal
+T4	Attribution 25 30	reach
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discuss 0 45	Verizon, striking unions reach four-year deal
+T6	Source 264 284	the Labor Department
+T8	Content 117 249	Verizon has struck a provisional work agreement with unions representing nearly 40,000 employees who walked off the job in mid-April
+T7	Cue 251 263	according to
+T9	Attribution 251 263	according to
+E2	Attribution:T9 Cue:T7 Content:T8 Source:T6
+T10	Content 334 338;363 410	that could ultimately affect second-quarter earnings
+T11	Source 339 357	company executives
+T12	Cue 358 362	said
+T13	Attribution 358 362	said
+E3	Attribution:T13 Cue:T12 Source:T11 Content:T10
+T14	Cue 433 449	announced Friday
+T15	Content 413 431	The tentative deal
+T16	Attribution-no-source 433 449	announced Friday
+E4	Attribution-no-source:T16 Content:T15 Cue:T14
+T17	Source 597 600	who
+T18	Cue 601 605	said
+T19	Content 606 715	he expects the agreement to be finalized over the weekend and for union employees to return to work next week
+T20	Attribution 601 605	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 718 866;894 985	"I have observed firsthand the parties' good faith commitment to narrowing differences and forging an agreement that helps workers and the company," "The parties have a shared interest in the success of Verizon and its dedicated workforce."
+T22	Source 867 872	Perez
+T23	Cue 873 877	said
+T24	Attribution 873 877	said
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Source 1024 1083	Friday's tentative agreement between Verizon and the unions
+T26	Cue 1084 1114	establishes for the first time
+T27	Content 1115 1193	a contract covering employees who work in the company's wireless retail stores
+T28	Attribution 1084 1114	establishes for the first time
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1195 1308	The unprecedented contract covers about 100 workers across six stores in Brooklyn and one store in Everett, Mass.
+T30	Cue 1310 1322	according to
+T31	Source 1323 1406	the Communications Workers of America, one of the unions representing the employees
+T32	Attribution 1310 1322	according to
+E8	Attribution:T32 Source:T31 Cue:T30 Content:T29
+T33	Content 1409 1552;1587 1726	"The agreement in principle at Verizon is a victory for working families across the country and an affirmation of the power of working people," "This proves that when we stand together, we can raise up working families, improve our communities and protect the American middle class."
+T34	Source 1553 1580	CWA President Chris Shelton
+T35	Cue 1581 1585	said
+T36	Attribution 1581 1585	said
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33
+T37	Source 1728 1735	Verizon
+T38	Cue 1736 1740	said
+T39	Content 1757 1903	"We look forward to having all of our employees soon back at work in their regular positions and doing what they do best - serving our customers."
+T40	Attribution 1736 1740	said
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Cue 1918 1931	is considered
+T42	Content 1905 1917;1932 1969	The walk-off one of the largest in company history
+T43	Attribution-no-source 1918 1931	is considered
+E11	Attribution-no-source:T43 Content:T42 Cue:T41
+T44	Source 1971 1978	Workers
+T45	Cue 1979 1990	objected to
+T46	Content 1991 2117	the telecom giant's attempts to relocate them, sometimes for months at a time, across the country and away from their families
+T47	Attribution 1979 1990	objected to
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 2119 2123	They
+T49	Cue 2124 2133	also said
+T50	Content 2134 2244	that Verizon was trying to ship call-center jobs overseas to foreign contractors and roll back worker benefits
+T51	Attribution 2124 2133	also said
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 2246 2257	The company
+T53	Cue 2258 2268	had argued
+T54	Content 2269 2394	that in an era of technological change, it needed the flexibility to redeploy its workers to serve the areas of greatest need
+T55	Attribution 2258 2268	had argued
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 2410 2417	Verizon
+T57	Cue 2418 2447	has been working to emphasize
+T58	Content 2448 2484	the wireless portion of its business
+T59	Attribution 2418 2447	has been working to emphasize
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Source 2579 2586	Verizon
+T61	Cue 2587 2594	drafted
+T62	Content 2595 2722	thousands of workers from its nonunionized workforce, including management executives, to service homes and take customer calls
+T63	Attribution 2587 2594	drafted
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Discuss 2579 2722	Verizon drafted thousands of workers from its nonunionized workforce, including management executives, to service homes and take customer calls
+T65	Source 3301 3351	Peter Morency, a Verizon customer based in Boston,
+T66	Cue 3352 3356	said
+T67	Content 3357 3452	he was frustrated when he called the company only to be told to wait for as long as three hours
+T68	Attribution 3352 3356	said
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 3455 3473	Verizon executives
+T70	Cue 3474 3487	have admitted
+T71	Content 3488 3589	that the strike has affected some consumers, particularly those who cannot afford to wait for service
+T72	Attribution 3474 3487	have admitted
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Content 3592 3684	"We're doing a lot of installations, but we're not doing the same volume as we were before,"
+T74	Source 3685 3714	chief executive Lowell McAdam
+T75	Cue 3715 3719	said
+T76	Attribution 3715 3719	said
+E19	Attribution:T76 Cue:T75 Source:T74 Content:T73
+T77	Source 4005 4074	Democratic presidential candidates Hillary Clinton and Bernie Sanders
+T78	Cue 4075 4086	both sought
+T79	Content 4087 4125	to align themselves with union workers
+T80	Attribution 4075 4086	both sought
+E20	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Source 4163 4184	customers and workers
+T82	Cue 4185 4197	may soon see
+T83	Content 4198 4225	conditions return to normal
+T84	Attribution 4185 4197	may soon see
+E21	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Source 4234 4244	technology
+T86	Cue 4245 4254	threatens
+T87	Content 4255 4295	to change the industry ever more quickly
+T88	Attribution 4245 4254	threatens
+E22	Attribution:T88 Content:T87 Cue:T86 Source:T85
+T89	Discuss 4234 4295	technology threatens to change the industry ever more quickly

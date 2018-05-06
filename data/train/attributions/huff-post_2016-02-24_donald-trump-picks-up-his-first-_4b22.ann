@@ -1,0 +1,42 @@
+T1	Source 139 176	the first sitting members of Congress
+T2	Cue 177 187	to endorse
+T3	Content 188 242	the presidential bid of real estate mogul Donald Trump
+T4	Attribution 177 187	to endorse
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 550 557	Collins
+T6	Cue 558 562	said
+T7	Content 245 549;609 691	“Donald Trump has clearly demonstrated that he has both the guts and the fortitude to return our nation’s jobs stolen by China, take on our enemies like ISIS, Iran, North Korea and Russia, and most importantly, reestablish the opportunity for our children and grandchildren to attain the American Dream,” That is why I am proud to endorse him as the next President of the United States.”
+T8	Attribution 558 562	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 702 705	who
+T10	Cue 705 727	’d previously endorsed
+T11	Content 728 772	former Florida Gov. Jeb Bush in the GOP race
+T12	Attribution 705 727	’d previously endorsed
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 984 990	Hunter
+T14	Cue 1003 1007	told
+T15	Content 1030 1141	that he is in favor of Trump because “we don’t need a policy wonk as president. We need a leader as president.”
+T16	Attribution 1003 1007	told
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 1142 1144	He
+T18	Cue 1145 1154	also said
+T19	Content 1155 1194	he’s “liked Trump since the beginning.”
+T20	Attribution 1145 1154	also said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1196 1202	Hunter
+T22	Cue 1254 1270	has spoken about
+T23	Content 1271 1306	the need for tighter border control
+T24	Attribution 1254 1270	has spoken about
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 2017 2020	who
+T26	Cue 2040 2081	hadn’t received a single endorsement from
+T27	Source 2082 2128	any members of Congress or state GOP officials
+T28	Attribution 2040 2081	hadn’t received a single endorsement from
+E7	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Discard 2131 2348;2350 2388;2390 2428;2430 2432;2434 2437;2439 2442;2444 2494;2495 2535	Editor’s note: Donald Trump is a serial liar, rampant xenophobe, racist, misogynist, birther and bully who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S. Declared 2016 Presidential Candidates. Declared 2016 Presidential Candidates. 1. of. 23. Sen. Ted Cruz (R-Texas) — Announced March 23, 2015 Cruz dropped out of the race May 3, 2016
+T30	Source 940 945	signs
+T31	Cue 929 934	anti-
+T32	Content 934 939	Obama
+T33	Attribution 929 934	anti-
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Discuss 929 945	anti-Obama signs

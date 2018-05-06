@@ -1,0 +1,57 @@
+T1	Source 0 10	Politifact
+T2	Cue 10 11	:
+T3	Content 12 80	Donald Trump Is Right, ‘Thousands of Shootings’ in Chicago this Year
+T4	Attribution 10 11	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 153 167	Donald Trump’s
+T6	Cue 168 173	claim
+T7	Content 174 261	that there have been “thousands of shootings” in gun-controlled Chicago this year alone
+T8	Attribution 168 173	claim
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 279 283	they
+T10	Cue 284 334	published the results of their check by announcing
+T11	Content 335 369	that Trump’s statement was “true.”
+T12	Attribution 284 334	published the results of their check by announcing
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 469 531	The transcript of the debate–published by The Washington Post–
+T14	Cue 531 536	shows
+T15	Content 537 615	that Clinton talked about criminal justice reform and passing more gun control
+T16	Attribution 531 536	shows
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 617 622	Trump
+T18	Cue 623 632	responded
+T19	Content 633 710	by using the example of Chicago to prove that gun control is not the solution
+T20	Attribution 623 632	responded
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 713 715	He
+T22	Cue 716 721	said:
+T23	Content 723 1143	"We have a situation where we have our inner cities, African- Americans, Hispanics are living in he’ll because it’s so dangerous. You walk down the street, you get shot. In Chicago, they’ve had thousands of shootings, thousands since January 1st. Thousands of shootings. And I’m saying, where is this? Is this a war-torn country? What are we doing? And we have to stop the violence. We have to bring back law and order."
+T24	Attribution 716 721	said:
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1166 1173	Trump’s
+T26	Cue 1174 1179	claim
+T27	Content 1180 1252	that there have been “thousands of shootings” in Chicago this year alone
+T28	Attribution 1174 1179	claim
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Discuss 1254 1440	They checked the Chicago Tribune–which keeps a running tally on homicides and shooting victims–and found there had been “3,210 shooting victims” between January 1 and September 26 alone.
+T30	Source 1441 1451	Politifact
+T31	Cue 1452 1468	then pointed out
+T32	Content 1469 1609	that one shooting may have more than one victim, so thousands of shooting victims does not necessarily translate into thousands of shootings
+T33	Attribution 1452 1468	then pointed out
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1681 1686	which
+T35	Cue 1687 1695	reported
+T36	Content 1696 1769	“2,521 shooting incidents” in the city between January 1 and September 18
+T37	Attribution 1687 1695	reported
+E9	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Source 1772 1782	Politifact
+T39	Cue 1783 1793	then ruled
+T40	Content 1794 1869	that Trump’s statement about “thousands of shootings” in Chicago is “true,”
+T41	Attribution 1783 1793	then ruled
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Source 1904 1908	they
+T43	Cue 1909 1938	could not resist pointing out
+T44	Content 1939 1987	that every shooting did not result in a homicide
+T45	Attribution 1909 1938	could not resist pointing out
+E11	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Discard 1990 2186	AWR Hawkins is the Second Amendment columnist for Breitbart News and political analyst for Armed American Radio. Follow him on Twitter: @AWRHawkins. Reach him directly at awrhawkins@breitbart.com.

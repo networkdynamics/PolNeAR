@@ -1,0 +1,34 @@
+T1	Source 93 123	an anti-Donald Trump super PAC
+T2	Cue 124 160	is releasing a robocall spotlighting
+T3	Content 161 243	a home-state congressman who’s turned the New York businessman into a punching bag
+T4	Attribution 124 160	is releasing a robocall spotlighting
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 259 336	Wisconsin Rep. Reid Ribble, who was elected in the conservative wave of 2010,
+T6	Cue 337 342	casts
+T7	Content 343 457	Trump as a former liberal who would “unravel” the policies he and fellow congressional Republicans have pushed for
+T8	Attribution 337 342	casts
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 459 461	He
+T10	Cue 462 484	specifically points to
+T11	Content 485 608	Trump’s expressions of support for government-funded health care and his past opposition to a ban on partial birth abortion
+T12	Attribution 462 484	specifically points to
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 611 700;726 808	“Time again, he's shown us he takes his positions out of convenience and not conviction,” “Before you vote, ask yourself: Can we really trust Donald Trump to fight for us?”
+T14	Source 701 707	Ribble
+T15	Cue 708 712	says
+T16	Attribution 708 712	says
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 868 872	that
+T18	Cue 873 886	is devoted to
+T19	Content 887 902	defeating Trump
+T20	Attribution 873 886	is devoted to
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 1131 1138;1144 1183	a state as critical for the Stop Trump movement
+T22	Cue 1139 1143	seen
+T23	Attribution-no-source 1139 1143	seen
+E6	Attribution-no-source:T23 Cue:T22 Content:T21
+T24	Source 1185 1196	Polls there
+T25	Cue 1197 1201	show
+T26	Content 1202 1257	Trump is trailing Ted Cruz just ahead of Tuesday's vote
+T27	Attribution 1197 1201	show
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24

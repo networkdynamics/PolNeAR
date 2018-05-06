@@ -1,0 +1,24 @@
+T1	Source 0 14	GOP Rep McCaul
+T2	Cue 15 24	Announces
+T3	Content 25 67	Bill Revoking Hillary’s Security Clearance
+T4	Attribution 15 24	Announces
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 119 144	Rep. Michael McCaul (R-TX
+T6	Cue 146 155	discussed
+T7	Content 156 186	legislation he was introducing
+T8	Attribution 146 155	discussed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 187 192	which
+T10	Cue 193 205	would revoke
+T11	Content 206 303	the security clearance for those demonstrating “extreme carelessness” with classified information
+T12	Attribution 193 205	would revoke
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 466 567;581 942	“The FBI director said she exercised extreme carelessness in her handling of classified information,” “So we simply introduced a bill, legislation that if you exercise ‘extreme carelessness,’ rather than gross negligence that your security clearance will be revoked or any application will be denied. It’s just as simple as that. I think it sends a strong message to the community out there that if you hold security clearances as to what the standard really is.”
+T14	Source 568 574	McCaul
+T15	Cue 575 579	said
+T16	Attribution 575 579	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Discard 944 983	Follow Jeff Poor on Twitter @jeff_poor.
+T18	Source 319 343	FBI Director James Comey
+T19	Cue 344 353	described
+T20	Content 305 318;354 463	which is what presumptive Democratic presidential nominee Hillary Clinton’s use of an email server while secretary of state

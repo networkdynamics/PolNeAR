@@ -1,0 +1,165 @@
+T1	Source 729 732	her
+T2	Cue 733 762	financial disclosure suggests
+T3	Content 763 795	she diverted the fees to charity
+T4	Attribution 733 762	financial disclosure suggests
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 797 816	Huckabee’s campaign
+T6	Cue 817 829	acknowledged
+T7	Content 830 901	that the candidate has delivered paid speeches since announcing his bid
+T8	Attribution 817 829	acknowledged
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 906 925	declined to provide
+T10	Content 926 957	a list of venues or fees earned
+T11	Attribution 906 925	declined to provide
+E3	Attribution:T11 Cue:T9 Content:T10 Source:T5
+T12	Content 1150 1191	their identity as presidential candidates
+T13	Cue 1192 1207	is widely known
+T14	Attribution-no-source 1192 1207	is widely known
+E4	Attribution-no-source:T14 Cue:T13 Content:T12
+T15	Content 1768 1783;1846 1927	“It's unusual,“ “It's a hard thing to do and pull off without stepping over one line or another.”
+T16	Cue 1784 1788	said
+T17	Source 1789 1844	Larry Noble, an attorney with the Campaign Legal Center
+T18	Attribution 1784 1788	said
+E5	Attribution:T18 Source:T17 Cue:T16 Content:T15
+T19	Source 2356 2360	that
+T20	Cue 2361 2401	could present at least the appearance of
+T21	Content 2402 2446	currying influence with a would-be president
+T22	Attribution 2361 2401	could present at least the appearance of
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 2491 2506	Hillary Clinton
+T24	Cue 2540 2550	announcing
+T25	Content 2551 2558	her run
+T26	Attribution 2540 2550	announcing
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Cue 2635 2652	intense questions
+T28	Source 2654 2681	especially from Republicans
+T29	Content 2689 2716	potential ethical conflicts
+T30	Attribution 2635 2652	intense questions
+E8	Attribution:T30 Content:T29 Source:T28 Cue:T27
+T31	Source 2718 2726	Jeb Bush
+T32	Cue 2733 2743	instructed
+T33	Content 2744 2807	the Washington Speakers Bureau to stop booking paid appearances
+T34	Source 2898 2900	he
+T35	Cue 2901 2909	launched
+T36	Content 2910 2930	his presidential bid
+T37	Cue 3013 3022	launching
+T38	Content 3023 3030	his bid
+T39	Source 2932 2944	Donald Trump
+T40	Attribution 2733 2743	instructed
+E9	Attribution:T40 Cue:T32 Source:T31 Content:T33
+T41	Attribution 2901 2909	launched
+E10	Attribution:T41 Cue:T35 Content:T36 Source:T34
+T42	Attribution 3013 3022	launching
+E11	Attribution:T42 Source:T39 Content:T38 Cue:T37
+T43	Source 3036 3048	his campaign
+T44	Cue 3049 3053	said
+T45	Content 3054 3112	he halted all paid speeches since announcing his candidacy
+T46	Source 3351 3364	federal rules
+T47	Cue 3365 3377	are murky on
+T48	Content 3378 3448	when private appearances cross the line and become “campaign related.”
+T50	Attribution 3049 3053	said
+E12	Attribution:T50 Cue:T44 Source:T43 Content:T45
+T49	Attribution 3365 3377	are murky on
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T51	Source 3449 3488	Federal Election Commission regulations
+T52	Cue 3489 3496	suggest
+T53	Content 3497 3567	candidates are responsible for dividing personal and campaign expenses
+T54	Attribution 3489 3496	suggest
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Source 3569 3596	A 1996 FEC advisory opinion
+T56	Cue 3597 3602	added
+T57	Content 3603 3824	that paid speeches would amount to campaign-related events only if the speaker were to solicit campaign donations or if the event were to involve “expressly advocating the nomination, election or defeat of any candidate.”
+T58	Attribution 3597 3602	added
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 3825 3832	The FEC
+T60	Cue 3833 3850	has deadlocked on
+T61	Content 3851 3895	whether and how to enforce such restrictions
+T62	Attribution 3833 3850	has deadlocked on
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 3898 3926	Carson, Fiorina and Huckabee
+T64	Cue 3927 3949	have all characterized
+T65	Content 3950 4057	their recent speechmaking as the fulfillment of longstanding commitments to the groups that brought them in
+T66	Attribution 3927 3949	have all characterized
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Cue 4062 4065	say
+T68	Content 4066 4116	they’re no longer accepting speaking opportunities
+T69	Attribution 4062 4065	say
+E18	Attribution:T69 Cue:T67 Source:T63 Content:T68
+T70	Source 4118 4137	The Carson campaign
+T71	Cue 4138 4146	declined
+T72	Content 4147 4157	to comment
+T73	Attribution 4138 4146	declined
+E19	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Source 4316 4322	Carson
+T75	Cue 4323 4355	reported on his disclosure forms
+T76	Content 4356 4417	a speaking fee was between $50,000 and $100,000 for the event
+T77	Attribution 4323 4355	reported on his disclosure forms
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Content 4431 4439;4452 4461	any fees receiving
+T79	Source 4440 4442	he
+T80	Cue 4443 4451	reported
+T81	Attribution 4443 4451	reported
+E21	Attribution:T81 Cue:T80 Source:T79 Content:T78
+T82	Source 4605 4651	The group’s executive director, Betty Bradley,
+T83	Cue 4652 4656	said
+T84	Content 4657 4846	Carson’s appearance had been booked a year and a half ahead of time but that she was clearly informed not to ask him any questions about his campaign to avoid running afoul of federal rules
+T85	Attribution 4652 4656	said
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Content 4903 4907;4921 4936	what she anticipated
+T87	Source 4908 4915	Bradley
+T88	Cue 4916 4920	said
+T89	Attribution 4916 4920	said
+E23	Attribution:T89 Cue:T88 Source:T87 Content:T86
+T90	Content 4939 4972;4983 5106	“It was an overwhelming success,” “We sold out and we ended up adding more tables. I had some people tell me that it was the best event they’d ever been to.”
+T92	Source 4973 4976	she
+T91	Cue 4977 4981	said
+T93	Attribution 4977 4981	said
+E24	Attribution:T93 Cue:T91 Source:T92 Content:T90
+T94	Source 5573 5598	A spokeswoman for Fiorina
+T95	Cue 5599 5603	said
+T96	Content 5604 5712	the former executive has no more speeches scheduled and delivered only nonpartisan remarks at her two events
+T97	Attribution 5599 5603	said
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 5714 5737	The Wall Street Journal
+T99	Cue 5738 5757	reported in October
+T100	Content 5758 5901	that Fiorina’s speaking firm advertised her availability for future paid speaking gigs, noting her “limited availability” for private functions
+T101	Attribution 5738 5757	reported in October
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Source 5907 5921	Fiorina's team
+T103	Cue 5922 5928	denied
+T104	Content 5929 5969	that she would be accepting new speeches
+T105	Attribution 5922 5928	denied
+E27	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Cue 5972 5983	Asked about
+T107	Content 5984 6018	his paid speeches in the 2016 race
+T108	Attribution-no-source 5972 5983	Asked about
+E28	Attribution-no-source:T108 Content:T107 Cue:T106
+T109	Source 6020 6039	Huckabee’s campaign
+T110	Cue 6040 6044	said
+T111	Content 6045 6107	he hasn’t accepted any new gigs since announcing his candidacy
+T112	Attribution 6040 6044	said
+E29	Attribution:T112 Content:T111 Cue:T110 Source:T109
+T113	Cue 6112 6121	suggested
+T114	Content 6122 6261	that the bigger ethical question is whether elected officials in the race are bilking taxpayers by campaigning rather than doing their jobs
+T115	Attribution 6112 6121	suggested
+E30	Attribution:T115 Cue:T113 Source:T109 Content:T114
+T116	Content 6264 6443;6491 6721	“Any candidate working in the private sector probably needs to make money while they run for office — sometimes that includes paid speeches and that’s not necessarily a conflict,” “However, what current officeholders are doing is clearly a conflict. Only in Washington is it considered ‘OK’ to take the taxpayer funded salary you receive to do one job, and instead, use that money to campaign for another job.”
+T117	Cue 6444 6448	said
+T118	Source 6449 6489	Huckabee campaign spokesman Hogan Gidley
+T119	Attribution 6444 6448	said
+E31	Attribution:T119 Source:T118 Cue:T117 Content:T116
+T120	Source 6903 6905	he
+T121	Cue 6906 6910	told
+T122	Content 6920 7021	he had kept up his paid speaking schedule because it was an important source of income for his family
+T123	Attribution 6906 6910	told
+E32	Attribution:T123 Content:T122 Cue:T121 Source:T120
+T124	Source 7168 7193	pizza magnate Herman Cain
+T125	Cue 7194 7202	revealed
+T126	Content 7203 7259	that he continued to deliver speeches for $25,000 apiece
+T127	Attribution 7194 7202	revealed
+E33	Attribution:T127 Content:T126 Cue:T125 Source:T124
+T128	Content 7265 7343	Rick Santorum, that cycle’s runner-up, also continued to deliver paid speeches
+T129	Cue 7345 7357	according to
+T130	Source 7358 7383	an NBC report at the time
+T131	Attribution 7345 7357	according to
+E34	Attribution:T131 Source:T130 Cue:T129 Content:T128

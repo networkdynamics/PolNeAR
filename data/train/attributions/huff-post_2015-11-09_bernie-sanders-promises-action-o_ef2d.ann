@@ -1,0 +1,118 @@
+T1	Source 0 14	Bernie Sanders
+T2	Cue 15 23	Promises
+T3	Content 24 76	Action On Immigration In First 100 Days As President
+T4	Source 79 127	Democratic presidential candidate Bernie Sanders
+T5	Cue 128 136	promised
+T6	Content 144 341	to begin taking executive action on immigration reform during the first 100 days of his presidency, including sweeping deportation relief that would go beyond the policies of President Barack Obama
+T7	Content 344 501	“To the degree that Congress is unable to act, it is clear to me that the president of the United States has got to use the powers that are in his province,”
+T8	Source 502 504	he
+T9	Cue 505 509	said
+T10	Attribution 15 23	Promises
+E1	Attribution:T10 Source:T1 Cue:T2 Content:T3
+T11	Attribution 128 136	promised
+E2	Attribution:T11 Source:T4 Cue:T5 Content:T6
+T12	Attribution 505 509	said
+E3	Attribution:T12 Cue:T9 Source:T8 Content:T7
+T13	Source 724 729	which
+T14	Cue 730 746	largely supports
+T15	Content 747 765	immigration reform
+T16	Attribution 730 746	largely supports
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 770 775	ranks
+T18	Content 776 866	it as a higher priority — although not usually the highest priority — than voters at large
+T19	Attribution 770 775	ranks
+E5	Attribution:T19 Source:T13 Cue:T17 Content:T18
+T20	Source 941 948	Sanders
+T21	Cue 949 957	promised
+T22	Content 958 1006	to take bold action should he win the presidency
+T23	Attribution 949 957	promised
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1008 1128	Former Secretary of State Hillary Clinton and former Maryland Gov. Martin O’Malley, who are also seeking the nomination,
+T25	Cue 1129 1141	have pledged
+T26	Content 1142 1156	to act as well
+T27	Attribution 1129 1141	have pledged
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1159 1166	Sanders
+T29	Cue 1167 1175	promised
+T30	Content 1204 1269	to end “the excessively wasteful $18 million deportation regime.”
+T31	Attribution 1167 1175	promised
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1270 1272	He
+T33	Cue 1273 1279	echoed
+T34	Content 1280 1292	that promise
+T35	Attribution 1273 1279	echoed
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Cue 1304 1310	saying
+T37	Content 1311 1448	he would direct Immigration and Customs Enforcement “to immediately stop initiating deportations against” certain undocumented immigrants
+T38	Attribution 1304 1310	saying
+E10	Attribution:T38 Source:T32 Cue:T36 Content:T37
+T39	Source 1450 1452	He
+T40	Cue 1453 1465	also pledged
+T41	Content 1466 1504	to shut down private detention centers
+T42	Attribution 1453 1465	also pledged
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1512 1514	he
+T44	Cue 1515 1532	introduced a bill
+T45	Content 1544 1603	that would end private prison contracts with the government
+T46	Attribution 1515 1532	introduced a bill
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1606 1613	Sanders
+T48	Cue 1614 1623	also said
+T49	Content 1624 1765	he would expand on Obama’s deferred actions programs for undocumented young people and parents of U.S. citizens and legal permanent residents
+T50	Attribution 1614 1623	also said
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 2116 2123	Sanders
+T52	Cue 2124 2128	said
+T53	Content 2129 2425	if he were president, DACA and DAPA would be supplemented by deportation relief for parents of DACA recipients, along with other family members and anyone who would have been eligible for legal status under the 2013 immigration reform bill that passed the Senate but never got a vote in the House
+T54	Attribution 2124 2128	said
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Content 2428 2583	Victims of domestic violence and unaccompanied minors who came to the U.S. from Central America would be considered a distinct group for purposes of asylum
+T56	Source 2585 2592	Sanders
+T57	Cue 2593 2597	said
+T58	Attribution 2593 2597	said
+E15	Attribution:T58 Cue:T57 Source:T56 Content:T55
+T59	Content 2666 2707	“This is the just and moral thing to do,”
+T60	Source 2708 2710	he
+T61	Cue 2711 2715	said
+T62	Attribution 2711 2715	said
+E16	Attribution:T62 Cue:T61 Source:T60 Content:T59
+T63	Discard 2718 2720	X.
+T64	Source 2731 2738	Sanders
+T65	Cue 2739 2743	said
+T66	Content 2744 2938	he would ensure that women who come to the U.S. with their husbands would be able to work even if they entered because of their spouse’s work visa, something many are not currently allowed to do
+T67	Attribution 2739 2743	said
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 2941 2948	Sanders
+T69	Cue 2949 2953	said
+T70	Content 2954 3022	he will be releasing broader immigration policies in the coming days
+T71	Attribution 2949 2953	said
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Source 3136 3144	O’Malley
+T73	Cue 3145 3161	frequently notes
+T74	Content 3162 3272	that he was the first to put out an immigration platform and has the most executive experience on those issues
+T75	Attribution 3145 3161	frequently notes
+E19	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 3275 3295	All three candidates
+T77	Cue 3296 3305	have said
+T78	Content 3306 3405	they would expand Obama’s deportation relief policies and push for comprehensive immigration reform
+T79	Attribution 3296 3305	have said
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Source 3408 3416	O’Malley
+T81	Cue 3499 3509	criticized
+T82	Content 3510 3529	Sanders and Clinton
+T83	Attribution 3499 3509	criticized
+E21	Attribution:T83 Content:T82 Cue:T81 Source:T80
+T84	Content 3548 3730	“I think one has to ask, is this a priority for the two of them because it’s an election year or if it’s because something they truly believe in?” O’Malley said at a press conference
+T85	Cue 3732 3744	according to
+T86	Source 3745 3762	the Las Vegas Sun
+T87	Attribution 3732 3744	according to
+E22	Attribution:T87 Source:T86 Cue:T85 Content:T84
+T88	Source 3765 3790	All of the GOP candidates
+T89	Cue 3791 3797	oppose
+T90	Content 3798 3838	Obama’s executive actions on immigration
+T91	Attribution 3791 3797	oppose
+E23	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Cue 3844 3856	have pledged
+T93	Content 3857 3890	to end the DACA and DAPA programs
+T94	Attribution 3844 3856	have pledged
+E24	Attribution:T94 Source:T88 Cue:T92 Content:T93

@@ -1,0 +1,204 @@
+T1	Source 0 5	Obama
+T2	Cue 6 14	lays out
+T3	Content 15 42	stakes for a divided nation
+T4	Attribution 6 14	lays out
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 60 62	he
+T6	Cue 63 71	revisits
+T7	Content 72 84	his promises
+T8	Attribution 63 71	revisits
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 89 96	rallies
+T10	Content 97 118	Democrats for Clinton
+T12	Source 132 145	The president
+T13	Cue 146 155	revisited
+T14	Content 156 216	his own promise to guide the country into a new age of unity
+T15	Attribution 146 155	revisited
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Content 288 308	This is not about me
+T17	Source 310 325	President Obama
+T18	Cue 326 330	told
+T19	Attribution 326 330	told
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Source 548 559	Mr. Obama's
+T21	Cue 560 572	diagnosis of
+T22	Content 573 605	the nation's  political failings
+T23	Attribution 560 572	diagnosis of
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T11	Attribution-no-source 89 96	rallies
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T24	Content 754 896	''We get frustrated with political gridlock and worry about racial divisions; we are shocked and saddened by the madness of Orlando or Nice,''
+T25	Source 897 906	Mr. Obama
+T26	Cue 907 911	said
+T27	Attribution 907 911	said
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 917 919	he
+T29	Cue 920 925	added
+T30	Content 927 1004	''What I have also seen, more than anything, is what is right with America.''
+T31	Attribution 920 925	added
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1044 1046	he
+T33	Cue 1047 1055	spoke of
+T34	Content 1056 1088	his faith in the American people
+T35	Attribution 1047 1055	spoke of
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T39	Content 1177 1264	''Time and again, you've picked me up and I hope, sometimes, I've picked you up, too,''
+T40	Source 1265 1267	he
+T41	Cue 1268 1272	said
+T42	Attribution 1268 1272	said
+E11	Attribution:T42 Cue:T41 Source:T40 Content:T39 Content2:T43
+T43	Content 1274 1343	''Tonight, I ask you to do for Hillary Clinton what you did for me.''
+T44	Source 1352 1363	Mr. Obama's
+T45	Cue 1364 1384	lyrical rejection of
+T46	Content 1385 1411	''a politics of cynicism''
+T47	Attribution 1364 1384	lyrical rejection of
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 2304 2313	Mr. Obama
+T49	Cue 2314 2333	argued emphatically
+T50	Content 2377 2488	that the Republican nominee had played on Americans' fears rather than offered them solutions to their problems
+T51	Attribution 2314 2333	argued emphatically
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Content 2490 2519	''America is already great,''
+T53	Source 2520 2522	he
+T54	Cue 2523 2527	said
+T55	Attribution 2523 2527	said
+E14	Attribution:T55 Cue:T54 Source:T53 Content:T52 Content2:T56
+T56	Content 2529 2640	''America is already strong. And I promise you, our strength, our greatness, does not depend on Donald Trump.''
+T57	Source 2071 2092	an eight-minute video
+T58	Cue 2144 2162	dwelled heavily on
+T59	Content 2163 2197	the challenges Mr. Obama has faced
+T60	Attribution 2144 2162	dwelled heavily on
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Cue 2203 2214	worked hard
+T62	Content 2215 2286	to excuse him for what he had not achieved, particularly on gun control
+T63	Attribution-no-source 2203 2214	worked hard
+E16	Attribution-no-source:T63 Content:T62 Cue:T61
+T36	Cue 1093 1098	urged
+T37	Content 1099 1175	voters to transfer their trust in him to the woman he hopes will succeed him
+T38	Attribution-no-source 1093 1098	urged
+E10	Attribution-no-source:T38 Content:T37 Cue:T36
+T64	Content 2825 2989	''You can read about it, you can study it, but until you've sat at that desk, you don't know what it's like to manage a global crisis or send young people to war,''
+T65	Source 2990 2999	Mr. Obama
+T66	Cue 3000 3004	said
+T67	Attribution 3000 3004	said
+E17	Attribution:T67 Cue:T66 Source:T65 Content:T64 Content2:T68
+T68	Content 3006 3077	''But Hillary's been in the room; she's been part of those decisions.''
+T69	Source 3079 3081	He
+T70	Cue 3082 3091	continued
+T71	Content 3093 3211	''Even in the midst of crisis, she listens to people, and she keeps her cool, and she treats everybody with respect.''
+T72	Attribution 3082 3091	continued
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Source 3217 3219	he
+T74	Cue 3220 3229	expressed
+T75	Content 3230 3248	solidarity for her
+T76	Attribution 3220 3229	expressed
+E19	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Source 3257 3259	he
+T78	Cue 3260 3267	alluded
+T79	Content 3268 3299	to her failings, and to his own
+T80	Attribution 3260 3267	alluded
+E20	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Content 3301 3391	''She knows that sometimes during those 40 years, she's made mistakes, just like I have,''
+T82	Source 3392 3394	he
+T83	Cue 3395 3399	said
+T84	Attribution 3395 3399	said
+E21	Attribution:T84 Cue:T83 Source:T82 Content:T81 Content2:T85
+T85	Content 3401 3425	''Just like we all do.''
+T86	Source 3427 3440	The president
+T87	Cue 3510 3516	saying
+T88	Content 3517 3650	that ''there has never been a man or a woman - not me, not Bill, nobody - more qualified than Hillary Clinton'' to serve as president
+T89	Attribution 3510 3516	saying
+E22	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Source 3666 3668	he
+T91	Cue 3669 3700	was also making an argument for
+T92	Content 3701 3781	his vision of the country, in both its  possibilities and the messier realities,
+T93	Attribution 3669 3700	was also making an argument for
+E23	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Cue 3786 3792	asking
+T95	Content 3803 3851	to embrace their differences and work for change
+T96	Attribution-no-source 3786 3792	asking
+E24	Attribution-no-source:T96 Content:T95 Cue:T94
+T97	Source 4057 4066	his aides
+T98	Cue 4067 4073	argued
+T99	Content 4028 4056	It was never just about him,
+T100	Attribution 4067 4073	argued
+E25	Attribution:T100 Content:T99 Cue:T98 Source:T97 Content2:T101
+T101	Content 4099 4212	rather, it was Mr. Obama's ability to give voice to such widely shared aspirations that rallied voters behind him
+T102	Source 4309 4318	Mr. Obama
+T103	Cue 4319 4326	decried
+T104	Content 4327 4415	the ''spin masters and negative-ad peddlers who embrace the politics of anything goes,''
+T105	Attribution 4319 4326	decried
+E26	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Source 4420 4422	he
+T107	Cue 4423 4435	foreshadowed
+T108	Content 4436 4542	the political theme that would ultimately carry him into the White House by urging ''a politics of hope.''
+T109	Source 4557 4566	Mr. Obama
+T110	Cue 4567 4583	was vouching for
+T111	Content 4584 4596	someone else
+T112	Attribution 4423 4435	foreshadowed
+E27	Attribution:T112 Cue:T107 Source:T106 Content:T108
+T113	Attribution 4567 4583	was vouching for
+E28	Attribution:T113 Content:T111 Cue:T110 Source:T109
+T114	Source 4741 4743	he
+T115	Cue 4744 4752	conceded
+T116	Content 4753 4772	he had fallen short
+T117	Attribution 4744 4752	conceded
+E29	Attribution:T117 Content:T116 Cue:T115 Source:T114
+T118	Source 4891 4900	Mr. Obama
+T119	Cue 4901 4910	expressed
+T120	Content 4911 5002	a deep regret for ''my inability to reduce the polarization and meanness in our politics.''
+T121	Attribution 4901 4910	expressed
+E30	Attribution:T121 Content:T120 Cue:T119 Source:T118
+T122	Source 5011 5013	he
+T123	Cue 5014 5018	said
+T124	Content 5020 5067	one of the bitterest failures of his presidency
+T125	Attribution 5014 5018	said
+E31	Attribution:T125 Content:T124 Cue:T123 Source:T122 Content2:T126
+T126	Content 5003 5009	It was
+T127	Content 5070 5155	That partisan strife is also one of the chief reasons to oppose Mr. Trump's candidacy
+T128	Source 5157 5170	the president
+T129	Cue 5171 5182	often says:
+T130	Attribution 5171 5182	often says:
+E32	Attribution:T130 Cue:T129 Source:T128 Content:T127 Content2:T131
+T131	Content 5183 5380	In his view, Mr. Trump would drastically worsen, not improve, what Mr. Obama said in Springfield was a ''poisonous political climate that pushes people away from participating in our public life.''
+T132	Source 5402 5415	the president
+T133	Cue 5416 5425	portrayed
+T134	Content 5426 5624	Mr. Trump as a nasty and divisive candidate who would govern from the White House by dividing the country into the very kinds of opposing camps that Mr. Obama argued in 2004 were unhealthy and wrong
+T135	Attribution 5416 5425	portrayed
+E33	Attribution:T135 Content:T134 Cue:T133 Source:T132
+T136	Source 5627 5640	The president
+T137	Cue 5641 5650	denounced
+T138	Content 5666 5774	the ''deeply pessimistic'' vision of America that emerged from Mr. Trump's convention in Cleveland last week
+T140	Cue 5777 5783	saying
+T141	Content 5784 5867	it offered no solutions but rather fanned ''resentment and blame and anger and hate
+T142	Attribution-no-source 5777 5783	saying
+E35	Attribution-no-source:T142 Content:T141 Cue:T140 Content2:T143
+T143	Content 5869 5906	And that is not the America I know.''
+T139	Attribution 5641 5650	denounced
+E34	Attribution:T139 Content:T138 Cue:T137 Source:T136
+T144	Source 6093 6105	Top advisers
+T145	Cue 6106 6110	said
+T146	Content 6111 6160	he had rejected the idea of a valedictory address
+T147	Attribution 6106 6110	said
+E36	Attribution:T147 Content:T146 Cue:T145 Source:T144
+T149	Source 6710 6726	a senior adviser
+T148	Cue 6694 6709	in the words of
+T150	Content 6728 6761	''the torchbearer'' of his legacy
+T151	Attribution 6694 6709	in the words of
+E37	Attribution:T151 Content:T150 Cue:T148 Source:T149
+T152	Source 6784 6793	Mr. Obama
+T153	Cue 6794 6802	insisted
+T154	Content 6803 6968	that despite the political divisions that remain, the country remains a hopeful one that will embrace the optimism of Mrs. Clinton over the bleak vision of Mr. Trump
+T155	Attribution 6794 6802	insisted
+E38	Attribution:T155 Content:T154 Cue:T153 Source:T152
+T156	Content 6970 7014	''That's what Hillary Clinton understands,''
+T157	Source 7015 7024	Mr. Obama
+T158	Cue 7025 7029	said
+T159	Attribution 7025 7029	said
+E39	Attribution:T159 Cue:T158 Source:T157 Content:T156 Content2:T160
+T160	Content 7031 7170	''This fighter, this stateswoman, this mother and grandmother, this public servant, this patriot - that's the America she's fighting for.''
+T161	Source 6225 6227	He
+T162	Cue 6228 6249	was also keenly aware
+T163	Content 6260 6454	that reminding voters why they gravitated to him in the first place could be the most powerful way to bolster Mrs. Clinton's candidacy - and with it, his own chance of achieving a lasting legacy
+T164	Attribution 6228 6249	was also keenly aware
+E40	Attribution:T164 Content:T163 Cue:T162 Source:T161

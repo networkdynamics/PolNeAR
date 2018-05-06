@@ -1,0 +1,52 @@
+T1	Source 0 7	Clinton
+T2	Cue 29 30	:
+T3	Content 31 61	Trump will reverse Roe v. Wade
+T4	Attribution 29 30	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 92 151	Presumptive Democratic presidential nominee Hillary Clinton
+T6	Cue 152 156	told
+T7	Content 202 306	she will protect reproductive rights while her opponent, Donald Trump, wants to “take America backward.”
+T8	Attribution 152 156	told
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 448 469	The friendly audience
+T10	Cue 470 477	cheered
+T11	Content 478 504	Clinton’s attacks on Trump
+T12	Attribution 470 477	cheered
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 543 715	“When Donald Trump says ‘Let’s make America great again,’ that is code for let’s take America backward, back to a time when opportunity and dignity were reserved for some,”
+T14	Source 716 723	Clinton
+T15	Cue 724 728	said
+T16	Attribution 724 728	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Cue 730 741	referencing
+T18	Content 742 820	the period before 1972’s landmark Roe v. Wade decision that legalized abortion
+T19	Attribution 730 741	referencing
+E5	Attribution:T19 Cue:T17 Content:T18 Source:T14
+T20	Content 823 859	“Well, Donald, those days are over,”
+T21	Source 860 867	Clinton
+T22	Cue 868 872	said
+T23	Attribution 868 872	said
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 963 970	Clinton
+T25	Cue 971 979	attacked
+T26	Content 980 985	Trump
+T27	Attribution 971 979	attacked
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 987 993	saying
+T29	Content 994 1062	he would appoint Supreme Court judges who would overturn Roe v. Wade
+T30	Attribution 987 993	saying
+E8	Attribution:T30 Cue:T28 Content:T29 Source:T24
+T31	Cue 1068 1076	reminded
+T32	Content 1093 1229	comments Trump made — and later walked back — that, if he succeeded in criminalizing abortions, women who sought them should be punished
+T33	Attribution 1068 1076	reminded
+E9	Attribution:T33 Cue:T31 Content:T32 Source:T24
+T34	Source 1232 1239	Clinton
+T35	Cue 1240 1249	also told
+T36	Content 1310 1400	Trump’s past descriptions of women he doesn’t like as “pigs, dogs and disgusting animals.”
+T37	Attribution 1240 1249	also told
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Content 1402 1471	“Donald Trump has shown us who he is and we sure should believe him,”
+T39	Source 1472 1479	Clinton
+T40	Cue 1480 1484	said
+T41	Attribution 1480 1484	said
+E11	Attribution:T41 Cue:T40 Source:T39 Content:T38

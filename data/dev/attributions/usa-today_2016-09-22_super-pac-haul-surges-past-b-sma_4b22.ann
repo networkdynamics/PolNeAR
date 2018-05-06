@@ -1,0 +1,50 @@
+T1	Source 166 209	a small group of super-wealthy contributors
+T2	Cue 210 228	intent on deciding
+T3	Content 229 291	who will occupy the White House and control Congress next year
+T4	Attribution 210 228	intent on deciding
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 369 429	a USA TODAY analysis of newly filed campaign-finance reports
+T6	Cue 430 435	shows
+T7	Content 294 367	Donations to super PACs hit nearly $1.1 billion through the end of August
+T8	Attribution 430 435	shows
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 1211 1215	that
+T10	Cue 1216 1223	intends
+T11	Content 1224 1301	to hammer Democrat Hillary Clinton with negative ads, mailers and phone calls
+T12	Attribution 1216 1223	intends
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 1441 1445	said
+T14	Source 1446 1576	Brian Baker, a longtime political adviser to the Ricketts family who oversees the super PAC's last-minute campaign to stop Clinton
+T15	Content 1385 1439	Its first national television ad could start this week
+T16	Attribution 1441 1445	said
+E4	Attribution:T16 Content:T15 Source:T14 Cue:T13
+T17	Source 1673 1678	Baker
+T18	Cue 1679 1683	said
+T19	Content 1605 1672;1685 1755	"This is the period of time when voters are making up their minds," "Future45 intends to educate voters about Secretary Clinton's record."
+T20	Attribution 1679 1683	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1794 1883	A USA TODAY analysis of super PACs that have raised $1million or more since Jan. 1, 2015,
+T22	Cue 1884 1889	shows
+T23	Content 1890 1945	Democratic groups outpacing Republicans in recent weeks
+T24	Attribution 1884 1889	shows
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 2248 2254	Steyer
+T26	Cue 2255 2280	announced plans this week
+T27	Content 2281 2403	to give an additional $15 million to For Our Future, a super PAC he formed with labor groups  to get out Millennial voters
+T28	Attribution 2255 2280	announced plans this week
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 3039 3046	Clinton
+T30	Cue 3047 3054	pledged
+T31	Content 3055 3190	to push for a constitutional amendment to overturn the Supreme Court's Citizens United decision that helped pave the way for super PACs
+T32	Attribution 3047 3054	pledged
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 2810 2837	USA TODAY's super PAC tally
+T34	Cue 2838 2853	doesn't include
+T35	Content 2854 3036	money raised by presidential candidates nor the tens of millions flowing into races from politically active non-profit groups that don't disclose their fundraising on a regular basis
+T36	Attribution 2838 2853	doesn't include
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 2462 2472	Super PACs
+T38	Cue 2474 2490	first authorized
+T39	Source 2494 2507	court rulings
+T40	Attribution 2474 2490	first authorized
+E10	Attribution:T40 Source:T39 Cue:T38 Content:T37

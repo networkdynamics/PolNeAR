@@ -1,0 +1,275 @@
+T1	Source 0 19	Clinton and Sanders
+T2	Cue 20 25	trade
+T3	Content 26 35	low blows
+T4	Attribution 20 25	trade
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 124 127	she
+T6	Cue 128 135	claimed
+T7	Content 136 254	that there’s a “growing level of anxiety” in the Vermont senator’s not-quite-so-long-shot campaign for the White House
+T8	Attribution 128 135	claimed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 38 53	Hillary Clinton
+T10	Cue 64 85	hit Bernie Sanders on
+T11	Content 86 97	immigration
+T12	Attribution 64 85	hit Bernie Sanders on
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 99 102	she
+T14	Cue 103 113	hit him on
+T15	Content 114 118	guns
+T16	Attribution 103 113	hit him on
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 301 315	His chief aide
+T18	Cue 316 342	doubled down on attacks on
+T19	Content 343 376	Clinton’s fitness to be president
+T20	Attribution 316 342	doubled down on attacks on
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 378 384	saying
+T22	Content 385 413	she's experienced "on paper"
+T23	Attribution 378 384	saying
+E6	Attribution:T23 Source:T17 Content:T22 Cue:T21
+T24	Cue 418 428	suggesting
+T25	Content 429 453	that might not be enough
+T26	Attribution 418 428	suggesting
+E7	Attribution:T26 Source:T17 Content:T25 Cue:T24
+T27	Source 459 466	Sanders
+T28	Cue 475 485	went after
+T29	Content 486 516	Clinton’s environmental record
+T30	Attribution 475 485	went after
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 607 626	Clinton and Sanders
+T32	Cue 627 634	explore
+T33	Content 635 664	their newfound aggressiveness
+T34	Attribution 627 634	explore
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 666 670	each
+T36	Cue 671 687	suddenly willing
+T37	Content 688 703	to get personal
+T38	Attribution 671 687	suddenly willing
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Discuss 787 849	The theater for the political drama is also one that hits home
+T40	Source 984 1010	A Monmouth poll out Monday
+T41	Cue 1011 1017	showed
+T42	Content 1018 1156	Clinton with a healthy lead over Sanders in New York, earning 51 percent of the support of likely Democratic voters to Sanders’ 39 percent
+T43	Attribution 1011 1017	showed
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1158 1173	About 9 percent
+T45	Cue 1174 1178	said
+T46	Content 1179 1201	they had no preference
+T47	Attribution 1174 1178	said
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 1440 1459	Clinton and Sanders
+T49	Cue 1460 1468	agitated
+T50	Content 1405 1435	The potential inflection point
+T51	Attribution 1460 1468	agitated
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Cue 1500 1514	bickering over
+T53	Content 1515 1563	whether the other is “qualified” to be president
+T54	Source 1565 1572	Clinton
+T55	Attribution 1500 1514	bickering over
+E14	Attribution:T55 Source:T54 Content:T53 Cue:T52
+T56	Cue 1583 1606	ripped into Sanders for
+T57	Content 1607 1634	a range of policy positions
+T58	Attribution 1583 1606	ripped into Sanders for
+E15	Attribution:T58 Source:T54 Content:T57 Cue:T56
+T59	Source 1653 1660	Clinton
+T60	Cue 1661 1669	lamented
+T61	Content 1670 1763	Sanders’ past vote in opposition to immigration reform legislation that she supported in 2007
+T62	Attribution 1661 1669	lamented
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 1771 1778	Sanders
+T64	Cue 1779 1793	has maintained
+T65	Content 1794 1869	that the guest-worker provision in that bill amounted to modern-day slavery
+T66	Attribution 1779 1793	has maintained
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Source 1871 1878	Clinton
+T68	Cue 1879 1902	has nevertheless called
+T69	Content 1903 1932	his vote an irresponsible one
+T70	Attribution 1879 1902	has nevertheless called
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Content 1935 2038	“I think it's so unfortunate that he did not join with others of us in either the House or the Senate,”
+T72	Source 2039 2046	Clinton
+T73	Cue 2047 2051	said
+T74	Attribution 2047 2051	said
+E19	Attribution:T74 Cue:T73 Source:T72 Content:T71
+T75	Source 2177 2180	she
+T76	Cue 2181 2205	escalated her attacks on
+T77	Content 2206 2229	Sanders' record on guns
+T78	Attribution 2181 2205	escalated her attacks on
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Cue 2231 2242	criticizing
+T80	Content 2243 2377	him for repeated votes against the Brady bill in the 1990s and his vote more than a decade ago to curtail gun manufacturers' liability
+T81	Attribution 2231 2242	criticizing
+E21	Attribution:T81 Source:T75 Content:T80 Cue:T79
+T82	Source 2380 2383	She
+T83	Cue 2384 2388	said
+T84	Content 2389 2470;2555 2566	his frequent invocation of his rural state of Vermont in defending his past votes doesn’t fly
+T85	Attribution 2384 2388	said
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Content 2569 2801	“Most of the guns that are used in crimes and violence and killings in New York come from out of state. And the state that has the highest per capita number of those guns that end up committing crimes in New York come from Vermont,"
+T87	Source 2802 2809	Clinton
+T88	Cue 2810 2842	said during a gun violence panel
+T89	Attribution 2810 2842	said during a gun violence panel
+E23	Attribution:T89 Cue:T88 Source:T87 Content:T86
+T90	Source 2961 2964	She
+T91	Cue 2965 2979	also suggested
+T92	Content 2980 3045	that Sanders’ attacks against her come from a place of insecurity
+T93	Attribution 2965 2979	also suggested
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Cue 3051 3085	appeared to betray her own concern
+T95	Content 3086 3149	that Sanders’ supporters will be reluctant to drift over to her
+T96	Attribution 3051 3085	appeared to betray her own concern
+E25	Attribution:T96 Source:T90 Content:T95 Cue:T94
+T97	Content 3152 3354	"There seems to be a growing level of anxiety in that campaign, which I hope doesn’t spill over into the way that his supporters treat other people who have every right to support whomever they choose,"
+T98	Source 3355 3362	Clinton
+T99	Cue 3363 3367	said
+T100	Attribution 3363 3367	said
+E26	Attribution:T100 Cue:T99 Source:T98 Content:T97
+T101	Source 3493 3496	she
+T102	Cue 3497 3509	angrily said
+T103	Content 3511 3586	“I am so sick of the Sanders campaign lying” about her environmental record
+T104	Attribution 3497 3509	angrily said
+E27	Attribution:T104 Content:T103 Cue:T102 Source:T101
+T105	Source 3588 3595	Sanders
+T106	Cue 3596 3616	jabbed at Clinton on
+T107	Content 3617 3632	that same topic
+T108	Attribution 3596 3616	jabbed at Clinton on
+E28	Attribution:T108 Content:T107 Cue:T106 Source:T105
+T109	Source 3645 3652	Sanders
+T110	Cue 3653 3660	accused
+T111	Content 3661 3752	Clinton of dragging her feet in opposing the Keystone pipeline, and for advocating fracking
+T112	Attribution 3653 3660	accused
+E29	Attribution:T112 Content:T111 Cue:T110 Source:T109
+T113	Content 3755 3847;3892 3984	“Secretary Clinton’s role in fracking when she was secretary of state is not a good record,” “Secretary Clinton and her State Department worked to export fracking throughout the world.”
+T114	Source 3848 3855	Sanders
+T115	Cue 3856 3860	said
+T116	Attribution 3856 3860	said
+E30	Attribution:T116 Cue:T115 Source:T114 Content:T113
+T117	Source 3986 4006	The Sanders campaign
+T118	Cue 4017 4037	also doubled down on
+T119	Content 4038 4086	its attacks on Clinton's fitness to be president
+T120	Attribution 4017 4037	also doubled down on
+E31	Attribution:T120 Content:T119 Cue:T118 Source:T117
+T121	Cue 4088 4094	saying
+T122	Content 4095 4123	she's experienced "on paper"
+T123	Attribution 4088 4094	saying
+E32	Attribution:T123 Source:T117 Content:T122 Cue:T121
+T124	Cue 4128 4138	suggesting
+T125	Content 4139 4163	that might not be enough
+T126	Attribution 4128 4138	suggesting
+E33	Attribution:T126 Source:T117 Content:T125 Cue:T124
+T127	Content 4166 4264	"Well, look, she's clearly experienced, right? Clearly an intelligent person, experienced person,"
+T128	Source 4265 4301	Sanders campaign manager Jeff Weaver
+T129	Cue 4302 4354	said Monday in an interview with MSNBC's Tamron Hall
+T130	Attribution 4302 4354	said Monday in an interview with MSNBC's Tamron Hall
+E34	Attribution:T130 Cue:T129 Source:T128 Content:T127
+T131	Content 4357 4406;4421 4678	"But résumé is not enough at the end of the day," "Right? So you can look at someone's résumé and they can be great, but when you do the interview, which is what this whole election process basically is, is a job interview, you learn more than what's on the paper. So on paper, of course she's experienced."
+T132	Source 4407 4409	he
+T133	Cue 4410 4419	continued
+T134	Attribution 4410 4419	continued
+E35	Attribution:T134 Cue:T133 Source:T132 Content:T131
+T135	Cue 4685 4704	later pressed about
+T136	Content 4705 4842	what the Sanders campaign may or may not be implying about Clinton and her support from people who lobby on behalf of corporate interests
+T137	Attribution-no-source 4685 4704	later pressed about
+E36	Attribution-no-source:T137 Content:T136 Cue:T135
+T138	Source 4844 4850	Weaver
+T139	Cue 4851 4859	rejected
+T140	Content 4860 4937	the notion that the campaign is calling the former secretary of state corrupt
+T141	Attribution 4851 4859	rejected
+E37	Attribution:T141 Content:T140 Cue:T139 Source:T138
+T142	Content 4940 5183;5197 5464	"It's not about being corrupt. But it's about a corrupt campaign finance system that supports establishment politicians. The secretary has voted for, you know, she voted for the Wall Street bailout. She—on guns, she's been all over the place," "She used to be for gun registration in New York, then she attacked President Obama in 2008 for being too tough on guns. Now she's gone the other way again. You don't know where she is. I don't know what her real position is. She's clearly tacked all over the place."
+T143	Source 5184 5190	Weaver
+T144	Cue 5191 5195	said
+T145	Attribution 5191 5195	said
+E38	Attribution:T145 Cue:T144 Source:T143 Content:T142
+T146	Source 5514 5521	Clinton
+T147	Cue 5522 5529	refused
+T148	Content 5530 5642	to say in an interview on MSNBC's "Morning Joe" that Sanders was up to the challenge of being commander in chief
+T149	Attribution 5522 5529	refused
+E39	Attribution:T149 Content:T148 Cue:T147 Source:T146
+T150	Source 5644 5651	Sanders
+T151	Cue 5662 5688	saying at a campaign event
+T152	Content 5699 5750	that Clinton was not "qualified" for the presidency
+T153	Attribution 5662 5688	saying at a campaign event
+E40	Attribution:T153 Content:T152 Cue:T151 Source:T150
+T154	Source 5790 5797	Sanders
+T155	Cue 5827 5834	stating
+T156	Content 5861 5909	that Clinton's "judgment" was "clearly lacking."
+T157	Attribution 5827 5834	stating
+E41	Attribution:T157 Content:T156 Cue:T155 Source:T154
+T158	Content 6005 6049	“But gosh almighty, they’re both qualified,”
+T159	Source 6050 6052	he
+T160	Cue 6053 6057	said
+T161	Attribution 6053 6057	said
+E42	Attribution:T161 Cue:T160 Source:T159 Content:T158
+T162	Cue 6059 6065	adding
+T163	Content 6067 6120	“Hillary’s overwhelmingly qualified to be president.”
+T164	Attribution 6059 6065	adding
+E43	Attribution:T164 Source:T159 Content:T163 Cue:T162
+T165	Source 6174 6179	which
+T166	Cue 6180 6204	has bristled in the past
+T167	Content 6205 6232	at some of Biden’s comments
+T168	Attribution 6180 6204	has bristled in the past
+E44	Attribution:T168 Content:T167 Cue:T166 Source:T165
+T169	Source 6268 6270	he
+T170	Cue 6271 6277	stated
+T171	Content 6278 6367	that Clinton is “relatively new” to the issue of income inequality, compared with Sanders
+T172	Attribution 6271 6277	stated
+E45	Attribution:T172 Content:T171 Cue:T170 Source:T169
+T173	Source 6154 6172	Clinton’s campaign
+T175	Content 6122 6126	That
+T174	Cue 6138 6150	welcome news
+T176	Attribution 6138 6150	welcome news
+E46	Attribution:T176 Cue:T174 Content:T175 Source:T173
+T177	Source 6370 6388	Clinton's campaign
+T178	Cue 6399 6423	dressed down Sanders for
+T179	Content 6424 6501	his campaign’s persistent suggestion that she’s not a great fit for president
+T180	Attribution 6399 6423	dressed down Sanders for
+E47	Attribution:T180 Content:T179 Cue:T178 Source:T177
+T181	Content 6504 6681;6770 7124	"This is essentially the same attack he made last week. Last week, he used the word 'unqualified.' This week he's using the word 'judgment.' It's fundamentally the same attack," "He encountered so much blowback last week that they're trying to change the terminology a bit, but it's still the same false attack that I don't think will ring true to Democratic voters. By the same very standards he's using, President Obama wouldn't have good judgment to be president, in terms of accepting contributions from the financial industry."
+T182	Source 6682 6718	Clinton press secretary Brian Fallon
+T183	Cue 6719 6723	said
+T184	Attribution 6719 6723	said
+E48	Attribution:T184 Cue:T183 Source:T182 Content:T181
+T185	Source 7173 7226	Clinton's chief pollster and strategist Joel Benenson
+T186	Cue 7237 7250	lashed out at
+T187	Content 7251 7314	what he characterized as an increasingly nasty Sanders campaign
+T188	Attribution 7237 7250	lashed out at
+E49	Attribution:T188 Content:T187 Cue:T186 Source:T185
+T189	Cue 7316 7324	advising
+T190	Content 7325 7367	the Vermont senator to stick to the issues
+T191	Attribution 7316 7324	advising
+E50	Attribution:T191 Source:T185 Content:T190 Cue:T189
+T192	Content 7370 7680;7697 7832	"When it comes to the question of judgment, let's be clear. Hillary Clinton ran a spirited campaign against then-Sen. Obama, and at the end of that campaign, he made a decision about her judgment and trusted her to put her in as secretary of state overseeing American diplomacy and relations around the world," "He listened to her in the Situation Room time after time, including around decisions about whether or not to go after" Osama bin Laden
+T193	Source 7681 7689	Benenson
+T194	Cue 7690 7695	added
+T195	Attribution 7690 7695	added
+E51	Attribution:T195 Cue:T194 Source:T193 Content:T192
+T196	Source 7835 7847	Bill Clinton
+T197	Cue 7868 7875	bashing
+T198	Content 7876 7883	Sanders
+T199	Attribution 7868 7875	bashing
+E52	Attribution:T199 Content:T198 Cue:T197 Source:T196
+T200	Content 7922 8150	“Sometimes in this primary I get the feeling that the gentleman who’s running against Hillary is running harder against President Obama and me than he is against the legacy of the Bush administration and trickle-down economics,”
+T201	Source 8151 8171	the former president
+T202	Cue 8172 8176	said
+T203	Attribution 8172 8176	said
+E53	Attribution:T203 Cue:T202 Source:T201 Content:T200
+T204	Cue 8178 8193	going on to jab
+T205	Content 8194 8259	the self-described democratic socialist for his party affiliation
+T206	Attribution 8178 8193	going on to jab
+E54	Attribution:T206 Source:T201 Content:T205 Cue:T204
+T207	Content 8262 8405	“After he’s been a Democrat a little while longer, he’ll get used to it, and he’ll realize that our party is the best hope this country’s got,”
+T208	Source 8406 8408	he
+T209	Cue 8409 8413	said
+T210	Attribution 8409 8413	said
+E55	Attribution:T210 Cue:T209 Source:T208 Content:T207
+T211	Source 8416 8423	Clinton
+T212	Cue 8432 8445	also signaled
+T213	Content 8446 8518	that she is girding for a fight at the debate Thursday night in Brooklyn
+T214	Attribution 8432 8445	also signaled
+E56	Attribution:T214 Content:T213 Cue:T212 Source:T211
+T215	Content 8520 8644	"I have noticed that under the bright spotlight and scrutiny in New York, Sen. Sanders has had trouble answering questions,"
+T216	Source 8645 8648	she
+T217	Cue 8649 8653	said
+T218	Attribution 8649 8653	said
+E57	Attribution:T218 Cue:T217 Source:T216 Content:T215

@@ -1,0 +1,69 @@
+T1	Cue 204 214	it appears
+T2	Content 215 261	he has little chance of winning the nomination
+T3	Attribution-no-source 204 214	it appears
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Source 335 380	a series of photos from his most recent rally
+T5	Cue 381 393	is revealing
+T6	Content 394 410	a shocking truth
+T7	Attribution 381 393	is revealing
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Source 589 592	one
+T9	Cue 593 604	might think
+T10	Content 605 674	the senator would fill the stadium with supporters excited to see him
+T11	Attribution 593 604	might think
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 684 703	a Politico reporter
+T13	Cue 704 709	noted
+T14	Content 711 760	he didn’t even fill the place to the 20-yard line
+T15	Attribution 704 709	noted
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 958 961	CNN
+T17	Cue 962 972	also noted
+T18	Content 973 1005	the relatively sparse attendance
+T19	Attribution 962 972	also noted
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1038 1048	Byron York
+T21	Cue 1049 1065	took a moment to
+T22	Content 1066 1112	point out the lack of a crowd at Rubio’s event
+T23	Attribution 1049 1065	took a moment to
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1289 1292	one
+T25	Cue 1293 1312	has to feel bad for
+T26	Content 1313 1381	the tough job Rubio staffers have maintaining their enthusiasm level
+T27	Attribution 1293 1312	has to feel bad for
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1383 1418	Rubio press secretary Brooke Sammon
+T29	Cue 1456 1479	tweeting the following:
+T30	Content 1544 1602	Crowd in Hialeah going wild for @marcorubio as he arrives!
+T31	Attribution 1456 1479	tweeting the following:
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1732 1754	Virtually all analysts
+T33	Cue 1754 1758	 say
+T34	Content 1759 1833	that if Rubio can’t win his home state, his campaign for president is over
+T35	Attribution 1754 1758	 say
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1835 1849	Recent polling
+T37	Cue 1850 1860	is showing
+T38	Content 1861 1911	Trump has a significant lead over Rubio in Florida
+T39	Attribution 1850 1860	is showing
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1919 1936	an anti-Trump PAC
+T41	Cue 1937 1954	recently revealed
+T42	Content 1955 2015	its polling shows Trump crushing Rubio in the Sunshine State
+T43	Attribution 1937 1954	recently revealed
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Cue 2018 2030	According to
+T45	Source 2031 2062	the Real Clear Politics average
+T46	Content 2064 2098	Trump is up 15.6 points in Florida
+T47	Attribution 2018 2030	According to
+E12	Attribution:T47 Content:T46 Source:T45 Cue:T44
+T48	Source 2110 2118	Ted Cruz
+T49	Cue 2119 2125	thinks
+T50	Content 2126 2162	Rubio’s status in Florida is so weak
+T51	Attribution 2119 2125	thinks
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Cue 2217 2224	sensing
+T53	Content 2225 2283	he just might be able to take second place away from Rubio
+T54	Attribution 2217 2224	sensing
+E14	Attribution:T54 Cue:T52 Content:T53 Source:T48
+T55	Discuss 91 172	Marco Rubio is raising eyebrows all across the country by staying in the GOP race

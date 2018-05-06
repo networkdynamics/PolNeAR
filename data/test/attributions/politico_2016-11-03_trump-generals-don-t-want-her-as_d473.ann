@@ -1,0 +1,146 @@
+T1	Source 0 5	Trump
+T2	Cue 5 6	:
+T3	Content 7 47	Generals don't want 'her as their boss.'
+T4	Attribution 5 6	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 61 73	Donald Trump
+T6	Cue 236 244	asserted
+T7	Content 245 322	that top generals don’t want Hillary Clinton as their next commander in chief
+T8	Attribution 236 244	asserted
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 128 141	deviated from
+T10	Content 142 162	his prepared remarks
+T11	Attribution 128 141	deviated from
+E3	Attribution:T11 Cue:T9 Content:T10 Source:T5
+T12	Discuss 128 162	deviated from his prepared remarks
+T13	Source 389 394	Trump
+T14	Cue 395 403	extolled
+T15	Content 404 441	their bravery as greater than his own
+T16	Attribution 395 403	extolled
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 444 513;575 624	“They’re so much braver than me. I wouldn’t have done what they did,” “I’m brave in other ways. I’m financially brave.”
+T18	Source 514 519	Trump
+T19	Cue 520 524	said
+T20	Attribution 520 524	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Cue 526 537	veering off
+T22	Content 538 544	script
+T23	Discuss 526 544	veering off script
+T24	Attribution 526 537	veering off
+E6	Attribution:T24 Cue:T21 Content:T22 Source:T18
+T25	Cue 552 562	qualifying
+T26	Content 563 573	his remark
+T27	Attribution 552 562	qualifying
+E7	Attribution:T27 Cue:T25 Content:T26 Source:T18
+T28	Source 626 641	The GOP nominee
+T29	Cue 642 658	then referred to
+T30	Content 659 677	his invited guests
+T31	Attribution 642 658	then referred to
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 679 689	suggesting
+T33	Content 690 786	them to be representative of the military more broadly and its supposed antipathy toward Clinton
+T34	Attribution 679 689	suggesting
+E9	Attribution:T34 Cue:T32 Content:T33
+T35	Content 866 919	“To think of her being their boss, I don’t think so,”
+T36	Source 920 925	Trump
+T37	Cue 926 930	said
+T38	Attribution 926 930	said
+E10	Attribution:T38 Cue:T37 Source:T36 Content:T35
+T39	Cue 939 949	suggesting
+T40	Content 950 1039	that active duty generals are simply following protocol by keeping mum about the election
+T41	Attribution 939 949	suggesting
+E11	Attribution:T41 Cue:T39 Content:T40 Source:T36
+T42	Content 1041 1073;1088 1108	“I know what they are thinking,” “It’s not for them.”
+T43	Source 1074 1076	he
+T44	Cue 1077 1086	continued
+T45	Attribution 1077 1086	continued
+E12	Attribution:T45 Cue:T44 Source:T43 Content:T42
+T46	Source 1194 1199	Trump
+T47	Cue 1200 1219	continued to attack
+T48	Content 1220 1254	the Democratic nominee’s integrity
+T49	Attribution 1200 1219	continued to attack
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Cue 1256 1263	blaming
+T51	Content 1264 1310	her for the destabilization of the Middle East
+T52	Attribution 1256 1263	blaming
+E14	Attribution:T52 Cue:T50 Content:T51 Source:T46
+T53	Cue 1315 1329	speaking about
+T54	Content 1330 1381	the ongoing FBI investigation into her email server
+T55	Attribution 1315 1329	speaking about
+E15	Attribution:T55 Cue:T53 Content:T54 Source:T46
+T56	Content 1418 1457	“She shouldn’t even be allowed to run,”
+T57	Source 1458 1463	Trump
+T58	Cue 1464 1468	said
+T59	Attribution 1464 1468	said
+E16	Attribution:T59 Cue:T58 Source:T57 Content:T56
+T60	Source 1977 1984	Trump's
+T61	Cue 1985 2033	remarks here in the evening were more focused on
+T62	Content 2034 2068	military issues and foreign policy
+T63	Attribution 1985 2033	remarks here in the evening were more focused on
+E17	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 2147 2152	Trump
+T65	Cue 2153 2169	mostly read from
+T66	Content 2170 2190	his prepared remarks
+T67	Attribution 2153 2169	mostly read from
+E18	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Discuss 2147 2190	Trump mostly read from his prepared remarks
+T69	Cue 2192 2201	promising
+T70	Content 2202 2301	more robust military funding but a more isolationist foreign policy that was at times contradictory
+T71	Attribution 2192 2201	promising
+E19	Attribution:T71 Cue:T69 Source:T64 Content:T70
+T72	Source 2303 2305	He
+T73	Cue 2306 2311	vowed
+T74	Content 2312 2376	to limit military involvement in “places we have no right to be”
+T75	Attribution 2306 2311	vowed
+E20	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Cue 2383 2392	promising
+T77	Content 2393 2440	to destroy the Islamic State no matter the cost
+T78	Attribution 2383 2392	promising
+E21	Attribution:T78 Cue:T76 Content:T77 Source:T72
+T79	Content 2443 2462	“We have to do it,”
+T80	Source 2463 2465	he
+T81	Cue 2466 2470	said
+T82	Attribution 2466 2470	said
+E22	Attribution:T82 Cue:T81 Source:T80 Content:T79
+T83	Source 2487 2489	he
+T84	Cue 2490 2498	mimicked
+T85	Content 2499 2515	his own advisers
+T86	Attribution 2490 2498	mimicked
+E23	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Cue 2520 2530	referenced
+T88	Content 2531 2570	their pleas that he stick to the script
+T89	Attribution 2520 2530	referenced
+E24	Attribution:T89 Cue:T87 Content:T88 Source:T83
+T90	Source 2572 2577	Trump
+T91	Cue 2622 2636	mostly limited
+T92	Content 2637 2651	his ad-libbing
+T93	Attribution 2622 2636	mostly limited
+E25	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 2692 2714	President Barack Obama
+T95	Cue 2715 2760	trashing — and seemingly attempting to bait —
+T96	Content 2761 2799	the combustible former reality TV star
+T97	Attribution 2715 2760	trashing — and seemingly attempting to bait —
+E26	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 2801 2806	Trump
+T99	Cue 2866 2876	suggesting
+T100	Content 2877 2984	he’s failing to do his job because he’s hitting the trail “with a candidate who’s under FBI investigation.”
+T101	Attribution 2866 2876	suggesting
+E27	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Source 3023 3025	he
+T103	Cue 3051 3068	taking credit for
+T104	Content 3069 3100	his savviness as a communicator
+T105	Attribution 3051 3068	taking credit for
+E28	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Cue 3026 3034	snuck in
+T107	Content 3035 3049	another ad-lib
+T108	Cue 3106 3127	a prepared line about
+T109	Content 3128 3196	how he is simply the mouthpiece of a massive, people-driven movement
+T110	Attribution 3106 3127	a prepared line about
+E29	Attribution:T110 Cue:T108 Content:T109 Source:T102
+T111	Content 3199 3231;3268 3420	“I’m just the messenger, folks,” “Thank you. Great, great people. Thank you very much. You’re the ones, I’m the messenger. But I have done a good job as the messenger, you have to say.”
+T112	Source 3232 3237	Trump
+T113	Cue 3238 3242	said
+T114	Attribution 3026 3034	snuck in
+E30	Attribution:T114 Cue:T106 Content:T107 Source:T102
+T115	Attribution 3238 3242	said
+E31	Attribution:T115 Cue:T113 Source:T112 Content:T111

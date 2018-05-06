@@ -1,0 +1,35 @@
+T1	Source 201 212	many people
+T2	Cue 213 234	would rather vote for
+T3	Content 235 313	her than for presumptive Republican nominee and apoplectic Cheeto Donald Trump
+T4	Attribution 213 234	would rather vote for
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 315 319	they
+T6	Cue 320 345	have mixed feelings about
+T7	Content 346 388	the former secretary of state all the same
+T8	Attribution 320 345	have mixed feelings about
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 433 438	which
+T10	Source 439 465	Twitter user @MADBLACKTHOT
+T11	Cue 466 473	created
+T12	Attribution 466 473	created
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T14	Source 580 586	people
+T15	Cue 587 630	have been using to signal their support for
+T13	Content 631 644	the candidate
+T16	Attribution 587 630	have been using to signal their support for
+E4	Attribution:T16 Content:T13 Cue:T15 Source:T14
+T17	Source 675 678	who
+T18	Cue 679 697	aren’t enamored of
+T19	Content 698 705	Clinton
+T20	Attribution 679 697	aren’t enamored of
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 710 720	don’t want
+T22	Content 721 755	a racist xenophobe for a president
+T23	Attribution 710 720	don’t want
+E6	Attribution:T23 Source:T17 Cue:T21 Content:T22
+T24	Source 760 764	they
+T25	Cue 764 790	’re reluctantly voting for
+T26	Content 791 828	a Democrat they don’t totally support
+T27	Attribution 764 790	’re reluctantly voting for
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Discard 983 1171	<tweet pic="pic.twitter.com/" author="fireregui" timestamp="1465401600" tweet_id="740602286523723776">me leaving the polls after voting for Hillary #GirlIGuessImWithHer HNRNAuq7nT</tweet>.

@@ -1,0 +1,83 @@
+T1	Source 0 5	Trump
+T2	Cue 6 11	talks
+T3	Content 27 41	about bullying
+T4	Attribution 6 11	talks
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 116 128	Donald Trump
+T6	Cue 129 134	tells
+T7	Content 163 225	that people who are bullied “gotta get over it” and fight back
+T8	Attribution 129 134	tells
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 308 313	Trump
+T10	Cue 314 318	says
+T11	Content 319 407	he’s a counterpuncher who goes after people when they go after him, only 10 times harder
+T12	Attribution 314 318	says
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 410 415	Asked
+T14	Content 416 438	if he was ever bullied
+T15	Attribution-no-source 410 415	Asked
+E4	Attribution-no-source:T15 Content:T14 Cue:T13
+T16	Source 440 477	the Republican presidential candidate
+T17	Cue 478 482	said
+T18	Content 483 485	no
+T19	Attribution 478 482	said
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 491 493	he
+T21	Cue 494 498	said
+T22	Content 499 539	bullying doesn’t just happen to children
+T23	Attribution 494 498	said
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 579 581	he
+T25	Cue 582 586	said
+T26	Content 541 578	“People are bullied when they’re 55,”
+T27	Attribution 582 586	said
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 589 594	Kelly
+T29	Cue 595 629	responded pointedly, with a smile:
+T30	Content 630 658	“Can happen when you’re 45.”
+T31	Attribution 595 629	responded pointedly, with a smile:
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 702 707	Trump
+T33	Cue 708 741	went on, as if he didn’t hear her
+T34	Content 671 701;743 811	“You know, it happens, right?” “But you gotta get over it. Fight back, do whatever you have to do.”
+T35	Attribution 708 741	went on, as if he didn’t hear her
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 929 931	He
+T37	Cue 933 947	ater suggested
+T38	Content 948 998	her menstrual cycle was behind her aggressive tone
+T39	Attribution 933 947	ater suggested
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1000 1006	called
+T41	Content 1007 1023	her “third-rate”
+T42	Attribution 1000 1006	called
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T36
+T43	Cue 1028 1037	boycotted
+T44	Content 1038 1085	one of the debates at which she was a moderator
+T45	Attribution 1028 1037	boycotted
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T36
+T46	Source 1206 1209	She
+T47	Cue 1210 1214	told
+T48	Content 1254 1376	the tone of the interview was cordial, with tense moments, and predicted viewers “will be feeling a little uncomfortable.”
+T49	Attribution 1210 1214	told
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 1378 1383	Kelly
+T51	Cue 1384 1388	said
+T52	Content 1389 1496	she asked for the interview because she wanted to get her interactions with Trump on a professional footing
+T53	Attribution 1384 1388	said
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 1532 1535	she
+T55	Cue 1536 1540	said
+T56	Content 1498 1531;1542 1572	“You don’t want to be the story,” “You want to cover the story.”
+T57	Attribution 1536 1540	said
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 1150 1157	the two
+T59	Cue 1158 1182	did not directly discuss
+T60	Content 1183 1204	his criticisms of her
+T61	Attribution 1158 1182	did not directly discuss
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 813 818	Trump
+T63	Cue 819 836	took offense when
+T64	Content 837 927	Kelly confronted him in the first primary debate about crude remarks he’d made about women
+T65	Attribution 819 836	took offense when
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Discuss 813 927	Trump took offense when Kelly confronted him in the first primary debate about crude remarks he’d made about women

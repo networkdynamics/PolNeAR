@@ -1,0 +1,39 @@
+T1	Source 0 7	Sanders
+T2	Cue 7 8	:
+T3	Content 9 38	Clinton Email Story Has Moved
+T4	Attribution 7 8	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 41 104	Democratic presidential candidate Senator Bernie Sanders (I-VT)
+T6	Cue 105 111	stated
+T7	Content 112 261	that the story on rival Democratic candidate former Secretary of State Hillary Clinton’s emails has moved on Friday’s broadcast of HBO’s “Real Time.”
+T8	Attribution 105 111	stated
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 271 280	was asked
+T10	Source 284 299	host Bill Maher
+T11	Content 391 691	“Now, you famously said, in one of the first debates with Hillary Clinton, oh, I’m tired of hearing about the emails. And you know, for a long time, I was tired of hearing about the emails, and I still don’t think she committed some horrible crime, but that story has moved a little bit, has it not?”
+T12	Attribution 271 280	was asked
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Source 301 304	who
+T14	Cue 305 318	is supporting
+T15	Content 319 326	Sanders
+T16	Attribution 305 318	is supporting
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 332 356	has previously dismissed
+T18	Content 357 389	the story about Clinton’s emails
+T19	Attribution 332 356	has previously dismissed
+E5	Attribution:T19 Cue:T17 Content:T18 Source:T13
+T20	Source 693 700	Sanders
+T21	Cue 701 710	responded
+T22	Content 712 1284	“It has. But this is what I also think, there is enormous frustration on the part of the American people with the way we do politics in this country. And what most politicians do is say, I’m great. You’re terrible. Vote for me. The other guy’s the scum of the earth, blah, blah, blah. But, you know what, people are hurting in this country. You know, our middle class is disappearing. We’ve got a lot of poverty. We don’t have healthcare for all people. People want us to talk about their lives and their issues and just not spend our whole lives attacking our opponents.”
+T23	Attribution 701 710	responded
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1344 1349	Maher
+T25	Cue 1350 1356	stated
+T26	Content 1378 1430	that the State Department IG’s report “wasn’t good.”
+T27	Attribution 1350 1356	stated
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 1431 1437	Adding
+T29	Content 1439 1722	“Now, like with all Clinton scandals, what they actually do is never that bad. … It’s always how they handle it. And I think what the problem is, is that these two cut their teeth in Arkansas, and they got used to being able to fool rubes…easily, and it doesn’t work that way in DC.”
+T30	Attribution 1431 1437	Adding
+E8	Attribution:T30 Cue:T28 Content:T29 Source:T24
+T31	Discard 1724 1768	Follow Ian Hanchett on Twitter @IanHanchett.

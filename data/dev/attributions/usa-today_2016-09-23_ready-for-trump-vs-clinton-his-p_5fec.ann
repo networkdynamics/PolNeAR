@@ -1,0 +1,108 @@
+T1	Source 181 193	Donald Trump
+T2	Cue 194 217	continually brags about
+T3	Content 218 262	his prowess in his 11 primary-season debates
+T4	Attribution 194 217	continually brags about
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 148 162	lowered debate
+T6	Cue 163 175	expectations
+T7	Attribution-no-source 163 175	expectations
+E2	Attribution-no-source:T7 Cue:T6 Content:T5
+T8	Source 309 314	Trump
+T9	Cue 315 319	said
+T10	Content 320 497	he won "every single debate" in which he participated and perhaps it would be a good idea to have more than three debates with Hillary Clinton because there is "a lot going on."
+T11	Attribution 315 319	said
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Content 499 519	Trump did fare  well
+T13	Cue 520 522	in
+T14	Source 523 634	online and snap polls conducted after the primary debates by news outlets such as Time, Slate and Drudge Report
+T15	Attribution 520 522	in
+E4	Attribution:T15 Source:T14 Cue:T13 Content:T12
+T16	Discard 4515 4578	Aaron Kall is director of debate at the University of Michigan.
+T17	Source 1088 1130	national and battleground Republican polls
+T18	Cue 1085 1087	of
+T19	Content 1064 1084	Trump was at the top
+T20	Attribution 1085 1087	of
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1132 1134	He
+T22	Cue 1135 1164	was able to consistently tout
+T23	Content 1165 1185	his polling strength
+T24	Attribution 1135 1164	was able to consistently tout
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1243 1248	Trump
+T26	Cue 1249 1299	never missed an opportunity to remind the audience
+T27	Content 1300 1351	he was the only candidate self-funding his campaign
+T28	Attribution 1249 1299	never missed an opportunity to remind the audience
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1353 1355	He
+T30	Cue 1356 1363	claimed
+T31	Content 1364 1375	vast wealth
+T32	Attribution 1356 1363	claimed
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 1380 1384	said
+T34	Content 1385 1436	it ensured he was not beholden to special interests
+T35	Attribution 1380 1384	said
+E9	Attribution:T35 Source:T29 Content:T34 Cue:T33
+T36	Source 1438 1440	He
+T37	Cue 1441 1449	attacked
+T38	Content 1450 1512	other candidates on stage for accepting his personal donations
+T39	Attribution 1441 1449	attacked
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1520 1522	he
+T41	Cue 1523 1527	said
+T42	Content 1528 1574	were accompanied by leverage and return favors
+T43	Attribution 1523 1527	said
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1580 1582	he
+T45	Cue 1583 1597	railed against
+T46	Content 1598 1706	the corrupting influence of super PACs, including the one supporting Bush that raised more than $100 million
+T47	Attribution 1583 1597	railed against
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 2045 2048	who
+T49	Cue 2049 2067	had pressed him on
+T50	Content 2068 2102	his failure to release tax returns
+T51	Attribution 2049 2067	had pressed him on
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 1841 1862	Fox News' Megyn Kelly
+T53	Cue 1863 1873	confronted
+T54	Content 1874 1924	him with insulting remarks he had made about women
+T55	Attribution 1863 1873	confronted
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 2481 2483	he
+T57	Cue 2484 2511	won't be able to brag about
+T58	Content 2512 2539	his major polling advantage
+T59	Attribution 2484 2511	won't be able to brag about
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Source 2863 2868	Trump
+T61	Cue 2869 2888	officially endorsed
+T62	Content 2889 2892	one
+T63	Attribution 2869 2888	officially endorsed
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 2927 2932	Trump
+T65	Cue 2933 2985	will also find it difficult to repeat his attacks on
+T66	Content 2986 2996	moderators
+T67	Attribution 2933 2985	will also find it difficult to repeat his attacks on
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Cue 3242 3266	the intense criticism of
+T69	Content 3267 3283	NBC's Matt Lauer
+T70	Attribution-no-source 3242 3266	the intense criticism of
+E18	Attribution-no-source:T70 Content:T69 Cue:T68
+T71	Source 3519 3524	Trump
+T72	Cue 3525 3534	to attack
+T73	Content 3535 3539	them
+T74	Attribution 3525 3534	to attack
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Source 3560 3562	He
+T76	Cue 3563 3589	can't credibly make fun of
+T77	Content 3590 3618	the NBC Nightly News ratings
+T78	Attribution 3563 3589	can't credibly make fun of
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Source 3622 3626	Holt
+T80	Cue 3627 3641	asks him about
+T81	Content 3642 3657	his tax returns
+T82	Attribution 3627 3641	asks him about
+E21	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Source 3755 3760	Trump
+T84	Cue 3822 3828	accuse
+T85	Content 3829 3906	the audience of being donors and special interest groups that support Clinton
+T86	Attribution 3822 3828	accuse
+E22	Attribution:T86 Content:T85 Cue:T84 Source:T83

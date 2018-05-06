@@ -1,0 +1,30 @@
+T1	Source 0 14	Kevin McCarthy
+T2	Cue 15 23	signs up
+T3	Content 24 46	to be a Trump delegate
+T4	Attribution 15 23	signs up
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 49 85	House Majority Leader Kevin McCarthy
+T6	Cue 86 99	has signed up
+T7	Content 100 220	to serve as a delegate for presumptive Republican nominee Donald Trump at this summer’s national convention in Cleveland
+T8	Attribution 86 99	has signed up
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 290 298	has said
+T10	Source 266 289	House Speaker Paul Ryan
+T11	Content 299 397	he is “not ready” to endorse Trump, even though he is the lone Republican remaining in the contest
+T12	Attribution 290 298	has said
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Content 400 471	"I'm just not ready to do that at this point. I'm not there right now,"
+T14	Source 472 476	Ryan
+T15	Cue 477 498	said last week on CNN
+T16	Attribution 477 498	said last week on CNN
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 507 509	he
+T18	Cue 510 514	said
+T19	Content 516 528	"I hope to."
+T20	Attribution 510 514	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1334 1367	one of the earliest House members
+T22	Cue 1368 1378	to endorse
+T23	Content 1379 1404	the Manhattan billionaire
+T24	Attribution 1368 1378	to endorse
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21

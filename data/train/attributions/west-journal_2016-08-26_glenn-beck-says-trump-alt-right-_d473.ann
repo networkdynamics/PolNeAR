@@ -1,0 +1,95 @@
+T1	Source 0 10	Glenn Beck
+T2	Cue 11 15	Says
+T3	Content 16 61	Trump, ‘Alt Right’ Pose A Threat To Democracy
+T4	Attribution 11 15	Says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 64 89	Talk show host Glenn Beck
+T6	Cue 282 290	declared
+T7	Content 291 332	Trump was a threat to America’s democracy
+T8	Attribution 282 290	declared
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 335 378	“Donald Trump is a dictator in the making,”
+T10	Cue 379 383	said
+T11	Source 384 388	Beck
+T12	Attribution 379 383	said
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Source 390 393	who
+T14	Cue 394 398	said
+T15	Content 399 473	there were “too many disturbing things for me to dismiss on Donald Trump.”
+T16	Attribution 394 398	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 475 481	Beck’s
+T18	Cue 482 496	contention was
+T19	Content 497 557;624 700	that Trump is, in fact, appealing to the so-called alt-right and is building a base there that Beck fears will be used to harm the nation
+T20	Attribution 482 496	contention was
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 560 565	which
+T22	Source 566 602	Democratic candidate Hillary Clinton
+T23	Cue 603 621	denounced Thursday
+T24	Attribution 603 621	denounced Thursday
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Source 711 717	Beck’s
+T26	Cue 718 742	ire was also directed at
+T27	Content 743 749	Bannon
+T28	Attribution 718 742	ire was also directed at
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 751 754;780 817	who “a horrible, despicable human being.”
+T30	Source 755 759	Beck
+T31	Cue 773 779	called
+T32	Attribution 773 779	called
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Discard 819 865	<tweet tweet-id="769292115914395649"><tweet/>.
+T34	Discard 950 996	<tweet tweet-id="769293030520000512"><tweet/>.
+T35	Source 876 880	some
+T36	Cue 881 884	saw
+T37	Content 885 947	Beck’s comments as simply part of his long opposition to Trump
+T38	Attribution 881 884	saw
+E9	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 1022 1026	Beck
+T40	Cue 1039 1048	to oppose
+T41	Content 1049 1054	Trump
+T42	Attribution 1039 1048	to oppose
+E10	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1081 1084	who
+T44	Cue 1085 1106	might normally oppose
+T45	Content 1107 1110	him
+T46	Attribution 1085 1106	might normally oppose
+E11	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1125 1127	He
+T48	Cue 1128 1132	said
+T49	Content 1133 1339	he was “truly, gravely concerned about the direction of the country, and it is very important for conservatives or constitutionalists to stand up and let the left know, ‘Hey guys, we’re not all like that.'”
+T50	Attribution 1128 1132	said
+E12	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Content 1341 1498	“We have concerns and there have to be some things we come together on, basic values and principles. Let’s not go into a chaos theory; that never goes well,”
+T52	Source 1499 1503	Beck
+T53	Cue 1504 1508	said
+T54	Attribution 1504 1508	said
+E13	Attribution:T54 Cue:T53 Source:T52 Content:T51
+T55	Source 1517 1520	who
+T56	Cue 1521 1530	supported
+T57	Content 1531 1554	Sen. Ted Cruz, R-Texas,
+T58	Attribution 1521 1530	supported
+E14	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Cue 1559 1577	virulently opposed
+T60	Content 1578 1583	Trump
+T61	Attribution 1559 1577	virulently opposed
+E15	Attribution:T61 Cue:T59 Content:T60 Source:T55
+T62	Cue 1630 1644	last week said
+T63	Content 1645 1718	Trump was seeking to start either a rebellious movement or a media empire
+T64	Attribution 1630 1644	last week said
+E16	Attribution:T64 Cue:T62 Content:T63 Source:T55
+T65	Content 1721 1841;1887 1983	“What’s going to happen is Donald Trump is going to make this look like a stolen election; he will divide us even more,” “He, with his alternate right, alt-right, kind of viewpoint. It will grow, it will metastasize.”
+T66	Source 1842 1846	Beck
+T67	Cue 1847 1851	said
+T68	Attribution 1847 1851	said
+E17	Attribution:T68 Cue:T67 Source:T66 Content:T65
+T69	Source 1985 1987	He
+T70	Cue 1988 1997	continued
+T71	Content 1999 2130	“There will be maybe 10 to 15 percent of the population that will just become virulent, and he will create possibly a third party.”
+T72	Attribution 1988 1997	continued
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Source 2132 2136	Beck
+T74	Cue 2137 2141	said
+T75	Content 2142 2302	if Trump wins, he would impose a “South American dictatorship” if major war, civil unrest or economic instability were to take place with him in the White House
+T76	Attribution 2137 2141	said
+E19	Attribution:T76 Content:T75 Cue:T74 Source:T73

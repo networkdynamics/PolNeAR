@@ -1,0 +1,209 @@
+T1	Source 0 23	Presidential candidates
+T2	Cue 24 31	promise
+T3	Content 32 57	they will stand by Israel
+T4	Attribution 24 31	promise
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 122 134	Donald Trump
+T6	Cue 184 188	read
+T7	Content 189 310	the words he had come to deliver to a skeptical audience at the American Israel Public Affairs Committee's annual meeting
+T8	Attribution 184 188	read
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 313 372;434 485	"I didn't come here tonight to pander to you about Israel," "That's what politicians do - all talk, no action."
+T10	Source 373 378	Trump
+T11	Cue 379 393	said carefully
+T12	Attribution 379 393	said carefully
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 532 535	his
+T14	Cue 536 543	promise
+T15	Content 544 611	to be "neutral" in negotiations between Israel and the Palestinians
+T16	Attribution 536 543	promise
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 661 663	he
+T18	Cue 664 687	offered promises Monday
+T19	Content 688 746	very much in line with what the audience had hoped to hear
+T20	Attribution 664 687	offered promises Monday
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 793 795	He
+T22	Cue 796 805	lambasted
+T23	Content 806 857	the Iran nuclear deal negotiated by President Obama
+T24	Attribution 796 805	lambasted
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 863 865	he
+T26	Cue 866 871	noted
+T27	Content 872 901	was "in his final year, yay."
+T28	Attribution 866 871	noted
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 902 904	He
+T30	Cue 905 915	pledged to
+T31	Content 916 1009	relocate the U.S. Embassy in Israel to the "eternal capital of the Jewish people, Jerusalem."
+T32	Attribution 905 915	pledged to
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1014 1016	he
+T34	Cue 1076 1085	promising
+T35	Content 1086 1231	that in any negotiation, "we will send a clear signal that there is no daylight between America and our most reliable ally, the state of Israel."
+T36	Attribution 1076 1085	promising
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Cue 1017 1026	seemed to
+T38	Content 1027 1074	paper over his past statements about neutrality
+T39	Attribution-no-source 1017 1026	seemed to
+E10	Attribution-no-source:T39 Content:T38 Cue:T37
+T40	Source 1455 1464	his words
+T41	Cue 1465 1487	appeared to contradict
+T42	Content 1488 1555	his past statements - including some he had made just hours earlier
+T43	Attribution 1465 1487	appeared to contradict
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1397 1402	Trump
+T45	Cue 1403 1419	stuck closely to
+T46	Content 1420 1431	his message
+T47	Attribution 1403 1419	stuck closely to
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 1612 1614	he
+T49	Cue 1615 1629	tries to morph
+T50	Content 1630 1761	his anti-establishment campaign into one that can gain support from at least some of Washington's traditional Republican leadership
+T51	Attribution 1615 1629	tries to morph
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Cue 1976 1991	was attacked by
+T53	Source 1992 2074	Democratic presidential front-runner and former secretary of state Hillary Clinton
+T54	Content 1970 1975	Trump
+T55	Attribution 1976 1991	was attacked by
+E14	Attribution:T55 Content:T54 Source:T53 Cue:T52
+T56	Content 2204 2227	"We need steady hands,"
+T57	Source 2228 2235	Clinton
+T58	Cue 2236 2240	told
+T59	Attribution 2236 2240	told
+E15	Attribution:T59 Cue:T58 Source:T57 Content:T56
+T60	Cue 2248 2260	referring to
+T61	Content 2261 2279	the business mogul
+T62	Attribution 2248 2260	referring to
+E16	Attribution:T62 Cue:T60 Content:T61 Source:T57
+T63	Content 2300 2437;2439 2494	"Not a president who says he's neutral on Monday, pro-Israel on Tuesday and who knows what on Wednesday because everything is negotiable. "Well, my friends, Israel's security is nonnegotiable!"
+T64	Source 2495 2498	she
+T65	Cue 2499 2503	said
+T66	Attribution 2499 2503	said
+E17	Attribution:T66 Cue:T65 Source:T64 Content:T63
+T67	Content 2676 2827;2842 3000	"You'll get a glimpse of a potential U.S. foreign policy that would insult our allies, not engage them, and embolden our adversaries, not defeat them," "For the security of Israel and the world, we need America to remain a respected global leader, committed to defending and advancing the international order."
+T68	Source 2828 2835	Clinton
+T69	Cue 2836 2840	said
+T70	Attribution 2836 2840	said
+E18	Attribution:T70 Cue:T69 Source:T68 Content:T67
+T71	Source 3060 3077	a group of rabbis
+T72	Cue 3078 3088	called for
+T73	Content 3089 3112	a boycott of his speech
+T74	Attribution 3078 3088	called for
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Source 3118 3191	the prominent Jewish civil rights organization the Anti-Defamation League
+T76	Cue 3192 3210	strongly denounced
+T77	Content 3211 3227	Trump's rhetoric
+T78	Attribution 3192 3210	strongly denounced
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Cue 3232 3236	said
+T80	Content 3237 3296	it would "redirect" all of his past donations to the league
+T81	Attribution 3232 3236	said
+E21	Attribution:T81 Cue:T79 Content:T80 Source:T75
+T82	Source 3306 3311	Trump
+T83	Cue 3312 3321	denounced
+T84	Content 3322 3342	Iran's missile tests
+T85	Attribution 3312 3321	denounced
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Cue 3347 3354	pledged
+T87	Content 3355 3421	to confront murders at the hands of "knife-wielding Palestinians,"
+T88	Attribution 3347 3354	pledged
+E23	Attribution:T88 Cue:T86 Content:T87 Source:T82
+T89	Source 3556 3561	Trump
+T90	Cue 3562 3566	told
+T91	Content 3605 3794	that he supported a non-interventionist foreign policy focused on reducing the United States's engagement in conflicts abroad to facilitate rebuilding infrastructure and the economy at home
+T92	Attribution 3562 3566	told
+E24	Attribution:T92 Content:T91 Cue:T90 Source:T89
+T93	Source 3816 3821	Trump
+T94	Cue 3822 3844	focused on reiterating
+T95	Content 3845 3951	positions largely in line with current U.S. policies and acceptable to most prominent pro-Israel advocates
+T96	Attribution 3822 3844	focused on reiterating
+E25	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Source 3954 3956	He
+T98	Cue 3957 3966	denounced
+T99	Content 3967 3985	the United Nations
+T100	Attribution 3957 3966	denounced
+E26	Attribution:T100 Content:T99 Cue:T98 Source:T97
+T101	Cue 3990 3998	rejected
+T102	Content 3999 4166	rumors that Obama might try to lay out some bedrock conditions for a peace settlement, either through a speech, a diplomatic push or a U.N. Security Council resolution
+T103	Attribution 3990 3998	rejected
+E27	Attribution:T103 Cue:T101 Content:T102 Source:T97
+T104	Source 4587 4589	he
+T105	Cue 4590 4597	pledged
+T106	Content 4598 4698	that, if elected president, he would be "a friend not only to Israel but to the Palestinian people."
+T107	Attribution 4590 4597	pledged
+E28	Attribution:T107 Content:T106 Cue:T105 Source:T104
+T108	Source 4731 4737	Kasich
+T109	Cue 4738 4748	called for
+T110	Content 4749 4853	the suspension of the nuclear deal in response to missile tests by the Iranian Revolutionary Guard Corps
+T111	Attribution 4738 4748	called for
+E29	Attribution:T111 Content:T110 Cue:T109 Source:T108
+T112	Source 4856 4858	He
+T113	Cue 4859 4869	focused on
+T114	Content 4870 4965	his years serving on the House Armed Services Committee during President Ronald Reagan's tenure
+T115	Attribution 4859 4869	focused on
+E30	Attribution:T115 Content:T114 Cue:T113 Source:T112
+T116	Content 5015 5146;5160 5201	"As the candidate in this race with the deepest and most far-reaching foreign policy experience, I don't need on-the-job training," "I have lived these matters for decades."
+T117	Source 5147 5153	Kasich
+T118	Cue 5154 5158	said
+T119	Attribution 5154 5158	said
+E31	Attribution:T119 Cue:T118 Source:T117 Content:T116
+T120	Source 5203 5207	Cruz
+T121	Cue 5245 5251	saying
+T122	Content 5252 5338	his use of the term "Palestine" to refer to territory occupied by Israel was incorrect
+T123	Attribution 5245 5251	saying
+E32	Attribution:T123 Content:T122 Cue:T121 Source:T120
+T124	Content 5340 5379	"Palestine has not existed since 1948,"
+T125	Source 5380 5384	Cruz
+T126	Cue 5385 5389	said
+T127	Attribution 5385 5389	said
+E33	Attribution:T127 Cue:T126 Source:T125 Content:T124
+T128	Source 5432 5434	he
+T129	Cue 5435 5439	said
+T130	Content 5440 5512	were the policy failures of Clinton and Secretary of State John F. Kerry
+T131	Attribution 5435 5439	said
+E34	Attribution:T131 Content:T130 Cue:T129 Source:T128
+T132	Cue 5544 5550	saying
+T133	Content 5551 5686	that the Democratic front-runner failed to understand that Hamas used civilian sites to protect its weaponry at the cost of human lives
+T134	Source 5396 5398	he
+T135	Attribution 5544 5550	saying
+E35	Attribution:T135 Source:T134 Content:T133 Cue:T132
+T136	Content 5689 5755	"Let me be very, very clear. As president, I will not be neutral,"
+T137	Source 5756 5760	Cruz
+T138	Cue 5761 5765	said
+T139	Attribution 5761 5765	said
+E36	Attribution:T139 Cue:T138 Source:T137 Content:T136
+T140	Source 5900 5917	the businessman's
+T141	Cue 5918 5939	rhetoric singling out
+T142	Content 5940 5950	immigrants
+T143	Attribution 5918 5939	rhetoric singling out
+E37	Attribution:T143 Content:T142 Cue:T141 Source:T140
+T144	Cue 5955 5966	calling for
+T145	Content 5967 6010	a ban on Muslims entering the United States
+T146	Attribution 5955 5966	calling for
+E38	Attribution:T146 Cue:T144 Source:T140 Content:T145
+T147	Source 6062 6082	about 200 protesters
+T148	Cue 6143 6151	chanting
+T149	Content 6152 6165	"Dump Trump."
+T150	Attribution 6143 6151	chanting
+E39	Attribution:T150 Content:T149 Cue:T148 Source:T147
+T151	Source 6190 6196	a sign
+T152	Cue 6197 6203	saying
+T153	Content 6204 6258	"Jews Against Trump - Because We've Seen This Before."
+T154	Attribution 6197 6203	saying
+E40	Attribution:T154 Content:T153 Cue:T152 Source:T151
+T155	Source 6259 6284	The 57-year-old scientist
+T156	Cue 6285 6289	says
+T157	Content 6290 6486	she doesn't take Holocaust comparisons lightly because her grandparents had their house ransacked during the Nazis' Kristallnacht pogrom and fled to France, while other extended relatives perished
+T158	Attribution 6285 6289	says
+E41	Attribution:T158 Content:T157 Cue:T156 Source:T155
+T159	Source 6493 6496	she
+T160	Cue 6497 6501	said
+T161	Content 6502 6678	she has been deeply disturbed by the Republican front-runner condoning and apparently encouraging violence against protesters, as well as what she sees as demonizing minorities
+T162	Attribution 6497 6501	said
+E42	Attribution:T162 Content:T161 Cue:T160 Source:T159
+T163	Content 6681 6724;6772 6837	"This is the lens I see the world through," "What's unfolding is a progression that's very worrisome for me."
+T164	Cue 6725 6729	said
+T165	Source 6730 6770	Bernstein, a Montgomery Village resident
+T166	Attribution 6725 6729	said
+E43	Attribution:T166 Source:T165 Cue:T164 Content:T163

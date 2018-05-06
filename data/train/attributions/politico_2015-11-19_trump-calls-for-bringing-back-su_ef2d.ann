@@ -1,0 +1,132 @@
+T1	Source 0 5	Trump
+T2	Cue 6 15	calls for
+T3	Content 16 64	bringing back surveillance of Muslim communities
+T4	Attribution 6 15	calls for
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 128 140	Donald Trump
+T6	Cue 228 238	suggesting
+T7	Content 239 297	that he would do whatever it took to stop a similar attack
+T8	Attribution 228 238	suggesting
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 303 328	a string of new radio ads
+T10	Cue 329 338	announced
+T11	Attribution-no-source 329 338	announced
+E3	Attribution-no-source:T11 Cue:T10 Content:T9
+T12	Source 350 374	Trump and his supporters
+T13	Cue 375 385	talk about
+T14	Content 386 465	the candidate's plan to strengthen the military and to defeat the Islamic State
+T15	Attribution 375 385	talk about
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Content 468 577	"The tragic attacks in Paris proves once again that America needs to get tough on radical Islamic terrorism,"
+T17	Source 578 583	Trump
+T18	Cue 584 588	says
+T19	Attribution 584 588	says
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Content 592 600;608 620	the spot "Dangerous,"
+T21	Cue 601 607	titled
+T22	Attribution-no-source 601 607	titled
+E6	Attribution-no-source:T22 Cue:T21 Content:T20
+T23	Cue 621 636	warning against
+T24	Content 637 679	allowing in the refugees coming from Syria
+T25	Attribution 621 636	warning against
+E7	Attribution:T25 Source:T17 Cue:T23 Content:T24
+T26	Cue 681 689	pledging
+T27	Content 690 744	to "quickly and decisively bomb the hell out of ISIS."
+T28	Attribution 681 689	pledging
+E8	Attribution:T28 Source:T17 Cue:T26 Content:T27
+T29	Source 759 761	he
+T30	Cue 762 789	expanded upon his calls for
+T31	Content 790 857	increased surveillance of the Muslim community in the United States
+T32	Attribution 762 789	expanded upon his calls for
+E9	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 859 866	warning
+T34	Content 911 968	that the Islamic State could easily penetrate the country
+T35	Attribution 859 866	warning
+E10	Attribution:T35 Source:T29 Cue:T33 Content:T34
+T36	Cue 973 981	implying
+T37	Content 982 1049	that some members of the group might already be attempting to do so
+T38	Attribution 973 981	implying
+E11	Attribution:T38 Source:T29 Cue:T36 Content:T37
+T39	Source 1077 1113	a new video from the terrorist group
+T40	Cue 1114 1125	threatening
+T41	Content 1126 1152	an attack in New York City
+T42	Attribution 1114 1125	threatening
+E12	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1154 1159	Trump
+T44	Cue 1160 1171	called upon
+T45	Content 1172 1259	Mayor Bill de Blasio to restart surveillance of mosques and the city's Muslim community
+T46	Attribution 1160 1171	called upon
+E13	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Content 1439 1587	"There’s hatred and there’s hatred like nobody has ever seen, and it’s obviously emanating from and coming out of, among other places, the mosques,"
+T48	Source 1588 1625	the Republican presidential candidate
+T49	Cue 1626 1630	said
+T50	Attribution 1626 1630	said
+E14	Attribution:T50 Cue:T49 Source:T48 Content:T47
+T51	Content 1697 1790;1791 1835;1836 1854;1855 1901	"I think we ought to start [surveillance] up again, and we ought to start it up this morning. We ought to start it up again and get going. And use your head. This is a lot of nonsense that we ended that,"
+T52	Source 1902 1904	he
+T53	Cue 1905 1912	went on
+T54	Attribution 1905 1912	went on
+E15	Attribution:T54 Cue:T53 Source:T52 Content:T51
+T55	Content 1915 1986;2000 2072;2073 2118	The program was a "good thing" that yielded "frankly good information," "And I think we ought to start it up and not be naive and not be stupid. And they ought to start that up immediately."
+T56	Source 1987 1989	he
+T57	Cue 1990 1998	remarked
+T58	Attribution 1990 1998	remarked
+E16	Attribution:T58 Cue:T57 Source:T56 Content:T55
+T59	Content 2120 2175;2265 2406	"As far as weapons, they’ll use anything they can get," "These people will use anything — they’re not worried about 'Oh gee, this isn’t ethical.' These are not people that are politically correct."
+T60	Source 2176 2181	Trump
+T61	Cue 2182 2186	said
+T62	Attribution 2182 2186	said
+E17	Attribution:T62 Cue:T61 Source:T60 Content:T59
+T63	Cue 2202 2209	mocking
+T64	Content 2210 2263	concerns about a potential erosion of civil liberties
+T65	Attribution 2202 2209	mocking
+E18	Attribution:T65 Source:T60 Cue:T63 Content:T64
+T66	Source 2408 2425	A federal lawsuit
+T67	Cue 2444 2455	challenging
+T68	Content 2456 2523	the New York Police Department's surveillance of Muslim communities
+T69	Attribution 2444 2455	challenging
+E19	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Cue 2528 2536	alleging
+T71	Content 2537 2627	that police used the plaintiffs' Muslim identity as a “permissible proxy for criminality.”
+T72	Attribution 2528 2536	alleging
+E20	Attribution:T72 Source:T66 Cue:T70 Content:T71
+T73	Source 2640 2685	the U.S. Court of Appeals for the 3rd Circuit
+T74	Cue 2686 2714	reversed a previous decision
+T75	Content 2715 2756	that the plaintiffs did not have standing
+T76	Attribution 2686 2714	reversed a previous decision
+E21	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Cue 2769 2775	ruling
+T78	Content 2776 2860	that it could not accept "national security" as a reason for the NYPD's surveillance
+T79	Attribution 2769 2775	ruling
+E22	Attribution:T79 Source:T73 Cue:T77 Content:T78
+T80	Content 3019 3078;3079 3201;3265 3402;3404 3493	“We’re going to have to do things that we never did before. And some people are going to be upset about it, but I think that now everybody is feeling that security is going to rule,” “And certain things will be done that we never thought would happen in this country in terms of information and learning about the enemy. nd so we’re going to have to do certain things that were frankly unthinkable a year ago.”
+T81	Source 3202 3207	Trump
+T82	Cue 3208 3212	told
+T83	Attribution 3208 3212	told
+E23	Attribution:T83 Cue:T82 Source:T81 Content:T80
+T84	Discuss 3219 3230	in response
+T85	Cue 3234 3250	a question about
+T86	Content 3251 3263	the searches
+T87	Attribution-no-source 3234 3250	a question about
+E24	Attribution-no-source:T87 Content:T86 Cue:T85
+T88	Source 3495 3500	Trump
+T89	Cue 3546 3557	referencing
+T90	Content 3558 3680	a confirmed Breitbart News report that eight Syrian refugees were detained attempting to enter Texas from Mexico on Monday
+T91	Attribution 3546 3557	referencing
+E25	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Source 3715 3720	Trump
+T93	Cue 3721 3731	speculated
+T94	Content 3732 3788	that the men detained could be part of the Islamic State
+T95	Attribution 3721 3731	speculated
+E26	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Content 3791 3862;3863 3894;3895 3923;3945 3960;3961 3983	"Syrians are now being caught at the southern border, just like I said. They're going to be pouring in. We don't know who they are," "Could be ISIS. We need a new leader."
+T97	Source 3924 3929	Trump
+T98	Cue 3930 3934	from
+T99	Discuss 3792 3799	Syrians
+T100	Attribution 3930 3934	from
+E27	Attribution:T100 Cue:T98 Source:T97 Content:T96
+T101	Source 4003 4016	the candidate
+T102	Cue 4017 4024	boasted
+T103	Content 4025 4109	that "everyone" is now following his lead on illegal immigration and building a wall
+T104	Attribution 4017 4024	boasted
+E28	Attribution:T104 Content:T103 Cue:T102 Source:T101

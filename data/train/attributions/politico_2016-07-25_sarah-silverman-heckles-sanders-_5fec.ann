@@ -1,0 +1,64 @@
+T1	Source 0 15	Sarah Silverman
+T2	Cue 16 43	heckles Sanders supporters:
+T3	Content 44 70	'You're being ridiculous.'
+T4	Attribution 16 43	heckles Sanders supporters:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 127 152	Bernie Sanders supporters
+T6	Cue 97 123	was booed and shouted down
+T7	Content 72 96	Comedian Sarah Silverman
+T8	Attribution 97 123	was booed and shouted down
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 391 540	“I am proud to be a part of Bernie’s movement. And part of that movement is to make sure Hillary Clinton is our next president of the United States.”
+T10	Source 376 379	She
+T11	Cue 380 389	continued
+T12	Attribution 380 389	continued
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 571 580	Silverman
+T14	Cue 640 645	joked
+T15	Content 647 696	“Bernie or Bust people, you’re being ridiculous,”
+T16	Attribution 640 645	joked
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 720 729	“BERNIE!”
+T18	Cue 730 736	chants
+T19	Attribution-no-source 730 736	chants
+E5	Attribution-no-source:T19 Cue:T18 Content:T17
+T20	Cue 159 166	telling
+T21	Content 200 234	that they were “being ridiculous.”
+T22	Attribution 159 166	telling
+E6	Attribution:T22 Source:T23 Cue:T20 Content:T21
+T23	Source 72 96	Comedian Sarah Silverman
+T24	Source 236 245	Silverman
+T25	Cue 324 330	saying
+T26	Content 332 374	“Hillary heard the passion of the people.”
+T27	Attribution 324 330	saying
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 739 762	“Look at what you did,”
+T29	Source 763 770	Franken
+T30	Cue 771 775	said
+T31	Attribution 771 775	said
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Source 777 786	Silverman
+T33	Cue 787 796	responded
+T34	Content 798 849	“Thank God they can fix this in post-[production].”
+T35	Attribution 787 796	responded
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 851 855	They
+T37	Cue 896 902	saying
+T38	Content 903 973	they were being told to stretch their time on stage before the next ac
+T39	Attribution 896 902	saying
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Content 977 1050	“What I love about us both being here is, it’s like we’re like a bridge,”
+T41	Source 1051 1058	Franken
+T42	Cue 1059 1063	said
+T43	Attribution 1059 1063	said
+E11	Attribution:T43 Cue:T42 Source:T41 Content:T40
+T44	Content 1065 1149	“Well you were for Bernie and I’m for Hillary so we’re like a bridge over troubled…”
+T45	Source 1150 1152	he
+T46	Cue 1153 1157	said
+T47	Attribution 1153 1157	said
+E12	Attribution:T47 Cue:T46 Source:T45 Content:T44
+T49	Content 1207 1246	“Ladies and gentlemen, Mr. Paul Simon,"
+T48	Source 1184 1193	Silverman
+T50	Cue 1194 1205	interjected
+T51	Attribution 1194 1205	interjected
+E13	Attribution:T51 Cue:T50 Source:T48 Content:T49

@@ -1,0 +1,127 @@
+T1	Source 180 189	delegates
+T2	Cue 190 209	formally nominating
+T3	Content 210 248	billionaire Donald Trump for president
+T4	Attribution 190 209	formally nominating
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 275 287	was expected
+T6	Content 251 274;288 366	The real estate magnate to cruise past the 1,237 delegates needed to seal the deal on the first ballot
+T8	Source 397 402	Trump
+T9	Cue 403 425	will officially accept
+T10	Content 426 440	the nomination
+T11	Attribution 403 425	will officially accept
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Content 505 533	to be the smoothest of votes
+T13	Cue 488 504	was not expected
+T15	Content 536 711	“The great state of Alabama… is proud to cast its votes: one vote for Marco Rubio, 13 for Ted Cruz, and 36 votes for the next president of the United States, Donald J. Trump!”
+T16	Source 712 736	US Senator Jeff Sessions
+T17	Cue 737 741	said
+T18	Attribution 737 741	said
+E5	Attribution:T18 Cue:T17 Source:T16 Content:T15
+T19	Source 803 833	Colorado’s delegation chairman
+T20	Cue 834 843	announced
+T21	Content 844 909	four votes for Trump, 31 for Senator Ted Cruz and two abstentions
+T22	Attribution 834 843	announced
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 970 1000	Anti-Trump forces on the floor
+T24	Cue 1053 1060	seeking
+T7	Attribution-no-source 275 287	was expected
+E2	Attribution-no-source:T7 Cue:T5 Content:T6
+T25	Content 1061 1156	to convince delegates that their votes were not bound and that they could vote their conscience
+T26	Attribution 1053 1060	seeking
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T14	Attribution-no-source 488 504	was not expected
+E4	Attribution-no-source:T14 Cue:T13 Content:T12
+T27	Content 1159 1220	“Maintaining order for the roll call is extremely important,”
+T28	Source 1221 1267	House Speaker Paul Ryan, the convention chair,
+T29	Cue 1268 1272	told
+T30	Attribution 1268 1272	told
+E8	Attribution:T30 Cue:T29 Source:T28 Content:T27
+T31	Source 1563 1577	the Trump team
+T32	Cue 1578 1584	sought
+T33	Content 1585 1615	to get the event back on track
+T34	Attribution 1578 1584	sought
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 1823 1853	the Slovenia-born former model
+T36	Cue 1854 1863	delivered
+T37	Content 1864 1908	a seemingly heartfelt defense of her husband
+T38	Attribution 1854 1863	delivered
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Content 1911 1963;1986 2020	“Donald is, and always has been, an amazing leader,” “Now, he will go to work for you.”
+T40	Cue 1964 1968	said
+T41	Source 1969 1984	the 46-year-old
+T42	Attribution 1964 1968	said
+E11	Attribution:T42 Source:T41 Cue:T40 Content:T39
+T43	Cue 2250 2258	appeared
+T44	Content 2235 2249;2259 2268	the Trump team paralyzed
+T45	Attribution-no-source 2250 2258	appeared
+E12	Attribution-no-source:T45 Content:T44 Cue:T43
+T46	Cue 2271 2278	Denials
+T47	Content 2279 2292	of wrongdoing
+T48	Attribution-no-source 2271 2278	Denials
+E13	Attribution-no-source:T48 Content:T47 Cue:T46
+T49	Cue 2336 2344	attempts
+T50	Content 2345 2364	to insulate Melania
+T51	Attribution-no-source 2336 2344	attempts
+E14	Attribution-no-source:T51 Content:T50 Cue:T49
+T52	Source 2416 2444	Campaign chair Paul Manafort
+T53	Cue 2445 2454	dismissed
+T54	Content 2455 2487	the whole kerfuffle as “absurd.”
+T55	Attribution 2445 2454	dismissed
+E15	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Cue 2507 2513	seemed
+T57	Content 2488 2506;2514 2533	Trump’s supporters equally unperturbed
+T58	Attribution-no-source 2507 2513	seemed
+E16	Attribution-no-source:T58 Content:T57 Cue:T56
+T59	Content 2536 2613;2665 2825	“There’s just a passion for Donald, and his wife knocked it out of the park,” “Who cares? It was her speech. I don’t believe for a minute that Melania and Donald were sitting around going, ‘Hey, let’s plagiarize Michelle Obama’s speech’.”
+T60	Cue 2614 2618	said
+T61	Source 2619 2662	Robert Antonacci of the New York delegation
+T62	Attribution 2614 2618	said
+E17	Attribution:T62 Source:T61 Cue:T60 Content:T59
+T63	Source 2827 2859	Republican establishment figures
+T64	Cue 2936 2945	suggested
+T65	Content 2946 2977	Melania’s speechwriter be fired
+T66	Attribution 2936 2945	suggested
+E18	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Cue 2982 2990	defended
+T68	Content 2991 3011	Trump as a candidate
+T69	Attribution 2982 2990	defended
+E19	Attribution:T69 Cue:T67 Content:T68 Source:T63
+T70	Content 3014 3062	“The distraction gets you off message a little,”
+T71	Cue 3063 3067	said
+T72	Source 3068 3104	Republican party boss Reince Priebus
+T73	Attribution 3063 3067	said
+E20	Attribution:T73 Source:T72 Cue:T71 Content:T70
+T74	Source 3113 3115	he
+T75	Cue 3116 3121	added
+T76	Content 3122 3163	that he expected the flap to fade quickly
+T77	Attribution 3116 3121	added
+E21	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Source 3350 3415	Republican leaders in the Senate and the House of Representatives
+T79	Cue 3416 3422	looked
+T80	Content 3423 3443	to stop the bleeding
+T81	Attribution 3416 3422	looked
+E22	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Content 3926 3929	who
+T83	Source 3930 3948	many party members
+T84	Cue 3949 3964	strongly oppose
+T85	Attribution 3949 3964	strongly oppose
+E23	Attribution:T85 Cue:T84 Source:T83 Content:T82
+T86	Content 3967 4030	“This is just a scripted television show and we are all props,”
+T87	Cue 4031 4035	said
+T88	Source 4036 4066	Virginia delegate Beau Correll
+T89	Attribution 4031 4035	said
+E24	Attribution:T89 Source:T88 Cue:T87 Content:T86
+T90	Cue 4068 4075	angered
+T91	Content 4076 4158	that party leaders ignored the movement to free delegates to vote their conscience
+T92	Attribution 4068 4075	angered
+E25	Attribution:T92 Cue:T90 Source:T88 Content:T91
+T93	Source 4161 4171	Trump fans
+T94	Cue 4172 4178	insist
+T95	Content 4179 4295	delegates must heed the will of the grassroots of the party and make him the Republican nominee without equivocation
+T96	Attribution 4172 4178	insist
+E26	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Source 4688 4690	he
+T98	Cue 4691 4711	will formally accept
+T99	Content 4712 4734	the party’s nomination
+T100	Attribution 4691 4711	will formally accept
+E27	Attribution:T100 Content:T99 Cue:T98 Source:T97

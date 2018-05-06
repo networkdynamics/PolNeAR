@@ -1,0 +1,65 @@
+T1	Source 0 12	Clinton camp
+T2	Cue 12 13	:
+T3	Content 14 62	Trump’s Islamaphobia threatens national security
+T4	Attribution 12 13	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 179 213	Hillary Clinton’s right-hand woman
+T6	Cue 234 241	saying:
+T7	Content 242 276	“We have to be ready to stop him.”
+T8	Attribution 234 241	saying:
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 278 343	Huma Abedin, vice chairwoman for Clinton’s presidential campaign,
+T10	Cue 382 389	telling
+T11	Content 396 477	“I am a proud Muslim — but you don’t have to share my faith to share my disgust.”
+T12	Attribution 382 389	telling
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 479 488	The email
+T14	Cue 489 504	goes on to say:
+T15	Content 505 721	“Trump wants to literally write racism into our law books … his Islamaphobia doesn’t reflect our nation’s values — it goes far enough to damage our country’s reputation and could even threaten our national security.”
+T16	Attribution 489 504	goes on to say:
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 723 741	The New York Times
+T18	Cue 742 750	reported
+T19	Content 751 841	the email came hours after Donald Trump proposed a ban on Muslims trying to enter the U.S.
+T20	Attribution 742 750	reported
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 842 854	The proposal
+T22	Cue 855 880	has drawn harsh criticism
+T23	Source 886 918	fellow GOP presidential hopefuls
+T24	Attribution 855 880	has drawn harsh criticism
+E6	Attribution:T24 Source:T23 Cue:T22 Content:T21
+T25	Source 932 960	Former Florida Gov. Jeb Bush
+T26	Cue 961 967	called
+T27	Content 968 985	Trump “unhinged.”
+T28	Attribution 961 967	called
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 986 1002	Sen. Marco Rubio
+T30	Cue 1003 1009	called
+T31	Content 1010 1051	the statement “offensive and outlandish.”
+T32	Attribution 1003 1009	called
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1094 1130	former Maryland Gov. Martin O’Malley
+T34	Cue 1131 1138	calling
+T35	Content 1139 1154	Trump a fascist
+T36	Attribution 1131 1138	calling
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1231 1258	Vermont Sen. Bernie Sanders
+T38	Cue 1315 1321	asking
+T39	Content 1322 1408	supports to “donate $3 to our campaign now to condemn Donald Trump’s hate and racism.”
+T40	Attribution 1315 1321	asking
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1410 1438	A producer for Yahoo Studios
+T42	Cue 1439 1443	told
+T43	Content 1479 1547	that Trump abruptly canceled a scheduled interview with Katie Couric
+T44	Attribution 1439 1443	told
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1549 1565	Trump’s campaign
+T46	Cue 1566 1586	has not commented on
+T47	Content 1587 1625	the reason for canceling the interview
+T48	Attribution 1566 1586	has not commented on
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 1627 1632	which
+T50	Cue 1633 1654	had been in the works
+T51	Attribution-no-source 1633 1654	had been in the works
+E13	Attribution-no-source:T51 Cue:T50 Content:T49
+T52	Discuss 1627 1654	which had been in the works

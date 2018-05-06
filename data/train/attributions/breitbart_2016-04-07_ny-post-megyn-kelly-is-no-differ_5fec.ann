@@ -1,0 +1,15 @@
+T1	Source 0 7	NY Post
+T2	Cue 7 8	:
+T3	Content 9 56	Megyn Kelly Is No Different Than Kim Kardashian
+T4	Attribution 7 8	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 758 840	“You’ve called women you don’t like fat pigs, dogs, slobs and disgusting animals,”
+T6	Source 841 846	Kelly
+T7	Cue 847 854	charged
+T8	Attribution 847 854	charged
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Source 886 891	Trump
+T10	Cue 917 929	interjecting
+T11	Content 931 954	“Only Rosie O’Donnell.”
+T12	Attribution 917 929	interjecting
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9

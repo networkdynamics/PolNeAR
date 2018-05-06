@@ -1,0 +1,187 @@
+T1	Source 0 17	Francois Hollande
+T2	Cue 18 22	Says
+T3	Content 23 62	Donald Trump ‘Makes You Want To Retch.’
+T4	Attribution 18 22	Says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 142 145	who
+T6	Cue 146 158	have slammed
+T7	Content 159 197	U.S. presidential hopeful Donald Trump
+T8	Attribution 146 158	have slammed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 262 270	Hollande
+T10	Cue 271 275	said
+T11	Content 228 260	Trump’s “excesses” are sickening
+T12	Attribution 271 275	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 294 300	noting
+T14	Content 301 350	the Republican nominee “makes you want to retch.”
+T15	Attribution 294 300	noting
+E4	Attribution:T15 Source:T9 Content:T14 Cue:T13
+T16	Discard 5587 5838	Editor’s note: Donald Trump regularly incites political violence and is a serial liar, rampant xenophobe, racist, misogynist and birther who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S.
+T17	Source 369 377	Hollande
+T18	Cue 378 394	was referring to
+T19	Content 395 434	Trump’s recent remarks about Khizr Khan
+T20	Attribution 378 394	was referring to
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 472 477	Trump
+T22	Cue 478 491	lashed out at
+T23	Content 492 496	Khan
+T24	Attribution 478 491	lashed out at
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 503 505	he
+T26	Cue 506 594	delivered a moving speech at the Democratic National Convention alongside his wife about
+T27	Content 595 631	losing their son during the Iraq War
+T28	Attribution 506 594	delivered a moving speech at the Democratic National Convention alongside his wife about
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 633 653	Khan, who is Muslim,
+T30	Cue 654 666	also decried
+T31	Content 667 731	Trump’s repeated calls to ban all Muslims from entering the U.S.
+T32	Attribution 654 666	also decried
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 733 739	noting
+T34	Content 740 809	he has “sacrificed nothing” for the country he is campaigning to lead
+T35	Attribution 733 739	noting
+E9	Attribution:T35 Source:T29 Content:T34 Cue:T33
+T36	Source 914 917	who
+T37	Cue 918 931	does not know
+T38	Content 932 934	me
+T39	Attribution 918 931	does not know
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1053 1073	was questioned about
+T41	Content 1074 1085	the dispute
+T42	Attribution-no-source 1053 1073	was questioned about
+E11	Attribution-no-source:T42 Content:T41 Cue:T40
+T43	Source 1099 1111	his response
+T44	Cue 1112 1122	focused on
+T45	Content 1123 1240	how Khan’s wife, Ghazala, remained silent during the DNC speech, as if she “wasn’t allowed to have anything to say.” 
+T46	Attribution 1112 1122	focused on
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1240 1245	Trump
+T48	Cue 1246 1258	also claimed
+T49	Content 1259 1371	that he had made “a lot of sacrifices,” such as creating jobs and building structures with “tremendous success.”
+T50	Attribution 1246 1258	also claimed
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Cue 1458 1466	appeared
+T52	Content 1377 1401;1467 1550	HBO comedian John Oliver to lose his temper while addressing Trump’s insensitive response to the Khan family
+T53	Attribution-no-source 1458 1466	appeared
+E14	Attribution-no-source:T53 Content:T52 Cue:T51
+T54	Content 1552 1725	“OK, for a start, [Khizr Khan’s] wife has explained that she chose not to speak because she gets too upset when she sees images of her dead son’s face, you fucking asshole,”
+T55	Source 1726 1732	Oliver
+T56	Cue 1733 1739	barked
+T57	Attribution 1733 1739	barked
+E15	Attribution:T57 Cue:T56 Source:T55 Content:T54
+T58	Content 1741 1752;1767 2055	“Honestly,” “we may be on the brink of electing such a damaged, sociopathic narcissist that the simple presidential duty of comforting the families of fallen soldiers may actually be beyond his capabilities, and I genuinely did not think that that was a part of the job that someone could be bad at.”
+T59	Source 1753 1755	he
+T60	Cue 1756 1765	continued
+T61	Attribution 1756 1765	continued
+E16	Attribution:T61 Cue:T60 Source:T59 Content:T58
+T62	Source 2080 2132	Khizr Khan, the father of a slain American soldier, 
+T63	Cue 2132 2139	decried
+T64	Content 2140 2204	Trump’s repeated calls to ban all Muslims from entering the U.S.
+T65	Attribution 2132 2139	decried
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Source 2234 2242	Hollande
+T67	Cue 2243 2252	denounced
+T68	Content 2253 2297	Trump’s remarks as “hurtful and humiliating”
+T69	Attribution 2243 2252	denounced
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Cue 2302 2311	warned of
+T71	Content 2312 2365	the global implications a Trump presidency would have
+T72	Attribution 2302 2311	warned of
+E19	Attribution:T72 Source:T66 Content:T71 Cue:T70
+T73	Content 2368 2479	“If the Americans choose Trump, that will have consequences, because an American election is a world election,”
+T74	Source 2480 2482	he
+T75	Cue 2483 2487	said
+T76	Attribution 2483 2487	said
+E20	Attribution:T76 Cue:T75 Source:T74 Content:T73
+T77	Content 2489 2519;2532 2562	The embattled French president to run for re-election in 2017
+T78	Cue 2520 2531	is expected
+T79	Attribution-no-source 2520 2531	is expected
+E21	Attribution-no-source:T79 Cue:T78 Content:T77
+T80	Cue 2579 2597	sharp criticism on
+T81	Content 2598 2624	France’s national security
+T82	Attribution-no-source 2579 2597	sharp criticism on
+E22	Attribution-no-source:T82 Content:T81 Cue:T80
+T83	Cue 2900 2912	were claimed
+T84	Content 2885 2899	Both incidents
+T85	Source 2916 2943	the so-called Islamic State
+T86	Attribution 2900 2912	were claimed
+E23	Attribution:T86 Source:T85 Content:T84 Cue:T83
+T87	Source 3101 3107	Trump 
+T88	Cue 3107 3124	cast the blame on
+T89	Content 3125 3158	his democratic rivals in the U.S.
+T90	Attribution 3107 3124	cast the blame on
+E24	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Cue 3164 3174	emphasized
+T92	Content 3175 3229	the threat that “Islamic terrorism” poses to the world
+T93	Attribution 3164 3174	emphasized
+E25	Attribution:T93 Source:T87 Content:T92 Cue:T91
+T94	Source 3309 3335	both in America and abroad
+T95	Content 3231 3264;3294 3307	His ongoing anti-Islamic rhetoric fearmongering
+T96	Cue 3265 3293	has been widely condemned as
+T97	Attribution 3265 3293	has been widely condemned as
+E26	Attribution:T97 Cue:T96 Content:T95 Source:T94
+T98	Source 3629 3634	Trump
+T99	Cue 3635 3643	asserted
+T100	Content 3644 3677	that France had lost its identity
+T101	Attribution 3635 3643	asserted
+E27	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Content 3679 3708	“France is no longer France,”
+T103	Source 3709 3711	he
+T104	Cue 3712 3719	claimed
+T105	Attribution 3712 3719	claimed
+E28	Attribution:T105 Cue:T104 Source:T103 Content:T102
+T106	Content 3721 3752;3783 4039	“France will always be France,” “It never gives up, because it still bears ideals, values, principles that are recognized worldwide, and it’s when you lower your standards that you are no longer what you are. That’s something that may happen to others, on the other side of the Atlantic.”
+T107	Source 3753 3770	an angry Hollande
+T108	Cue 3771 3781	retaliated
+T109	Attribution 3771 3781	retaliated
+E29	Attribution:T109 Cue:T108 Source:T107 Content:T106
+T110	Source 4040 4074	French Prime Minister Manuel Valls
+T111	Cue 4075 4105	also spoke out sharply against
+T112	Content 4106 4123	Trump’s influence
+T113	Attribution 4075 4105	also spoke out sharply against
+E30	Attribution:T113 Content:T112 Cue:T111 Source:T110
+T114	Cue 4125 4135	suggesting
+T115	Content 4136 4243	“Trumpization” in the form of “sweeping accusations” and “slander” had started to seep into French politics
+T116	Attribution 4125 4135	suggesting
+E31	Attribution:T116 Source:T110 Content:T115 Cue:T114
+T117	Content 4245 4330	It is “undermining our constitution, our principles, our values and the rule of law,”
+T118	Source 4331 4333	he
+T119	Cue 4334 4340	warned
+T120	Attribution 4334 4340	warned
+E32	Attribution:T120 Cue:T119 Source:T118 Content:T117
+T121	Content 4561 4566	Trump
+T122	Cue 4567 4578	endorsement
+T123	Source 4582 4646	Marine Le Pen, leader of France’s far-right Front National party
+T124	Attribution 4567 4578	endorsement
+E33	Attribution:T124 Source:T123 Cue:T122 Content:T121
+T125	Content 4648 4739	“Between [Donald Trump] and Hillary Clinton, it is clear that I would choose Donald Trump,”
+T126	Cue 4740 4744	said
+T127	Source 4745 4813	Le Pen, who has also garnered attention for her Islamophobic remarks
+T128	Attribution 4740 4744	said
+E34	Attribution:T128 Source:T127 Cue:T126 Content:T125
+T129	Source 4815 4927	Le Pen’s niece Marion, the vice-president of the Front National, and father Jean-Marie, the former party leader,
+T130	Cue 4928 4946	have also endorsed
+T131	Content 4947 4952	Trump
+T132	Attribution 4928 4946	have also endorsed
+E35	Attribution:T132 Content:T131 Cue:T130 Source:T129
+T133	Source 5064 5067	who
+T134	Cue 5068 5074	called
+T135	Content 5075 5127	the Republican nominee “unfit to serve” as president
+T136	Attribution 5068 5074	called
+E36	Attribution:T136 Content:T135 Cue:T134 Source:T133
+T137	Cue 5011 5029	a damning reaction
+T138	Source 5035 5039	U.S.
+T139	Content 4968 5000	Trump’s row with the Khan family
+T140	Attribution 5011 5029	a damning reaction
+E37	Attribution:T140 Content:T139 Source:T138 Cue:T137
+T141	Content 5129 5163;5200 5272	“Why are you still endorsing him?” “What does this say about your party that this is your standard-bearer?”
+T142	Source 5164 5169	Obama
+T143	Cue 5170 5175	asked
+T144	Attribution 5170 5175	asked
+E38	Attribution:T144 Cue:T143 Source:T142 Content:T141
+T145	Source 5273 5401	Several Republican leaders, including Sens. John McCain (Ariz.), Kelly Ayotte (N.H.), Pat Toomey (Pa.) and Chuck Grassley (Iowa)
+T146	Cue 5402 5422	have since denounced
+T147	Content 5423 5439	Trump’s comments
+T148	Attribution 5402 5422	have since denounced
+E39	Attribution:T148 Content:T147 Cue:T146 Source:T145

@@ -1,0 +1,111 @@
+T1	Content 808 828	“This is fantastic!”
+T2	Cue 829 835	beamed
+T3	Source 836 871	Donald Hartley of Madison, Alabama,
+T4	Attribution 829 835	beamed
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Source 953 958	Trump
+T6	Cue 959 967	laid out
+T7	Content 968 990	his vision for America
+T8	Attribution 959 967	laid out
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 1281 1439	“I’m telling you, this party is not divided, the voters are not divided, and Trump is going to continue to gain strength and he’s going to win this election,”
+T10	Source 1440 1488	Senator Jeff Sessions, a close advisor to Trump,
+T11	Cue 1489 1493	told
+T12	Attribution 1489 1493	told
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 1500 1530	House Republican Thomas Massie
+T14	Cue 1531 1546	used to support
+T15	Content 1547 1574	fellow Kentuckian Rand Paul
+T16	Attribution 1531 1546	used to support
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 1580 1588	now said
+T18	Content 1589 1657;1659 1735	Trump had “the opportunity and the obligation to bring us together.” “I think he can do that, but the biggest unifier we got is Hillary Clinton.”
+T19	Attribution 1580 1588	now said
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T13
+T20	Source 1759 1764	Trump
+T21	Cue 1765 1774	mentioned
+T22	Content 1775 1804	the former secretary of state
+T23	Attribution 1765 1774	mentioned
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1823 1832	the crowd
+T25	Cue 1833 1848	loudly reprised
+T26	Content 1849 1894	the caustic chant “Lock her up! Lock her up!”
+T27	Attribution 1833 1848	loudly reprised
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1951 1956	Trump
+T29	Cue 1957 1965	gestured
+T30	Content 1966 1990	as if to stop the ruckus
+T31	Attribution 1957 1965	gestured
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 2011 2018	boomed:
+T33	Content 2019 2050	“Let’s defeat her in November.”
+T34	Attribution 2011 2018	boomed:
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T28
+T35	Content 2219 2336	“I heard ‘Lock her up’ last night and thought it would be funny if I went out and bought an orange prison jump suit,”
+T36	Source 2337 2339	he
+T37	Cue 2340 2344	said
+T38	Attribution 2340 2344	said
+E10	Attribution:T38 Cue:T37 Source:T36 Content:T35
+T39	Cue 2922 2926	said
+T40	Content 2927 3017	the turmoil at this week’s convention was all part of the circus that is American politics
+T41	Source 2852 2921	Christopher Harvey, an African-American delegate from Houston, Texas,
+T42	Attribution 2922 2926	said
+E11	Attribution:T42 Source:T41 Content:T40 Cue:T39
+T43	Content 3020 3053	“We show anger, we show emotion,”
+T44	Cue 3054 3058	said
+T45	Attribution 3054 3058	said
+E12	Attribution:T45 Cue:T44 Content:T43 Source:T46
+T46	Source 3059 3065	Harvey
+T47	Source 3067 3070	who
+T48	Cue 3071 3083	acknowledged
+T49	Content 3084 3206	Trump was his fourth choice for nominee, behind arch-conservative Rick Santorum, Senator Marco Rubio, and Senator Ted Cruz
+T50	Attribution 3071 3083	acknowledged
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Content 3209 3300	“We’re alive, unlike the robots you’re going to see next week” at the Democratic convention
+T52	Source 3302 3304	he
+T53	Cue 3305 3309	said
+T54	Attribution 3305 3309	said
+E14	Attribution:T54 Cue:T53 Source:T52 Content:T51
+T55	Source 3317 3322	Trump
+T56	Cue 3323 3341	finally wrapped up
+T57	Content 3344 3391	“I will fight for you, and I will win for you!”
+T58	Attribution 3323 3341	finally wrapped up
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Cue 3446 3452	seemed
+T60	Content 3436 3445;3453 3494	The music to match the sense of relief in the arena
+T61	Attribution-no-source 3446 3452	seemed
+E16	Attribution-no-source:T61 Content:T60 Cue:T59
+T62	Source 3535 3548	the band Free
+T63	Cue 3532 3534	by
+T64	Content 3498 3531	the rock classic “All Right Now,”
+T65	Attribution 3532 3534	by
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Source 3577 3589	Not everyone
+T67	Cue 3590 3602	was claiming
+T68	Content 3603 3610	success
+T69	Attribution 3590 3602	was claiming
+E18	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Content 3613 3667	“We’ve had more successful conventions than this one,”
+T71	Source 3668 3748	Texas delegate Bill Eastland, wearing a cowboy hat and “Ted Cruz” campaign pins,
+T72	Cue 3749 3770	said matter-of-factly
+T73	Attribution 3749 3770	said matter-of-factly
+E19	Attribution:T73 Cue:T72 Source:T71 Content:T70
+T74	Source 3856 3891	Minnesota state delegate Mary Susan
+T75	Cue 3961 3965	said
+T76	Content 3966 4078	the convention could be a “failure” if Trump can’t rally the broad coalition of Republicans in the coming months
+T77	Attribution 3961 3965	said
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Source 4081 4100	Her liberal friends
+T79	Cue 4101 4112	have mocked
+T80	Content 4113 4144	Trump’s rhetoric-heavy campaign
+T81	Attribution 4101 4112	have mocked
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Cue 4146 4153	calling
+T83	Content 4154 4180	Trump “an orange buffoon,”
+T84	Attribution 4146 4153	calling
+E22	Attribution:T84 Content:T83 Cue:T82 Source:T78
+T85	Source 4181 4186	Susan
+T86	Cue 4187 4191	said
+T87	Content 4235 4282	“But he’s our orange buffoon, and we love him!”
+T88	Attribution 4187 4191	said
+E23	Attribution:T88 Content:T87 Cue:T86 Source:T85

@@ -1,0 +1,49 @@
+T1	Source 0 12	Susan Brooks
+T2	Cue 13 21	planning
+T3	Content 22 55	to enter Indiana governor contest
+T4	Attribution 13 21	planning
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 58 87	Indiana GOP Rep. Susan Brooks
+T6	Cue 88 99	is planning
+T7	Content 100 188	to withdraw from her House reelection race and seek her party's gubernatorial nomination
+T8	Attribution 88 99	is planning
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 265 429	"If the governor withdraws, then yes, she'd be committed to withdrawing her name from the ballot and seeking the gubernatorial nomination from the state committee,"
+T10	Cue 430 434	said
+T11	Source 435 529	Murray Clark, a former state GOP chair who is supporting Brooks and has been in touch with her
+T12	Attribution 430 434	said
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Source 532 584	Rep. Todd Rokita and state House Speaker Brain Bosma
+T14	Cue 585 605	have publicly stated
+T15	Content 606 643	their interest in taking Pence's spot
+T16	Attribution 585 605	have publicly stated
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 762 769	Sources
+T18	Cue 770 784	have also said
+T19	Content 785 828	Lt. Gov. Eric Holcomb is interested as well
+T20	Attribution 770 784	have also said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 830 855	Former Gov. Mitch Daniels
+T22	Cue 856 865	ruled out
+T23	Content 866 878	making a bid
+T24	Attribution 856 865	ruled out
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1142 1147	Clark
+T26	Cue 1148 1152	said
+T27	Content 1153 1203	Brooks had begun making calls to committee members
+T28	Attribution 1148 1152	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Cue 1311 1315	said
+T30	Content 1316 1360	the ultimate outcome was still up in the air
+T31	Attribution 1311 1315	said
+E8	Attribution:T31 Cue:T29 Source:T25 Content:T30
+T32	Content 1363 1393;1490 1533	"That's the $64,000 question," "We've developed a pretty deep bench here."
+T33	Source 1394 1399	Clark
+T34	Cue 1400 1404	said
+T35	Attribution 1400 1404	said
+E9	Attribution:T35 Cue:T34 Source:T33 Content:T32
+T36	Cue 1406 1412	noting
+T37	Content 1413 1488	he would support any of the other candidates if they secured the nomination
+T38	Attribution 1406 1412	noting
+E10	Attribution:T38 Cue:T36 Source:T33 Content:T37
+T39	Discuss 1363 1533	"That's the $64,000 question," Clark said, noting he would support any of the other candidates if they secured the nomination. "We've developed a pretty deep bench here."

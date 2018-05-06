@@ -1,0 +1,61 @@
+T1	Source 0 12	Bill Clinton
+T2	Cue 12 13	:
+T3	Content 14 66	Hillary thinks feds require too many tests at school
+T4	Attribution 12 13	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T7	Content 69 163	Hillary Clinton thinks the federal government requires too many tests for U.S. school children
+T5	Source 165 194	former President Bill Clinton
+T6	Cue 195 209	said this week
+T8	Attribution 195 209	said this week
+E2	Attribution:T8 Cue:T6 Source:T5 Content:T7
+T9	Cue 235 258	an apparent reversal of
+T10	Source 259 262	her
+T11	Content 263 375	past support for the No Child Left Behind law that ushered in annual testing requirements more than a decade ago
+T12	Attribution 235 258	an apparent reversal of
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Content 378 424	The amount of time spent on testing in schools
+T14	Cue 425 454	has been a priority issue for
+T15	Source 455 470	teachers unions
+T16	Attribution 425 454	has been a priority issue for
+E4	Attribution:T16 Source:T15 Cue:T14 Content:T13
+T17	Source 475 554	both the American Federation of Teachers and the National Education Association
+T18	Cue 555 563	endorsed
+T19	Content 564 567	her
+T20	Attribution 555 563	endorsed
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 767 806	thousands of parents around the country
+T22	Cue 848 861	in protest of
+T23	Content 862 869	testing
+T24	Attribution 848 861	in protest of
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 872 1065	“She thinks they are just too much, that it’s national overreach, and the most it could ever do is to help people at the very bottom levels of achievement,” Bill Clinton said Monday in Cheyenne
+T26	Cue 1067 1097	according to audio provided by
+T27	Source 1098 1118	Wyoming Public Radio
+T28	Attribution 1067 1097	according to audio provided by
+E7	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Cue 1214 1228	first required
+T30	Content 1229 1336	states to test all students in reading in math in third through eighth grades and once again in high school
+T31	Source 1208 1213	which
+T32	Attribution 1214 1228	first required
+E8	Attribution:T32 Source:T31 Content:T30 Cue:T29
+T33	Source 1361 1369	Congress
+T34	Cue 1370 1388	last year replaced
+T35	Content 1389 1406	the education law
+T36	Attribution 1370 1388	last year replaced
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Discuss 1361 1406	Congress last year replaced the education law
+T38	Source 1473 1485	Bill Clinton
+T39	Cue 1486 1490	said
+T40	Content 1491 1570	it’s “not that there shouldn’t be tests, not that there shouldn’t be measures.”
+T41	Attribution 1486 1490	said
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Content 1572 1809;1819 1853	“The idea of having to give a national test every year for five years in a row for people from the third to the eighth grade doesn’t make as much sense as investing the same amount of money in helping the teachers to be better teachers,” “That would make more difference.”
+T43	Source 1810 1812	he
+T44	Cue 1813 1817	said
+T45	Attribution 1813 1817	said
+E11	Attribution:T45 Cue:T44 Source:T43 Content:T42
+T46	Source 1411 1426	the new version
+T47	Cue 1427 1441	still requires
+T48	Content 1442 1470	the same schedule of testing
+T49	Attribution 1427 1441	still requires
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46

@@ -1,0 +1,85 @@
+T1	Source 0 18	Right-wing parties
+T2	Cue 19 27	threaten
+T3	Content 28 50	to jam EU's mainstream
+T4	Attribution 19 27	threaten
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 53 72	Liberal politicians
+T6	Cue 73 77	fear
+T7	Content 78 105	'Europe is disintegrating.'
+T8	Attribution 73 77	fear
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 822 826	said
+T10	Source 827 891	Geert Wilders, founder of the right-wing Dutch Party for Freedom
+T11	Content 747 820	The rejection of the treaty signals "the beginning of the end" for the EU
+T12	Cue 934 938	said
+T13	Source 939 1007	Sophie in 't Veld, a Dutch liberal member of the European Parliament
+T14	Content 1009 1034;894 933	"It's a risk everywhere." "Europe is disintegrating as we speak,"
+T15	Source 1036 1102	Nigel Farage, leader of the anti-immigration UK Independence Party
+T16	Cue 1104 1108	says
+T17	Content 1109 1214	such votes are preludes to the critical "Brexit" referendum June 23 on whether Britain should exit the EU
+T18	Attribution 822 826	said
+E3	Attribution:T18 Cue:T9 Content:T11 Source:T10
+T19	Attribution 934 938	said
+E4	Attribution:T19 Cue:T12 Content:T14 Source:T13
+T20	Attribution 1104 1108	says
+E5	Attribution:T20 Content:T17 Cue:T16 Source:T15
+T21	Cue 1423 1427	said
+T22	Source 1416 1422	Farage
+T23	Content 1340 1415	"Things are changing. I don't believe these (EU) institutions can survive,"
+T24	Attribution 1423 1427	said
+E6	Attribution:T24 Content:T23 Source:T22 Cue:T21
+T25	Source 1484 1487	who
+T26	Cue 1488 1502	have supported
+T27	Content 1504 1518	European unity
+T28	Attribution 1488 1502	have supported
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1701 1738	officials of the socialist government
+T30	Cue 1739 1754	are considering
+T31	Content 1755 1817	a centrist coalition to thwart the conservative National Front
+T32	Attribution 1739 1754	are considering
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1996 2030	French Prime Minister Manuel Valls
+T34	Cue 2031 2035	told
+T35	Content 1957 1995;2066 2259	We have to get over partisan divides," "My roots are on the left, but I think that on the big issues we can perfectly well get together. ... The upcoming presidential election can't be a repeat of classic left-right confrontations."
+T36	Attribution 2031 2035	told
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 2273 2339	Chancellor Angela Merkel's center-right Christian Democratic Union
+T38	Cue 2340 2344	sees
+T39	Content 2345 2385	the emergence of Alternative for Germany
+T40	Attribution 2340 2344	sees
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Cue 3000 3004	sees
+T42	Source 2989 2999	In 't Veld
+T43	Content 3005 3131	parallels between the rise of the right in Europe and support for Republican presidential front-runner Donald Trump in the USA
+T44	Attribution 3000 3004	sees
+E11	Attribution:T44 Content:T43 Source:T42 Cue:T41
+T45	Source 3248 3251	she
+T46	Cue 3252 3256	told
+T47	Content 3134 3247	"I see exactly the same brand of populism, the same political discourse, the same issues, the same polarization,"
+T48	Attribution 3252 3256	told
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 3269 3310	Many of Europe's conservative politicians
+T50	Cue 3311 3317	admire
+T51	Content 3318 3348	the U.S. billionaire candidate
+T52	Attribution 3311 3317	admire
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 3376 3421	Italy's Northern League leader Matteo Salvini
+T54	Cue 3422 3439	wrote on Facebook
+T55	Content 3350 3375;3441 3473	"Go Donald Trump, go!!!," "We are on the same wavelength."
+T56	Attribution 3422 3439	wrote on Facebook
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 3475 3488	Some analysts
+T58	Cue 3489 3492	say
+T59	Content 3493 3543	the power of the anti-EU parties may be overstated
+T60	Attribution 3489 3492	say
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Cue 3887 3891	said
+T62	Source 3892 3994	Adriaan Schout, Europe coordinator at the Clingendael Netherlands Institute of International Relations
+T63	Content 3733 3886;3996 4076	"We have to be very careful with what we see and not jump to conclusions and think that the Netherlands has gone mad and everyone is voting for Wilders," "This is not necessarily anti-European, this is saying 'give us a good Europe.'"
+T64	Attribution 3887 3891	said
+E16	Attribution:T64 Content:T63 Source:T62 Cue:T61
+T65	Source 156 192	European voters across the continent
+T66	Cue 193 220	are increasingly empowering
+T67	Content 221 321	right-wing parties to upend Europe's long march toward a common economic, social and political union
+T68	Attribution 193 220	are increasingly empowering
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65

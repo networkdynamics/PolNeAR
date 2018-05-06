@@ -1,0 +1,49 @@
+T1	Source 0 12	Barack Obama
+T2	Cue 13 27	Just Nominated
+T3	Content 28 58	A Muslim To Be A Federal Judge
+T4	Attribution 13 27	Just Nominated
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 90 112	President Barack Obama
+T6	Cue 140 150	nominating
+T7	Content 151 213	the first Muslim person to the federal judiciary, Abid Qureshi
+T8	Attribution 140 150	nominating
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 215 305;333 437	“I am pleased to nominate Mr. Qureshi to serve on the United States District Court bench,” “I am confident he will serve the American people with integrity and a steadfast commitment to justice.”
+T10	Source 306 311	Obama
+T11	Cue 312 316	said
+T12	Attribution 312 316	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 586 604	Senate Republicans
+T14	Cue 605 636	have all but stopped confirming
+T15	Content 637 655	his judicial picks
+T16	Attribution 605 636	have all but stopped confirming
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 768 805	GOP presidential nominee Donald Trump
+T18	Cue 806 814	has said
+T19	Content 815 935	that a Muslim federal judge wouldn’t treat him fairly because of his calls for banning Muslims from entering the country
+T20	Attribution 806 814	has said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 937 942	Trump
+T22	Cue 943 973	made similarly bigoted charges
+T23	Content 974 1103	that a Latino federal judge would be biased against him because he has advocated for building a wall along the U.S.-Mexico border
+T24	Attribution 943 973	made similarly bigoted charges
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1105 1121	Muslim advocates
+T26	Cue 1122 1128	hailed
+T27	Content 1129 1149	Qureshi’s nomination
+T28	Attribution 1122 1128	hailed
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1151 1319;1411 1711	“I commend President Obama for taking this important step in continuing to pick the best and brightest from every community to serve as part of our nation’s judiciary,” “A judiciary that reflects the rich diversity of our nation helps ensure the fair and just administration of the law, and it is vital for American Muslims to be included. Mr. Qureshi’s profound commitment to the rule of law and justice for people of all backgrounds makes him an exceptional nominee.”
+T30	Cue 1320 1324	said
+T31	Source 1325 1409	Farhana Khera, executive director of Muslim Advocates, a legal advocacy organization
+T32	Attribution 1320 1324	said
+E8	Attribution:T32 Source:T31 Cue:T30 Content:T29
+T33	Source 1934 1937	she
+T34	Cue 1938 1965	could very well re-nominate
+T35	Content 1966 1994	him to the same seat in 2017
+T36	Attribution 1938 1965	could very well re-nominate
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Cue 2012 2027	rumblings about
+T38	Content 2028 2048	Qureshi’s nomination
+T39	Attribution-no-source 2012 2027	rumblings about
+E10	Attribution-no-source:T39 Content:T38 Cue:T37

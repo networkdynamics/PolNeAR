@@ -1,0 +1,181 @@
+T1	Source 0 9	Democrats
+T2	Cue 10 19	draw plan
+T3	Content 20 38	to shatter the GOP
+T4	Source 41 50	Democrats
+T5	Cue 51 77	are drawing blueprints for
+T6	Content 78 142	stealing GOP moderates from a rightward-driving Republican Party
+T7	Attribution 10 19	draw plan
+E1	Attribution:T7 Source:T1 Cue:T2 Content:T3
+T8	Attribution 51 77	are drawing blueprints for
+E2	Attribution:T8 Content:T6 Cue:T5 Source:T4
+T9	Cue 144 150	saying
+T10	Content 151 208	the heist is key to scoring a White House win in November
+T11	Attribution 144 150	saying
+E3	Attribution:T11 Source:T4 Cue:T9 Content:T10
+T12	Source 315 319	that
+T13	Cue 320 327	suggest
+T14	Content 328 434	moderate Republicans — nearly a third of the GOP base — are being ignored by their presidential candidates
+T15	Attribution 320 327	suggest
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 436 453	These Republicans
+T17	Cue 454 466	don’t revile
+T18	Content 467 485	Planned Parenthood
+T19	Attribution 454 466	don’t revile
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 497 501	many
+T21	Cue 502 508	prefer
+T22	Content 509 606	the women’s health group to pro-life groups and candidates who take hard-line stances on abortion
+T23	Attribution 502 508	prefer
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 608 612	They
+T25	Cue 612 629	’re supportive of
+T26	Content 630 647	same-sex marriage
+T27	Attribution 612 629	’re supportive of
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 649 653	They
+T29	Cue 653 672	’re not enamored of
+T30	Content 673 680	the NRA
+T31	Attribution 653 672	’re not enamored of
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 682 686	They
+T33	Cue 687 718	have less rigid attitudes about
+T34	Content 719 722	sex
+T35	Attribution 687 718	have less rigid attitudes about
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 724 728	They
+T37	Cue 729 735	accept
+T38	Content 736 751	climate science
+T39	Attribution 729 735	accept
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Content 754 775;792 886	“It’s mind-boggling,” “They’re considered illegitimate within the Republican Party, and no one is speaking to them."
+T41	Source 776 785	Greenberg
+T42	Cue 786 790	said
+T43	Content 888 902;918 972	It’s a dynamic could drive those moderates toward Democrats this fall
+T44	Source 903 912	Greenberg
+T45	Cue 913 917	said
+T46	Attribution 786 790	said
+E11	Attribution:T46 Content:T40 Source:T41 Cue:T42
+T47	Attribution 913 917	said
+E12	Attribution:T47 Cue:T45 Source:T44 Content:T43
+T48	Source 978 980	he
+T49	Cue 981 986	wants
+T50	Content 987 1024	his party to work to make that happen
+T51	Attribution 981 986	wants
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 1037 1054	the GOP moderates
+T53	Cue 1055 1063	may feel
+T54	Content 1064 1088	a break from their party
+T55	Attribution 1055 1063	may feel
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 1090 1094	they
+T57	Cue 1094 1113	're also hostile to
+T58	Content 1114 1123	Democrats
+T59	Attribution 1094 1113	're also hostile to
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Content 1193 1213	the Democratic Party
+T61	Source 1217 1222	their
+T62	Cue 1223 1227	eyes
+T63	Attribution 1223 1227	eyes
+E16	Attribution:T63 Cue:T62 Source:T61 Content:T60
+T64	Source 1323 1337	Democracy Corp
+T65	Cue 1338 1343	found
+T66	Content 1344 1599	that anti-Democrat attitudes are the most potent driver of Republican primary voters — and their antipathy for Hillary Clinton outweighs even their dislike for President Barack Obama and the Democratic Party as a whole, a feeling that cuts across ideology
+T67	Attribution 1338 1343	found
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 1609 1617	the poll
+T69	Cue 1618 1623	shows
+T70	Content 1624 1753	that GOP moderates may be pliable — and that Democratic efforts to corral GOP votes shouldn’t end with just looking for moderates
+T71	Attribution 1618 1623	shows
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Source 1755 1766	The results
+T73	Cue 1767 1771	show
+T74	Content 1772 1848	that Catholic Republicans are similarly out of step with the Republican base
+T75	Attribution 1767 1771	show
+E19	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 1850 1854	They
+T77	Cue 1854 1873	’re less hostile to
+T78	Content 1874 1895	government regulation
+T79	Attribution 1854 1873	’re less hostile to
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Cue 1900 1915	generally agree
+T81	Content 1916 1992	that those making more than $250,000 a year should pay “a lot” more in taxes
+T82	Attribution 1900 1915	generally agree
+E21	Attribution:T82 Source:T76 Cue:T80 Content:T81
+T83	Source 2090 2099	Greenberg
+T84	Cue 2100 2104	says
+T85	Content 2067 2088;2105 2123;2125 2356	The winning arguments his research shows include convincing these Republicans that Trump is an egomaniac, that he’s disrespectful to women, that he can’t be trusted with the nation’s nuclear arsenal, that he has no clean energy agenda and that he’s hostile to global trade
+T86	Attribution 2100 2104	says
+E22	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Source 2359 2367	The poll
+T88	Cue 2368 2373	shows
+T89	Content 2374 2496	that Trump, more than his leading rivals, Marco Rubio and Ted Cruz, would cause Republicans to rethink their party loyalty
+T90	Attribution 2368 2373	shows
+E23	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Source 2504 2515	one in five
+T92	Cue 2516 2519	say
+T93	Content 2520 2660	they would either not vote or are unsure whom they’d support — or even consider supporting a third-party candidate — if Trump is the nominee
+T94	Attribution 2516 2519	say
+E24	Attribution:T94 Content:T93 Cue:T92 Source:T91
+T95	Discuss 2662 2724	Among Catholics and moderates, these figures jump even further
+T96	Source 2799 2824	Establishment Republicans
+T97	Cue 2825 2867	have been in open conflict with Trump over
+T98	Content 2868 2930	his recent equivocation when asked to condemn the Ku Klux Klan
+T99	Attribution 2825 2867	have been in open conflict with Trump over
+E25	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Source 2932 2939	Stories
+T102	Content 2964 3050	Republican insiders' (so far fruitless) attempts to dislodge Trump's hold on the party
+T101	Cue 2940 2963	have emerged describing
+T103	Attribution 2940 2963	have emerged describing
+E26	Attribution:T103 Cue:T101 Content:T102 Source:T100
+T104	Source 3052 3075	Nebraska Sen. Ben Sasse
+T105	Cue 3076 3090	even suggested
+T106	Content 3107 3200	that he'd look for a third-party conservative if the general election is Trump versus Clinton
+T107	Attribution 3076 3090	even suggested
+E27	Attribution:T107 Content:T106 Cue:T105 Source:T104
+T108	Source 3207 3227	Greenberg's research
+T109	Cue 3228 3236	suggests
+T110	Content 3237 3322	moderate and Catholic Republicans might also cross party lines for other GOP nominees
+T111	Attribution 3228 3236	suggests
+E28	Attribution:T111 Content:T110 Cue:T109 Source:T108
+T112	Cue 3335 3350	discomfort with
+T113	Content 3351 3378	the party's rightward lurch
+T114	Attribution-no-source 3335 3350	discomfort with
+E29	Attribution-no-source:T114 Content:T113 Cue:T112
+T115	Source 3380 3402	These same Republicans
+T116	Cue 3403 3435	express sharp reservations about
+T117	Content 3436 3517	Rubio’s position on abortion, which doesn’t include exceptions for rape or incest
+T118	Cue 3534 3544	presenting
+T119	Content 3562 3624	with Democratic arguments against all three leading candidates
+T120	Attribution 3403 3435	express sharp reservations about
+E30	Attribution:T120 Source:T115 Cue:T116 Content:T117
+T121	Attribution-no-source 3534 3544	presenting
+E31	Attribution-no-source:T121 Content:T119 Cue:T118
+T122	Source 3626 3630	more
+T123	Cue 3631 3645	peel away from
+T124	Content 3646 3676	Rubio and Cruz than from Trump
+T125	Attribution 3631 3645	peel away from
+E32	Attribution:T125 Content:T124 Cue:T123 Source:T122
+T126	Source 3683 3708	the most potent arguments
+T127	Cue 3709 3720	centered on
+T128	Content 3721 3770	their hostility to same-sex marriage and abortion
+T129	Attribution 3709 3720	centered on
+E33	Attribution:T129 Content:T128 Cue:T127 Source:T126
+T130	Source 3786 3831	the Republican moderates and Catholics polled
+T131	Cue 3832 3844	responded to
+T132	Content 3845 4002	some affirmative Democratic arguments — from moving past divisive social issues to encouraging infrastructure investment and cracking down on corporate greed
+T133	Attribution 3832 3844	responded to
+E34	Attribution:T133 Content:T132 Cue:T131 Source:T130
+T134	Source 4087 4096	Democrats
+T135	Cue 4097 4101	plot
+T136	Content 4102 4150	to take advantage of the GOP's internal tensions
+T137	Attribution 4097 4101	plot
+E35	Attribution:T137 Content:T136 Cue:T135 Source:T134
+T138	Source 4152 4163	Republicans
+T139	Cue 4164 4178	are looking to
+T140	Content 4179 4195	do much the same
+T141	Attribution 4164 4178	are looking to
+E36	Attribution:T141 Content:T140 Cue:T139 Source:T138
+T142	Cue 4197 4203	hoping
+T143	Content 4204 4375	that they can increasingly bring blue-collar, more conservative Democrats into their coalition by painting the party as lurching left and leaving traditional values behind
+T144	Attribution 4197 4203	hoping
+E37	Attribution:T144 Source:T138 Cue:T142 Content:T143

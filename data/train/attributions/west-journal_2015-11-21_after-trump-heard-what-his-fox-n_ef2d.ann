@@ -1,0 +1,85 @@
+T1	Source 6 11	Trump
+T2	Cue 12 17	Heard
+T3	Content 18 53	What His Fox News Nemesis Just Said
+T4	Attribution 12 17	Heard
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T6	Source 91 150	Conservative columnist and Fox News contributor George Will
+T5	Cue 204 258	writing a scathing Washington Post op-ed that targeted
+T7	Content 259 290	the 2016 presidential candidate
+T8	Attribution 204 258	writing a scathing Washington Post op-ed that targeted
+E2	Attribution:T8 Content:T7 Cue:T5 Source:T6
+T9	Cue 293 299	Citing
+T10	Content 300 440	last week’s Paris attack as a wake-up call for the American people and their “reveries about treating the presidency as an entry-level job,”
+T11	Source 441 445	Will
+T12	Attribution 293 299	Citing
+E3	Attribution:T12 Source:T11 Content:T10 Cue:T9
+T13	Cue 446 451	urged
+T14	Content 452 540	the Republican electorate to abandon all outsider candidates, Donald Trump in particular
+T15	Attribution 446 451	urged
+E4	Attribution:T15 Source:T11 Cue:T13 Content:T14
+T16	Content 543 795	“The eruption of war in the capital of a NATO ally is a reminder that the nominating process will potentially send a commander in chief to Washington. This might, and should, hasten the eclipse of Carly Fiorina, Ben Carson and especially Donald Trump,”
+T17	Source 796 800	Will
+T18	Cue 801 806	wrote
+T19	Attribution 801 806	wrote
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Content 809 940;956 1062	From Donald Trump’s “coarse, vulgar, and nasty 95-minute effusion” in Iowa last week to his call for a federal “deportation force,” Trump as a “caricature of democracy’s most embarrassing possibilities” and “stupendously un-conservative.”
+T21	Source 941 945	Will
+T22	Cue 946 955	described
+T23	Attribution 946 955	described
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 1073 1077	Will
+T25	Cue 1078 1088	called for
+T26	Content 1089 1145	Republicans to throw their support behind Chris Christie
+T27	Attribution 1078 1088	called for
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1152 1154	he
+T29	Cue 1155 1164	describes
+T30	Content 1147 1151;1165 1239	whom as having “a prosecutor’s bearing and a governor’s executive temperament.”
+T31	Attribution 1155 1164	describes
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1246 1250	Will
+T33	Cue 1251 1263	acknowledges
+T34	Content 1264 1303	Trump’s appeal as a “forceful persona,”
+T35	Attribution 1251 1263	acknowledges
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1304 1306	he
+T37	Cue 1307 1311	sees
+T38	Content 1312 1410	Christie as sharing this characteristic, but also being tempered by experience and sound judgement
+T39	Attribution 1307 1311	sees
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1443 1447	Will
+T41	Cue 1448 1474	had nothing but praise for
+T42	Content 1475 1543	Christie’s Nov. 14 speech at the Sunshine Summit in Orlando, Florida
+T43	Attribution 1448 1474	had nothing but praise for
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Content 1545 1550;1563 1688	which affirmed “the foundational conservative belief in the indispensability, the sovereignty, and the prerogatives of nationhood.”
+T45	Source 1551 1555	Will
+T46	Cue 1556 1562	claims
+T47	Attribution 1556 1562	claims
+E12	Attribution:T47 Cue:T46 Source:T45 Content:T44
+T48	Source 1767 1771	Will
+T49	Cue 1772 1780	believes
+T50	Content 1781 1937	Christie has been presented with an opportunity to become the Republican nominee due to his background dealing with security concerns as New Jersey Governor
+T51	Attribution 1772 1780	believes
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Content 1939 1952;1966 2117	In particular Christie can challenge Hillary Clinton, whose time as secretary of state arguably made the world less safe and has very little credibility in this area
+T53	Source 1954 1958	Will
+T54	Cue 1959 1964	wrote
+T55	Attribution 1959 1964	wrote
+E14	Attribution:T55 Cue:T54 Source:T53 Content:T52
+T56	Discard 2172 2218;2220 2266;2268 2314	<tweet tweet-id="667366217527767040"><tweet/>. <tweet tweet-id="667366321999495168"><tweet/>. <tweet tweet-id="667369690226958336"><tweet/>.
+T57	Content 2389 2426	Trump’s response comes as no surprise
+T58	Cue 2316 2318	To
+T59	Source 2319 2387	anyone who has been following the 2016 Republican nomination process
+T60	Attribution 2316 2318	To
+E15	Attribution:T60 Source:T59 Cue:T58 Content:T57
+T61	Source 2485 2498	George Will’s
+T62	Cue 2499 2503	call
+T63	Content 2504 2520	to abandon Trump
+T64	Attribution 2499 2503	call
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Content 2522 2603	he still remains at the top of the Republican presidential pack with 24.6 percent
+T66	Cue 2605 2617	according to
+T67	Source 2618 2652	a recent poll by RealClearPolitics
+T68	Attribution 2605 2617	according to
+E17	Attribution:T68 Source:T67 Cue:T66 Content:T65

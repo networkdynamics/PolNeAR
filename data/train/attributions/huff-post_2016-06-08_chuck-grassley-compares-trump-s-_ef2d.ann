@@ -1,0 +1,121 @@
+T1	Source 0 14	Chuck Grassley
+T2	Cue 15 23	Compares
+T3	Content 24 79	Trump’s Racism To Sonia Sotomayor Celebrating Diversity
+T4	Attribution 15 23	Compares
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 95 123	Sen. Chuck Grassley (R-Iowa)
+T6	Cue 137 147	downplayed
+T7	Content 148 263	Donald Trump‘s attack on a federal judge’s Mexican heritage — something that’s thrown the GOP into chaos all week —
+T8	Attribution 137 147	downplayed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 268 272	said
+T10	Content 273 384	it’s basically the same thing as Supreme Court Justice Sonia Sotomayor referring to herself as “a wise Latina.”
+T11	Attribution 268 272	said
+E3	Attribution:T11 Source:T5 Cue:T9 Content:T10
+T12	Content 386 665	“I think that you don’t have any more trouble with what Trump said than when Sotomayor said that — when she was found saying in speeches that, quote, ‘A wise Latina woman with the richness of her experience would more often than not reach a better conclusion than a white male,’”
+T13	Source 666 674	Grassley
+T14	Cue 675 679	said
+T15	Attribution 675 679	said
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Content 723 810	“I don’t hear any criticism of that sort of comment by a justice of the Supreme Court,”
+T17	Source 811 813	he
+T18	Cue 814 818	said
+T19	Attribution 814 818	said
+E5	Attribution:T19 Cue:T18 Source:T17 Content:T16
+T20	Source 821 829	Grassley
+T21	Cue 830 847	later walked back
+T22	Content 848 860	his comments
+T23	Attribution 830 847	later walked back
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 1010 1102;902 974	“I’ve said several times that I wouldn’t say what Trump said. I disagree with what he said.” “You just can’t equate the two, and I wasn’t meaning to equate the two,”
+T25	Source 975 983	Grassley
+T26	Cue 984 988	said
+T27	Attribution 984 988	said
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 1104 1109	Trump
+T29	Cue 1151 1157	saying
+T30	Content 1158 1369	that the U.S. district judge overseeing Trump University lawsuits, the Indiana-born Gonzalo Curiel, can’t be impartial in Trump’s case because he is “Mexican,” given Trump’s plan to build a wall along the border
+T31	Attribution 1151 1157	saying
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1387 1392	Trump
+T33	Cue 1393 1397	said
+T34	Content 1405 1505	that Muslim-American judges might be biased against him too, given his previous anti-Muslim comments
+T35	Attribution 1393 1397	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1508 1535	Republicans on Capitol Hill
+T37	Cue 1740 1757	still standing by
+T38	Content 1758 1809	the real estate mogul as their presidential nominee
+T39	Attribution 1740 1757	still standing by
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1613 1616	his
+T41	Cue 1617 1627	suggestion
+T42	Content 1628 1710	that a federal judge can’t be impartial because of his or her heritage or religion
+T43	Attribution 1617 1627	suggestion
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Discuss 1812 1917	The “wise Latina” phrase Grassley cited on Wednesday has appeared in various speeches Sotomayor has given
+T45	Source 1925 1928	she
+T46	Cue 1929 1941	talked about
+T47	Content 1942 2060	how her experiences as a Latina have shaped her life and how her cultural background enriches her judicial conclusions
+T48	Attribution 1929 1941	talked about
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 2173 2304	“I would hope that a wise Latina woman with the richness of her experiences would, more often than not, reach a better conclusion,”
+T50	Source 2305 2314	Sotomayor
+T51	Cue 2315 2323	has said
+T52	Attribution 2315 2323	has said
+E13	Attribution:T52 Cue:T51 Source:T50 Content:T49
+T53	Source 2405 2416	Sotomayor’s
+T54	Cue 2417 2427	sentiments
+T55	Content 2428 2467	couldn’t be more different from Trump’s
+T56	Attribution 2417 2427	sentiments
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 2469 2472	She
+T58	Cue 2472 2485	’s describing
+T59	Content 2486 2532	the benefits of diversity on the federal bench
+T60	Attribution 2472 2485	’s describing
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 2540 2545	Trump
+T62	Cue 2546 2556	is arguing
+T63	Content 2557 2635	that a federal judge can’t be relied on to do his job because of his ethnicity
+T64	Attribution 2546 2556	is arguing
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 2640 2672	House Speaker Paul Ryan (R-Wis.)
+T66	Cue 2673 2688	has pointed out
+T67	Content 2690 2742	that’s basically the “textbook definition” of racism
+T68	Attribution 2673 2688	has pointed out
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Discard 2745 2772	Robert Galbraith / Reuters.
+T70	Source 2774 2783	Sotomayor
+T71	Cue 2784 2792	has said
+T72	Content 2793 2867	that “a wise Latina” can bring different perspectives to the federal bench
+T73	Attribution 2784 2792	has said
+E18	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Cue 2892 2898	saying
+T75	Content 2899 2970	an Indiana-born judge can’t be impartial because he is Mexican-American
+T76	Attribution-no-source 2892 2898	saying
+E19	Attribution-no-source:T76 Content:T75 Cue:T74
+T77	Content 3060 3140	“There are invertebrates that have shown more spine than Sen. Charles Grassley,”
+T78	Cue 3141 3146	reads
+T79	Source 3147 3195	a Wednesday editorial in The Des Moines Register
+T80	Attribution 3141 3146	reads
+E20	Attribution:T80 Source:T79 Cue:T78 Content:T77
+T81	Source 3198 3267	Matt Sinovic, executive director of the advocacy group Progress Iowa,
+T82	Cue 3268 3279	has accused
+T83	Content 3280 3399	Grassley of trying to use his role as Judiciary Committee chairman to keep a Supreme Court seat empty for Trump to fill
+T84	Attribution 3268 3279	has accused
+E21	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Source 3401 3409	Grassley
+T86	Cue 3410 3421	has refused
+T87	Content 3422 3598	to hold hearings for President Barack Obama‘s court pick, Merrick Garland, because Republicans are hoping Trump will win in November and put forward a more conservative nominee
+T88	Attribution 3410 3421	has refused
+E22	Attribution:T88 Content:T87 Cue:T86 Source:T85
+T89	Content 3601 3628;3658 3781	“It’s downright ludicrous,” “He is leading a historic obstruction of basic government functions so that he can delay for a potential racist president.”
+T90	Cue 3629 3636	Sinovic
+T91	Source 3637 3656	said in a statement
+T92	Attribution 3629 3636	Sinovic
+E23	Attribution:T92 Source:T91 Cue:T90 Content:T89
+T93	Source 3944 3947	she
+T94	Cue 3947 3967	’s expected to argue
+T95	Content 3968 4104	that the longtime senator has fallen out of touch with voters based on his support for Trump and his refusal to give hearings to Garland
+T96	Attribution 3947 3967	’s expected to argue
+E24	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Discard 4107 4358	Editor’s note: Donald Trump regularly incites political violence and is a serial liar, rampant xenophobe, racist, misogynist and birther who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S.

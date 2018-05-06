@@ -1,0 +1,297 @@
+T1	Source 0 5	Trump
+T2	Cue 6 17	sticking by
+T3	Content 18 38	his campaign manager
+T4	Attribution 6 17	sticking by
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 64 113	Republican presidential front-runner Donald Trump
+T6	Cue 114 122	defended
+T7	Content 123 166	his campaign manager as a "very decent man"
+T8	Attribution 114 122	defended
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 188 199;217 301	the staffer battery in Florida for allegedly grabbing a reporter and yanking her away from Trump
+T10	Cue 200 216	was charged with
+T11	Attribution-no-source 200 216	was charged with
+E3	Attribution-no-source:T11 Cue:T10 Content:T9
+T12	Source 475 484	paperwork
+T13	Cue 485 493	ordering
+T14	Content 494 522	him to appear in court May 4
+T15	Attribution 485 493	ordering
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 654 656	It
+T17	Cue 657 678	directly contradicted
+T18	Content 679 741	what Trump and Lewandowski said about the incident in the past
+T19	Attribution 657 678	directly contradicted
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 744 748	They
+T21	Cue 749 761	had asserted
+T22	Content 762 822	that Lewandowski never touched the reporter, Michelle Fields
+T23	Attribution 749 761	had asserted
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 1032 1077	"I don't discard people. I stay with people,"
+T25	Source 1078 1083	Trump
+T26	Cue 1084 1088	said
+T27	Attribution 1084 1088	said
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Cue 1177 1185	the idea
+T29	Content 1186 1235	that the only mistake in politics is to apologize
+T30	Attribution-no-source 1177 1185	the idea
+E8	Attribution-no-source:T30 Content:T29 Cue:T28
+T31	Discuss 1174 1176	on
+T32	Cue 1294 1302	refusing
+T33	Content 1303 1321	to admit any fault
+T34	Source 1323 1344	Trump and Lewandowski
+T35	Attribution 1294 1302	refusing
+E9	Attribution:T35 Source:T34 Content:T33 Cue:T32
+T36	Source 1477 1481	they
+T37	Cue 1482 1498	have disregarded
+T38	Content 1499 1508	the truth
+T39	Attribution 1482 1498	have disregarded
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1531 1536	Trump
+T41	Cue 1537 1578	offered increasingly strident defenses of
+T42	Content 1579 1590	Lewandowski
+T43	Attribution 1537 1578	offered increasingly strident defenses of
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1611 1614	his
+T45	Cue 1615 1633	earlier statements
+T46	Content 1634 1665	that the contact never occurred
+T47	Attribution 1615 1633	earlier statements
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 1667 1672	Trump
+T49	Cue 1673 1681	conceded
+T50	Content 1682 1717	that Lewandowski had touched Fields
+T51	Attribution 1673 1681	conceded
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Cue 1722 1729	implied
+T53	Content 1730 1788	that it was Fields's fault for "grabbing" at the candidate
+T54	Source 1810 1815	Trump
+T55	Cue 1816 1822	posted
+T56	Content 1800 1809;1823 1914	the photo didn't show a grab but rather the reporter brushing the candidate with the back of her hand
+T57	Attribution 1722 1729	implied
+E14	Attribution:T57 Source:T48 Cue:T52 Content:T53
+T58	Attribution 1816 1822	posted
+E15	Attribution:T58 Content:T56 Cue:T55 Source:T54
+T59	Source 1922 1927	Trump
+T60	Cue 1928 1936	wondered
+T61	Content 1937 1987	whether he could file charges against the reporter
+T62	Attribution 1928 1936	wondered
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 2023 2028	Trump
+T64	Cue 2029 2049	was back to implying
+T65	Content 2050 2089	that Fields had lied about the incident
+T66	Attribution 2029 2049	was back to implying
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Content 2092 2126;2137 2160	if the grab was as bad as she said why hadn't she screamed
+T68	Source 2128 2130	he
+T69	Cue 2131 2135	said
+T70	Attribution 2131 2135	said
+E18	Attribution:T70 Cue:T69 Source:T68 Content:T67
+T71	Content 2163 2234;2339 2438	"How do you know those bruises weren't there before? I'm not a lawyer," "Wouldn't you think she would have yelled out a scream or something if she has bruises on her arm?"
+T72	Source 2235 2240	Trump
+T73	Cue 2241 2245	told
+T74	Attribution 2241 2245	told
+E19	Attribution:T74 Cue:T73 Source:T72 Content:T71
+T75	Cue 2270 2282	referring to
+T76	Content 2283 2337	finger-shaped bruises that Fields showed to the police
+T77	Attribution 2270 2282	referring to
+E20	Attribution:T77 Source:T72 Cue:T75 Content:T76
+T78	Source 2541 2562	the news organization
+T79	Cue 2563 2585	raised questions about
+T80	Content 2586 2630	whether Lewandowski had actually grabbed her
+T81	Attribution 2563 2585	raised questions about
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Source 2645 2648	she
+T83	Cue 2649 2703	responded Tuesday to one of Trump's messages by saying
+T84	Content 2705 2734	"Seriously, just stop lying."
+T85	Attribution 2649 2703	responded Tuesday to one of Trump's messages by saying
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Source 2736 2766	The charge against Lewandowski
+T87	Cue 2767 2806	is explained in an affidavit written by
+T88	Content 2807 2869	Marc Bujnowski, a detective with the Jupiter Police Department
+T89	Source 2908 2921	the affidavit
+T90	Cue 2922 2927	cited
+T91	Content 2928 2950	interviews with Fields
+T92	Attribution 2767 2806	is explained in an affidavit written by
+E23	Attribution:T92 Source:T86 Cue:T87 Content:T88
+T93	Attribution 2922 2927	cited
+E24	Attribution:T93 Content:T91 Cue:T90 Source:T89
+T94	Cue 2955 2959	said
+T95	Content 2960 3011	that Bujnowski had seen bruises on Fields's forearm
+T96	Attribution 2955 2959	said
+E25	Attribution:T96 Source:T89 Cue:T94 Content:T95
+T97	Content 3013 3096	They "appeared to be several finger marks, consistent with a grabbing type injury,"
+T98	Source 3097 3099	he
+T99	Cue 3100 3105	wrote
+T100	Attribution 3100 3105	wrote
+E26	Attribution:T100 Cue:T99 Source:T98 Content:T97
+T101	Source 3171 3174	who
+T102	Cue 3175 3178	saw
+T103	Content 3179 3191	the incident
+T104	Attribution 3175 3178	saw
+E27	Attribution:T104 Content:T103 Cue:T102 Source:T101
+T105	Cue 3196 3205	described
+T106	Content 3206 3208	it
+T107	Attribution 3196 3205	described
+E28	Attribution:T107 Source:T101 Cue:T105 Content:T106
+T108	Source 3219 3232	The affidavit
+T109	Cue 3233 3250	does not indicate
+T110	Content 3251 3296	whether Lewandowski was interviewed by police
+T111	Attribution 3233 3250	does not indicate
+E29	Attribution:T111 Content:T110 Cue:T109 Source:T108
+T112	Content 3299 3399	"Lewandowski . . . grabbed Fields' left arm with his right hand, causing her to turn and step back,"
+T113	Source 3400 3409	Bujnowski
+T114	Cue 3410 3415	wrote
+T115	Attribution 3410 3415	wrote
+E30	Attribution:T115 Cue:T114 Source:T113 Content:T112
+T116	Source 3434 3436	It
+T117	Cue 3437 3447	continued:
+T118	Content 3448 3539	"Probable cause exists to charge Corey Lewandowski . . . with (1) count of Simple Battery."
+T119	Attribution 3437 3447	continued:
+E31	Attribution:T119 Content:T118 Cue:T117 Source:T116
+T120	Cue 3541 3546	Under
+T121	Source 3547 3558	Florida law
+T122	Content 3560 3688	battery is committed when a person "actually and intentionally touches or strikes another person against the will of the other."
+T123	Attribution 3541 3546	Under
+E32	Attribution:T123 Content:T122 Source:T121 Cue:T120
+T124	Source 3690 3735	A spokesman for the Jupiter Police Department
+T125	Cue 3736 3740	said
+T126	Content 3741 3805	Lewandowski was not handcuffed and did not have a mug shot taken
+T127	Attribution 3736 3740	said
+E33	Attribution:T127 Content:T126 Cue:T125 Source:T124
+T128	Content 3807 3852;3867 3918	After being informed that he would be charged Lewandowski voluntarily went to police headquarters
+T129	Source 3854 3860	police
+T130	Cue 3861 3865	said
+T131	Attribution 3861 3865	said
+E34	Attribution:T131 Cue:T130 Source:T129 Content:T128
+T132	Content 3921 4005	"He came in by himself, without us picking him up, and signed his notice to appear,"
+T133	Cue 4006 4010	said
+T134	Source 4011 4062	Officer Joseph Beinlich, a Jupiter police spokesman
+T135	Attribution 4006 4010	said
+E35	Attribution:T135 Source:T134 Cue:T133 Content:T132
+T136	Source 4068 4079	a statement
+T137	Cue 4080 4089	defending
+T138	Content 4090 4101	Lewandowski
+T139	Attribution 4080 4089	defending
+E36	Attribution:T139 Content:T138 Cue:T137 Source:T136
+T140	Source 4103 4119	Trump's campaign
+T141	Cue 4120 4124	said
+T142	Content 4125 4202	he will be represented by Florida lawyers Scott Richardson and Kendall Coffey
+T143	Attribution 4120 4124	said
+E37	Attribution:T143 Content:T142 Cue:T141 Source:T140
+T144	Content 4204 4385	A well-known legal figure in South Florida, Coffey was the U.S. attorney there in the 1990s, but he resigned after allegations that he bit an exotic dancer on the arm at a nightclub
+T145	Cue 4387 4399	according to
+T146	Source 4400 4413	press reports
+T147	Attribution 4387 4399	according to
+E38	Attribution:T147 Source:T146 Cue:T145 Content:T144
+T148	Content 4416 4546;4608 4664	"Mr. Lewandowski is absolutely innocent of this charge. He will enter a plea of not guilty and looks forward to his day in court," "He is completely confident that he will be exonerated."
+T149	Source 4547 4584	Trump campaign spokeswoman Hope Hicks
+T150	Cue 4585 4589	said
+T151	Attribution 4585 4589	said
+E39	Attribution:T151 Cue:T150 Source:T149 Content:T148
+T152	Content 5139 5220	Sixty-seven percent of Americans said they had an unfavorable impression of Trump
+T153	Cue 5221 5223	in
+T154	Source 5224 5266	a Washington Post-ABC News poll this month
+T155	Source 5398 5453	both of Trump's remaining rivals for the GOP nomination
+T156	Cue 5454 5464	criticized
+T157	Content 5465 5493	his handling of the incident
+T158	Content 5496 5526;5582 5808	"It's a very sad development," "This is the consequence of the culture of the Trump campaign. The abusive culture. When you have a campaign that is built on personal insults, on attacks, and now physical violence. That has no place in a political campaign."
+T159	Source 5527 5531	Cruz
+T160	Cue 5532 5536	told
+T161	Attribution 5221 5223	in
+E40	Attribution:T161 Content:T152 Cue:T153 Source:T154
+T162	Attribution 5454 5464	criticized
+E41	Attribution:T162 Source:T155 Cue:T156 Content:T157
+T163	Attribution 5532 5536	told
+E42	Attribution:T163 Cue:T160 Source:T159 Content:T158
+T164	Content 5809 5916	Ohio Gov. John Kasich said he would have fired Lewandowski if such an incident had happened in his campaign
+T165	Cue 5918 5930	according to
+T166	Source 5931 5944	press reports
+T167	Attribution 5918 5930	according to
+E43	Attribution:T167 Source:T166 Cue:T165 Content:T164
+T168	Source 5947 5986	Democratic front-runner Hillary Clinton
+T169	Cue 6019 6023	said
+T170	Content 6024 6187	Trump is ultimately responsible for what happens at his events and accused him of "inciting violent behavior, aggressive behavior, that I think is very dangerous."
+T171	Attribution 6019 6023	said
+E44	Attribution:T171 Content:T170 Cue:T169 Source:T168
+T172	Source 6188 6191	She
+T173	Cue 6192 6199	praised
+T174	Content 6200 6239	Fields for pursuing charges in the case
+T175	Attribution 6192 6199	praised
+E45	Attribution:T175 Content:T174 Cue:T173 Source:T172
+T176	Cue 6244 6272	stopped short of calling for
+T177	Content 6273 6296	Lewandowski to be fired
+T178	Attribution 6244 6272	stopped short of calling for
+E46	Attribution:T178 Source:T172 Cue:T176 Content:T177
+T179	Cue 6316 6323	appears
+T180	Content 6324 6452	that Trump and Lewandowski had helped bring on this criminal investigation by publicly denying that Fields was telling the truth
+T181	Attribution-no-source 6316 6323	appears
+E47	Attribution-no-source:T181 Content:T180 Cue:T179
+T182	Source 6496 6512	Trump's campaign
+T183	Cue 6513 6517	said
+T184	Content 6518 6620	it believed that Fields was grabbed by another man in Trump's entourage - possibly a security official
+T185	Attribution 6513 6517	said
+E48	Attribution:T185 Content:T184 Cue:T183 Source:T182
+T186	Cue 6623 6628	Asked
+T187	Content 6629 6637	about it
+T188	Attribution-no-source 6623 6628	Asked
+E49	Attribution-no-source:T188 Content:T187 Cue:T186
+T189	Source 6665 6670	Trump
+T190	Cue 6671 6675	told
+T191	Content 6680 6728	that he believed Fields had fabricated the story
+T192	Attribution 6671 6675	told
+E50	Attribution:T192 Content:T191 Cue:T190 Source:T189
+T193	Content 6731 6766;6788 6883	"This was, in my opinion, made up," "Everybody said nothing happened. Perhaps she made the story up. I think that's what happened."
+T194	Source 6767 6772	Trump
+T195	Cue 6773 6777	told
+T196	Source 6885 6891	Fields
+T197	Cue 6892 6896	said
+T198	Content 6897 6971	she was spurred to file a criminal complaint to show that she had not lied
+T199	Attribution 6773 6777	told
+E51	Attribution:T199 Content:T193 Source:T194 Cue:T195
+T200	Attribution 6892 6896	said
+E52	Attribution:T200 Content:T198 Cue:T197 Source:T196
+T201	Content 6974 7046;7093 7147	"I didn't want to file a criminal complaint. I never wanted to do that," "I needed a report to show people that this happened."
+T202	Source 7047 7050	she
+T203	Cue 7051 7055	told
+T204	Attribution 7051 7055	told
+E53	Attribution:T204 Cue:T203 Source:T202 Content:T201
+T205	Source 7185 7196	Lewandowski
+T206	Cue 7197 7213	continued to say
+T207	Content 7214 7241	he had never touched Fields
+T208	Attribution 7197 7213	continued to say
+E54	Attribution:T208 Content:T207 Cue:T206 Source:T205
+T209	Source 7378 7389	Lewandowski
+T210	Cue 7390 7409	continued to assert
+T211	Content 7410 7448	that he never made contact with Fields
+T212	Attribution 7390 7409	continued to assert
+E55	Attribution:T212 Content:T211 Cue:T210 Source:T209
+T213	Source 7451 7461	A reporter
+T214	Cue 7462 7473	pointed out
+T215	Content 7532 7715;7734 7804	"I don't know. I don't know what Ben did or didn't see. I have no idea, but I'm not calling into question anything other than the fact that I don't know him. He and I have never met," "I don't know Ben, and I don't know [Fields], and I've never met her."
+T216	Source 7716 7727	Lewandowski
+T217	Content 7474 7529	that Terris, the Post reporter, saw the incident unfold
+T218	Attribution 7462 7473	pointed out
+E56	Attribution:T218 Source:T213 Cue:T214 Content:T217
+T219	Cue 7728 7732	said
+T220	Attribution 7728 7732	said
+E57	Attribution:T220 Cue:T219 Source:T216 Content:T215
+T221	Source 7874 7897	Law enforcement experts
+T222	Cue 7898 7902	said
+T223	Content 7903 8004	that once Fields filed her complaint, Jupiter police had no choice: They were bound to investigate it
+T224	Attribution 7898 7902	said
+E58	Attribution:T224 Content:T223 Cue:T222 Source:T221
+T225	Source 8087 8114	attorneys and legal experts
+T226	Cue 8115 8119	said
+T227	Content 8120 8143	that is highly unlikely
+T228	Attribution 8115 8119	said
+E59	Attribution:T228 Content:T227 Cue:T226 Source:T225
+T229	Source 8145 8156	Lewandowski
+T230	Cue 8192 8199	arguing
+T231	Content 8200 8248	that he saw Fields as a threat to Trump's safety
+T232	Attribution 8192 8199	arguing
+E60	Attribution:T232 Content:T231 Cue:T230 Source:T229
+T233	Source 8289 8296	experts
+T234	Cue 8297 8301	said
+T235	Content 8302 8396	first-time offenders convicted of battery are often sent to anger-management courses, not jail
+T236	Attribution 8297 8301	said
+E61	Attribution:T236 Content:T235 Cue:T234 Source:T233

@@ -1,0 +1,25 @@
+T1	Source 0 5	Obama
+T2	Cue 5 6	:
+T3	Content 7 52	I’m Optimistic Americans Will Say No to Trump
+T4	Attribution 5 6	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 98 109	asked about
+T6	Content 110 154	Republican presidential nominee Donald Trump
+T7	Attribution-no-source 98 109	asked about
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Source 156 178	President Barack Obama
+T9	Cue 179 184	said 
+T10	Content 184 251	he expected that Americans will say “no” to Trump’s policy measures
+T11	Attribution 179 184	said 
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 254 259	Obama
+T13	Cue 260 264	said
+T14	Content 266 1158	“There’s a long tradition in the United States of inclusion, immigration, diversity, but also people once they’re included in what they consider to be the real America, worried about outsiders, contaminating, polluting, messing up a good thing. That’s not new. That dates back to the beginning of this country. What I’m always reminding people is that although you’ll see bumps, whether it’s the No-nothings, or, you know, other anti-immigrant sentiment directed at the Irish or Southern Europeans as opposed to Northern Europeans or the Chinese, or today Latinos or Muslims, the long-term trend is people get absorbed, people get assimilated. We benefit from this incredible country in which the measure of your patriotism and how American you are is not the color of your skin, your last name, your faith, but rather your adherence to a creed, your belief in certain principles and values.”
+T15	Attribution 260 264	said
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 1260 1262	he
+T17	Cue 1263 1272	continued
+T18	Content 1160 1259;1274 2121	“I don’t expect that’s going to change because Mr. Trump’s got a little more attention than usual,” “I think if you look at the current polls, he’s been able to appeal to a certain group of folks who feel left out or worried about the demographic change, social change, who have legitimate concerns around the economy and feeling left behind. But that’s not the majority of America. And if you talk to younger people, the next generation of Americans, they completely reject the kinds of positions that he has taken. We have to take it seriously, any time that we hear intolerance, any time that we hear policy measures that are contrary to our values, banning certain classes of people, who they are and what they look at, what faith they practice, then we have to be pretty hard about saying no to that. And I think American will do that this time as well. Overall, I’m optimistic, but I think we have to pay close attention to what’s going on.”
+T19	Attribution 1263 1272	continued
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Discard 2123 2159	Follow Pam Key on Twitter @pamkeyNEN

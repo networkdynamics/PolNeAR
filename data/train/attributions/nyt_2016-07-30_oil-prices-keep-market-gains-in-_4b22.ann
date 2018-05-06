@@ -1,0 +1,39 @@
+T1	Source 362 367	which
+T2	Cue 368 384	did not announce
+T3	Content 385 419	as much stimulus as many had hoped
+T4	Attribution 368 384	did not announce
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 751 762	The company
+T6	Cue 763 771	reported
+T7	Content 772 813;858 906	its smallest quarterly profit in 17 years because of the continuing weakness in oil prices
+T8	Attribution 763 771	reported
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 1476 1487	The company
+T10	Cue 1488 1496	reported
+T11	Content 1497 1522	earnings of $8.42 a share
+T12	Attribution 1488 1496	reported
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 1623 1646	The online retail giant
+T14	Cue 1647 1655	reported
+T15	Content 1656 1683	a profit of $1.78 per share
+T16	Attribution 1647 1655	reported
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 1738 1744	Amazon
+T18	Cue 1745 1753	reported
+T19	Content 1754 1799	it sold $30.4 billion in goods in the quarter
+T20	Source 2245 2254	Investors
+T21	Cue 2255 2270	tend to dislike
+T22	Content 2271 2282	uncertainty
+T23	Attribution 1745 1753	reported
+E5	Attribution:T23 Cue:T18 Source:T17 Content:T19
+T24	Attribution 2255 2270	tend to dislike
+E6	Attribution:T24 Content:T22 Cue:T21 Source:T20
+T25	Source 2433 2453	Japan's central bank
+T26	Cue 2454 2500	ended a policy meeting on Friday by announcing
+T27	Content 2501 2688	it would expand purchases of exchange-traded funds from financial institutions to help inject more cash into the world's third-largest economy and pursue its inflation target of 2 percent
+T28	Attribution 2454 2500	ended a policy meeting on Friday by announcing
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T30	Cue 2721 2730	hopes for
+T29	Content 2731 2753	more aggressive action
+T31	Attribution-no-source 2721 2730	hopes for
+E8	Attribution-no-source:T31 Content:T29 Cue:T30

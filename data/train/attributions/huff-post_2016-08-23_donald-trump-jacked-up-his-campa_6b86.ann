@@ -1,0 +1,85 @@
+T1	Cue 109 134	bragging for a year about
+T2	Content 135 174	how cheaply he was running his campaign
+T3	Source 176 188	Donald Trump
+T4	Attribution 109 134	bragging for a year about
+E1	Attribution:T4 Source:T3 Content:T2 Cue:T1
+T5	Content 301 527	Trump nearly quintupled the monthly rent his presidential campaign pays for its headquarters at Trump Tower to $169,758 in July, when he was raising funds from donors, compared with March, when he was self-funding his campaign
+T6	Cue 529 541	according to
+T7	Source 542 605	a Huffington Post review of Federal Election Commission filings
+T8	Attribution 529 541	according to
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Content 1060 1208;910 947	“If they don’t have any more staff, and they’re paying five times more? That’s the kind of stuff I’d read and try to make an (attack) ad out of it.” “If I was a donor, I’d want answers,”
+T10	Cue 948 952	said
+T11	Source 953 1020	a prominent Republican National Committee member who supports Trump
+T12	Attribution 948 952	said
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T13	Cue 1022 1032	asking for
+T14	Content 1033 1058	anonymity to speak freely
+T15	Attribution 1022 1032	asking for
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T11
+T16	Content 1211 1395	“If I was a donor, I’d want answers. If they don’t have any more staff, and they’re paying five times more? That’s the kind of stuff I’d read and try to make an (attack) ad out of it.”
+T17	Cue 1433 1434	"
+T18	Source 1396 1432	Republican National Committee member
+T19	Attribution 1433 1434	"
+E5	Attribution:T19 Source:T18 Cue:T17 Content:T16
+T20	Discuss 1210 1395;1396 1434	"“If I was a donor, I’d want answers. If they don’t have any more staff, and they’re paying five times more? That’s the kind of stuff I’d read and try to make an (attack) ad out of it.” Republican National Committee member."
+T21	Content 1718 1738	the fundraising deal
+T22	Cue 1739 1752	was announced
+T23	Attribution-no-source 1739 1752	was announced
+E6	Attribution-no-source:T23 Cue:T22 Content:T21
+T24	Content 1754 1928	Trump International Golf Club in West Palm Beach was paid $29,715; Trump National Golf Club in Jupiter, Florida, was paid $35,845; and Trump Restaurants LLC was paid $125,080
+T25	Cue 1930 1942	according to
+T26	Source 1943 1954	FEC records
+T27	Attribution 1930 1942	according to
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Source 2209 2227	The Trump campaign
+T29	Cue 2239 2248	responded
+T30	Content 2249 2290	that it had expanded into larger quarters
+T31	Attribution 2239 2248	responded
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Content 2292 2422	“Also, Mr. Trump makes a personal contribution of $2 million per month to the campaign, obviously a much higher amount than rent,”
+T33	Source 2423 2436	the statement
+T34	Cue 2437 2441	said
+T35	Attribution 2437 2441	said
+E9	Attribution:T35 Cue:T34 Source:T33 Content:T32
+T36	Source 2444 2480	Steven Cheung, a campaign spokesman,
+T37	Cue 2481 2485	said
+T38	Content 2486 2575	the increased office space was needed to accommodate an anticipated increase in employees
+T39	Attribution 2481 2485	said
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Content 2577 2675	“We’re constantly adding new staff and in the subsequent weeks after convention, we’ve done that,”
+T41	Source 2676 2678	he
+T42	Cue 2679 2683	said
+T43	Source 2692 2710	campaign officials
+T44	Cue 2711 2730	have been promising
+T45	Content 2731 2773	a larger general election staff for months
+T46	Attribution 2679 2683	said
+E11	Attribution:T46 Cue:T42 Source:T41 Content:T40
+T47	Attribution 2711 2730	have been promising
+E12	Attribution:T47 Content:T45 Cue:T44 Source:T43
+T48	Source 2808 2823	The FEC filings
+T49	Cue 2824 2828	show
+T50	Content 2829 2924	that Trump began increasing the rent at Trump Tower starting with the May 31 payment of $72,800
+T51	Attribution 2824 2828	show
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Cue 3163 3183	cannot be determined
+T53	Content 3114 3162	How many of those actually worked in Trump Tower
+T54	Source 3189 3204	the FEC filings
+T55	Attribution 3163 3183	cannot be determined
+E14	Attribution:T55 Source:T54 Content:T53 Cue:T52
+T56	Content 4145 4265;4371 4417	“Nobody cares when you’re spending your own money, but when you’re spending the donor’s $27, that could cause problems,” “Most campaigns run on a much tighter budget.”
+T57	Source 4266 4280	the RNC member
+T58	Cue 4281 4285	said
+T59	Attribution 4281 4285	said
+E15	Attribution:T59 Cue:T58 Source:T57 Content:T56
+T60	Cue 4287 4293	adding
+T61	Content 4294 4369	that small donors especially may not be sympathetic to Trump’s extravagance
+T62	Attribution 4287 4293	adding
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T57
+T63	Source 4436 4452	Trump’s campaign
+T64	Cue 4453 4469	prided itself on
+T65	Content 4470 4492	its low-rent operation
+T66	Attribution 4453 4469	prided itself on
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Discuss 4497 4517	invited reporters in
+T68	Discard 5834 6085	Editor’s note: Donald Trump regularly incites political violence and is a serial liar, rampant xenophobe, racist, misogynist and birther who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S.

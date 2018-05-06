@@ -1,0 +1,75 @@
+T1	Source 240 249	opponents
+T2	Cue 250 265	try to convince
+T3	Content 287 315	to throw out the regulations
+T4	Attribution 250 265	try to convince
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 318 392	Twenty-seven states led by coal-producer West Virginia and industry groups
+T6	Cue 393 408	are challenging
+T7	Content 409 469	the Environmental Protection Agency’s Clean Power Plan rules
+T8	Attribution 393 408	are challenging
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 555 559	They
+T10	Cue 560 565	argue
+T11	Content 566 680	that the EPA overstepped its regulatory authority under the federal Clean Air Act when the agency issued the rules
+T12	Attribution 560 565	argue
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 935 939	that
+T14	Cue 940 947	support
+T15	Content 948 963	the regulations
+T16	Attribution 940 947	support
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 1175 1178	its
+T18	Cue 1179 1187	own plan
+T19	Content 1188 1208	to achieve that goal
+T20	Attribution 1179 1187	own plan
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1485 1487	it
+T22	Cue 1488 1495	pledged
+T23	Content 1454 1484;1496 1504	the emissions reduction target to reach
+T24	Attribution 1488 1495	pledged
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 1552 1622	“It’s an invasion, in our estimation, of the state regulatory domain,”
+T26	Source 1623 1681	Scott Pruitt, the Republican attorney general of Oklahoma,
+T27	Cue 1715 1719	said
+T28	Attribution 1715 1719	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 1755 1854	Richard Revesz, director of the Institute for Policy Integrity at New York University’s law school,
+T30	Cue 1855 1859	said
+T31	Content 1860 1926	the suing states were exaggerating the regulatory reach of the EPA
+T32	Attribution 1855 1859	said
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Content 1929 2069	“The Clean Power Plan, while certainly a very important rule, is not the boundary-breaking behemoth that the petitioners make it out to be,”
+T34	Source 2070 2076	Revesz
+T35	Cue 2077 2081	said
+T36	Attribution 2077 2081	said
+E9	Attribution:T36 Cue:T35 Source:T34 Content:T33
+T37	Source 2336 2353	the Supreme Court
+T38	Cue 2354 2391	made a surprise 5-4 decision to grant
+T39	Content 2392 2490	a request by the challengers to put the rule on hold while the appeals court considered the matter
+T40	Attribution 2354 2391	made a surprise 5-4 decision to grant
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Discuss 2888 2949	the court’s chief judge, Merrick Garland, has recused himself
+T46	Source 2976 2981	Obama
+T47	Cue 2981 2991	’s nominee
+T48	Content 2965 2972;2992 3009	Garland to replace Scalia
+T49	Attribution 2981 2991	’s nominee
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T42	Content 3052 3055	six
+T43	Cue 3056 3070	were appointed
+T44	Source 3074 3095	Democratic presidents
+T45	Attribution 3056 3070	were appointed
+E11	Attribution:T45 Source:T44 Cue:T43 Content:T42
+T50	Source 3467 3484	the appeals court
+T51	Cue 3485 3491	strike
+T52	Content 3492 3501	them down
+T53	Attribution 3485 3491	strike
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 3379 3393	the government
+T55	Cue 3421 3428	decline
+T56	Content 3429 3459	to appeal to the Supreme Court
+T57	Attribution 3421 3428	decline
+E14	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Cue 3587 3604	could be expected
+T59	Content 3543 3586;3605 3642	the losing side in the appeals court ruling to take the case to the Supreme Court
+T60	Attribution-no-source 3587 3604	could be expected
+E15	Attribution-no-source:T60 Content:T59 Cue:T58

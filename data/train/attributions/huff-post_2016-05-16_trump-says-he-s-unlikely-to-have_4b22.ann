@@ -1,0 +1,115 @@
+T1	Source 0 5	Trump
+T2	Cue 6 10	Says
+T3	Content 11 71	He’s Unlikely To Have A Good Relationship With David Cameron
+T4	Attribution 6 10	Says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 93 105	Donald Trump
+T6	Cue 106 110	said
+T7	Content 111 345	he was unlikely to have a good relationship with David Cameron because the British prime minister cast the U.S. presidential candidate as “divisive, stupid and wrong” for proposing a temporary ban on Muslims entering the United States
+T8	Attribution 106 110	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 347 354	Cameron
+T10	Cue 355 365	criticised
+T11	Content 366 371;398 434	Trump over his call for the ban on Muslims
+T12	Attribution 355 365	criticised
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 439 448	suggested
+T14	Content 449 478;540 585	that the New York billionaire would unite Britain against him if he visited
+T15	Attribution 439 448	suggested
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T9
+T16	Source 664 669	Trump
+T17	Cue 670 674	told
+T18	Content 587 663	“It looks like we’re not going to have a very good relationship, who knows?”
+T19	Attribution 670 674	told
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Cue 745 750	asked
+T21	Content 751 821	how ties would fare if he won the U.S. presidential election on Nov. 8
+T22	Attribution-no-source 745 750	asked
+E6	Attribution-no-source:T22 Content:T21 Cue:T20
+T23	Source 1032 1037	Trump
+T24	Cue 1038 1042	said
+T25	Content 823 1031	“Well number one, I’m not stupid, okay. I can tell you that right now. Just the opposite. Number Two, in terms of divisive: I don’t think I’m a divisive person. I’m a unifier, unlike our president right now,”
+T26	Attribution 1038 1042	said
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Cue 1044 1056	referring to
+T28	Content 1057 1069	Barack Obama
+T29	Attribution-no-source 1044 1056	referring to
+E8	Attribution-no-source:T29 Content:T28 Cue:T27
+T30	Source 1071 1090	Cameron’s spokesman
+T31	Cue 1091 1095	said
+T32	Content 1096 1145	the prime minister stood by his original comments
+T33	Attribution 1091 1095	said
+E9	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Content 1384 1505	Trump‘s often controversial comments on everything from Muslims and women to the future of NATO and relations with Russia
+T35	Cue 1506 1526	have drawn criticism
+T36	Source 1532 1573	Berlin, Paris and other European capitals
+T37	Attribution 1506 1526	have drawn criticism
+E10	Attribution:T37 Source:T36 Cue:T35 Content:T34
+T38	Source 1662 1669	Cameron
+T39	Cue 1673 1680	chiding
+T40	Content 1681 1686	Trump
+T41	Attribution 1673 1680	chiding
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Source 1962 1992	the prime minister’s spokesman
+T43	Cue 1993 1997	said
+T44	Content 1847 1960	Cameron will work with whoever is elected U.S. president and is committed to maintaining the special relationship
+T45	Attribution 1993 1997	said
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 2090 2103	the spokesman
+T47	Cue 2104 2108	said
+T48	Content 1999 2089;2110 2240	“The PM has made his views on Donald Trump‘s comments very clear. He disagrees with them,” “He continues to believe that preventing Muslims from entering the U.S. is divisive, stupid and wrong. He stands by his comments.”
+T49	Attribution 2104 2108	said
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2241 2254	The spokesman
+T51	Cue 2255 2262	refused
+T52	Content 2263 2331	to answer questions on who Cameron would like to see win in November
+T53	Attribution 2255 2262	refused
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Cue 2336 2340	said
+T55	Content 2341 2398	there was no telephone call or meeting planned with Trump
+T56	Attribution 2336 2340	said
+E15	Attribution:T56 Content:T55 Cue:T54 Source:T50
+T57	Cue 2400 2407	adding:
+T58	Content 2408 2449	“If one is proposed we will consider it.”
+T59	Attribution 2400 2407	adding:
+E16	Attribution:T59 Content:T58 Cue:T57 Source:T50
+T60	Source 2479 2486	Cameron
+T61	Cue 2487 2495	has said
+T62	Content 2496 2581	Trump deserves respect for making it through the gruelling Republican primary process
+T63	Attribution 2487 2495	has said
+E17	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 2583 2602	The Times newspaper
+T65	Cue 2603 2627	also reported last month
+T66	Content 2628 2699	Cameron had ordered diplomats to attempt to repair relations with Trump
+T67	Attribution 2603 2627	also reported last month
+E18	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 2814 2819	Trump
+T69	Cue 2820 2824	told
+T70	Content 2701 2813	“I hope to have a good relationship with him but it sounds like he’s not willing to address the problem either,”
+T71	Attribution 2820 2824	told
+E19	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Source 2830 2835	Trump
+T73	Cue 2836 2851	also criticised
+T74	Content 2852 2932	London’s newly elected Muslim mayor Sadiq Khan for making “very rude statements”
+T75	Attribution 2836 2851	also criticised
+E20	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 2934 2939	Trump
+T77	Cue 2983 2987	said
+T78	Content 2988 3082	he would make an exception in the event of a ban on Muslims for him entering the United States
+T79	Attribution 2983 2987	said
+E21	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Cue 2940 2962	had initially welcomed
+T81	Content 2963 2978	Khan’s election
+T82	Attribution 2940 2962	had initially welcomed
+E22	Attribution:T82 Content:T81 Cue:T80 Source:T76
+T83	Source 3299 3303	Khan
+T84	Cue 3304 3308	said
+T85	Content 3118 3298	Donald Trump‘s ignorant view of Islam could make both our countries less safe - it risks alienating mainstream Muslims around the world and plays into the hands of the extremists,”
+T86	Attribution 3304 3308	said
+E23	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Source 3361 3366	Trump
+T88	Cue 3367 3372	said:
+T89	Content 3373 3601	“He doesn’t know me, never met me, doesn’t know what I am all about. I think they are very rude statements. Frankly, tell him I will remember those statements. They are very nasty statements. It is ignorant for him to say that.”
+T90	Attribution 3367 3372	said:
+E24	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Discard 3602 3688	(Additional reporting by Kylie MacLellan; Editing by Michael Holden and Gareth Jones.)

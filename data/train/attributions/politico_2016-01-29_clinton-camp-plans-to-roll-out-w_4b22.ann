@@ -1,0 +1,63 @@
+T1	Source 514 530	an inside source
+T2	Content 504 512;537 693	The plan is to have volunteers pass out reprints of the editorial and let the newspaper make the case against Sanders, with no commentary necessary from the campaign
+T3	Cue 531 535	said
+T4	Attribution 531 535	said
+E1	Attribution:T4 Cue:T3 Content:T2 Source:T1
+T5	Source 696 713	Clinton officials
+T6	Cue 714 732	were thrilled with
+T7	Content 733 799	the editorial, entitled “Mr. Sanders Is Not a Brave Truth-Teller,”
+T8	Attribution 714 732	were thrilled with
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 842 849	sources
+T10	Cue 850 854	said
+T11	Content 827 840;856 936	The editorial nailed the narrative Clinton operatives themselves have attempted to put forward
+T12	Attribution 850 854	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 1273 1278	seems
+T14	Content 1265 1272;1279 1411	Clinton to have found that a positive message works better for her than attacking Sanders and running the risk of turning off his supporters
+T15	Attribution-no-source 1273 1278	seems
+E4	Attribution-no-source:T15 Content:T14 Cue:T13
+T16	Source 1551 1578	the paper's editorial board
+T17	Cue 1579 1584	wrote
+T18	Content 1441 1550	“He is a politician selling his own brand of fiction to a slice of the country that eagerly wants to buy it,”
+T19	Attribution 1579 1584	wrote
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1586 1595	The piece
+T21	Cue 1596 1611	goes on to slam
+T22	Content 1612 1820	Sanders’ “political revolution” for implying “a national consensus favoring his agenda when there is none and ignores the many legitimate checks and balances in the political system that he cannot wish away.”
+T23	Attribution 1596 1611	goes on to slam
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1825 1827	it
+T25	Cue 1828 1835	accuses
+T26	Content 1836 2125	Sanders, whose anti-establishment, outsider appeal has been key to his success, of being “a lot like many other politicians, comparing his claim that more government spending would result in more growth to Republican arguments “that tax cuts will juice the economy and pay for themselves.”
+T27	Attribution 1828 1835	accuses
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 2308 2310	he
+T29	Cue 2311 2315	said
+T30	Content 2209 2307;2317 2384	“Check out where all the geniuses on the editorial page were with regard to the invasion of Iraq,” “I know The Washington Post may think I’m really radical. I’m not.”
+T31	Attribution 2311 2315	said
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 2417 2425	The Post
+T33	Cue 2426 2440	responded with
+T34	Content 2441 2538	a second critical piece, entitled “Bernie Sanders’s ideas are not too bold. They are too facile.”
+T35	Attribution 2426 2440	responded with
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 2540 2562	The pair of editorials
+T37	Cue 2563 2587	were not endorsements of
+T38	Content 2588 2595	Clinton
+T39	Attribution 2563 2587	were not endorsements of
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 2600 2618	made no mention of
+T41	Content 2619 2721	the Democratic front-runner who has found herself in a tight race ahead of the Iowa caucuses on Monday
+T42	Attribution 2600 2618	made no mention of
+E11	Attribution:T42 Cue:T40 Source:T36 Content:T41
+T43	Source 2774 2786	the campaign
+T44	Cue 2835 2861	simultaneousely expressing
+T45	Content 2862 2908	its disappointment at Sanders’ attack strategy
+T46	Attribution 2835 2861	simultaneousely expressing
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 295 307	her campaign
+T48	Cue 308 319	is planning
+T49	Content 320 501	to reprint a withering Washington Post editorial that accuses Sanders of running a “fiction-filled campaign” and distribute it to voters in New Hampshire ahead of the Feb. 9 primary
+T50	Attribution 308 319	is planning
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47

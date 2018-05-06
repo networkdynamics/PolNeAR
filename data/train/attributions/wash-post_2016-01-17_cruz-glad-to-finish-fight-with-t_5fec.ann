@@ -1,0 +1,246 @@
+T1	Source 0 4	Cruz
+T2	Cue 5 10	'glad
+T3	Content 11 38	to finish' fight with Trump
+T4	Attribution 5 10	'glad
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 127 144	Ted Cruz (R-Tex.)
+T6	Cue 145 187	continued his rhetorical onslaught against
+T7	Content 188 200	Donald Trump
+T8	Attribution 145 187	continued his rhetorical onslaught against
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 214 221	casting
+T10	Content 222 249	him as a false conservative
+T11	Cue 254 265	questioning
+T12	Content 266 314	the real estate mogul's temperament and judgment
+T13	Attribution 214 221	casting
+E3	Attribution:T13 Source:T5 Content:T10 Cue:T9
+T14	Attribution 254 265	questioning
+E4	Attribution:T14 Source:T5 Content:T12 Cue:T11
+T15	Content 317 378;432 560	"Donald's record does not match what he says as a candidate," "It seems Donald has a lot of nervous energy. For whatever reason, Donald doesn't react well when he's going down in the polls."
+T16	Source 379 383	Cruz
+T17	Cue 384 388	told
+T18	Attribution 384 388	told
+E5	Attribution:T18 Cue:T17 Source:T16 Content:T15
+T19	Source 677 681	Cruz
+T20	Cue 682 704	had effusively praised
+T21	Content 705 710	Trump
+T22	Attribution 682 704	had effusively praised
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Cue 712 719	stating
+T24	Content 720 776	there was a benefit to having the New Yorker in the race
+T25	Cue 781 788	chiding
+T26	Content 789 863	the media for "the little game" of pitting Republicans against one another
+T27	Attribution 712 719	stating
+E7	Attribution:T27 Source:T19 Content:T24 Cue:T23
+T28	Attribution 781 788	chiding
+E8	Attribution:T28 Source:T19 Content:T26 Cue:T25
+T29	Source 919 923	Cruz
+T30	Cue 951 957	chided
+T31	Content 958 1063	Trump for raising questions about whether he met the Constitution's "natural born" standard for president
+T32	Attribution 951 957	chided
+E9	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1084 1086	he
+T34	Cue 1087 1118	started raising questions about
+T35	Content 1119 1178	whether a Manhattan mogul could be trusted by conservatives
+T36	Attribution 1087 1118	started raising questions about
+E10	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1181 1186	Trump
+T38	Cue 1227 1244	saying in a tweet
+T39	Content 1245 1330	that additional lawsuits will be filed questioning Cruz's eligibility to be president
+T40	Attribution 1227 1244	saying in a tweet
+E11	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1364 1366	he
+T42	Cue 1367 1374	knocked
+T43	Content 1375 1481	Cruz for not reporting loans from Goldman Sachs and Citibank that he used to fund his 2012 Senate campaign
+T44	Attribution 1367 1374	knocked
+E12	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Content 1484 1607	"How do you control . . . these big powerful banks, you're a senator and yet you owe them money with a personal guarantee?"
+T46	Source 1608 1613	Trump
+T47	Cue 1614 1618	said
+T48	Attribution 1614 1618	said
+E13	Attribution:T48 Cue:T47 Source:T46 Content:T45
+T49	Source 1736 1741	Trump
+T50	Cue 1742 1748	called
+T51	Content 1749 1779	Cruz the "ultimate hypocrite,"
+T52	Attribution 1742 1748	called
+E14	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 1886 1890	Cruz
+T54	Cue 1891 1901	pointed to
+T55	Content 1902 1986	the Wall Street Journal/NBC News poll that shows him beating Trump in a two-man race
+T56	Attribution 1891 1901	pointed to
+E15	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Cue 1780 1790	linking to
+T58	Content 1791 1883	a story about how Cruz attended an event at the New York home of two wealthy gay businessmen
+T59	Attribution 1780 1790	linking to
+E16	Attribution:T59 Source:T49 Content:T58 Cue:T57
+T60	Content 2029 2277	"I imagine it pulled him out of bed this morning and sent him tweeting and tweeting and tweeting. I think in terms of a commander in chief, we ought to have someone who isn't springing out of bed to tweet in a frantic response to the latest polls,"
+T61	Source 2278 2282	Cruz
+T62	Cue 2283 2287	said
+T63	Attribution 2283 2287	said
+E17	Attribution:T63 Cue:T62 Source:T61 Content:T60
+T64	Source 2290 2305	Cruz's campaign
+T65	Cue 2334 2355	tweeting and emailing
+T66	Content 2356 2532	a video of Trump on "Meet the Press" from 1999, in which Trump called himself "very pro-choice" and admitted that he viewed gay rights differently from a voter in the heartland
+T67	Attribution 2334 2355	tweeting and emailing
+E18	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Content 2535 2654	"I lived in New York City and Manhattan my whole life, so my views are a little bit different than if I lived in Iowa,"
+T69	Source 2655 2660	Trump
+T70	Cue 2661 2665	said
+T71	Attribution 2661 2665	said
+E19	Attribution:T71 Cue:T70 Source:T69 Content:T68
+T72	Source 2668 2692	Trump's campaign manager
+T73	Cue 2693 2701	declined
+T74	Content 2702 2751	to discuss the candidate's latest attacks on Cruz
+T75	Attribution 2693 2701	declined
+E20	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 2754 2758	Cruz
+T77	Cue 2759 2763	said
+T78	Content 2774 2814	that Trump represents "New York values,"
+T79	Attribution 2759 2763	said
+E21	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Cue 2815 2822	stating
+T81	Content 2841 2944	that they are "socially liberal or pro-abortion or pro-gay-marriage, focus around money and the media."
+T82	Attribution 2815 2822	stating
+E22	Attribution:T82 Source:T76 Content:T81 Cue:T80
+T83	Source 2946 2951	Trump
+T84	Cue 2952 2983	offered an emotional defense of
+T85	Content 2984 2992	the city
+T86	Attribution 2952 2983	offered an emotional defense of
+E23	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Cue 3012 3032	speaking movingly of
+T88	Content 3033 3049	the 9/11 attacks
+T89	Attribution 3012 3032	speaking movingly of
+E24	Attribution:T89 Source:T83 Content:T88 Cue:T87
+T90	Cue 3056 3062	seemed
+T91	Content 3051 3055;3063 3067	Cruz lost
+T92	Attribution-no-source 3056 3062	seemed
+E25	Attribution-no-source:T92 Content:T91 Cue:T90
+T93	Source 3345 3349	Cruz
+T94	Cue 3373 3379	saying
+T95	Content 3380 3437	that the "New York values" phrase came from Trump himself
+T96	Attribution 3373 3379	saying
+E26	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Source 3113 3116	him
+T98	Cue 3156 3179	delivering an "apology"
+T99	Content 3180 3274	to New Yorkers for the liberal elected officials who were depriving them of safety and freedom
+T100	Attribution 3156 3179	delivering an "apology"
+E27	Attribution:T100 Content:T99 Cue:T98 Source:T97
+T101	Cue 3281 3288	calling
+T102	Content 3289 3342	Yahoo News to ask readers to watch the 1999 interview
+T103	Attribution 3281 3288	calling
+E28	Attribution:T103 Source:T97 Content:T102 Cue:T101
+T104	Content 3440 3542;3554 3610	"Being very, very, very pro-choice, supporting partial birth abortion and being open to gay marriage," "That's what Donald Trump described as New York values."
+T105	Cue 3543 3547	said
+T106	Source 3548 3552	Cruz
+T107	Attribution 3543 3547	said
+E29	Attribution:T107 Source:T106 Cue:T105 Content:T104
+T108	Source 3612 3614	He
+T109	Cue 3615 3626	also stated
+T110	Content 3627 3756	that Trump gave money to Democratic presidential contender Hillary Clinton, New York Gov. Andrew M. Cuomo (D) and other Democrats
+T111	Attribution 3615 3626	also stated
+E30	Attribution:T111 Content:T110 Cue:T109 Source:T108
+T112	Content 3759 3882	"It's a fair inference that he supports their policies. So I understand that he is feeling defensive about my observation,"
+T113	Source 3883 3887	Cruz
+T114	Cue 3888 3892	said
+T115	Attribution 3888 3892	said
+E31	Attribution:T115 Cue:T114 Source:T113 Content:T112
+T116	Source 3895 3920	Cruz spokesman Rick Tyler
+T117	Cue 3921 3925	said
+T118	Content 3926 4134	that the campaign will highlight contrasts between Cruz and Trump  to illustrate that voters can be confident that Cruz has "guiding principles to make critical decisions as president and commander in chief,"
+T119	Attribution 3921 3925	said
+E32	Attribution:T119 Content:T118 Cue:T117 Source:T116
+T120	Discard 4135 4143	he said.
+T121	Source 4145 4186	Chad Sweet, the Cruz campaign's chairman,
+T122	Cue 4187 4191	said
+T123	Content 4192 4304	Cruz's comments are direct responses to attacks that Trump lodged against Cruz about his birthplace and religion
+T124	Attribution 4187 4191	said
+E33	Attribution:T124 Content:T123 Cue:T122 Source:T121
+T125	Source 4321 4326	Sweet
+T126	Cue 4327 4332	noted
+T127	Content 4307 4319;4334 4405	attacks that Trump said during the debate were sparked by Cruz's rising poll numbers
+T128	Attribution 4327 4332	noted
+E34	Attribution:T128 Content:T127 Cue:T126 Source:T125
+T129	Content 4408 4546	"When we've responded we've attempted to stay in the counterpunch mode, hitting back on specifics about what he has been attacking us on,"
+T130	Source 4547 4552	Sweet
+T131	Cue 4553 4557	said
+T132	Attribution 4553 4557	said
+E35	Attribution:T132 Cue:T131 Source:T130 Content:T129
+T133	Cue 4565 4570	asked
+T134	Content 4571 4620	why Cruz decided to go after Trump this past week
+T135	Attribution-no-source 4565 4570	asked
+E36	Attribution-no-source:T135 Content:T134 Cue:T133
+T136	Source 4622 4627	Tyler
+T137	Cue 4628 4632	said
+T138	Content 4634 4685	"We have three weeks to go" until the Iowa caucuses
+T139	Attribution 4628 4632	said
+E37	Attribution:T139 Content:T138 Cue:T137 Source:T136
+T140	Content 4688 4754	"Donald Trump started the fight with us; we're glad to finish it,"
+T141	Source 4755 4760	Tyler
+T142	Cue 4761 4765	said
+T143	Attribution 4761 4765	said
+E38	Attribution:T143 Cue:T142 Source:T141 Content:T140
+T144	Source 4822 4826	Cruz
+T145	Cue 4827 4845	repeatedly calling
+T146	Content 4846 4862	Trump his friend
+T147	Attribution 4827 4845	repeatedly calling
+E39	Attribution:T147 Content:T146 Cue:T145 Source:T144
+T148	Source 5125 5129	Cruz
+T149	Cue 5130 5134	told
+T150	Content 5144 5214	that Trump's success had been "immensely beneficial for our campaign."
+T151	Attribution 5130 5134	told
+E40	Attribution:T151 Content:T150 Cue:T149 Source:T148
+T152	Source 5215 5218	His
+T154	Content 5262 5350	was that "as voters get more educated," they would graduate from Trump's campaign to his
+T156	Source 5383 5387	Cruz
+T157	Cue 5388 5409	is now trying to cast
+T158	Content 5410 5466	himself as a candidate with superior judgment and values
+T159	Attribution 5388 5409	is now trying to cast
+E42	Attribution:T159 Content:T158 Cue:T157 Source:T156
+T153	Cue 5219 5261	assumption, confidently stated on live TV,
+T155	Attribution 5219 5261	assumption, confidently stated on live TV,
+E41	Attribution:T155 Cue:T153 Content:T154 Source:T152
+T160	Source 5469 5520	Sandra Inman, a Cruz supporter from Jackson, Miss.,
+T161	Cue 5582 5586	said
+T162	Content 5587 5644	she could not support Trump but understood why people did
+T163	Attribution 5582 5586	said
+E43	Attribution:T163 Content:T162 Cue:T161 Source:T160
+T164	Content 5647 5711;5724 5862	"He changed the conversation for the first time in my lifetime," "The tea party people I know who support him know that he's changed. They are lots of people who had Democratic leanings and came around."
+T165	Source 5712 5717	Inman
+T166	Cue 5718 5722	said
+T167	Attribution 5718 5722	said
+E44	Attribution:T167 Cue:T166 Source:T165 Content:T164
+T168	Source 5960 5964	Cruz
+T169	Cue 5965 5980	never mentioned
+T170	Content 5981 5994	Trump by name
+T171	Attribution 5965 5980	never mentioned
+E45	Attribution:T171 Content:T170 Cue:T169 Source:T168
+T172	Source 6005 6007	he
+T173	Cue 6008 6017	suggested
+T174	Content 6018 6166	that no one who had shared the debate stage had fought with his vigor against legalizing gay marriage, the Affordable Care Act or Planned Parenthood
+T175	Attribution 6008 6017	suggested
+E46	Attribution:T175 Content:T174 Cue:T173 Source:T172
+T176	Source 6169 6174	Trump
+T177	Cue 6212 6227	did not mention
+T178	Content 6228 6232	Cruz
+T179	Attribution 6212 6227	did not mention
+E47	Attribution:T179 Content:T178 Cue:T177 Source:T176
+T180	Content 6273 6302	"He didn't report the loans,"
+T181	Source 6303 6305	he
+T182	Cue 6306 6310	said
+T183	Attribution 6306 6310	said
+E48	Attribution:T183 Cue:T182 Source:T181 Content:T180
+T184	Source 6350 6352	he
+T185	Cue 6353 6376	spent more time mocking
+T186	Content 6377 6405	a  familiar target: Jeb Bush
+T187	Attribution 6353 6376	spent more time mocking
+E49	Attribution:T187 Content:T186 Cue:T185 Source:T184
+T188	Source 6442 6444	he
+T189	Cue 6445 6449	said
+T190	Content 6450 6525	"zero" voters would follow Sen. Lindsey O. Graham (R-S.C.) and endorse Bush
+T191	Attribution 6445 6449	said
+E50	Attribution:T191 Content:T190 Cue:T189 Source:T188
+T192	Content 6528 6552;6565 6630	"Why's he attacking me?" "He's got to knock out seven or eight guys before he gets to me."
+T193	Source 6553 6558	Trump
+T194	Cue 6559 6563	said
+T195	Attribution 6559 6563	said
+E51	Attribution:T195 Cue:T194 Source:T193 Content:T192

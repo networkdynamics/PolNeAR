@@ -1,0 +1,137 @@
+T1	Source 18 25	Clinton
+T2	Cue 26 33	targets
+T3	Content 34 60	Trump’s housing crash gain
+T4	Attribution 26 33	targets
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 82 123	Hillary Clinton and her Democratic allies
+T6	Cue 172 213	launching a new round of attacks designed
+T7	Content 214 318	to paint the billionaire businessman as profiting off the housing crisis that hurt millions of Americans
+T8	Attribution 172 213	launching a new round of attacks designed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 343 350	Clinton
+T10	Cue 351 373	avoided all mention of
+T11	Content 374 407	primary challenger Bernie Sanders
+T12	Attribution 351 373	avoided all mention of
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 493 496	she
+T14	Cue 497 507	focused on
+T15	Content 508 513	Trump
+T16	Attribution 497 507	focused on
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 515 579	trying to use the presumptive Republican nominee’s words against
+T18	Content 580 583	him
+T19	Attribution 515 579	trying to use the presumptive Republican nominee’s words against
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T13
+T20	Content 586 788;833 971	“You know what happened in the great recession. Donald Trump said when he was talking about the possibility of a housing market crash before the great recession, he said, ‘I sort of hope that happens,'” “He actually said he was hoping for the crash that caused hard-working families in California and across the country to lose their homes.”
+T21	Source 789 796	Clinton
+T22	Cue 797 801	told
+T23	Attribution 797 801	told
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 973 978	Trump
+T25	Cue 979 1011	shot back in a statement, saying
+T26	Content 1012 1055;1057 1191	he’s “made a lot of money in down markets.” “Frankly, this is the kind of thinking our country needs, understanding how to get a good result out of a very bad and sad situation.”
+T27	Attribution 979 1011	shot back in a statement, saying
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 1193 1210	Clinton’s attacks
+T29	Cue 1211 1222	were echoed
+T30	Source 1226 1271	her campaign and Democrats across the country
+T31	Attribution 1211 1222	were echoed
+E8	Attribution:T31 Source:T30 Cue:T29 Content:T28
+T32	Source 1273 1276	who
+T33	Cue 1277 1288	highlighted
+T34	Content 1289 1425	comments Trump made in 2006 saying he “sort of hopes” the housing bubble would burst because “people like me could make a lot of money.”
+T35	Attribution 1277 1288	highlighted
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1452 1461	Democrats
+T37	Cue 1462 1518	try to hone their most powerful lines of attacks against
+T38	Content 1519 1524	Trump
+T39	Attribution 1462 1518	try to hone their most powerful lines of attacks against
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1526 1576	More than half of Clinton’s address in Los Angeles
+T41	Cue 1577 1603	was devoted to criticizing
+T42	Content 1604 1730	Trump’s foreign policy record, economic policies and personal finances, including his unwillingness to release his tax returns
+T43	Attribution 1577 1603	was devoted to criticizing
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1733 1740	Clinton
+T45	Cue 1741 1779	is attempting to turn her attention to
+T46	Content 1780 1785	Trump
+T47	Attribution 1741 1779	is attempting to turn her attention to
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 1865 1882	Sanders’ campaign
+T49	Cue 1943 1952	announced
+T50	Content 1953 2010	it would seek a recanvass in last week’s Kentucky primary
+T51	Attribution 1943 1952	announced
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 2236 2243	Clinton
+T53	Cue 2244 2249	hopes
+T54	Content 2250 2379	to make a statement in a contest that will effectively end the primaries and encourage the party to coalesce around her candidacy
+T55	Attribution 2244 2249	hopes
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T57	Source 2427 2430	who
+T56	Cue 2431 2452	have typically backed
+T58	Content 2453 2482	her candidacy in high numbers
+T59	Attribution 2431 2452	have typically backed
+E15	Attribution:T59 Content:T58 Cue:T56 Source:T57
+T60	Source 2381 2388	Clinton
+T61	Cue 2389 2401	is targeting
+T62	Content 2402 2425	Latino and black voters
+T63	Attribution 2389 2401	is targeting
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Discuss 2392 2401	targeting
+T65	Source 2520 2527	Sanders
+T66	Cue 2540 2545	hopes
+T67	Content 2546 2681	that winning a large share of the state’s 475 delegates will give him momentum heading into the party’s Philadelphia convention in July
+T68	Attribution 2540 2545	hopes
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 2683 2685	He
+T70	Cue 2713 2755	holding multiple rallies a day in hopes of
+T71	Content 2756 2802	connecting directly with grassroots supporters
+T72	Attribution 2713 2755	holding multiple rallies a day in hopes of
+E18	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Content 2805 2917;2984 3194	“If we win big in California, we’re going to go marching into the Democratic convention with a lot of momentum,” “And if we go marching into the Democratic convention with a lot of momentum, we’re going to march out with the Democratic nomination. And if we march out with the Democratic nomination, Donald Trump is toast.”
+T74	Source 2918 2925	Sanders
+T75	Cue 2926 2930	said
+T76	Attribution 2926 2930	said
+E19	Attribution:T76 Cue:T75 Source:T74 Content:T73
+T77	Content 3233 3279	Clinton leads Sanders by 271 pledged delegates
+T78	Cue 3280 3292	according to
+T79	Source 3293 3324	a count by The Associated Press
+T80	Attribution 3280 3292	according to
+E20	Attribution:T80 Source:T79 Cue:T78 Content:T77
+T81	Source 3330 3369	the self-described democratic socialist
+T82	Cue 3370 3379	has vowed
+T83	Content 3380 3433	to soldier on and amass as many delegates as possible
+T84	Attribution 3370 3379	has vowed
+E21	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Source 3736 3750	some Democrats
+T86	Cue 3751 3764	are concerned
+T87	Content 3765 3838	that Sanders’ tactics could make it more difficult to unite in the summer
+T88	Attribution 3751 3764	are concerned
+E22	Attribution:T88 Content:T87 Cue:T86 Source:T85
+T89	Source 3867 3874	Sanders
+T90	Cue 3875 3879	said
+T91	Content 3880 3999	the process of crafting the party’s platform and holding its convention could be “messy,” adding, “Democracy is messy.”
+T92	Attribution 3875 3879	said
+E23	Attribution:T92 Content:T91 Cue:T90 Source:T89
+T93	Discard 4684 4785	On Twitter follow Ken Thomas https://twitter.com/KThomasDC and Lisa Lerer https://twitter.com/llerer.
+T94	Source 4001 4003	He
+T95	Cue 4004 4039	does not make as many references to
+T96	Content 4040 4047	Clinton
+T97	Discuss 4071 4077	he did
+T98	Attribution 4004 4039	does not make as many references to
+E24	Attribution:T98 Content:T96 Cue:T95 Source:T94
+T99	Source 4126 4128	he
+T100	Cue 4129 4133	told
+T101	Content 4139 4234	Clinton “has a number of super PACs and she is also raising significant sums from Wall Street.”
+T102	Attribution 4129 4133	told
+E25	Attribution:T102 Content:T101 Cue:T100 Source:T99
+T103	Source 4236 4249	Party leaders
+T104	Cue 4250 4254	hope
+T105	Content 4255 4361	that as his path to the nomination continues to narrow, Sanders will tone down his attacks against Clinton
+T106	Attribution 4250 4254	hope
+E26	Attribution:T106 Content:T105 Cue:T104 Source:T103
+T107	Content 4364 4412;4477 4572	“We should kind of lay off Bernie a little bit,” “Bernie’s a good man, he tries to do the right thing, and I think everything’ll work out well.”
+T108	Source 4413 4446	Senate minority leader Harry Reid
+T109	Cue 4447 4451	told
+T110	Attribution 4447 4451	told
+E27	Attribution:T110 Cue:T109 Source:T108 Content:T107

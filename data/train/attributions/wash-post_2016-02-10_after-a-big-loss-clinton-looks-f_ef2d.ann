@@ -1,0 +1,195 @@
+T1	Content 75 163	Bernie Sanders scored a decisive victory in Tuesday's New Hampshire presidential primary
+T2	Cue 165 177	embarrassing
+T3	Source 178 193	Hillary Clinton
+T4	Attribution 165 177	embarrassing
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Source 303 310	Clinton
+T6	Cue 311 319	conceded
+T7	Content 297 302	which
+T8	Attribution 311 319	conceded
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Discuss 278 287	Sanders's
+T10	Content 636 640;660 721	that to grow more combative as Clinton tries to regain her footing
+T11	Cue 641 659	is widely expected
+T12	Attribution-no-source 641 659	is widely expected
+E3	Attribution-no-source:T12 Cue:T11 Content:T10
+T13	Source 723 841	The former secretary of state, who was declared the winner of the Iowa caucuses last week by the narrowest of margins,
+T14	Discuss 723 726	The
+T15	Cue 842 916	now finds herself struggling to right her once-formidable campaign against
+T16	Content 917 998	a self-described democratic socialist whom she has accused of selling pipe dreams
+T17	Attribution 842 916	now finds herself struggling to right her once-formidable campaign against
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T13
+T18	Content 1001 1058;1059 1089;1186 1270	"People have every right to be angry, but they're hungry. They're hungry for solutions," "What are we going to do? That is the fight we're taking" to the rest of the country
+T19	Source 1090 1097	Clinton
+T20	Cue 1098 1102	said
+T21	Attribution 1098 1102	said
+E5	Attribution:T21 Cue:T20 Source:T19 Content:T18
+T22	Source 1146 1149	she
+T23	Cue 1165 1180	to congratulate
+T24	Content 1181 1184	him
+T25	Attribution 1165 1180	to congratulate
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Source 1273 1305	Sanders's lengthy victory speech
+T27	Cue 1381 1390	ranged to
+T28	Content 1391 1447	national security, immigration, Social Security and more
+T29	Attribution 1381 1390	ranged to
+E7	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 1449 1451	He
+T31	Cue 1452 1456	told
+T32	Content 1477 1560	that the improbable arc that brought him victory here can happen across the country
+T33	Attribution 1452 1456	told
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Content 1563 1691;1706 1867	"What began last week in Iowa, what voters confirmed here tonight, is nothing short of the beginning of a political revolution," "We will all come together to say loudly and clearly that the government of our great nation belongs to all of us, not just a few wealthy campaign contributors."
+T35	Source 1692 1699	Sanders
+T36	Cue 1700 1704	said
+T37	Attribution 1700 1704	said
+E9	Attribution:T37 Cue:T36 Source:T35 Content:T34
+T38	Content 2003 2026;2060 2105	a Clinton campaign memo stating that the loss was "long anticipated."
+T39	Cue 2027 2039	was released
+T40	Attribution-no-source 2027 2039	was released
+E10	Attribution-no-source:T40 Cue:T39 Content:T38
+T41	Content 2107 2211	"Attention will inevitably focus on the next two of the 'early four' states: Nevada and South Carolina,"
+T42	Source 2212 2247	Clinton campaign manager Robby Mook
+T43	Cue 2248 2253	wrote
+T44	Attribution 2248 2253	wrote
+E11	Attribution:T44 Cue:T43 Source:T42 Content:T41
+T45	Content 2255 2400	"We've built first-rate organizations in each state and we feel very good about our prospects for success" there and in states that vote in March
+T46	Source 2402 2410	the memo
+T47	Cue 2411 2417	stated
+T48	Attribution 2411 2417	stated
+E12	Attribution:T48 Cue:T47 Source:T46 Content:T45
+T49	Source 2420 2427	Sanders
+T50	Cue 2428 2435	planned
+T51	Content 2436 2478	to challenge those assumptions immediately
+T52	Attribution 2428 2435	planned
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 2951 2954	who
+T54	Cue 2955 2967	have favored
+T55	Content 2968 2975	Clinton
+T56	Attribution 2955 2967	have favored
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 3330 3342	Her campaign
+T58	Cue 3343 3357	also announced
+T59	Content 3358 3438	new support from African American mothers who have lost children to gun violence
+T60	Attribution 3343 3357	also announced
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Cue 3443 3447	said
+T62	Content 3448 3510	some of the women would campaign for Clinton in South Carolina
+T63	Attribution 3443 3447	said
+E16	Attribution:T63 Source:T57 Cue:T61 Content:T62
+T64	Source 3629 3636	Sanders
+T65	Cue 3666 3680	to acknowledge
+T66	Content 3681 3692	his victory
+T67	Attribution 3666 3680	to acknowledge
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Source 3694 3706	his campaign
+T69	Cue 3707 3752	sent out a text message to supporters saying:
+T70	Content 3753 3897	"With your help, we were just declared the winner in New Hampshire! Reply GIVE to contribute $10 from your phone bill and keep up the momentum."
+T71	Attribution 3707 3752	sent out a text message to supporters saying:
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Source 3944 3951	Sanders
+T73	Cue 3932 3940	sent out
+T74	Content 3912 3931;3969 4265	a fundraising email warned of the tough fight ahead: "There are 14 primaries and caucuses over the next three weeks, and you can be certain that our victory tonight will prompt a desperate response from the nation's financial elite and the political establishment who want to stop our campaign to transform America."
+T75	Attribution 3932 3940	sent out
+E19	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 4267 4285	Clinton's campaign
+T77	Cue 4286 4294	sent out
+T78	Content 4295 4370	an email fundraising appeal that presaged her poor showing and looked ahead
+T79	Attribution 4286 4294	sent out
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Content 4372 4472;4489 4601	"We absolutely, critically need to make sure Hillary comes out on top in the states that lie ahead," "Our opponent is raising massive amounts of money online, and we need everyone on Team Hillary to step up, too."
+T81	Source 4473 4482	the email
+T82	Cue 4483 4487	said
+T83	Attribution 4483 4487	said
+E21	Attribution:T83 Cue:T82 Source:T81 Content:T80
+T84	Content 4603 4610;4627 4648	Sanders as a fringe candidate
+T85	Cue 4611 4626	was written off
+T86	Attribution-no-source 4611 4626	was written off
+E22	Attribution-no-source:T86 Cue:T85 Content:T84
+T87	Cue 4705 4715	best-known
+T88	Content 4716 4725	Democrats
+T89	Attribution-no-source 4705 4715	best-known
+E23	Attribution-no-source:T89 Content:T88 Cue:T87
+T90	Source 4873 4875	He
+T91	Cue 4876 4885	has vowed
+T92	Content 4886 5094	to curb the corrupting influence of money in politics and power of Wall Street while rebuilding the American middle class by offering free college tuition, universal health care and an array of other programs
+T93	Attribution 4876 4885	has vowed
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Content 5097 5155	Sanders's appeal Tuesday was greatest among younger voters
+T95	Cue 5157 5169	according to
+T96	Source 5170 5215	exit polls reported by CNN and other networks
+T97	Attribution 5157 5169	according to
+E25	Attribution:T97 Source:T96 Cue:T95 Content:T94
+T98	Source 5272 5277	which
+T99	Cue 5278 5283	allow
+T100	Content 5284 5352	independents to vote in either the Democratic or Republican contests
+T101	Attribution 5278 5283	allow
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Content 5570 5576	a fact
+T103	Discuss 5408 5415	Sanders
+T104	Source 5577 5613	several of her high-profile boosters
+T105	Cue 5614 5649	made a central part of their appeal
+T106	Attribution 5614 5649	made a central part of their appeal
+E27	Attribution:T106 Cue:T105 Source:T104 Content:T102
+T107	Content 5812 5846;5857 5870	11 states hold contests on March 1 Super Tuesday
+T108	Cue 5848 5856	known as
+T109	Attribution-no-source 5848 5856	known as
+E28	Attribution-no-source:T109 Cue:T108 Content:T107
+T110	Content 6080 6087	Clinton
+T111	Cue 6088 6101	is well known
+T112	Source 6108 6142	both key Democratic constituencies
+T113	Attribution 6088 6101	is well known
+E29	Attribution:T113 Source:T112 Cue:T111 Content:T110
+T114	Source 6261 6295	His campaign manager, Jeff Weaver,
+T115	Cue 6296 6300	said
+T116	Content 6301 6467	Sanders believes those efforts - which include Spanish-language radio ads in Nevada and an army of paid door-knockers in South Carolina - will pay off in coming weeks
+T117	Attribution 6296 6300	said
+E30	Attribution:T117 Content:T116 Cue:T115 Source:T114
+T118	Content 6469 6516	He should also get a boost from the win Tuesday
+T119	Source 6518 6525	Sanders
+T120	Cue 6526 6530	said
+T121	Attribution 6526 6530	said
+E31	Attribution:T121 Cue:T120 Source:T119 Content:T118
+T122	Content 6533 6725;6735 6828	"For many voters, there was a question about whether Senator Sanders's message and his campaign could go toe to toe with the Clinton organization, and I think in Iowa he proved that we could," "A victory in New Hampshire further amplifies that reality to voters all across the country."
+T123	Source 6726 6728	he
+T124	Cue 6729 6733	said
+T125	Attribution 6729 6733	said
+E32	Attribution:T125 Cue:T124 Source:T123 Content:T122
+T126	Source 7235 7278	Clinton's biggest boosters in New Hampshire
+T127	Cue 7279 7287	insisted
+T128	Content 7288 7432	it was a temporary dip, reflecting restlessness within an electorate that would ultimately return to the candidate best prepared to be president
+T129	Attribution 7279 7287	insisted
+E33	Attribution:T129 Content:T128 Cue:T127 Source:T126
+T130	Source 7567 7604	both she and her husband and daughter
+T131	Cue 7663 7673	to promote
+T132	Content 7674 7677	her
+T133	Attribution 7663 7673	to promote
+E34	Attribution:T133 Content:T132 Cue:T131 Source:T130
+T134	Cue 7682 7691	undermine
+T135	Content 7692 7699	Sanders
+T136	Attribution 7682 7691	undermine
+E35	Attribution:T136 Source:T130 Cue:T134 Content:T135
+T137	Source 7701 7713	Bill Clinton
+T138	Cue 7714 7725	unloaded on
+T139	Content 7726 7733	Sanders
+T140	Attribution 7714 7725	unloaded on
+E36	Attribution:T140 Content:T139 Cue:T138 Source:T137
+T141	Cue 7754 7762	accusing
+T142	Content 7763 7831	Sanders's followers of sexism and his campaign of fabricated attacks
+T143	Attribution 7754 7762	accusing
+E37	Attribution:T143 Source:T137 Cue:T141 Content:T142
+T144	Source 7899 7902	who
+T145	Cue 8033 8054	to call into question
+T146	Content 8055 8109	whether she is prepared to reform the financial sector
+T147	Attribution 8033 8054	to call into question
+E38	Attribution:T147 Content:T146 Cue:T145 Source:T144
+T148	Source 8112 8119	Clinton
+T149	Cue 8120 8129	suggested
+T150	Content 8130 8273	Sanders was being hypocritical because he accepted "about $200,000" from Wall Street firms through the Democratic Senatorial Campaign Committee
+T151	Attribution 8120 8129	suggested
+E39	Attribution:T151 Content:T150 Cue:T149 Source:T148
+T152	Source 8275 8281	Weaver
+T153	Cue 8282 8291	dismissed
+T154	Content 8292 8356	that suggestion as a sign of an opposing campaign in "disarray."
+T155	Attribution 8282 8291	dismissed
+E40	Attribution:T155 Content:T154 Cue:T153 Source:T152

@@ -1,0 +1,99 @@
+T1	Source 23 30	Sanders
+T2	Cue 31 35	Vows
+T3	Content 36 90	To Eliminate Tax Breaks Used By Real Estate Developers
+T4	Attribution 31 35	Vows
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 136 163	Vermont Sen. Bernie Sanders
+T6	Cue 164 174	is against
+T7	Content 175 177	it
+T8	Attribution 164 174	is against
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 317 324	Sanders
+T10	Cue 336 340	said
+T11	Content 341 440	he wants to attack four provisions in the tax code that address how real estate losses are deducted
+T12	Attribution 336 340	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 443 454	The senator
+T14	Cue 455 459	said
+T15	Content 460 661	he would “introduce legislation in the next session of Congress to fix our rigged tax system and close loopholes Donald Trump used to possibly avoid paying federal income taxes for nearly two decades.”
+T16	Attribution 455 459	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 663 974	The four “loopholes” he cited are “the ability to use real estate losses to offset other income, to claim losses on real estate investments beyond what was invested, to avoid capital gains on property that was sold and to combine tax breaks on loan interest while taking deductions if the property depreciates,”
+T18	Source 975 983	The Hill
+T19	Cue 984 992	reported
+T20	Attribution 984 992	reported
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 995 1004	The Times
+T22	Cue 1017 1022	wrote
+T23	Content 1023 1150	that Trump had claimed a loss of $916 million in 1995, which could have allowed him to avoid paying taxes for the next 18 years
+T24	Attribution 1017 1022	wrote
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 1153 1344	“Special tax breaks and loopholes in a corrupt tax code enable billionaires and powerful corporations to avoid paying their fair share of taxes while sticking the burden on the middle class,”
+T26	Cue 1345 1349	said
+T27	Source 1350 1458	Sanders, whose candidacy for the Democratic presidential nomination was founded on denunciations of the rich
+T28	Attribution-no-source 1345 1349	said
+E7	Attribution-no-source:T28 Source:T27 Cue:T26 Content:T25
+T29	Content 1461 1592	“It’s time to create a tax system which is fair and which asks the wealthy and powerful to start paying their fair share of taxes,”
+T30	Source 1593 1595	he
+T31	Cue 1596 1600	said
+T32	Attribution 1596 1600	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Source 1603 1610	Sanders
+T34	Cue 1611 1615	said
+T35	Content 1616 1690	the tax breaks used by Trump and others “do nothing to boost the economy.”
+T36	Attribution 1611 1615	said
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1692 1710	The Trump campaign
+T38	Cue 1711 1726	has pointed out
+T39	Content 1727 1820	that the tax breaks allowed him to rebound and eventually hire tens of thousands of employees
+T40	Attribution 1711 1726	has pointed out
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1832 1837	Trump
+T42	Cue 1838 1850	has admitted
+T43	Content 1851 1869	using the tax code
+T44	Attribution 1838 1850	has admitted
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1871 1873	he
+T46	Cue 1874 1889	does not defend
+T47	Content 1890 1892	it
+T48	Attribution 1874 1889	does not defend
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 1895 1944;1964 2074	“The unfairness of the tax laws is unbelievable,” “It’s something I’ve been talking about for a long time despite, frankly, being a big beneficiary of the law.”
+T50	Source 1945 1950	Trump
+T51	Cue 1951 1962	said Monday
+T52	Attribution 1951 1962	said Monday
+E13	Attribution:T52 Cue:T51 Source:T50 Content:T49
+T53	Source 2143 2159	The Daily Caller
+T54	Content 2085 2124	a different side of the Trump tax story
+T55	Cue 2125 2142	was being told by
+T56	Attribution 2125 2142	was being told by
+E14	Attribution:T56 Cue:T55 Content:T54 Source:T53
+T57	Cue 2167 2176	unearthed
+T58	Content 2177 2270	a 1995 story from the Times with a very different tone from the newspaper’s critical coverage
+T60	Attribution 2167 2176	unearthed
+E16	Attribution:T60 Cue:T57 Content:T58 Source:T53
+T59	Source 2309 2324	a Times article
+T61	Cue 2325 2340	hailed Trump as
+T62	Content 2341 2465	“The Comeback Kid” for the business success and economic vibrancy he was bringing to New York City after years of hard times
+T63	Attribution 2325 2340	hailed Trump as
+E15	Attribution:T63 Content:T62 Cue:T61 Source:T59
+T64	Content 2468 2663	“Though there are still four years to go in the 90’s, business and government leaders in New York honored Donald J. Trump yesterday for pulling off what they called ‘the comeback of the decade,'”
+T65	Source 2664 2675	the article
+T66	Cue 2676 2680	read
+T67	Attribution 2676 2680	read
+E17	Attribution:T67 Cue:T66 Source:T65 Content:T64
+T68	Content 2683 2924	“Mr. Trump, the developer who came to epitomize opulent wealth during the 80’s before tumbling into deep financial trouble, has managed to erase much of his debt and is moving ahead with major projects at a time other developers are idling,”
+T69	Source 2925 2927	it
+T70	Cue 2928 2933	added
+T71	Attribution 2928 2933	added
+E18	Attribution:T71 Cue:T70 Source:T69 Content:T68
+T72	Content 2936 3149	“After the collapse of the real estate market of the 1980’s, Mr. Trump’s company was left holding some $8.8 billion in debt, causing his personal net worth to drop to a low of about $1 billion in the red by 1991,”
+T73	Source 3150 3159	the Times
+T74	Cue 3160 3165	wrote
+T75	Attribution 3160 3165	wrote
+E19	Attribution:T75 Cue:T74 Source:T73 Content:T72
+T76	Content 3168 3288	“But since then, his fortunes have changed. He continues to pursue the trademark trophy-style projects he is known for,”
+T77	Source 3289 3291	it
+T78	Cue 3292 3305	further wrote
+T79	Attribution 3292 3305	further wrote
+E20	Attribution:T79 Cue:T78 Source:T77 Content:T76

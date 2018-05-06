@@ -1,0 +1,42 @@
+T1	Source 226 231	Trump
+T2	Cue 232 236	told
+T3	Content 259 330	he would only do the debate if CNN donated 5 million dollars to charity
+T4	Attribution 232 236	told
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 333 346	The old adage
+T6	Content 348 387	“I mean what I say and say what I mean”
+T7	Attribution-no-source 333 346	The old adage
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Cue 553 565	According to
+T9	Source 566 573	Variety
+T10	Content 575 705	CNN has gotten back to Trump with their response to Trump’s demand to have a charity benefit from his presence at the next debates
+T11	Attribution 553 565	According to
+E3	Attribution:T11 Content:T10 Source:T9 Cue:T8
+T12	Content 707 712	“No,”
+T13	Cue 713 720	replied
+T14	Source 721 761	Jeff Zucker, President of CNN Worldwide,
+T15	Attribution 713 720	replied
+E4	Attribution:T15 Source:T14 Cue:T13 Content:T12
+T16	Source 775 781	Zucker
+T17	Cue 782 791	responded
+T18	Content 792 867	by saying that the network doesn’t pay for candidates to attend the debates
+T19	Attribution 782 791	responded
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Discard 505 551	<tweet tweet-id="672426240989597696"><tweet/>.
+T21	Discard 1012 1058	<tweet tweet-id="672425547201294336"><tweet/>.
+T22	Discard 1464 1510	<tweet tweet-id="671782746331594752"><tweet/>.
+T23	Source 1079 1081	he
+T24	Cue 1082 1113	wrote a letter to Zucker asking
+T25	Content 1114 1201	that all the proceeds, from the first CNN Republican presidential debate, go to charity
+T26	Attribution 1082 1113	wrote a letter to Zucker asking
+E6	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 1204 1210	Zucker
+T28	Cue 1211 1239	didn’t officially respond to
+T29	Content 1240 1300	Trump’s initial request for the network to give to charities
+T30	Attribution 1211 1239	didn’t officially respond to
+E7	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Cue 1392 1404	according to
+T32	Source 1405 1410	Trump
+T33	Content 1412 1461	the media would call him a “chicken” if he didn’t
+T34	Attribution 1392 1404	according to
+E8	Attribution:T34 Content:T33 Source:T32 Cue:T31

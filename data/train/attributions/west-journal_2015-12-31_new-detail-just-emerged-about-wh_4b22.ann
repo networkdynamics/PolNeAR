@@ -1,0 +1,85 @@
+T2	Cue 11 29	Just Emerged About
+T3	Content 0 10;30 58	New Detail Who Bill Cosby Gave Money To
+T4	Source 2265 2298	The Hollywood Chamber of Commerce
+T5	Cue 2299 2312	has announced
+T6	Content 2313 2369	that it will not remove Cosby’s star on the Walk Of Fame
+T7	Attribution 2299 2312	has announced
+E1	Attribution:T7 Cue:T5 Source:T4 Content:T6
+T8	Source 2037 2051	Breitbart News
+T9	Cue 2062 2067	noted
+T10	Content 2068 2127	the dichotomy between the way the two men are being treated
+T12	Attribution 2062 2067	noted
+E3	Attribution:T12 Content:T10 Cue:T9 Source:T8
+T13	Cue 2138 2149	is attacked
+T14	Source 2153 2162	the media
+T15	Content 2132 2137	Cosby
+T16	Attribution 2138 2149	is attacked
+E4	Attribution:T16 Content:T15 Source:T14 Cue:T13
+T17	Content 2169 2181	Bill Clinton
+T18	Cue 2182 2195	is celebrated
+T19	Attribution 2182 2195	is celebrated
+E5	Attribution:T19 Cue:T18 Content:T17 Source:T14
+T20	Source 1697 1711	the foundation
+T21	Cue 1712 1737	has refused to comment on
+T22	Content 1738 1757	the Cosby donations
+T23	Attribution 1712 1737	has refused to comment on
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1671 1679	Palmieri
+T25	Cue 1680 1684	said
+T26	Content 1554 1670	“It’s, you know, wealthy people giving money to help poor people. Uh, we think that’s, uh, that’s a positive thing,”
+T27	Attribution 1680 1684	said
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 1474 1489	was asked about
+T29	Content 1490 1507	Cosby’s donations
+T30	Attribution-no-source 1474 1489	was asked about
+E8	Attribution-no-source:T30 Content:T29 Cue:T28
+T31	Source 1513 1516	she
+T32	Cue 1517 1538	did her best to evade
+T33	Content 1539 1551	the question
+T34	Attribution 1517 1538	did her best to evade
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Cue 1355 1374	has even been asked
+T36	Content 1375 1388	this question
+T37	Attribution-no-source 1355 1374	has even been asked
+E10	Attribution-no-source:T37 Content:T36 Cue:T35
+T38	Source 976 992	The Daily Caller
+T39	Cue 993 1001	reported
+T40	Content 1003 1083	the Cosby Show creator and star “gave between $1,001 and $5,000” to the Clintons
+T41	Attribution 993 1001	reported
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Cue 1095 1138	dozens of women have come forward to charge
+T43	Content 1139 1164	Cosby with abuse and rape
+T44	Attribution-no-source 1095 1138	dozens of women have come forward to charge
+E12	Attribution-no-source:T44 Content:T43 Cue:T42
+T45	Source 1166 1170	some
+T46	Cue 1171 1183	want to know
+T47	Content 1184 1337	if the Clinton foundation will emulate the actions of so many other organizations and return the actor’s money and remove him from its list of supporters
+T48	Attribution 1171 1183	want to know
+E13	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 102 109	stories
+T50	Cue 110 112	of
+T51	Content 113 178	sexual assaults actor and comedian Bill Cosby is being accused of
+T52	Attribution 110 112	of
+E14	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Discuss 102 178	stories of sexual assaults actor and comedian Bill Cosby is being accused of
+T54	Source 418 421	who
+T55	Cue 422 427	claim
+T56	Content 428 445	he assaulted them
+T57	Attribution 422 427	claim
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Cue 697 713	news has emerged
+T59	Content 714 788	that Cosby has been a big donor to the Bill and Hillary Clinton Foundation
+T60	Attribution-no-source 697 713	news has emerged
+E16	Attribution-no-source:T60 Content:T59 Cue:T58
+T1	Attribution-no-source 11 29	Just Emerged About
+E2	Attribution-no-source:T1 Content:T3 Cue:T2
+T11	Source 794 819	many watchers of politics
+T61	Cue 820 833	are wondering
+T62	Content 834 895	if the Clintons are going to return the thousands Coz donated
+T63	Attribution 820 833	are wondering
+E17	Attribution:T63 Content:T62 Cue:T61 Source:T11
+T64	Source 897 903	Others
+T65	Cue 904 910	wonder
+T66	Content 911 970	how the connection could affect Hillary’s run for president
+T67	Attribution 904 910	wonder
+E18	Attribution:T67 Content:T66 Cue:T65 Source:T64

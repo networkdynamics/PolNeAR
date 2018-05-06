@@ -1,0 +1,245 @@
+T1	Source 0 5	State
+T2	Cue 6 11	calls
+T3	Content 12 46	22 emails of Clinton 'top secret.'
+T4	Attribution 6 11	calls
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 48 56	Campaign
+T6	Cue 57 67	criticizes
+T7	Content 68 112	spy agencies and timing of finding's release
+T8	Attribution 57 67	criticizes
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 115 135	The State Department
+T10	Cue 136 174	acknowledged for the first time Friday
+T11	Content 175 320	that "top secret" information has been found in emails that passed through the private email server Hillary Clinton used while leading the agency
+T12	Attribution 136 174	acknowledged for the first time Friday
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 535 547	according to
+T14	Source 548 576	a State Department spokesman
+T15	Content 425 533	The information was contained in 22 emails, across seven email chains, that were sent or received by Clinton
+T16	Source 940 971	her potential Republican rivals
+T17	Cue 972 987	have called for
+T18	Content 988 1070	Clinton to be prosecuted for what they say was her mishandling of national secrets
+T19	Attribution 535 547	according to
+E4	Attribution:T19 Cue:T13 Content:T15 Source:T14
+T20	Attribution 972 987	have called for
+E5	Attribution:T20 Content:T18 Cue:T17 Source:T16
+T21	Source 1248 1267	Some Clinton allies
+T22	Cue 1268 1277	suggested
+T23	Content 1278 1332	that intelligence officials were politically motivated
+T24	Attribution 1268 1277	suggested
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1095 1113	Clinton's campaign
+T26	Cue 1114 1150	took the unusual step of criticizing
+T27	Content 1151 1177	the intelligence community
+T28	Attribution 1114 1150	took the unusual step of criticizing
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Cue 1179 1189	accusing  
+T30	Content 1189 1247	spy agencies of engaging in "overclassification run amok."
+T31	Attribution 1179 1189	accusing  
+E8	Attribution:T31 Cue:T29 Content:T30 Source:T25
+T32	Source 1853 1859	Fallon
+T33	Cue 1860 1864	said
+T34	Content 1612 1852;1866 2030	"After a process that has been dominated by bureaucratic infighting that has too often played out in public view, the loudest and leakiest participants in this interagency dispute have now prevailed in blocking any release of these emails," "This flies in the face of the fact that these emails were unmarked at the time they were sent, and have been called 'innocuous' by certain intelligence officials."
+T35	Attribution 1860 1864	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 2032 2038	Fallon
+T37	Cue 2039 2043	told
+T38	Content 2050 2212	that withholding the emails from view in their entirety made it impossible for the public to independently judge the validity of the State Department's conclusion
+T39	Attribution 2039 2043	told
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 2534 2537	who
+T41	Cue 2538 2547	had hoped
+T42	Content 2548 2627	that the issue would fade as the primaries began and a  general election loomed
+T43	Attribution 2538 2547	had hoped
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 2878 2941	A U.S. law enforcement official familiar with the investigation
+T45	Cue 2942 2946	said
+T46	Content 2947 3010	that prosecuting anyone involved in the case would be difficult
+T47	Attribution 2942 2946	said
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 3026 3029	who
+T49	Cue 3030 3038	spoke on
+T50	Content 3039 3109	the condition of anonymity to discuss sensitive internal deliberations
+T51	Attribution 3030 3038	spoke on
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 3012 3024	The official
+T53	Cue 3111 3115	said
+T54	Content 3117 3222	hat investigators are looking at whether anyone knowingly mishandled classified information on the system
+T55	Attribution 3111 3115	said
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 3342 3345	who
+T57	Cue 3346 3389	mused in Thursday night's Republican debate
+T58	Content 3390 3578	that Clinton was "disqualified from being the commander in chief" because she stored classified material on her server and "her first acts as president may very well be to pardon herself."
+T59	Attribution 3346 3389	mused in Thursday night's Republican debate
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Source 3621 3633	Donald Trump
+T61	Cue 3634 3642	tweeting
+T62	Content 3643 3679	that it was a "disaster" for Clinton
+T63	Attribution 3634 3642	tweeting
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Cue 3684 3690	asking
+T65	Content 3693 3756	How can someone with such bad judgement be our next president?"
+T66	Attribution 3684 3690	asking
+E17	Attribution:T66 Cue:T64 Content:T65 Source:T60
+T67	Cue 3766 3774	appeared
+T68	Content 3758 3765;3775 3812	Sanders to dismiss the email issue in October
+T69	Attribution-no-source 3766 3774	appeared
+E18	Attribution-no-source:T69 Content:T68 Cue:T67
+T70	Source 3819 3821	he
+T71	Cue 3822 3826	told
+T72	Content 3847 3918	that Americans were "sick and tired of hearing about your damn emails."
+T73	Attribution 3822 3826	told
+E19	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Source 3930 3932	he
+T76	Cue 3933 3942	remarked:
+T75	Content 3943 4156	"As I said at the first Democratic debate, there is a legal process in place which should proceed and not be politicized. The voters of Iowa and this nation deserve a serious discussion of the issues facing them."
+T77	Attribution 3933 3942	remarked:
+E20	Attribution:T77 Content:T75 Cue:T76 Source:T74
+T78	Cue 4209 4217	appeared
+T80	Content 4206 4208;4218 4437	it to undercut Clinton's argument in recent months that she was merely the victim of a bureaucratic squabble between overly strict analysts at the intelligence agencies and more reasonable reviewers at the State Department
+T79	Attribution-no-source 4209 4217	appeared
+E21	Attribution-no-source:T79 Content:T80 Cue:T78
+T81	Source 4440 4486	The intelligence community's inspector general
+T82	Cue 4487 4511	had previously indicated
+T83	Content 4512 4581	that he thought that some of the emails contained top secret material
+T84	Attribution 4487 4511	had previously indicated
+E22	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Source 4606 4626	the State Department
+T86	Cue 4627 4654	had declined to concur with
+T87	Content 4655 4670	that assessment
+T88	Attribution 4627 4654	had declined to concur with
+E23	Attribution:T88 Content:T87 Cue:T86 Source:T85
+T89	Source 4673 4690	State's reviewers
+T90	Cue 4691 4699	had said
+T91	Content 4700 4838	more than 1,300 Clinton emails contained classified material, but the vast majority were just "confidential," a lower level of sensitivity
+T92	Attribution 4691 4699	had said
+E24	Attribution:T92 Content:T91 Cue:T90 Source:T89
+T93	Source 4841 4848	Clinton
+T94	Cue 4849 4857	has said
+T95	Content 4858 4924	that none of her emails were marked classified when they were sent
+T96	Attribution 4849 4857	has said
+E25	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Cue 5083 5095	according to
+T98	Source 5096 5103	experts
+T99	Content 4930 5081	it is the responsibility of individual government officials to handle classified material appropriately, including by properly marking it as classified
+T100	Attribution 5083 5095	according to
+E26	Attribution:T100 Content:T99 Source:T98 Cue:T97
+T101	Source 5106 5113	Clinton
+T102	Cue 5114 5127	has also said
+T103	Content 5128 5211	that the information in question was not classified at the time the emails were sen
+T104	Attribution 5114 5127	has also said
+E27	Attribution:T104 Content:T103 Cue:T102 Source:T101
+T105	Source 5228 5250	intelligence officials
+T106	Cue 5251 5264	have disputed
+T107	Content 5215 5227	a point that
+T108	Attribution 5251 5264	have disputed
+E28	Attribution:T108 Content:T107 Cue:T106 Source:T105
+T109	Source 5267 5304	State Department spokesman John Kirby
+T110	Cue 5305 5316	said Friday
+T111	Content 5317 5386	that his agency had not yet made a determination on that key question
+T112	Attribution 5305 5316	said Friday
+E29	Attribution:T112 Content:T111 Cue:T110 Source:T109
+T113	Source 5389 5394	Kirby
+T114	Cue 5395 5423	also said for the first time
+T115	Content 5424 5540	that some emails between Clinton and President Obama have been located and will also be withheld from public release
+T116	Attribution 5395 5423	also said for the first time
+E30	Attribution:T116 Content:T115 Cue:T114 Source:T113
+T117	Source 5542 5544	He
+T118	Cue 5545 5549	said
+T119	Content 5550 5617	there were 18 emails between the two, comprising eight email chains
+T120	Attribution 5545 5549	said
+E31	Attribution:T120 Content:T119 Cue:T118 Source:T117
+T121	Source 5619 5621	He
+T122	Cue 5622 5626	said
+T123	Content 5628 5746	hose emails were not classified but would take longer to be released, which is standard for presidential communication
+T124	Attribution 5622 5626	said
+E32	Attribution:T124 Content:T123 Cue:T122 Source:T121
+T125	Cue 5768 5791	was supported Friday by
+T126	Source 5792 5886	Sen. Dianne Feinstein of California, the ranking Democrat on the Senate Intelligence Committee
+T127	Content 5749 5767	Clinton's position
+T128	Attribution 5768 5791	was supported Friday by
+E33	Attribution:T128 Content:T127 Source:T126 Cue:T125
+T129	Source 5888 5891	who
+T130	Cue 5892 5896	said
+T131	Content 5897 5951	none of the emails in question originated with Clinton
+T132	Attribution 5892 5896	said
+E34	Attribution:T132 Content:T131 Cue:T130 Source:T129
+T133	Source 6088 6091	she
+T134	Cue 6092 6111	said in a statement
+T135	Content 5954 6087;6113 6292	"It has never made sense to me that Secretary Clinton can be held responsible for email exchanges that originated with someone else," "The only reason to hold Secretary Clinton responsible for emails that didn't originate with her is for political points, and that's what we've seen over the past several months."
+T136	Attribution 6092 6111	said in a statement
+E35	Attribution:T136 Content:T135 Cue:T134 Source:T133
+T137	Source 6294 6350	Another Clinton ally, Agriculture Secretary Tom Vilsack,
+T138	Cue 6351 6355	told
+T139	Content 6362 6457	that Friday's announcement suggested an effort to hurt Clinton ahead of Monday's voting in Iowa
+T140	Attribution 6351 6355	told
+E36	Attribution:T140 Content:T139 Cue:T138 Source:T137
+T141	Cue 6496 6500	said
+T142	Source 6501 6532	Vilsack, a former Iowa governor
+T143	Content 6459 6495	"The timing of it is quite suspect,"
+T144	Attribution 6496 6500	said
+E37	Attribution:T144 Content:T143 Source:T142 Cue:T141
+T145	Source 6535 6637	Steven Aftergood, who heads a project on government secrecy for the Federation of American Scientists,
+T146	Cue 6638 6642	said
+T147	Content 6643 6778	he thought the attention to Clinton's emails was overblown, partly because similar classification disputes are common across government
+T148	Attribution 6638 6642	said
+E38	Attribution:T148 Content:T147 Cue:T146 Source:T145
+T149	Source 6788 6790	he
+T150	Cue 6791 6797	called
+T151	Content 6798 6863	Clinton's public squabble with the intelligence community unusual
+T152	Attribution 6791 6797	called
+E39	Attribution:T152 Content:T151 Cue:T150 Source:T149
+T153	Source 7041 7043	he
+T154	Cue 7044 7048	said
+T155	Content 6866 7040	"I think this is a unique set of circumstances in which a presidential candidate is engaged in a debate with an intelligence agency over her own record as a former official,"
+T156	Attribution 7044 7048	said
+E40	Attribution:T156 Content:T155 Cue:T154 Source:T153
+T157	Source 7240 7247	Clinton
+T158	Cue 7248 7256	has said
+T159	Content 7257 7306	that she deleted 31,000 additional emails in 2014
+T160	Attribution 7248 7256	has said
+E41	Attribution:T160 Content:T159 Cue:T158 Source:T157
+T161	Cue 7308 7315	deeming
+T162	Content 7316 7336	them purely personal
+T163	Attribution 7308 7315	deeming
+E42	Attribution:T163 Cue:T161 Content:T162 Source:T157
+T164	Source 7522 7536	the department
+T165	Cue 7537 7563	failed to respond promptly
+T166	Content 7564 7603	to his request for the public documents
+T167	Attribution 7537 7563	failed to respond promptly
+E43	Attribution:T167 Content:T166 Cue:T165 Source:T164
+T168	Source 7375 7382	a court
+T169	Cue 7383 7388	order
+T170	Content 7389 7438	to release the documents in batches, once a month
+T171	Attribution 7383 7388	order
+E44	Attribution:T171 Content:T170 Cue:T169 Source:T168
+T172	Source 7606 7613	A judge
+T173	Cue 7614 7625	had ordered
+T174	Content 7626 7691	the department to release all of the emails by the end of January
+T175	Attribution 7614 7625	had ordered
+E45	Attribution:T175 Content:T174 Cue:T173 Source:T172
+T176	Source 7697 7725	attorneys for the department
+T177	Cue 7726 7740	said this week
+T178	Content 7741 7774	that they would miss the deadline
+T179	Attribution 7726 7740	said this week
+E46	Attribution:T179 Content:T178 Cue:T177 Source:T176
+T180	Source 8027 8034	Clinton
+T181	Cue 8090 8104	has encouraged
+T182	Content 8105 8169	the State Department to release her email as quickly as possible
+T183	Attribution 8090 8104	has encouraged
+E47	Attribution:T183 Content:T182 Cue:T181 Source:T180
+T184	Source 8224 8231	Clinton
+T185	Cue 8232 8286	said at a town hall sponsored by CNN in Iowa this week
+T186	Content 8172 8223;8288 8392	"I think it's great. Let people sort them through," "And as we have seen there is a lot . . . [of] interest. But it's something that took time to get done."
+T187	Attribution 8232 8286	said at a town hall sponsored by CNN in Iowa this week
+E48	Attribution:T187 Content:T186 Cue:T185 Source:T184
+T188	Source 8416 8419	she
+T189	Cue 8420 8424	said
+T190	Content 8425 8478	her decision to use the private account was a mistake
+T191	Attribution 8420 8424	said
+E49	Attribution:T191 Content:T190 Cue:T189 Source:T188
+T192	Source 8507 8510	she
+T193	Cue 8511 8515	said
+T194	Content 8516 8575	she did not believe it amounted to "an error in judgement."
+T195	Attribution 8511 8515	said
+E50	Attribution:T195 Content:T194 Cue:T193 Source:T192

@@ -1,0 +1,49 @@
+T1	Source 0 24	Flight attendants' union
+T2	Cue 25 33	endorses
+T3	Content 34 41	Clinton
+T4	Attribution 25 33	endorses
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 44 82	A union representing flight attendants
+T6	Cue 83 91	endorsed
+T7	Content 92 121	Hillary Clinton for president
+T8	Attribution 83 91	endorsed
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 154 169	organized labor
+T10	Cue 170 197	throwing its support behind
+T11	Content 198 209	the nominee
+T12	Attribution 170 197	throwing its support behind
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 215 226	a statement
+T14	Cue 227 237	announcing
+T15	Content 238 246	the pick
+T16	Attribution 227 237	announcing
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 248 284	the Association of Flight Attendants
+T18	Cue 285 291	called
+T19	Content 292 333	Clinton a “champion” for its constituency
+T20	Attribution 285 291	called
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 335 341	citing
+T22	Content 342 474	her work after the Sept. 11 terrorist attacks and position on including the union’s members in Family and Medical Leave Act benefits
+T23	Attribution 335 341	citing
+E6	Attribution:T23 Source:T17 Content:T22 Cue:T21
+T24	Source 477 490	The statement
+T25	Cue 491 506	also referenced
+T26	Content 507 629	the impact it said Clinton, the first woman nominated for president by a major party, would have on women in the workplace
+T27	Attribution 491 506	also referenced
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 849 858	the union
+T29	Cue 859 864	wrote
+T30	Content 631 848	“Parallel to our union's progress for flight attendants, Secretary Clinton's fight, long and historic, has opened the door for women to overcome discrimination, sexism and become equal partners in shaping our future,”
+T31	Attribution 859 864	wrote
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 939 1021	Other major unions, including the American Federation of Teachers and the AFL-CIO,
+T33	Cue 1022 1040	have also endorsed
+T34	Content 1041 1060	Clinton in the race
+T35	Attribution 1022 1040	have also endorsed
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T37	Content 1249 1260	trade deals
+T36	Cue 1219 1248	campaign theme of questioning
+T38	Source 1215 1218	his
+T39	Attribution 1219 1248	campaign theme of questioning
+E10	Attribution:T39 Source:T38 Cue:T36 Content:T37

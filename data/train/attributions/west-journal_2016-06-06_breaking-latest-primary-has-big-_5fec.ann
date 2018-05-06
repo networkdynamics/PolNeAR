@@ -1,0 +1,44 @@
+T1	Content 110 124	the coronation
+T2	Source 125 137	many pundits
+T3	Cue 138 156	initially forecast
+T4	Attribution 138 156	initially forecast
+E1	Attribution:T4 Cue:T3 Source:T2 Content:T1
+T5	Cue 206 220	has reportedly
+T6	Content 158 205;221 297	Democratic presidential hopeful Hillary Clinton amassed the 2,383 delegates needed to become her party’s presumptive nominee
+T7	Attribution-no-source 206 220	has reportedly
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Source 495 502	Reports
+T9	Cue 503 511	indicate
+T10	Content 512 624	the Puerto Rico primary, along with late support from uncommitted superdelegates, put Clinton over the threshold
+T11	Attribution 503 511	indicate
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 627 639	According to
+T13	Source 640 660	the Associated Press
+T14	Content 662 702;752 807	571 of the 714 Democratic superdelegates supported Clinton, with less than 100 still uncommitted
+T15	Attribution 627 639	According to
+E4	Attribution:T15 Content:T14 Source:T13 Cue:T12
+T16	Source 929 997	One superdelegate, Alabama Democratic Party chairwoman Nancy Worley,
+T17	Cue 998 1005	pledged
+T18	Content 1006 1025	her vote to Clinton
+T19	Attribution 998 1005	pledged
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1090 1097	Clinton
+T21	Cue 1098 1109	to focus on
+T22	Content 1110 1174	her race against presumptive general-election rival Donald Trump
+T23	Attribution 1098 1109	to focus on
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 1177 1272	“We really need to bring a close to this primary process and get on to defeating Donald Trump,”
+T25	Source 1273 1276	she
+T26	Cue 1277 1281	said
+T27	Attribution 1277 1281	said
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 1284 1341	Another superdelegate, Michael Brown of Washington, D.C.,
+T29	Cue 1342 1351	explained
+T30	Content 1352 1421	the reason for his late-in-the-game support for the former first lady
+T31	Attribution 1342 1351	explained
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Content 1424 1478;1492 1578	“It’s time to stand behind our presumptive candidate,” “We shouldn’t be acting like we are undecided when the people of America have spoken.”
+T33	Source 1479 1481	he
+T34	Cue 1482 1490	declared
+T35	Attribution 1482 1490	declared
+E9	Attribution:T35 Cue:T34 Source:T33 Content:T32

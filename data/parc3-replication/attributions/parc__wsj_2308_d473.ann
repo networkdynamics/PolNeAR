@@ -1,0 +1,130 @@
+T1	Source 36 67	55,000 Machinists union members
+T2	Cue 26 32	strike
+T3	Content 68 86	against Boeing Co.
+T4	Attribution 26 32	strike
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 118 139	America West Airlines
+T6	Cue 140 149	announced
+T7	Content 150 264	it will postpone its new service out of Houston because of delays in receiving aircraft from the Seattle jet maker
+T8	Attribution 140 149	announced
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 268 344	Peter Otradovec, vice president for planning at the Phoenix, Ariz., carrier,
+T10	Cue 345 365	said in an interview
+T11	Content 366 593	that the work stoppage at Boeing, now entering its 13th day, "has caused some turmoil in our scheduling" and that more than 500 passengers who were booked to fly out of Houston on America West would now be put on other airlines
+T12	Attribution 345 365	said in an interview
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 597 610	Mr. Otradovec
+T14	Cue 611 615	said
+T15	Content 616 725	Boeing told America West that the 757 it was supposed to get this Thursday wouldn't be delivered until Nov. 7
+T16	Attribution 611 615	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 913 928	aren't expected
+T18	Content 900 912;929 947	those routes to begin until Jan
+T19	Attribution-no-source 913 928	aren't expected
+E5	Attribution-no-source:T19 Content:T18 Cue:T17
+T20	Content 1528 1616;1699 1755	"I just don't feel that the company can really stand or would want a prolonged walkout," "I don't think their customers would like it very much."
+T21	Source 1617 1666	Tom Baker, president of Machinists' District 751,
+T22	Cue 1667 1697	said in an interview yesterday
+T23	Attribution 1667 1697	said in an interview yesterday
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Content 1910 2049	"I figure that American and United probably have such a hard time counting all the planes in their fleets, they might not miss one at all,"
+T25	Source 2050 2063	Mr. Otradovec
+T26	Cue 2064 2068	said
+T27	Attribution 2064 2068	said
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Source 2080 2101	a random check Friday
+T29	Cue 2102 2125	didn't seem to indicate
+T30	Content 2126 2198	that the strike was having much of an effect on other airline operations
+T31	Attribution 2102 2125	didn't seem to indicate
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 2200 2218	Southwest Airlines
+T33	Cue 2286 2293	expects
+T34	Content 2294 2319	to have the plane on time
+T35	Attribution 2286 2293	expects
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Content 2321 2394	"It's so close to completion, Boeing's told us there won't be a problem,"
+T37	Cue 2395 2399	said
+T38	Source 2400 2421	a Southwest spokesman
+T39	Attribution 2395 2399	said
+E10	Attribution:T39 Source:T38 Cue:T37 Content:T36
+T40	Source 2425 2450	A spokesman for AMR Corp.
+T41	Cue 2451 2455	said
+T42	Content 2456 2539	Boeing has assured American Airlines it will deliver a 757 on time later this month
+T43	Source 2541 2549	American
+T44	Cue 2639 2657	isn't anticipating
+T45	Content 2658 2687	any changes in that timetable
+T46	Attribution 2451 2455	said
+E11	Attribution:T46 Cue:T41 Source:T40 Content:T42
+T47	Attribution 2639 2657	isn't anticipating
+E12	Attribution:T47 Content:T45 Cue:T44 Source:T43
+T48	Source 2703 2721	a Boeing spokesman
+T49	Cue 2722 2731	explained
+T50	Content 2732 2905	that the company has been in constant communication with all of its customers and that it was impossible to predict what further disruptions might be triggered by the strike
+T51	Content 3318 3388	"We want to make sure they know what they want before they come back,"
+T52	Cue 3389 3393	said
+T53	Source 3394 3491	Doug Hammond, the federal mediator who has been in contact with both sides since the strike began
+T54	Source 3495 3519	The investment community
+T55	Cue 3530 3551	has been anticipating
+T56	Content 3552 3571	a speedy resolution
+T57	Attribution 2722 2731	explained
+E13	Attribution:T57 Cue:T49 Source:T48 Content:T50
+T58	Attribution 3389 3393	said
+E14	Attribution:T58 Cue:T52 Content:T51 Source:T53
+T59	Attribution 3530 3551	has been anticipating
+E15	Attribution:T59 Content:T56 Cue:T55 Source:T54
+T60	Content 3733 3886	"The market has taken two views: that the labor situation will get settled in the short term and that things look very rosy for Boeing in the long term,"
+T61	Cue 3887 3891	said
+T62	Source 3892 3942	Howard Rubel, an analyst at Cyrus J. Lawrence Inc.
+T63	Attribution 3887 3891	said
+E16	Attribution:T63 Source:T62 Cue:T61 Content:T60
+T64	Source 4053 4062	Mr. Baker
+T65	Cue 4063 4067	said
+T66	Content 4068 4144	he thinks the earliest a pact could be struck would be the end of this month
+T67	Attribution 4063 4067	said
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Cue 4146 4153	hinting
+T69	Content 4154 4226	that the company and union may resume negotiations as early as this week
+T70	Attribution 4146 4153	hinting
+E18	Attribution:T70 Cue:T68 Source:T64 Content:T69
+T71	Content 4228 4233;4244 4362	Still it's possible that the strike could last considerably longer. "I wouldn't expect an immediate resolution to anything."
+T72	Source 4235 4237	he
+T73	Cue 4238 4242	said
+T74	Attribution 4238 4242	said
+E19	Attribution:T74 Cue:T73 Source:T72 Content:T71
+T75	Source 4376 4405	Boeing Chairman Frank Shrontz
+T76	Cue 4406 4449	sent striking workers a letter, saying that
+T77	Content 4450 4584	"to my knowledge, Boeing's offer represents the best overall three-year contract of any major U.S. industrial firm in recent history."
+T78	Attribution 4406 4449	sent striking workers a letter, saying that
+E20	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Discuss 4365 4584	Last week, Boeing Chairman Frank Shrontz sent striking workers a letter, saying that "to my knowledge, Boeing's offer represents the best overall three-year contract of any major U.S. industrial firm in recent history."
+T80	Source 4591 4600	Mr. Baker
+T81	Cue 4601 4607	called
+T82	Content 4608 4724	the letter -- and the company's offer of a 10% wage increase over the life of the pact, plus bonuses -- "very weak."
+T83	Attribution 4601 4607	called
+E21	Attribution:T83 Content:T82 Cue:T81 Source:T80
+T84	Source 4725 4727	He
+T85	Cue 4728 4733	added
+T86	Content 4734 4855	that the company miscalculated the union's resolve and the workers' disgust with being forced to work many hours overtime
+T87	Attribution 4728 4733	added
+E22	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Source 5082 5084	It
+T89	Cue 5085 5096	had planned
+T90	Content 5097 5126	a strike vote for next Sunday
+T91	Attribution 5085 5096	had planned
+E23	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Source 5177 5292	United Auto Workers Local 1069, which represents 3,000 workers at Boeing's helicopter unit in Delaware County, Pa.,
+T93	Cue 5293 5297	said
+T94	Content 5298 5421	it agreed to extend its contract on a day-by-day basis, with a 10-day notification to cancel, while it continues bargaining
+T95	Attribution 5293 5297	said
+E24	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Source 5462 5468	Boeing
+T97	Cue 5469 5483	on Friday said
+T98	Content 5484 5610	it received an order from Martinair Holland for four model 767-300 wide-body jetliners valued at a total of about $326 million
+T99	Attribution 5469 5483	on Friday said
+E25	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Source 5827 5847	A Boeing spokeswoman
+T101	Cue 5848 5852	said
+T102	Content 5853 5968	a delivery date for the planes is still being worked out "for a variety of reasons, but not because of the strike."
+T103	Attribution 5848 5852	said
+E26	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Discard 5971 6015	Bridget O'Brian contributed to this article.

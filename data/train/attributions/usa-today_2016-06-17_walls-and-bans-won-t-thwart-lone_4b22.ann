@@ -1,0 +1,44 @@
+T1	Source 103 123	The French president
+T2	Cue 124 154	expressed his condolences over
+T3	Content 155 175	the Orlando massacre
+T4	Attribution 124 154	expressed his condolences over
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 183 188	Obama
+T6	Cue 189 220	offered his own condolences for
+T7	Content 221 352	the lone-wolf attack in which a knife-wielding French Islamist killed a police officer and his partner in their suburban Paris home
+T8	Attribution 189 220	offered his own condolences for
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 590 614	The Obama administration
+T10	Cue 615 619	says
+T11	Content 620 780	that the U.S. military is on the hunt for al-Baghdadi and that when he's found, he'll be taken out as surely as Osama bin Laden was by Navy SEALs five years ago
+T12	Attribution 615 619	says
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 960 975	the White House
+T14	Cue 976 980	said
+T15	Content 783 959	During their phone call Tuesday, Obama and Hollande "reaffirmed their shared commitment to degrading and destroying ISIL and standing against the broader scourge of terrorism,"
+T16	Attribution 976 980	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 1694 1735	anti-terrorist prosecutor Marc TrÃ©vidic
+T18	Cue 1736 1742	put it
+T19	Content 1744 1901	"apart from (traveling with the) wrong crowd and some jogging for fitness, there was not much to complain about in the strict terms of criminal prosecution."
+T20	Attribution 1736 1742	put it
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 2228 2239	authorities
+T22	Cue 2240 2260	never quite realized
+T23	Content 2261 2353	that the joggers had already identified a number of anti-terrorist police officers to attack
+T24	Attribution 2240 2260	never quite realized
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T26	Cue 2565 2594	have been no serious calls to
+T25	Content 2595 2660	close France's borders or to bar immigration from the Middle East
+T27	Attribution-no-source 2565 2594	have been no serious calls to
+E7	Attribution-no-source:T27 Content:T25 Cue:T26
+T28	Source 2703 2727	Western European leaders
+T29	Cue 2728 2737	recognize
+T30	Content 2738 2861	that Middle Eastern nations can be their allies in the fight against this scourge that has already reached their heartlands
+T31	Attribution 2728 2737	recognize
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 999 1016	no Western nation
+T33	Cue 1017 1036	has yet figured out
+T34	Content 1037 1141	how to neutralize a fanatical Islamist, acting alone, armed with a warped hatred of all his surroundings
+T35	Attribution 1017 1036	has yet figured out
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32

@@ -1,0 +1,36 @@
+T1	Cue 316 328	According to
+T2	Source 329 349	a Reuters/Ipsos poll
+T3	Content 351 399	the two candidates are in a dead heat nationally
+T4	Attribution 316 328	According to
+E1	Attribution:T4 Content:T3 Source:T2 Cue:T1
+T5	Source 770 796	Democratic Party officials
+T6	Cue 797 800	say
+T7	Content 801 892	that, even if they thought it was appropriate, a recount of Monday’s vote could not be done
+T8	Attribution 797 800	say
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 677 688	The outcome
+T10	Cue 689 695	showed
+T11	Content 696 767	Clinton had received 49.84 percent while Sanders received 49.59 percent
+T12	Attribution 689 695	showed
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 950 965	both candidates
+T14	Cue 966 970	said
+T15	Content 971 989	it was no big deal
+T16	Attribution 966 970	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 992 1058	Sam Lau, the communications director for the Iowa Democratic Party
+T18	Cue 1059 1078	said in a statement
+T19	Content 1080 1297	“There are no paper ballots to recount. Monday’s caucuses were a unique event that involved more than 171,000 Iowans and their neighbors at a specific time and place, an thus, they can not be re-created or recounted.”
+T20	Attribution 1059 1078	said in a statement
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Discard 1582 1766	<tweet tweet-author="@hardball" tweet-date="February 8, 2016">Sanders leads Clinton in NBC New Hampshire poll @SteveKornacki https://t.co/lqdk1ifVuh pic.twitter.com/PaA39tXPcg<tweet/>.
+T22	Source 1928 1938	Republican
+T23	Cue 1939 1946	support
+T24	Content 1924 1927	his
+T25	Attribution 1939 1946	support
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Content 1805 1817	Donald Trump
+T27	Source 1847 1857	40 percent
+T28	Cue 1858 1865	support
+T29	Attribution 1858 1865	support
+E7	Attribution:T29 Cue:T28 Source:T27 Content:T26

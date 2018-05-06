@@ -1,0 +1,126 @@
+T1	Source 0 15	Popular Website
+T2	Cue 16 21	Shows
+T3	Content 22 71	Bias When It Comes To ‘Fact-Checking’ Republicans
+T4	Attribution 16 21	Shows
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discuss 0 7	Popular
+T6	Source 201 211	PolitiFact
+T7	Cue 212 221	announced
+T8	Content 222 334	it will have 18 fact-checkers working during the first presidential debate, and it will all be done in real-time
+T9	Attribution 212 221	announced
+E2	Attribution:T9 Content:T8 Cue:T7 Source:T6
+T10	Content 337 484;485 555	“The best way to follow along is by watching the live Twitter stream below, which will provide you fact-checks in near real-time starting at 9 p.m. E.T. by relying on our database of nearly 13,000 fact-checked claims,”
+T11	Source 556 566	PolitiFact
+T12	Cue 567 571	says
+T13	Attribution 567 571	says
+E3	Attribution:T13 Cue:T12 Source:T11 Content:T10
+T14	Content 682 840	similar statements made by former Democratic presidential candidate Sen. Bernie Sanders and Republican nominee Donald Trump regarding black youth unemployment
+T15	Cue 841 870	were treated very differently
+T16	Source 874 884	PolitiFact
+T17	Attribution 841 870	were treated very differently
+E4	Attribution:T17 Source:T16 Cue:T15 Content:T14
+T18	Source 904 911	Sanders
+T19	Cue 912 939	made the following comment:
+T20	Content 1185 1274;941 1184	If they are African-American, the real unemployment rate for young people is 51 percent.“ “For young people who have graduated high school or dropped out of high school, who are between the ages of 17 and 20, if they happen to be white, the unemployment rate is 33 percent.  If they are Hispanic, the unemployment rate is 36 percent.
+T21	Attribution 912 939	made the following comment:
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Source 1281 1291	PolitiFact
+T23	Cue 1292 1300	examined
+T24	Content 1301 1324	the senator’s statement
+T25	Attribution 1292 1300	examined
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Content 1326 1328;1341 1355	it “Mostly True.”
+T27	Cue 1329 1340	was labeled
+T28	Attribution-no-source 1329 1340	was labeled
+E7	Attribution-no-source:T28 Cue:T27 Content:T26
+T29	Discuss 1357 1378	<tweet tweet-author="
+T30	Discuss 1635 1640	tweet
+T31	Discuss 2115 2120	tweet
+T32	Discuss 2125 2128	The
+T33	Source 2355 2365	PolitiFact
+T34	Cue 2366 2373	claimed
+T35	Content 2374 2521	“Trump exaggerates” the level of black youth unemployment through a “misleading use of statistics,” and concluded his comments were “Mostly False.“
+T36	Attribution 2366 2373	claimed
+E8	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 2595 2597	It
+T38	Cue 2598 2607	refers to
+T39	Content 2609 2693	he percentage of jobless people in the workforce who are actively seeking employment
+T40	Attribution 2598 2607	refers to
+E9	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 2810 2820	Zero Hedge
+T42	Cue 2821 2826	asked
+T43	Content 2828 2943	“Wait, now it is 18.7% when Politi’fact’ said a year prior that Bernie’s 51% claim was ‘mostly true’? Interesting.”
+T44	Attribution 2821 2826	asked
+E10	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 2945 2956	The website
+T46	Cue 2957 2962	noted
+T47	Content 2963 3183	that both Sanders and Trump were referring to studies that seek to find true unemployment rates by comparing the number of people employed to the total population adjusted for those still enrolled in continuing education
+T48	Attribution 2957 2962	noted
+E11	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 3185 3201;3219 3362	“On this basis,” “true white youth unemployment is in the mid-30s while black youth unemployment is in the low-50s after hovering around 60% for several years.”
+T50	Source 3202 3212	Zero Hedge
+T51	Cue 3213 3217	said
+T52	Attribution 3213 3217	said
+E12	Attribution:T52 Cue:T51 Source:T50 Content:T49
+T53	Source 3364 3420	Republican National Committee Research Director Raj Shah
+T54	Cue 3421 3425	said
+T55	Content 3426 3510	that statements made by Republicans are far more scrutinized than those of Democrats
+T56	Attribution 3421 3425	said
+E13	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Content 3513 3605;3606 3648;3674 3770	“Things that are not literally true are rated ‘correct’ because there was a kernel of truth. That’s not fact-checking, that’s opining,” “It seems as though whenever you find these inconsistencies they work against Republican favor.”
+T58	Source 3649 3653	Shah
+T59	Cue 3654 3658	told
+T60	Attribution 3654 3658	told
+E14	Attribution:T60 Cue:T59 Source:T58 Content:T57
+T61	Source 3781 3842	research conducted by the Center for Media and Public Affairs
+T62	Cue 3843 3848	found
+T63	Content 3849 3916	PolitiFact consistently rated Democrats higher in its fact-checking
+T64	Attribution 3843 3848	found
+E15	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 3919 3929	PolitiFact
+T66	Cue 3930 3935	rated
+T67	Content 3936 4046	32% of Republican claims as “false” or “pants on fire,” compared to 11% of Democratic claims – a 3 to 1 margin
+T68	Attribution 3930 3935	rated
+E16	Attribution:T68 Content:T67 Cue:T66 Source:T65
+T69	Source 4060 4070	PolitiFact
+T70	Cue 4071 4076	rated
+T71	Content 4077 4175	22% of Democratic claims as “entirely true” compared to 11% of Republican claims – a 2 to 1 margin
+T72	Attribution 4071 4076	rated
+E17	Attribution:T72 Content:T71 Cue:T70 Source:T69
+T73	Content 4177 4218;4230 4303	A majority of Democratic statements (54%) as mostly or entirely true, compared to only 18% of Republican statements
+T74	Cue 4219 4229	were rated
+T75	Attribution-no-source 4219 4229	were rated
+E18	Attribution-no-source:T75 Cue:T74 Content:T73
+T76	Content 4317 4358;4370 4444	a majority of Republican statements (52%) as mostly or entirely false, compared to only 24% of Democratic statements
+T77	Cue 4359 4369	were rated
+T78	Attribution-no-source 4359 4369	were rated
+E19	Attribution-no-source:T78 Cue:T77 Content:T76
+T79	Source 4447 4493	PolitiFact Executive Director Aaron Sharockman
+T80	Cue 4494 4503	responded
+T81	Content 4504 4604	that the website cites so many Republican claims as inaccurate because they lack significant context
+T82	Attribution 4494 4503	responded
+E20	Attribution:T82 Content:T81 Cue:T80 Source:T79
+T83	Content 4607 4643;4667 4767	“We’re not just validating numbers,” “We’re trying to provide context and look at the broader picture of how people will interpret that.”
+T84	Source 4644 4646	he
+T85	Cue 4647 4651	told
+T86	Attribution 4647 4651	told
+E21	Attribution:T86 Cue:T85 Source:T84 Content:T83
+T87	Source 4898 4907	the Times
+T88	Content 4913 4920	Clinton
+T89	Cue 4921 4942	a glowing endorsement
+T90	Attribution 4921 4942	a glowing endorsement
+E22	Attribution:T90 Cue:T89 Content:T88 Source:T87
+T91	Cue 4942 4943	:
+T92	Discuss 4876 4882	During
+T93	Content 4945 5034;5035 5162;5163 5316;5317 5459	She has long been a persuasive advocate for women, minorities and middle-income families. She knows the gritty specifics of health care policy, and she gained extensive foreign policy experience as secretary of state. The former first lady and U.S. senator is a planner, a detail-oriented leader with refined positions that are not easily condensed into an applause line. She also has demonstrated her skill as a negotiator and as a determined advocate in all sorts of situations over a lifetime in the public eye.
+T94	Attribution-no-source 4942 4943	:
+E23	Attribution-no-source:T94 Content:T93 Cue:T91
+T95	Source 5472 5474	it
+T96	Cue 5475 5483	attacked
+T97	Content 5484 5489	Trump
+T98	Attribution 5475 5483	attacked
+E24	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Cue 5491 5497	saying
+T100	Content 5498 5686	he “has offended Hispanics, women, the disabled and former prisoners of war with his insults and bombast, and he has neither the temperament nor the judgment to be an effective president.”
+T101	Attribution 5491 5497	saying
+E25	Attribution:T101 Source:T95 Cue:T99 Content:T100

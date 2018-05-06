@@ -1,0 +1,20 @@
+T1	Source 0 17	Sidney Blumenthal
+T2	Cue 17 18	:
+T3	Content 19 93	‘No Idea’ If I Would Have Told Hillary Private Email Server Was a Bad Idea
+T4	Attribution 17 18	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 96 143	Former Clinton Senior Adviser Sidney Blumenthal
+T6	Cue 144 148	said
+T7	Content 149 272	that he has “no idea” if he would have told Hillary Clinton not to use a personal server if he knew she had one at the time
+T8	Attribution 144 148	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 330 339	was asked
+T10	Content 341 432	“If you had known she had a personal server, would you have told her it’s not a good idea?”
+T11	Attribution-no-source 330 339	was asked
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Source 433 435	He
+T13	Cue 436 444	answered
+T14	Content 446 586	“I have no idea. We’re old friends, and when you’re friend of somebody who’s in the middle of politics, you get caught up in politics, too.”
+T15	Attribution 436 444	answered
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Discard 588 632	Follow Ian Hanchett on Twitter @IanHanchett.

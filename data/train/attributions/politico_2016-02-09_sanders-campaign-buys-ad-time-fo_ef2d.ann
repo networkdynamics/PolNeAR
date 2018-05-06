@@ -1,0 +1,33 @@
+T1	Content 59 169	Bernie Sanders’ campaign has reserved time for television advertisements in at least four Super Tuesday states
+T2	Cue 171 183	according to
+T3	Source 184 204	media buying sources
+T4	Attribution 171 183	according to
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Cue 381 395	looking beyond
+T6	Content 396 461	the upcoming contests in New Hampshire, Nevada and South Carolina
+T7	Source 463 480	the Sanders' camp
+T8	Attribution 381 395	looking beyond
+E2	Attribution:T8 Source:T7 Content:T6 Cue:T5
+T9	Content 688 695;708 759	Sanders to win after Clinton's narrow win in Iowa last week
+T10	Cue 696 707	is expected
+T11	Attribution-no-source 696 707	is expected
+E3	Attribution-no-source:T11 Cue:T10 Content:T9
+T12	Content 762 798;808 836	Minnesota and Colorado in particular as opportunities for Sanders
+T13	Cue 799 807	are seen
+T14	Attribution-no-source 799 807	are seen
+E4	Attribution-no-source:T14 Cue:T13 Content:T12
+T15	Source 1034 1091	ome of his New Hampshire advertising in the Boston market
+T16	Cue 1092 1113	has been built around
+T17	Content 1114 1167	raising awareness of Sanders for Massachusetts voters
+T18	Attribution 1092 1113	has been built around
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 1247 1255	his team
+T20	Cue 1256 1264	believes
+T21	Content 1265 1321	that the few Democrats there may be ripe targets for him
+T22	Attribution 1256 1264	believes
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 1324 1337	Sanders aides
+T24	Cue 1338 1346	declined
+T25	Content 1347 1366	to confirm the buys
+T26	Attribution 1338 1346	declined
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23

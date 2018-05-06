@@ -1,0 +1,88 @@
+T1	Source 0 5	Judge
+T2	Cue 6 13	rejects
+T3	Content 14 65	New York Times request to unseal Trump divorce file
+T4	Attribution 6 13	rejects
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 68 84	A New York judge
+T6	Cue 85 97	has rejected
+T7	Content 98 211	a media request to make public the contents of a 25-year-old court file on Donald Trump's divorce from wife Ivana
+T8	Attribution 85 97	has rejected
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 213 219	saying
+T10	Content 220 299	the courts have no business deciding what information could be useful to voters
+T11	Attribution 213 219	saying
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T5
+T12	Source 302 352	The New York Times and the Gannett newspaper chain
+T13	Cue 353 367	filed a motion
+T14	Content 368 389	to unseal the records
+T15	Attribution 353 367	filed a motion
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 391 398	arguing
+T17	Content 399 528	the move was needed to contribute to public debate over the real estate mogul and Republican nominee's fitness for the presidency
+T18	Attribution 391 398	arguing
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T12
+T19	Source 531 574	Manhattan Supreme Court Justice Frank Nervo
+T20	Cue 575 583	rejected
+T21	Content 584 597	that argument
+T22	Attribution 575 583	rejected
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Content 630 943;957 1151	"Were the court to make the confidential records available for journalistic, and thus public, scrutiny, it would impermissibly inject itself into the political process by making the value judgment of what information is useful in determining the present candidate's, or any other candidate's, fitness for office," "The court's role in the electoral process is strictly limited to determining whether a candidate complies with the Election Law. The court will not take an action that exceeds that limitation."
+T24	Source 944 949	Nervo
+T25	Cue 950 955	wrote
+T26	Attribution 950 955	wrote
+E7	Attribution:T26 Cue:T25 Source:T24 Content:T23
+T27	Source 1173 1212	lawyers for both Donald and Ivana Trump
+T28	Cue 1213 1240	filed legal papers opposing
+T29	Content 1241 1254	the unsealing
+T30	Attribution 1213 1240	filed legal papers opposing
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 1257 1285	The GOP presidential nominee
+T32	Cue 1286 1292	argued
+T34	Content 1293 1375	that New York's legislature has put divorce files off-limits in most circumstances
+T33	Attribution 1286 1292	argued
+E9	Attribution:T33 Content:T34 Cue:T32 Source:T31
+T35	Source 1378 1389	His ex-wife
+T36	Cue 1402 1416	also contended
+T37	Content 1417 1573	that since she is not running for office, she should not have to sacrifice her privacy even if the court found an enhanced interest in her husband's actions
+T38	Attribution 1402 1416	also contended
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 1575 1602	Her submission to the court
+T40	Cue 1603 1608	noted
+T41	Content 1609 1693	published reports alleging that she claimed during the divorce that he had raped her
+T42	Attribution 1603 1608	noted
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1704 1723	Ivana Trump's brief
+T44	Cue 1724 1728	said
+T45	Content 1729 1835	that was not her view and dismissed those reports as "previous misinterpreted statements and allegations.”
+T46	Attribution 1724 1728	said
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1837 1846	The judge
+T48	Cue 1847 1858	agreed with
+T49	Content 1859 1921	Ivana Trump that there was no reason to intrude on her privacy
+T50	Attribution 1847 1858	agreed with
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Content 1924 2144;2158 2434	"The court is obviously aware that one of the parties, who opposes this motion, is a presidential candidate. The court is also aware that the other party, who also opposes this application, is not seeking public office," "If the court were to deprive the candidate party of his rights...on the ground that there may be something in the confidential file that would be useful in determining his fitness for office, that ground does not exist in the case of his former wife, who is not a candidate."
+T52	Source 2145 2150	Nervo
+T53	Cue 2151 2156	wrote
+T54	Attribution 2151 2156	wrote
+E14	Attribution:T54 Cue:T53 Source:T52 Content:T51
+T55	Source 2436 2480	A lawyer for the news outlets, David Schulz,
+T56	Cue 2481 2485	said
+T57	Content 2486 2545	no immediate decision had been made about whether to appeal
+T58	Attribution 2481 2485	said
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Content 2548 2615	"We are pleased with the Court's well-reasoned decision and order,"
+T60	Source 2616 2642	Trump lawyer Marc Kasowitz
+T61	Cue 2643 2647	said
+T62	Attribution 2643 2647	said
+E16	Attribution:T62 Cue:T61 Source:T60 Content:T59
+T63	Source 2650 2657	Nervo's
+T64	Cue 2658 2668	conclusion
+T65	Content 2669 2774	that judges shouldn't try to judge information's utility to voters is not universally shared on the bench
+T66	Attribution 2658 2668	conclusion
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Source 2777 2917	Several judges handling federal Freedom of Information Act lawsuits seeking information about Hillary Clinton's tenure as secretary of state
+T68	Cue 2918 2928	have cited
+T69	Content 2929 3019	the upcoming election as a reason to speed release of records held by the State Department
+T70	Attribution 2918 2928	have cited
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67

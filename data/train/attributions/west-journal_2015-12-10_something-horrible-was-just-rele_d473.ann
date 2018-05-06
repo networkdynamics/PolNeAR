@@ -1,0 +1,65 @@
+T1	Content 99 203	Not one, but two Republican candidates would defeat Democratic presidential front-runner Hillary Clinton
+T2	Cue 205 217	according to
+T3	Source 218 228	a new poll
+T4	Attribution 205 217	according to
+E1	Attribution:T4 Source:T3 Cue:T2 Content:T1
+T5	Source 229 233	that
+T6	Cue 234 239	shows
+T7	Content 240 293	more voters view Clinton unfavorably than support her
+T8	Attribution 234 239	shows
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 296 362	The Huffington Post-Morning Consult poll of 2047 registered voters
+T10	Cue 363 385	was released Wednesday
+T11	Attribution-no-source 363 385	was released Wednesday
+E3	Attribution-no-source:T11 Cue:T10 Content:T9
+T12	Source 403 418	a Google search
+T13	Cue 419 424	shows
+T14	Content 425 474	no reports by the major media outlets on the poll
+T15	Attribution 419 424	shows
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 505 513	The poll
+T17	Cue 514 519	shows
+T18	Content 520 585	both Donald Trump and Ben Carson beating Clinton 45 to 40 percent
+T19	Attribution 514 519	shows
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 654 666	The new poll
+T21	Cue 667 672	shows
+T22	Content 673 712	Trump far out in front of his opponents
+T23	Attribution 667 672	shows
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 714 719	Trump
+T25	Cue 720 736	drew the support
+T26	Source 740 784	41 percent of the Republican voters surveyed
+T27	Attribution 720 736	drew the support
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Discard 1217 1260	Do you support Donald Trump? Like the page:
+T29	Source 1382 1390	The poll
+T30	Cue 1391 1402	also showed
+T31	Content 1403 1535	that 59 percent of those surveyed disapprove of President Obama’s performance, and 74 percent said the country is on the wrong track
+T32	Attribution 1391 1402	also showed
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1538 1547	The media
+T34	Cue 1548 1561	silence about
+T35	Content 1562 1580	the poll’s numbers
+T36	Attribution 1548 1561	silence about
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1602 1621	the Huffington Post
+T38	Cue 1707 1711	said
+T39	Content 1712 1753	it would treat the Trump campaign as news
+T40	Attribution 1707 1711	said
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1623 1628	which
+T42	Cue 1629 1644	originally said
+T43	Content 1645 1705	it would cover Trump’s campaign in its entertainment section
+T44	Attribution 1629 1644	originally said
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Content 1764 1802	that news will come with a strong bias
+T46	Cue 1804 1828	according to a post from
+T47	Source 1829 1847	Arianna Huffington
+T48	Attribution 1804 1828	according to a post from
+E12	Attribution:T48 Source:T47 Cue:T46 Content:T45
+T49	Content 1850 2053	“We’ll not only be covering the ways Trump’s campaign is unique in recent American politics, but also the disastrous impact it continues to have on his fellow candidates — and the national conversation,”
+T50	Source 2054 2057	she
+T51	Cue 2058 2063	wrote
+T52	Attribution 2058 2063	wrote
+E13	Attribution:T52 Cue:T51 Source:T50 Content:T49

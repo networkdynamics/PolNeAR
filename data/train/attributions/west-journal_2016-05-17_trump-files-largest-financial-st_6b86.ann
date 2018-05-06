@@ -1,0 +1,63 @@
+T1	Source 0 5	Trump
+T2	Cue 6 11	Files
+T3	Content 12 54	Largest Financial Statement In FEC History
+T4	Attribution 6 11	Files
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 57 92	Presidential candidate Donald Trump
+T6	Cue 93 102	announced
+T7	Content 114 198	that he filed his required financial statement with the Federal Elections Commission
+T8	Attribution 93 102	announced
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 200 206	saying
+T10	Content 207 244	it set a new benchmark for the agency
+T11	Attribution 200 206	saying
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T5
+T12	Content 247 362	“I filed my PFD (Personal Financial Disclosure), which I am proud to say is the largest in the history of the FEC,”
+T13	Source 363 368	Trump
+T14	Cue 369 392	said in a press release
+T15	Attribution 369 392	said in a press release
+E4	Attribution:T15 Cue:T14 Source:T13 Content:T12
+T16	Source 394 407	The candidate
+T17	Cue 408 414	claims
+T18	Content 415 456	his net worth is in excess of $10 billion
+T19	Attribution 408 414	claims
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Content 459 566	“Despite the fact that I am allowed extensions, I have again filed my report, which is 104 pages, on time,”
+T21	Source 567 569	he
+T22	Cue 570 575	added
+T23	Attribution 570 575	added
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Cue 577 583	noting
+T25	Content 584 631	that Sen. Bernie Sanders requested an extension
+T26	Attribution 577 583	noting
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T21
+T27	Content 634 775	“This is the difference between a businessman and the all-talk, no-action politicians that have failed the American people for far too long,”
+T28	Cue 776 780	said
+T29	Source 781 786	Trump
+T30	Attribution 776 780	said
+E8	Attribution:T30 Source:T29 Cue:T28 Content:T27
+T31	Source 796 804	The Hill
+T32	Cue 805 816	pointed out
+T33	Content 818 1040	“Still, Trump has so far declined to release any tax returns, something every major party nominee has done in the modern era. Tax returns are more detailed than the PFDs and include information not on the disclosure form.”
+T34	Attribution 805 816	pointed out
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 1042 1062	Trump’s new PFD form
+T36	Cue 1063 1069	stated
+T37	Content 1070 1146	that his revenue increased from $362 million in 2014 to $557 million in 2015
+T38	Attribution 1063 1069	stated
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Content 1185 1266	The figure does not include dividends, interest, capital gains, rent or royalties
+T40	Cue 1268 1280	according to
+T41	Source 1281 1289	The Hill
+T42	Attribution 1268 1280	according to
+E11	Attribution:T42 Source:T41 Cue:T40 Content:T39
+T43	Content 1292 1476	“This income was utilized, among other things, for the funding of construction projects at various multimillion-dollar developments, reduction of debt and the funding of the campaign,”
+T44	Source 1477 1495	the Trump campaign
+T45	Cue 1496 1520	explained in its release
+T46	Attribution 1496 1520	explained in its release
+E12	Attribution:T46 Cue:T45 Source:T44 Content:T43
+T47	Source 1523 1528	Trump
+T48	Cue 1529 1538	estimates
+T49	Content 1539 1626	that he spent between $45 million and $50 million to date for his presidential campaign
+T50	Attribution 1529 1538	estimates
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47

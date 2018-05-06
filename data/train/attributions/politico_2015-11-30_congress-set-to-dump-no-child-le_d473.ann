@@ -1,0 +1,328 @@
+T1	Source 0 8	Congress
+T2	Cue 9 20	set to dump
+T3	Content 21 41	No Child Left Behind
+T4	Attribution 9 20	set to dump
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 298 307;320 419	The House to pass a bipartisan bill later this week that would dismantle key elements of No Child Left Behind
+T6	Cue 308 319	is expected
+T7	Attribution-no-source 308 319	is expected
+E2	Attribution-no-source:T7 Cue:T6 Content:T5
+T8	Content 541 546	which
+T9	Cue 547 572	is reviled almost equally
+T10	Source 576 594	the left and right
+T11	Attribution 547 572	is reviled almost equally
+E3	Attribution:T11 Source:T10 Cue:T9 Content:T8
+T12	Content 617 633;646 666	which the Senate to vote on next week
+T13	Cue 634 645	is expected
+T14	Attribution-no-source 634 645	is expected
+E4	Attribution-no-source:T14 Cue:T13 Content:T12
+T15	Source 597 615	NCLB’s replacement
+T16	Cue 752 762	repudiates
+T17	Content 763 802	both the Bush and Obama administrations
+T18	Attribution 752 762	repudiates
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Content 885 896	as the bill
+T20	Cue 897 906	is called
+T21	Attribution-no-source 897 906	is called
+E6	Attribution-no-source:T21 Cue:T20 Content:T19
+T25	Source 857 883	Every Student Succeeds Act
+T26	Cue 1101 1108	prevent
+T27	Content 1109 1217	the federal government from using its money and influence to promote national standards like the Common Core
+T28	Attribution 1101 1108	prevent
+E8	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T22	Cue 908 924	would get rid of
+T23	Content 925 1035	the unpopular requirement that schools must get all children reading at their grade level or face consequences
+T24	Attribution 908 924	would get rid of
+E7	Attribution:T24 Cue:T22 Content:T23 Source:T25
+T29	Cue 1220 1233	The agreement
+T30	Content 1234 1274	to toss whole chunks of the landmark law
+T31	Attribution-no-source 1220 1233	The agreement
+E9	Attribution-no-source:T31 Content:T30 Cue:T29
+T32	Source 1331 1334	who
+T33	Cue 1335 1342	decried
+T34	Content 1343 1363	rote testing regimes
+T35	Attribution 1335 1342	decried
+E10	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1379 1382	who
+T37	Cue 1383 1389	wanted
+T38	Content 1390 1429	the federal government out of education
+T39	Attribution 1383 1389	wanted
+E11	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1431 1446	state officials
+T41	Cue 1447 1458	angry about
+T42	Content 1459 1476	unfunded mandates
+T43	Attribution 1447 1458	angry about
+E12	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 1506 1509	who
+T45	Cue 1510 1514	said
+T46	Content 1515 1576	NCLB punished them, rather than giving them needed assistance
+T47	Attribution 1510 1514	said
+E13	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Content 1579 1774	“This will be a really good step forward for all of our parents and our teachers and our students across the country, because it will provide certainty that has been missing for a long time now,”
+T49	Cue 1775 1779	said
+T50	Source 1780 1840	Sen. Patty Murray, a chief Democratic negotiator on the bill
+T51	Attribution 1775 1779	said
+E14	Attribution:T51 Source:T50 Cue:T49 Content:T48
+T52	Content 1843 2042	The Obama administration’s waiver system, put in place after NCLB’s escalating sanctions became increasingly common, has led to uncertainty in many states, including Murray’s home state of Washington
+T53	Source 2044 2047	she
+T54	Cue 2048 2052	said
+T55	Attribution 2048 2052	said
+E15	Attribution:T55 Cue:T54 Source:T53 Content:T52
+T56	Content 2055 2302	“Today, we have a system ... where the secretary of Education gives waivers to schools that are not meeting the requirements, or tells them they are not getting a waiver and they lose federal money. That’s not getting a good education for anyone,”
+T57	Source 2303 2309	Murray
+T58	Cue 2310 2314	said
+T59	Attribution 2310 2314	said
+E16	Attribution:T59 Cue:T58 Source:T57 Content:T56
+T60	Cue 2333 2344	is expected
+T61	Content 2317 2332;2345 2364	The White House to sign the measure
+T62	Attribution-no-source 2333 2344	is expected
+E17	Attribution-no-source:T62 Content:T61 Cue:T60
+T63	Source 2429 2444	almost everyone
+T64	Cue 2445 2451	agrees
+T65	Content 2452 2480	NCLB was a deeply flawed law
+T66	Attribution 2445 2451	agrees
+E18	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Source 2482 2494	some critics
+T68	Cue 2495 2499	fear
+T69	Content 2500 2577	the new approach will leave poor and minority students with fewer protections
+T70	Attribution 2495 2499	fear
+E19	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Content 2580 2642	No Child Left Behind was “very assertive and interventionist,”
+T72	Cue 2643 2647	said
+T73	Source 2648 2733	Gary Orfield, education and law professor at the University of California-Los Angeles
+T74	Attribution 2643 2647	said
+E20	Attribution:T74 Source:T73 Cue:T72 Content:T71
+T75	Source 2735 2737	He
+T76	Cue 2738 2743	added
+T77	Content 2744 2922	that the Obama administration “doubled down the bets” by aggressively using its influence to get states to adopt favored policies, even after No Child Left Behind expired in 2007
+T78	Attribution 2738 2743	added
+E21	Attribution:T78 Content:T77 Cue:T76 Source:T75
+T79	Content 2925 3061	“Now we’re going to get something that’s much worse — a lot of federal money going out for almost no leverage for any national purpose,”
+T80	Source 3062 3069	Orfield
+T81	Cue 3070 3074	said
+T82	Attribution 3070 3074	said
+E22	Attribution:T82 Cue:T81 Source:T80 Content:T79
+T83	Source 3077 3103	Proponents of the new bill
+T84	Cue 3114 3117	say
+T85	Content 3118 3221	it would keep enough federal safeguards in place by having the education department act as an “umpire.”
+T86	Attribution 3114 3117	say
+E23	Attribution:T86 Content:T85 Cue:T84 Source:T83
+T87	Source 3564 3576	testing data
+T88	Cue 3577 3584	to show
+T89	Content 3585 3640	how poor, minority and disabled students are performing
+T90	Attribution 3577 3584	to show
+E24	Attribution:T90 Content:T89 Cue:T88 Source:T87
+T91	Content 3663 3667;3709 3721	that is necessary
+T92	Source 3668 3693	the majority of lawmakers
+T93	Cue 3694 3708	still believes
+T94	Attribution 3694 3708	still believes
+E25	Attribution:T94 Cue:T93 Source:T92 Content:T91
+T95	Content 3753 3761	the bill
+T96	Cue 3762 3780	has the backing of
+T97	Source 3781 3897	many Democrats, including the three members of the Congressional Black Caucus who served on the conference committee
+T98	Attribution 3762 3780	has the backing of
+E26	Attribution:T98 Source:T97 Cue:T96 Content:T95
+T99	Source 3899 4013	Rep. Bobby Scott (D-Va.), ranking member of the House education committee and one of the bill’s chief negotiators,
+T100	Cue 4014 4018	said
+T101	Content 4019 4051	he fully supports the compromise
+T102	Attribution 4014 4018	said
+E27	Attribution:T102 Content:T101 Cue:T100 Source:T99
+T103	Content 4053 4055	So
+T104	Cue 4056 4059	did
+T105	Source 4060 4108	every other Democrat on the conference committee
+T106	Attribution 4056 4059	did
+E28	Attribution:T106 Source:T105 Cue:T104 Content:T103
+T107	Discuss 4053 4108	So did every other Democrat on the conference committee
+T108	Content 4302 4540	“I heard loud and clear from teachers and parents and kids in Connecticut that they wanted the federal government to take a big step back in terms of the role it has played over the last 10 years in the details of local education policy,”
+T109	Cue 4541 4545	said
+T110	Source 4546 4671	Sen. Chris Murphy (D-Conn.), who voted against an earlier Senate bill because he thought it reduced the federal role too much
+T111	Attribution 4541 4545	said
+E29	Attribution:T111 Source:T110 Cue:T109 Content:T108
+T112	Source 4678 4684	Murphy
+T113	Cue 4685 4689	said
+T114	Content 4690 4716	he supports the final bill
+T115	Attribution 4685 4689	said
+E30	Attribution:T115 Content:T114 Cue:T113 Source:T112
+T116	Cue 4787 4799	are designed
+T117	Content 4800 4830	to help poor and minority kids
+T118	Attribution-no-source 4787 4799	are designed
+E31	Attribution-no-source:T118 Content:T117 Cue:T116
+T119	Content 4833 5007	“I was not willing to support a federal education law that didn’t continue to monitor and oversee the progress that minority kids and disabled kids and poor kids are making,”
+T120	Source 5008 5010	he
+T121	Cue 5011 5015	said
+T122	Source 5029 5062	Democrats and civil rights groups
+T123	Cue 5063 5066	say
+T124	Content 5018 5028;5067 5181	One reason they came to the table to hash out a deal in a Republican-controlled Congress was the fear of what might lie ahead
+T125	Attribution 5011 5015	said
+E32	Attribution:T125 Cue:T121 Source:T120 Content:T119
+T126	Attribution 5063 5066	say
+E33	Attribution:T126 Content:T124 Cue:T123 Source:T122
+T127	Source 5183 5308	Some 2016 presidential candidates — for instance, Sen. Ted Cruz of Texas, who voted against the earlier Senate bill in July —
+T128	Cue 5309 5324	have called for
+T129	Content 5325 5386	getting rid of the federal Department of Education altogether
+T130	Attribution 5309 5324	have called for
+E34	Attribution:T130 Content:T129 Cue:T128 Source:T127
+T131	Content 5393 5408;5488 5559	Hillary Clinton to be as strong a proponent of accountability as President Barack Obama
+T132	Cue 5472 5487	is not expected
+T133	Attribution-no-source 5472 5487	is not expected
+E35	Attribution-no-source:T133 Cue:T132 Content:T131
+T134	Source 5626 5694	Many Republicans clamoring for less federal involvement in education
+T135	Cue 5695 5702	support
+T136	Content 5703 5723	the replacement bill
+T137	Attribution 5695 5702	support
+E36	Attribution:T137 Content:T136 Cue:T135 Source:T134
+T138	Source 5843 5846	who
+T139	Cue 5847 5870	have vehemently opposed
+T140	Content 5871 5873	it
+T141	Attribution 5847 5870	have vehemently opposed
+E37	Attribution:T141 Content:T140 Cue:T139 Source:T138
+T142	Source 5905 5942	House Republicans supporting the bill
+T143	Cue 5943 5952	have said
+T144	Content 5953 6006	they think they will have sufficient votes to pass it
+T145	Attribution 5943 5952	have said
+E38	Attribution:T145 Content:T144 Cue:T143 Source:T142
+T146	Source 6009 6153	Marty West, an education professor at Harvard who previously worked for Sen. Lamar Alexander (R-Tenn.), one of the bill’s Republican architects,
+T147	Cue 6154 6160	called
+T148	Content 6161 6204	it “an incredibly significant development.”
+T149	Attribution 6154 6160	called
+E39	Attribution:T149 Content:T148 Cue:T147 Source:T146
+T150	Content 6206 6406	"This is the first reauthorization since at least the 1980s — but arguably dating all the way back to its inception — where you see a rollback of federal involvement, as opposed to further extension,"
+T151	Source 6407 6411	West
+T152	Cue 6412 6416	said
+T153	Attribution 6412 6416	said
+E40	Attribution:T153 Cue:T152 Source:T151 Content:T150
+T154	Source 6433 6453	a newly elected Bush
+T155	Cue 6454 6460	sought
+T156	Content 6461 6488	greater federal involvement
+T157	Attribution 6454 6460	sought
+E41	Attribution:T157 Content:T156 Cue:T155 Source:T154
+T158	Source 6538 6540	he
+T159	Cue 6541 6549	proposed
+T160	Content 6550 6617	greater accountability from schools in exchange for federal dollars
+T161	Attribution 6541 6549	proposed
+E42	Attribution:T161 Content:T160 Cue:T159 Source:T158
+T162	Source 6704 6719	the White House
+T163	Cue 6720 6748	worked with Congress to pass
+T164	Content 6749 6835	a bill that laid out a much more muscular role for the federal government in education
+T165	Attribution 6720 6748	worked with Congress to pass
+E43	Attribution:T165 Content:T164 Cue:T163 Source:T162
+T166	Cue 6876 6886	complaints
+T167	Content 6887 6934	that it was underfunded and overly prescriptive
+T168	Attribution-no-source 6876 6886	complaints
+E44	Attribution-no-source:T168 Content:T167 Cue:T166
+T169	Content 6937 7071;7280 7361	“A lot of people were upset with the idea that the federal government was going to tell you how you were going to cure your problems,” “They said, ‘Wait, that’s our job — that’s the state’s job, the district’s job.’”
+T170	Cue 7072 7076	said
+T171	Source 7077 7278	former Rep. George Miller (D-Calif.), one of the original “big four” negotiators, along with retired Rep. John Boehner (R-Ohio), retired Sen. Judd Gregg (R-N.H.) and the late Sen. Ted Kennedy (D-Mass.)
+T172	Attribution 7072 7076	said
+E45	Attribution:T172 Source:T171 Cue:T170 Content:T169
+T173	Source 7363 7369	Miller
+T174	Cue 7370 7374	said
+T175	Content 7375 7533	he is hopeful the new bill can be “the best of both worlds,” giving states more power, but still protecting the civil rights of poor, mostly minority children
+T176	Attribution 7370 7374	said
+E46	Attribution:T176 Content:T175 Cue:T174 Source:T173
+T177	Source 7574 7605	many experts and some lawmakers
+T178	Cue 7606 7609	say
+T179	Content 7610 7773	it had successes — for instance, spotlighting previously hidden racial achievement gaps by requiring schools to break out student data by race and other categories
+T180	Attribution 7606 7609	say
+E47	Attribution:T180 Content:T179 Cue:T178 Source:T177
+T181	Content 7776 7932	“There’s much more awareness now in poor and minority communities that they don’t want their children hidden from performance standards and accountability,”
+T182	Source 7933 7939	Miller
+T183	Cue 7940 7944	said
+T184	Attribution 7940 7944	said
+E48	Attribution:T184 Cue:T183 Source:T182 Content:T181
+T185	Source 7947 7971	The Obama administration
+T186	Cue 7972 7979	allowed
+T187	Content 7980 8039	some states to combine those categories when reporting data
+T188	Attribution 7972 7979	allowed
+E49	Attribution:T188 Content:T187 Cue:T186 Source:T185
+T189	Content 8041 8051	a practice
+T190	Cue 8052 8062	criticized
+T191	Source 8066 8104	Miller and some civil rights advocates
+T192	Attribution 8052 8062	criticized
+E50	Attribution:T192 Source:T191 Cue:T190 Content:T189
+T193	Source 8106 8118	The new bill
+T194	Cue 8119 8134	would eliminate
+T195	Content 8135 8155	use of that loophole
+T196	Attribution 8119 8134	would eliminate
+E51	Attribution:T196 Content:T195 Cue:T194 Source:T193
+T197	Source 8158 8177	A number of studies
+T198	Cue 8178 8191	have credited
+T199	Content 8192 8307	No Child Left Behind with improving some test scores, especially for poor and minority students, in its early years
+T200	Attribution 8178 8191	have credited
+E52	Attribution:T200 Content:T199 Cue:T198 Source:T197
+T201	Source 8309 8335	One influential 2009 paper
+T202	Cue 8336 8341	found
+T203	Content 8342 8445	improvements in fourth- and eighth-grade math scores, but no evidence of a boost in reading achievement
+T204	Attribution 8336 8341	found
+E53	Attribution:T204 Content:T203 Cue:T202 Source:T201
+T205	Source 8448 8514	Michael J. Petrilli, president of the Thomas B. Fordham Institute,
+T206	Cue 8515 8519	tied
+T207	Content 8520 8566	those test scores to improved graduation rates
+T208	Attribution 8515 8519	tied
+E54	Attribution:T208 Content:T207 Cue:T206 Source:T205
+T209	Cue 8568 8574	saying
+T210	Content 8575 8699	the law helped “millions of kids who would have been on a trajectory to drop out of high school, and instead, they made it.”
+T211	Attribution 8568 8574	saying
+E55	Attribution:T211 Cue:T209 Content:T210 Source:T205
+T212	Source 8718 8721	who
+T213	Cue 8722 8728	thinks
+T214	Content 8729 8799	the Obama administration made a power grab with its education policies
+T215	Attribution 8722 8728	thinks
+E56	Attribution:T215 Content:T214 Cue:T213 Source:T212
+T216	Source 8708 8716	Petrilli
+T217	Cue 8801 8807	called
+T218	Content 8808 8865	the new law “much, much better” than No Child Left Behind
+T219	Attribution 8801 8807	called
+E57	Attribution:T219 Content:T218 Cue:T217 Source:T216
+T220	Content 8920 8983;8993 9063	“We need to be humble about how much we know about what works,” “Allowing another era for state experimentation makes a lot of sense.”
+T221	Source 8984 8986	he
+T222	Cue 8987 8991	said
+T223	Attribution 8987 8991	said
+E58	Attribution:T223 Cue:T222 Source:T221 Content:T220
+T224	Cue 9093 9110	multiple attempts
+T225	Content 9111 9148	to rewrite the highly politicized law
+T226	Attribution-no-source 9093 9110	multiple attempts
+E59	Attribution-no-source:T226 Content:T225 Cue:T224
+T227	Content 9222 9228;9243 9317	States to test students annually in math and reading, and occasionally in science
+T228	Cue 9229 9242	were required
+T229	Attribution-no-source 9229 9242	were required
+E60	Attribution-no-source:T229 Cue:T228 Content:T227
+T230	Content 9513 9621	Students in urban districts typically take 112 standardized tests by the time they graduate from high school
+T231	Source 9623 9671	a study by the Council of the Great City Schools
+T232	Cue 9672 9677	found
+T233	Attribution 9672 9677	found
+E61	Attribution:T233 Cue:T232 Source:T231 Content:T230
+T234	Content 9784 9791;9806 9887	Waivers to give states a reprieve from the sanctions associated with No Child Left Behind
+T235	Cue 9792 9805	were designed
+T236	Attribution-no-source 9792 9805	were designed
+E62	Attribution-no-source:T236 Cue:T235 Content:T234
+T237	Content 9937 9941	that
+T238	Cue 9942 9955	are unpopular
+T239	Source 9961 9972	Republicans
+T240	Attribution 9942 9955	are unpopular
+E63	Attribution:T240 Source:T239 Cue:T238 Content:T237
+T241	Source 9993 10004	the waivers
+T242	Cue 10005 10011	pushed
+T243	Content 10012 10059	states to adopt rigorous standards for students
+T244	Attribution 10005 10011	pushed
+E64	Attribution:T244 Content:T243 Cue:T242 Source:T241
+T245	Content 10165 10170	which
+T246	Cue 10171 10183	were adopted
+T247	Source 10187 10206	more than 40 states
+T248	Attribution 10171 10183	were adopted
+E65	Attribution:T248 Source:T247 Cue:T246 Content:T245
+T249	Source 10209 10291	Sen. Johnny Isakson (R-Ga.), one of the few NCLB co-authors still on Capitol Hill,
+T250	Cue 10292 10296	said
+T251	Content 10297 10411	he remembers celebrating with the Kennedy and Chris Dodd (D-Conn.) the night the final conference report was filed
+T252	Attribution 10292 10296	said
+E66	Attribution:T252 Content:T251 Cue:T250 Source:T249
+T253	Source 10428 10432	they
+T254	Cue 10433 10442	discussed
+T255	Content 10443 10575	how the law “was going to go from a positive to a negative” as sanctions for states ramped up, and how it would need to be rewritten
+T256	Attribution 10433 10442	discussed
+E67	Attribution:T256 Content:T255 Cue:T254 Source:T253
+T257	Content 10637 10658	“We waited too long,”
+T258	Source 10659 10666	Isakson
+T259	Cue 10667 10671	said
+T260	Attribution 10667 10671	said
+E68	Attribution:T260 Cue:T259 Source:T258 Content:T257

@@ -1,0 +1,69 @@
+T1	Source 54 62	Underdog
+T2	Cue 63 67	sees
+T3	Content 68 99	prospect to sway superdelegates
+T4	Attribution 63 67	sees
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 102 116	Bernie Sanders
+T6	Cue 117 122	calls
+T7	Content 123 146	it the "big enchilada."
+T8	Attribution 117 122	calls
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 431 572;628 768	"By the time our campaign in California is over on Monday, we will have spoken to a quarter-of-a-million people in California, face to face," "It's a grass-roots campaign, it's going directly to the people, and I think that is why we stand an excellent chance to win it on Tuesday."
+T10	Source 573 580	Sanders
+T11	Cue 581 585	said
+T12	Attribution 581 585	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 953 956	who
+T14	Cue 957 969	can vote for
+T15	Content 970 1037	the candidate of their choice at the Democratic National Convention
+T16	Attribution 957 969	can vote for
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 1040 1167	Counting her superdelegate support, Clinton is  71 delegates short of the magic number of 2,383 needed to clinch the nomination
+T18	Cue 1169 1181	according to
+T19	Source 1182 1202	the Associated Press
+T20	Attribution 1169 1181	according to
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Source 1476 1479	him
+T22	Cue 1480 1493	make his case
+T23	Content 1512 1587	that he's the best candidate to defeat presumptive GOP nominee Donald Trump
+T24	Attribution 1480 1493	make his case
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 1589 1715	That would create a "summer of agony" for Clinton leading up to the convention, forcing her to fend off both Trump and Sanders
+T26	Cue 1717 1721	said
+T27	Source 1722 1771	Brad Bannon, a Democratic pollster and consultant
+T28	Attribution 1717 1721	said
+E7	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Content 1774 1828	Clinton leads Sanders in California by  about 6 points
+T30	Cue 1830 1842	according to
+T31	Source 1843 1886	a RealClearPolitics average of recent polls
+T32	Attribution 1830 1842	according to
+E8	Attribution:T32 Source:T31 Cue:T30 Content:T29
+T33	Source 1942 1960	Clinton's campaign
+T34	Cue 1917 1941	hasn't gone unnoticed by
+T35	Content 1889 1916	Sanders' focus on the state
+T36	Attribution 1917 1941	hasn't gone unnoticed by
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 2089 2171	Clinton has a strong ground game and support from all major Democrats in the state
+T38	Cue 2173 2177	said
+T39	Source 2178 2310	Mindy Romero, director of the California Civic Engagement Project at the University of California, Davis, Center for Regional Change
+T40	Attribution 2173 2177	said
+E10	Attribution:T40 Source:T39 Cue:T38 Content:T37
+T41	Source 2324 2340	Gov. Jerry Brown
+T42	Cue 2341 2349	endorsed
+T43	Content 2350 2353	her
+T44	Attribution 2341 2349	endorsed
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Cue 2355 2361	citing
+T46	Content 2362 2428	her "long experience," "firm grasp of the issues" and preparedness
+T47	Attribution 2355 2361	citing
+E12	Attribution:T47 Source:T41 Cue:T45 Content:T46
+T48	Content 2435 2621	California has seen an unprecedented surge of newly registered voters -- 1.1 million between January and April -- driven largely by an easier online registration process launched in 2012
+T49	Source 2623 2629	Romero
+T50	Cue 2630 2634	said
+T51	Attribution 2630 2634	said
+E13	Attribution:T51 Cue:T50 Source:T49 Content:T48
+T52	Content 2699 2873;2884 2944	"We think that these voters are particularly motivated, they're registering in big numbers, and because they're young, we know from polls that they're going to favor Bernie," "He has to seal the deal and get them to actually turn out."
+T53	Source 2874 2877	she
+T54	Cue 2878 2882	said
+T55	Attribution 2878 2882	said
+E14	Attribution:T55 Cue:T54 Source:T53 Content:T52

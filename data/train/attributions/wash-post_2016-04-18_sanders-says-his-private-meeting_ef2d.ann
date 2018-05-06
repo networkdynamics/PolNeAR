@@ -1,0 +1,79 @@
+T1	Source 0 7	Sanders
+T2	Cue 8 12	says
+T3	Content 13 72	his private meeting with Pope Francis is not an endorsement
+T4	Attribution 8 12	says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 205 242	The Democratic presidential candidate
+T6	Cue 243 247	said
+T7	Content 248 341	the meeting was for personal reasons and does not constitute an endorsement from the Holy See
+T8	Attribution 243 247	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 344 525	"I am an enormous fan of the pope because I think he has played a transformative role in the world in talking about issues that very rarely get the kind of discussion they deserve,"
+T10	Source 526 533	Sanders
+T11	Cue 534 538	said
+T12	Attribution 534 538	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Content 583 932;934 967;987 1097	"Whether it is income and wealth inequality, whether it is what he calls the dispossessed, the young people, the old people, the unemployed people who are on the sidelines of society, whether it is the ideology of greed, whether it is need to transform our energy system away from fossil fuel to save the planet, he has been a transformative leader. "And he is a very beautiful man," "When you meet him, you see something very, very special in his face. He is a man of peace, and you see that."
+T14	Source 968 975	Sanders
+T15	Cue 976 985	continued
+T16	Attribution 976 985	continued
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 1179 1181	He
+T18	Cue 1182 1186	said
+T19	Content 1187 1257	that there was no discussion of his underdog candidacy or the election
+T20	Attribution 1182 1186	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 1373 1377;1393 1443	also "to make clear that there is no endorsement here."
+T22	Source 1379 1386	Sanders
+T23	Cue 1387 1391	said
+T24	Attribution 1387 1391	said
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Content 1445 1596	On Saturday, Francis made clear that his meeting with Sanders was not political, saying that those who thought it was should "look for a psychiatrist,"
+T26	Cue 1597 1609	according to
+T27	Source 1610 1617	Reuters
+T28	Attribution 1597 1609	according to
+E7	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Content 1695 1860;1884 2011	"When I came down, I greeted him, I shook his hand and nothing more. This is called good manners and it is not getting involved in politics," the pope told reporters during an answer to a question aboard the plane returning from the Greek island of Lesbos, where Francis visited a refugee camp
+T30	Cue 1862 1874	according to
+T31	Source 1875 1882	Reuters
+T32	Attribution 1862 1874	according to
+E8	Attribution:T32 Source:T31 Cue:T30 Content:T29
+T33	Content 2156 2158;2171 2197	He to attend as well as speak
+T34	Cue 2159 2170	was invited
+T35	Attribution-no-source 2159 2170	was invited
+E9	Attribution-no-source:T35 Cue:T34 Content:T33
+T36	Source 2314 2321	Sanders
+T37	Cue 2322 2338	is looking ahead
+T38	Content 2339 2453	to how he would continue and expand the focus on very liberal social justice issues that has defined his candidacy
+T39	Attribution 2322 2338	is looking ahead
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Content 2670 2931	"If elected president, I certainly would look forward to working with the pope in trying to create a moral economy, which was the theme of this conference, an economy which challenges the idea that greed has got to be the dominant force in the world's economy,"
+T41	Source 2932 2939	Sanders
+T42	Cue 2940 2944	said
+T43	Attribution 2940 2944	said
+E11	Attribution:T43 Cue:T42 Source:T41 Content:T40
+T44	Source 2947 2970	Sanders and the pontiff
+T45	Cue 2971 2987	share many goals
+T46	Content 2988 3033	for social justice and economic restructuring
+T47	Attribution 2971 2987	share many goals
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Source 3039 3046	Sanders
+T49	Cue 3047 3056	suggested
+T50	Content 3057 3130	that, and not his candidacy, was the reason for the audience with Francis
+T51	Attribution 3047 3056	suggested
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Content 3133 3261	"The speech that I gave yesterday would have been the speech 10 years ago, long before I ever dreamed of running for president,"
+T53	Source 3262 3264	he
+T54	Cue 3265 3269	said
+T55	Attribution 3265 3269	said
+E14	Attribution:T55 Cue:T54 Source:T53 Content:T52
+T56	Source 3313 3320	Sanders
+T57	Cue 3321 3325	said
+T58	Content 3326 3403	the trip was "absolutely" a worthwhile diversion from campaigning in New York
+T59	Attribution 3321 3325	said
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Content 3483 3565	"This was an invitation that I would never have forgiven myself if I had refused,"
+T61	Source 3566 3573	Sanders
+T62	Cue 3574 3578	said
+T63	Attribution 3574 3578	said
+E16	Attribution:T63 Cue:T62 Source:T61 Content:T60

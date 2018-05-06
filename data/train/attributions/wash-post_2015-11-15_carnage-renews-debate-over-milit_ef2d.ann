@@ -1,0 +1,220 @@
+T1	Cue 15 26	debate over
+T2	Content 27 49	military and terrorism
+T3	Attribution-no-source 15 26	debate over
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Cue 153 167	a debate about
+T5	Content 171 245	how to wield American power against the fast-growing Islamic State network
+T6	Attribution-no-source 153 167	a debate about
+E2	Attribution-no-source:T6 Content:T5 Cue:T4
+T7	Content 578 587;602 615	questions not to answer
+T8	Source 588 591	she
+T9	Cue 592 601	preferred
+T10	Content 618 672;673 727	"This election is not only about electing a president. It's also about choosing our next commander in chief,"
+T11	Source 728 735	Clinton
+T12	Cue 736 740	said
+T13	Cue 791 806	questions about
+T14	Content 807 904	U.S. leadership and willingness to take on what has become the world's foremost terrorist network
+T15	Attribution 592 601	preferred
+E3	Attribution:T15 Content:T7 Source:T8 Cue:T9
+T16	Attribution 736 740	said
+E4	Attribution:T16 Content:T10 Source:T11 Cue:T12
+T17	Attribution-no-source 791 806	questions about
+E5	Attribution-no-source:T17 Content:T14 Cue:T13
+T18	Source 907 938	The three Democratic candidates
+T19	Cue 939 956	broadly agreed on
+T20	Content 957 1033	a moral responsibility for U.S. leadership to confront the al-Qaeda offshoot
+T21	Attribution 939 956	broadly agreed on
+E6	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Content 1035 1040;1085 1183	which for the coordinated attacks that killed more than 125 people in the French capital on Friday night
+T23	Source 1041 1077	French President FranÃ§ois Hollande
+T24	Cue 1078 1084	blamed
+T25	Attribution 1078 1084	blamed
+E7	Attribution:T25 Cue:T24 Source:T23 Content:T22
+T26	Source 1192 1236	the top candidates of both political parties
+T27	Cue 1237 1240	say
+T28	Content 1241 1318	the United States must play a prominent role in confronting the Islamic State
+T29	Attribution 1237 1240	say
+E8	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Source 1320 1324	they
+T31	Cue 1325 1362	differ by degree in their support for
+T32	Content 1363 1402	what would be a new war in all but name
+T33	Attribution 1325 1362	differ by degree in their support for
+E9	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Source 1405 1426	Republican candidates
+T35	Cue 1427 1445	were quick to cast
+T36	Content 1446 1621	the attacks as the consequence of failed U.S. leadership in the world - an indictment of the Obama administration and, by extension, its first-term secretary of state, Clinton
+T37	Attribution 1427 1445	were quick to cast
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Content 1624 1666	"Boots on the ground" would be appropriate
+T39	Source 1668 1699	Republican candidate Ben Carson
+T40	Cue 1700 1704	said
+T41	Attribution 1700 1704	said
+E11	Attribution:T41 Cue:T40 Source:T39 Content:T38
+T42	Source 1725 1754	GOP front-runner Donald Trump
+T43	Cue 1857 1861	said
+T44	Content 1891 1996	that the United States should also close its borders to Syrian refugees because they pose a security risk
+T45	Attribution 1857 1861	said
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 1757 1760	who
+T47	Cue 1761 1776	previously said
+T48	Content 1777 1854	he would "bomb the [expletive] out of" oil fields seized by the Islamic State
+T49	Attribution 1761 1776	previously said
+E13	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Content 2161 2168;2178 2320	Clinton to have the most to gain, given her foreign policy experience, but also the most at risk as the Obama administration's record comes under fire
+T51	Cue 2169 2177	appeared
+T52	Attribution-no-source 2169 2177	appeared
+E14	Attribution-no-source:T52 Cue:T51 Content:T50
+T53	Source 2391 2394	who
+T54	Cue 2395 2401	wanted
+T55	Content 2402 2528	to know whether the Obama administration bears responsibility for underestimating the Islamic State terrorist network early on
+T56	Attribution 2395 2401	wanted
+E15	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Content 2593 2598;2621 2662	which U.S. leaders to use to describe the enemy
+T58	Source 2599 2615	some Republicans
+T59	Cue 2616 2620	want
+T60	Attribution 2616 2620	want
+E16	Attribution:T60 Cue:T59 Source:T58 Content:T57
+T61	Source 2664 2667	She
+T62	Cue 2668 2679	referred to
+T63	Content 2680 2688	jihadism
+T64	Attribution 2668 2679	referred to
+E17	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Cue 2693 2716	was careful not to link
+T66	Content 2717 2740	it directly to religion
+T67	Attribution 2693 2716	was careful not to link
+E18	Attribution:T67 Source:T61 Cue:T65 Content:T66
+T68	Content 2743 2784;2795 2823;2825 2920	"I don't think we are at war with Islam," only with violent extremists "Yes, we are at war with those people, but I don't want to be painting with too broad a brush."
+T69	Source 2785 2788	she
+T70	Cue 2789 2793	said
+T71	Attribution 2789 2793	said
+E19	Attribution:T71 Cue:T70 Source:T69 Content:T68
+T72	Source 2922 2942	All three candidates
+T73	Cue 2943 2971	issued statements condemning
+T74	Content 2972 2995	the coordinated attacks
+T75	Attribution 2943 2971	issued statements condemning
+E20	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 3001 3005	none
+T77	Cue 3006 3014	has said
+T78	Content 3015 3055	they want heavy U.S. military engagement
+T79	Attribution 3006 3014	has said
+E21	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Source 3061 3068	Clinton
+T81	Cue 3069 3077	has said
+T82	Content 3078 3135	she wants to establish a safe zone for civilians in Syria
+T83	Attribution 3069 3077	has said
+E22	Attribution:T83 Content:T82 Cue:T81 Source:T80
+T84	Cue 3140 3165	has expressed support for
+T85	Content 3166 3196	wider U.S. military engagement
+T86	Attribution 3140 3165	has expressed support for
+E23	Attribution:T86 Source:T80 Cue:T84 Content:T85
+T87	Cue 3198 3214	without offering
+T88	Content 3215 3224	specifics
+T89	Attribution 3198 3214	without offering
+E24	Attribution:T89 Source:T80 Cue:T87 Content:T88
+T90	Source 3585 3592	Sanders
+T91	Cue 3593 3609	pledged Saturday
+T92	Content 3610 3659	to rid the world of "this barbarous organization"
+T93	Attribution 3593 3609	pledged Saturday
+E25	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Cue 3664 3681	said little about
+T95	Content 3682 3685	how
+T96	Attribution 3664 3681	said little about
+E26	Attribution:T96 Source:T90 Cue:T94 Content:T95
+T97	Source 3687 3704	None of the three
+T98	Cue 3705 3720	laid out a plan
+T99	Content 3721 3762	to more aggressively wield military power
+T100	Attribution 3705 3720	laid out a plan
+E27	Attribution:T100 Content:T99 Cue:T98 Source:T97
+T101	Source 3765 3772	Clinton
+T102	Cue 3773 3782	is hoping
+T103	Content 3784 3877	oters see her as ready for the job as commander in chief on Day 1, no learning curve required
+T104	Attribution 3773 3782	is hoping
+E28	Attribution:T104 Content:T103 Cue:T102 Source:T101
+T105	Source 3879 3886	Sanders
+T106	Cue 3887 3892	wants
+T107	Content 3893 3996	voters to recall that he took a rare and unpopular stand against the Iraq war when Clinton voted for it
+T108	Attribution 3887 3892	wants
+E29	Attribution:T108 Content:T107 Cue:T106 Source:T105
+T109	Content 4013 4017;4038 4149	that for rocking the despotic equilibrium of the Middle East and leading indirectly to the rise of the Islamic State
+T110	Source 4018 4031	many analysts
+T111	Cue 4032 4037	blame
+T112	Attribution 4032 4037	blame
+E30	Attribution:T112 Cue:T111 Source:T110 Content:T109
+T113	Content 4221 4229;4262 4305	the race as a contest between insiders and outsiders
+T114	Cue 4230 4261	has so far been largely defined
+T115	Attribution-no-source 4230 4261	has so far been largely defined
+E31	Attribution-no-source:T115 Cue:T114 Content:T113
+T116	Source 4561 4565	both
+T117	Cue 4566 4582	have put forward
+T118	Content 4583 4615	fairly detailed policy proposals
+T119	Attribution 4566 4582	have put forward
+E32	Attribution:T119 Content:T118 Cue:T117 Source:T116
+T120	Source 4912 4917	Trump
+T121	Cue 4918 4928	summing up
+T122	Content 4929 5046	the growing partisan divide over how to confront Islamic State terrorists and who is to blame for the group's success
+T123	Attribution 4918 4928	summing up
+E33	Attribution:T123 Content:T122 Cue:T121 Source:T120
+T124	Content 5048 5117	"We need much tougher, much smarter leadership - and we need it NOW!"
+T125	Source 5118 5123	Trump
+T126	Cue 5124 5128	said
+T127	Attribution 5124 5128	said
+E34	Attribution:T127 Cue:T126 Source:T125 Content:T124
+T128	Source 5142 5169	Trump and other Republicans
+T129	Cue 5170 5180	pointed at
+T130	Content 5181 5273	what they called President Obama's failure to understand and counter Islamic State militants
+T131	Attribution 5170 5180	pointed at
+E35	Attribution:T131 Content:T130 Cue:T129 Source:T128
+T132	Source 5275 5277	It
+T133	Cue 5367 5372	vowed
+T134	Content 5373 5408	a wider war against Western thought
+T135	Attribution 5367 5372	vowed
+E36	Attribution:T135 Content:T134 Cue:T133 Source:T132
+T136	Content 5411 5523;5524 5542;5543 5551	"President Obama said 'ISIL continues to shrink' in an interview just hours before the horrible attack in Paris. He is just so bad! CHANGE,"
+T137	Source 5552 5557	Trump
+T138	Cue 5558 5565	tweeted
+T139	Attribution 5558 5565	tweeted
+E37	Attribution:T139 Cue:T138 Source:T137 Content:T136
+T140	Source 5568 5573	Obama
+T141	Cue 5574 5582	had said
+T142	Content 5628 5731	that the United States had "contained" the Islamic State from expanding its land grab in Iraq and Syria
+T143	Attribution 5574 5582	had said
+E38	Attribution:T143 Content:T142 Cue:T141 Source:T140
+T144	Content 5733 5742;5757 5786	The group by the acronyms ISIL and ISIS
+T145	Cue 5743 5756	is also known
+T146	Attribution-no-source 5743 5756	is also known
+E39	Attribution-no-source:T146 Cue:T145 Content:T144
+T147	Content 5790 5893	What we have not yet been able to do is to completely decapitate their command and control structures,"
+T148	Source 5894 5899	Obama
+T149	Cue 5900 5904	said
+T150	Attribution 5900 5904	said
+E40	Attribution:T150 Cue:T149 Source:T148 Content:T147
+T151	Source 6084 6089	Obama
+T152	Cue 6090 6107	has also approved
+T153	Content 6108 6183	a small number of special operations forces to help rebel fighters in Syria
+T154	Attribution 6090 6107	has also approved
+E41	Attribution:T154 Content:T153 Cue:T152 Source:T151
+T155	Source 6355 6358	She
+T156	Cue 6359 6385	has spoken at length about
+T157	Content 6386 6501	her difference of opinion with Obama over whether to arm and train Syrian rebels much earlier, an argument she lost
+T158	Attribution 6359 6385	has spoken at length about
+E42	Attribution:T158 Content:T157 Cue:T156 Source:T155
+T159	Source 6504 6540	Several candidates, including Trump,
+T160	Cue 6541 6545	said
+T161	Content 6546 6662	the United States should either refuse to take more Syrian refugees or take measures to tighten U.S. border controls
+T162	Attribution 6541 6545	said
+E43	Attribution:T162 Content:T161 Cue:T160 Source:T159
+T163	Content 6665 6758;6770 6900;6901 7000	"We need to consult closely with our NATO allies who may be targeted for additional attacks," "We need to immediately declare a halt to any plans to bring refugees that may have been infiltrated by ISIS to the United States. We need to redouble our efforts to prevent ISIS agents from penetrating our nation by other means."
+T164	Source 6759 6763	Cruz
+T165	Cue 6764 6768	said
+T166	Attribution 6764 6768	said
+E44	Attribution:T166 Cue:T165 Source:T164 Content:T163
+T167	Content 7002 7064	"This is an organized effort to destroy Western civilization,"
+T168	Source 7065 7069	Bush
+T169	Cue 7070 7074	said
+T170	Attribution 7070 7074	said
+E45	Attribution:T170 Cue:T169 Source:T168 Content:T167
+T171	Source 7121 7126	Rubio
+T172	Cue 7127 7131	said
+T173	Content 7132 7302	the United States "must increase our efforts at home and abroad to improve our defenses, destroy terrorist networks, and deprive them of the space from which to operate."
+T174	Attribution 7127 7131	said
+E46	Attribution:T174 Content:T173 Cue:T172 Source:T171

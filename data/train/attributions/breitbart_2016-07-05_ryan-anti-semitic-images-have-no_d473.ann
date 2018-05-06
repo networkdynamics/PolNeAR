@@ -1,0 +1,25 @@
+T1	Source 0 4	Ryan
+T2	Cue 4 5	:
+T3	Content 6 71	‘Anti-Semitic Images’ Have ‘No Place In A Presidential Campaign.’
+T4	Attribution 4 5	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 126 136	discussing
+T6	Content 137 317	a controversial tweet from presumptive Republican presidential nominee Donald Trump featuring an image of Hillary Clinton, money and a six-pointed star likened to the Star of David
+T7	Source 319 361	Speaker of the House Rep. Paul Ryan (R-WI)
+T8	Attribution 126 136	discussing
+E2	Attribution:T8 Source:T7 Content:T6 Cue:T5
+T9	Cue 362 366	said
+T10	Content 367 438	“anti-Semitic images, they’ve got no place in a presidential campaign.”
+T11	Attribution 362 366	said
+E3	Attribution:T11 Cue:T9 Content:T10 Source:T7
+T12	Source 440 444	Ryan
+T13	Cue 445 449	said
+T14	Content 450 722	“Look, anti-Semitic images, they’ve got no place in a presidential campaign. Candidates should know that. The tweet’s been deleted. I don’t know what flunky put this up there. They obviously have to fix that. We’ve got to get back to the issues that matter to the public.”
+T15	Attribution 445 449	said
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 724 726	He
+T17	Cue 727 732	added
+T18	Content 734 947	“Look I’ve made this really really clear, the point is, I think he has got to clean this up. My understand is this was done by staff and not by he himself. But more importantly they’ve got to clean this thing up.”
+T19	Attribution 727 732	added
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Discard 949 964	(h/t The Hill.)

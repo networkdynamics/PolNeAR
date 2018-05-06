@@ -1,0 +1,50 @@
+T1	Source 0 10	News Guide
+T2	Cue 10 11	:
+T3	Content 12 58	Donors flocked to Rubio super PAC, to no avail
+T4	Source 132 148	an outside group
+T5	Cue 149 156	backing
+T6	Content 157 207	then-Republican presidential candidate Marco Rubio
+T7	Attribution 10 11	:
+E1	Attribution:T7 Cue:T2 Source:T1 Content:T3
+T8	Attribution 149 156	backing
+E2	Attribution:T8 Content:T6 Cue:T5 Source:T4
+T9	Source 740 766	Conservative Solutions PAC
+T10	Cue 767 805	raised about $58 million in support of
+T11	Content 806 811	Rubio
+T12	Attribution 767 805	raised about $58 million in support of
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 915 938	new fundraising reports
+T14	Cue 939 943	show
+T15	Content 853 913	More than 40 percent of that money arrived in February alone
+T16	Attribution 939 943	show
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 1416 1423	a group
+T18	Cue 1424 1431	backing
+T19	Content 1432 1466	former Arkansas Gov. Mike Huckabee
+T20	Attribution 1424 1431	backing
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 1704 1711	a group
+T22	Cue 1712 1719	backing
+T23	Content 1720 1724	Bush
+T24	Attribution 1712 1719	backing
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1954 1975	fundraising documents
+T26	Cue 1976 1980	show
+T27	Content 1879 1952	Bush had to lend his campaign hundreds of thousands of dollars last month
+T28	Attribution 1976 1980	show
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Cue 2425 2437	according to
+T30	Source 2438 2468	his campaign finance documents
+T31	Content 2329 2424	in February he raised $5.7 million, and he had almost $5 million in cash at the start of March,
+T32	Attribution 2425 2437	according to
+E8	Attribution:T32 Content:T31 Source:T30 Cue:T29
+T33	Source 985 990	whose
+T34	Cue 991 999	favorite
+T35	Content 1000 1010	candidates
+T36	Discuss 985 1010	whose favorite candidates
+T37	Attribution 991 999	favorite
+E9	Attribution:T37 Content:T35 Cue:T34 Source:T33
+T38	Cue 2026 2034	appeared
+T39	Content 2011 2025;2035 2107	Chris Christie to end his bid owing roughly $200,000 more than he had in available cash
+T40	Attribution-no-source 2026 2034	appeared
+E10	Attribution-no-source:T40 Content:T39 Cue:T38

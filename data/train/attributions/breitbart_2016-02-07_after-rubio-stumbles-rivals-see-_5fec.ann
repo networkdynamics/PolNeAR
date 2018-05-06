@@ -1,0 +1,25 @@
+T1	Source 22 28	rivals
+T2	Cue 29 32	see
+T3	Content 33 57	opening in New Hampshire
+T4	Attribution 29 32	see
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 185 266	a trio of governors seeking to stem his rise in the Republican race for president
+T9	Cue 170 184	has emboldened
+T10	Content 81 169	Marco Rubio’s uneven debate performance just days before Tuesday’s New Hampshire primary
+T11	Source 651 659	Christie
+T13	Content 696 722	Rubio in Saturday’s debate
+T12	Cue 660 695	unleashed withering attacks against
+T14	Attribution 170 184	has emboldened
+E3	Attribution:T14 Source:T5 Cue:T9 Content:T10
+T15	Source 728 751	the New Jersey governor
+T16	Cue 752 800	tripped up Rubio by calling him out in real-time
+T17	Content 801 845	for his reliance on rehearsed talking points
+T18	Attribution 660 695	unleashed withering attacks against
+E4	Attribution:T18 Cue:T12 Content:T13 Source:T11
+T19	Attribution 752 800	tripped up Rubio by calling him out in real-time
+E5	Attribution:T19 Content:T17 Cue:T16 Source:T15
+T20	Source 562 590	the freshman Florida senator
+T21	Cue 591 626	has the experience and policy depth
+T22	Content 627 648	to serve as president
+T23	Attribution 591 626	has the experience and policy depth
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20

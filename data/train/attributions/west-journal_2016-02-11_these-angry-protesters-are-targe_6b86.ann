@@ -1,0 +1,66 @@
+T1	Source 92 143	Supporters of a federally mandated $15 minimum wage
+T2	Cue 144 148	plan
+T3	Content 149 231	to protest at Thursday night’s Democratic presidential primary debate in Milwaukee
+T4	Attribution 144 148	plan
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 252 290	Democrat socialist Sen. Bernie Sanders
+T6	Cue 291 299	supports
+T7	Content 300 312	the proposal
+T8	Attribution 291 299	supports
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 314 335	Rival Hillary Clinton
+T10	Cue 346 359	has indicated
+T11	Content 360 414	she would not go above a $12 minimum wage at this time
+T12	Attribution 346 359	has indicated
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 417 511	The union-backed “Fight for $15” movement plans to protest the debate in support of the policy
+T14	Cue 530 537	reports
+T15	Source 513 529	the Daily Caller
+T16	Attribution 530 537	reports
+E4	Attribution:T16 Source:T15 Cue:T14 Content:T13
+T17	Content 540 716;795 906	“They have to decide whether to feed themselves or their kids, so they’re not concerned with political parties or whether a candidate is running for city council or president,” “They care about two things: Getting $15 an hour and the right to unionize. It’s about getting out of poverty.”
+T18	Source 717 764	Fight for $15 organizing director Kendall Fells
+T19	Cue 765 769	told
+T20	Attribution 765 769	told
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 908 915	Sanders
+T22	Cue 916 955	started a petition this week calling on
+T23	Content 956 1009	Democratic candidates to support the $15 minimum wage
+T24	Source 1053 1082	The former secretary of state
+T25	Cue 1083 1096	has supported
+T26	Content 1097 1163	localities deciding whether the $15 minimum wage is right for them
+T27	Attribution 947 955	lling on
+E6	Attribution:T27 Cue:T22 Content:T23 Source:T21
+T28	Attribution 1083 1096	has supported
+E7	Attribution:T28 Content:T26 Cue:T25 Source:T24
+T29	Discard 1166 1367	<tweet tweet-author="@SkyNews" tweet-date="February 10, 2016">.@BernieSanders promises to raise minimum wage to $15 in #NHPrimary victory speech https://t.co/wX4LsVFCNN https://t.co/vkqB2IgMc4<tweet/>.
+T30	Cue 1372 1380	reported
+T31	Source 1384 1402	Western Journalism
+T32	Content 1404 1544	last year Seattle became the first major city in the country to mandate a $15 minimum wage, which is being phased in over the next few years
+T33	Attribution 1372 1380	reported
+E8	Attribution:T33 Content:T32 Source:T31 Cue:T30
+T34	Content 1778 2103	“Some restaurants have tacked on a 15 percent surcharge to cover the higher wages. And some managers are no longer encouraging customers to tip, leading to a redistribution of income. Workers in the back of the kitchen, such as dishwashers and cooks, are getting paid more, but servers who rely on tips are seeing a pay cut,”
+T35	Source 2104 2112	Fox News
+T36	Cue 2113 2121	reported
+T37	Attribution 2113 2121	reported
+E9	Attribution:T37 Cue:T36 Source:T35 Content:T34
+T38	Source 2124 2193	Anthony Anton, president and CEO of Washington Restaurant Association
+T39	Cue 2194 2200	stated
+T40	Content 2202 2254	“It’s not a political problem; it’s a math problem.”
+T41	Attribution 2194 2200	stated
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Source 2599 2622	The Heritage Foundation
+T43	Cue 2623 2628	notes
+T44	Content 2629 2721	the minimum wage is usually for new workers, with a low percentage of Americans receiving it
+T45	Attribution 2623 2628	notes
+E11	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 2723 2739	The organization
+T47	Cue 2740 2755	also points out
+T48	Content 2756 2790;2792 2934	some other interesting statistics: The current federally mandated minimum wage is $7.25, though over half the states have set a higher amount, usually ranging between $8 and $10
+T49	Attribution 2740 2755	also points out
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 2937 2963	New York Gov. Andrew Cuomo
+T51	Cue 2964 2988	is currently pushing for
+T52	Content 2989 3057	his state to become the first in the nation to require a $15 minimum
+T53	Attribution 2964 2988	is currently pushing for
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50

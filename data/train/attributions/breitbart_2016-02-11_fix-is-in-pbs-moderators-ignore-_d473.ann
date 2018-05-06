@@ -1,0 +1,70 @@
+T1	Source 11 25	PBS Moderators
+T2	Cue 26 32	Ignore
+T3	Content 33 49	Clinton Scandals
+T4	Attribution 26 32	Ignore
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 102 121	the Washington Post
+T6	Cue 122 129	reports
+T7	Content 130 261	that the State Department issued subpoenas to a family foundation bearing Hillary Clinton’s name as part of a federal investigation
+T8	Attribution 122 129	reports
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 263 288	the PBS debate moderators
+T10	Cue 289 299	didn’t ask
+T11	Content 310 312	it
+T12	Attribution 289 299	didn’t ask
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 354 374	has been asked about
+T14	Content 375 400	a loan from Goldman Sachs
+T15	Attribution-no-source 354 374	has been asked about
+E4	Attribution-no-source:T15 Content:T14 Cue:T13
+T16	Cue 418 423	about
+T17	Content 424 448	bankruptcies in his past
+T18	Attribution-no-source 418 423	about
+E5	Attribution-no-source:T18 Content:T17 Cue:T16
+T19	Discuss 418 448	about bankruptcies in his past
+T20	Content 450 470	legitimate questions
+T21	Source 474 476	my
+T22	Cue 477 481	mind
+T23	Attribution 477 481	mind
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Cue 570 599	doesn’t even warrant a murmur
+T25	Source 605 654	Gwen Ifill and Judy Woodruff, two PBS journalists
+T26	Content 484 569	a federal subpoena to a foundation where Hillary Clinton recently served on the board
+T27	Attribution 570 599	doesn’t even warrant a murmur
+E7	Attribution:T27 Content:T26 Source:T25 Cue:T24
+T28	Source 660 700	the Washington Post’s investigative unit
+T29	Cue 701 720	reported just today
+T30	Content 722 838	the State Department Inspector General issued subpoenas to the Clinton Foundation as part of a federal investigation
+T31	Attribution 701 720	reported just today
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 896 918	the Clinton Foundation
+T33	Cue 919 925	refuse
+T34	Content 926 957	to turn over relevant documents
+T35	Attribution 919 925	refuse
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Content 1156 1178	the Clinton Foundation
+T37	Cue 1179 1193	is of interest
+T38	Source 1197 1216	the American people
+T39	Attribution 1179 1193	is of interest
+E10	Attribution:T39 Source:T38 Cue:T37 Content:T36
+T40	Content 1316 1318	it
+T41	Cue 1319 1338	was never mentioned
+T42	Source 1342 1363	the debate moderators
+T43	Attribution 1319 1338	was never mentioned
+E11	Attribution:T43 Source:T42 Cue:T41 Content:T40
+T44	Source 1425 1427	we
+T45	Cue 1428 1436	now know
+T46	Content 1437 1497	that the bureau is also investigating the Clinton Foundation
+T47	Attribution 1428 1436	now know
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Content 1508 1512	this
+T49	Cue 1513 1542	not warrant a single question
+T50	Source 1546 1563	debate moderators
+T51	Attribution 1513 1542	not warrant a single question
+E13	Attribution:T51 Source:T50 Cue:T49 Content:T48
+T52	Content 1226 1259	it was a ten top trending subject
+T53	Cue 1260 1262	of
+T54	Source 1263 1271	Facebook
+T55	Attribution 1260 1262	of
+E14	Attribution:T55 Source:T54 Cue:T53 Content:T52
+T56	Discuss 1226 1271	it was a ten top trending subject of Facebook

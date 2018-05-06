@@ -1,0 +1,127 @@
+T1	Source 84 100	MiniScribe Corp.
+T2	Cue 101 110	disclosed
+T3	Content 111 166	it had a negative net worth of $88 million as of July 2
+T4	Attribution 101 110	disclosed
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 171 177	hinted
+T6	Content 178 246	that it might be forced to file for protection under bankruptcy laws
+T7	Attribution 171 177	hinted
+E2	Attribution:T7 Cue:T5 Source:T1 Content:T6
+T8	Source 250 340	Richard Rifenburgh, chairman and chief executive of the Longmont, Colo., disk-drive maker,
+T9	Cue 341 350	also said
+T10	Content 351 472	the company continued losing money in the third quarter and expects to sustain further losses through the end of the year
+T11	Attribution 341 350	also said
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 476 490	Mr. Rifenburgh
+T13	Cue 491 495	told
+T14	Content 514 615	he is moving "aggressively" to negotiate out-of-court settlements on a number of shareholder lawsuits
+T15	Attribution 491 495	told
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 621 626	noted
+T17	Content 627 709	that the company could file for bankruptcy-law protection if settlement talks fail
+T18	Attribution 621 626	noted
+E5	Attribution:T18 Cue:T16 Source:T12 Content:T17
+T19	Discuss 476 709	Mr. Rifenburgh told industry analysts he is moving "aggressively" to negotiate out-of-court settlements on a number of shareholder lawsuits, but noted that the company could file for bankruptcy-law protection if settlement talks fail
+T20	Source 711 725	Mr. Rifenburgh
+T21	Cue 726 736	also noted
+T22	Content 737 874	that 150 million shares of MiniScribe common stock were traded during the past three years, "so there's a tremendous amount of exposure."
+T23	Attribution 726 736	also noted
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 877 887	MiniScribe
+T25	Cue 888 896	has said
+T26	Content 897 1090	that its financial results for the past three fiscal years would have to be restated because of the allegedly fraudulent accounting and marketing practices that inflated revenues and net income
+T27	Attribution 888 896	has said
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 1094 1104	MiniScribe
+T29	Cue 1105 1122	also hasn't filed
+T30	Content 1123 1156	any financial statements for 1989
+T31	Attribution 1105 1122	also hasn't filed
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1158 1172	Mr. Rifenburgh
+T33	Cue 1173 1177	said
+T34	Content 1178 1232	such statements should be ready by the end of November
+T35	Attribution 1173 1177	said
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1234 1236	He
+T37	Cue 1237 1241	said
+T38	Content 1242 1308	he expects the company to have $500 million in sales for this year
+T39	Attribution 1237 1241	said
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1310 1312	He
+T41	Cue 1313 1323	didn't say
+T42	Content 1324 1382	what the company expected to report for year-earlier sales
+T43	Attribution 1313 1323	didn't say
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Cue 1456 1466	release of
+T45	Content 1467 1497	MiniScribe's new balance sheet
+T46	Attribution-no-source 1456 1466	release of
+E12	Attribution-no-source:T46 Content:T45 Cue:T44
+T47	Source 1517 1519	it
+T48	Cue 1520 1530	introduced
+T49	Content 1531 1567	its new line of one-inch disk drives
+T50	Attribution 1520 1530	introduced
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 1578 1580	it
+T52	Cue 1581 1621	is pinning much of its hope for survival
+T53	Content 1569 1577	on which
+T54	Attribution 1581 1621	is pinning much of its hope for survival
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Discuss 1452 1622	The release of MiniScribe's new balance sheet came one day after it introduced its new line of one-inch disk drives, on which it is pinning much of its hope for survival.
+T56	Source 1738 1748	MiniScribe
+T57	Cue 1749 1753	says
+T58	Content 1754 1795	it is the first with an 80-megabyte drive
+T59	Attribution 1749 1753	says
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Source 1797 1808	the company
+T61	Cue 1809 1814	plans
+T62	Content 1815 1858	to introduce a 120-megabyte drive next year
+T63	Attribution 1809 1814	plans
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 1862 1886	Analysts and consultants
+T65	Cue 1887 1909	had mixed reactions to
+T66	Content 1910 1935	yesterday's announcements
+T67	Attribution 1887 1909	had mixed reactions to
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Cue 1937 1945	praising
+T69	Content 1946 1970	Mr. Rifenburgh's efforts
+T70	Attribution 1937 1945	praising
+E18	Attribution:T70 Cue:T68 Source:T64 Content:T69
+T71	Cue 1975 1986	questioning
+T72	Content 1987 2054	whether the company can survive in a highly competitive marketplace
+T73	Attribution 1975 1986	questioning
+E19	Attribution:T73 Cue:T71 Source:T64 Content:T72
+T74	Content 2056 2087	"It's a wait-and-see attitude,"
+T75	Cue 2088 2092	said
+T76	Source 2093 2171	Dave Vellante, vice president of storage research for International Data Corp.
+T77	Attribution 2088 2092	said
+E20	Attribution:T77 Source:T76 Cue:T75 Content:T74
+T78	Source 2172 2178	Others
+T79	Cue 2179 2190	pointed out
+T80	Content 2191 2347	that at least four other disk-drive makers will have competitive one-inch drives early next year and that the industry already operates on very thin margins
+T81	Attribution 2179 2190	pointed out
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Source 2540 2550	MiniScribe
+T83	Cue 2551 2596	filed a status report with the NASD on Monday
+T84	Content 2598 2700	detailing its efforts to comply with listing requirements and requesting an extension of the exception
+T85	Attribution 2551 2596	filed a status report with the NASD on Monday
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Source 3057 3078	The MiniScribe report
+T87	Cue 3079 3087	outlines
+T88	Content 3088 3261	a host of allegedly fraudulent practices, including the shipment of bricks and defective disk drives that were booked as sales, and inventory forgeries in accounting records
+T89	Attribution 3079 3087	outlines
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Source 3263 3289	The internal investigation
+T91	Cue 3290 3305	also criticized
+T92	Content 3306 3389	MiniScribe's auditors, Coopers & Lybrand, for allegedly ignoring numerous red flags
+T93	Attribution 3290 3305	also criticized
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 3393 3407	Mr. Rifenburgh
+T95	Cue 3408 3412	said
+T96	Content 3413 3532	the board still hasn't acted on most of the internal report's recommendations, pending restatement of the balance sheet
+T97	Attribution 3408 3412	said
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 3534 3536	He
+T99	Cue 3537 3542	added
+T100	Content 3543 3699	that he expects to make a recommendation within a few weeks on whether MiniScribe should file its own lawsuits against former company officers and directors
+T101	Attribution 3537 3542	added
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98

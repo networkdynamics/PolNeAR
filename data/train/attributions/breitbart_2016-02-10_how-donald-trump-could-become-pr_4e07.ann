@@ -1,0 +1,83 @@
+T1	Source 42 102	Convincing victories by political outsiders in New Hampshire
+T2	Cue 103 128	demonstrate without doubt
+T3	Content 129 182	most voters are disgusted with both political parties
+T4	Attribution 103 128	demonstrate without doubt
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 1108 1148	both the New York Times and Boston Globe
+T6	Cue 1079 1104	endorsed in New Hampshire
+T7	Content 1063 1078	Governor Kasich
+T8	Attribution 1079 1104	endorsed in New Hampshire
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 1830 1886	Kasich, like Trump, is not an ideology-pure conservative
+T10	Cue 1896 1910	as measured by
+T11	Source 1911 1966	those who impose a litmus test, such as National Review
+T12	Attribution 1896 1910	as measured by
+E3	Attribution:T12 Source:T11 Cue:T10 Content:T9
+T14	Source 2264 2269	Trump
+T15	Cue 2217 2225	offering
+T16	Content 2226 2262	Kasich the second spot on the ticket
+T17	Attribution 2217 2225	offering
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Cue 2270 2280	would show
+T19	Content 2288 2415	he is serious about finding help from seasoned politicians to deliver on trade, immigration, health care, and national security
+T20	Attribution 2270 2280	would show
+E5	Attribution:T20 Cue:T18 Source:T14 Content:T19
+T21	Source 2435 2438	you
+T22	Cue 2439 2447	can name
+T23	Content 2448 2470	a more solid candidate
+T24	Attribution 2439 2447	can name
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 2809 2812	she
+T26	Cue 2813 2857	will have to continue to emphasize positions
+T27	Content 2858 3048	that younger women embrace—such as the proposed Paycheck Fairness Act—and issues important to African-Americans and Hispanics—police behavior and social issues beyond simple economic justice
+T28	Attribution 2813 2857	will have to continue to emphasize positions
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 3322 3329	Hillary
+T30	Cue 3330 3336	merits
+T31	Content 3337 3350	women’s votes
+T32	Attribution 3330 3336	merits
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 3201 3212	Criticizing
+T34	Content 3213 3227	police tactics
+T35	Attribution 3201 3212	Criticizing
+E9	Attribution:T35 Cue:T33 Content:T34 Source:T25
+T36	Source 3724 3729	Trump
+T37	Cue 3730 3739	moderates
+T38	Content 3740 3752	his rhetoric
+T39	Attribution 3730 3739	moderates
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 3781 3789	polishes
+T41	Content 3790 3862	his pragmatism on taxes, health care, immigration, and national security
+T42	Attribution 3781 3789	polishes
+E11	Attribution:T42 Cue:T40 Content:T41 Source:T36
+T43	Source 3864 3866	he
+T44	Cue 3867 3873	offers
+T45	Content 3905 4046	a change in direction from the slow growth policies of Presidents Obama and Bush and the promise of a more effective national security policy
+T46	Attribution 3867 3873	offers
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T48	Source 2118 2130	the governor
+T49	Cue 2131 2142	implemented
+T50	Content 2143 2211	the Medicaid provisions of the Affordable Care Act expansion in Ohio
+T51	Attribution 2131 2142	implemented
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 1149 1151	he
+T53	Cue 1152 1159	devoted
+T54	Content 1160 1198	enormous resources to that small state
+T55	Attribution 1152 1159	devoted
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Cue 988 995	polling
+T57	Content 982 987;996 1035	he is a bad second to Trump in South Carolina
+T58	Attribution-no-source 988 995	polling
+E15	Attribution-no-source:T58 Content:T57 Cue:T56
+T59	Discuss 982 1035	he is polling a bad second to Trump in South Carolina
+T60	Source 736 743	Trump’s
+T61	Cue 744 764	diverse appeal among
+T62	Content 765 793	Republicans and independents
+T63	Attribution 744 764	diverse appeal among
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Source 821 824	who
+T65	Cue 825 846	relies principally on
+T66	Content 847 874;904 916	religious conservatives and libertarians
+T67	Attribution 825 846	relies principally on
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Discuss 439 507	While history clearly is not determinative, it can hardly be ignored

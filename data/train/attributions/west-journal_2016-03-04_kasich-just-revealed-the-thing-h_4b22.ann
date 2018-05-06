@@ -1,0 +1,78 @@
+T1	Source 0 6	Kasich
+T2	Cue 7 20	Just Revealed
+T3	Content 21 58	The 1 Thing He Thinks The GOP Will Do
+T4	Attribution 7 20	Just Revealed
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 231 252	Fox News Sean Hannity
+T6	Cue 253 258	asked
+T7	Content 259 384	Kasich, who is currently fourth in the Republican delegate count, to lay out his path to becoming the party’s nominee in July
+T8	Attribution 253 258	asked
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 387 400	The candidate
+T10	Cue 401 405	said
+T11	Content 406 650	he does not believe any of his rivals will secure the 1,237 delegates needed to clinch the nomination heading into the Republican convention, which happens to be in Cleveland. Therefore, the nominee would be chosen through a brokered convention
+T12	Attribution 401 405	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 653 660	Hannity
+T14	Cue 661 682	followed up by asking
+T15	Content 683 760	if the governor believes that is his only path to being the Republican choice
+T16	Source 762 799	Kasich (who has 25 delegates to date)
+T17	Cue 800 804	said
+T18	Content 805 907	it is possible for him to secure the nomination during the primary elections, but it will be difficult
+T19	Attribution 800 804	said
+E4	Attribution:T19 Cue:T17 Source:T16 Content:T18
+T20	Attribution 661 682	followed up by asking
+E5	Attribution:T20 Content:T15 Cue:T14 Source:T13
+T21	Source 909 911	He
+T22	Cue 912 921	explained
+T23	Content 971 1031	he would have to take 68 percent of the delegates thereafter
+T24	Attribution 912 921	explained
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 1034 1047	The candidate
+T26	Cue 1048 1059	pointed out
+T27	Content 1060 1249	that Sen. Ted Cruz (who has 231 delegates) must win 58 percent of the 1,237 outstanding delegates from this point forward, while Sen. Marco Rubio (who has 110 delegates) must win 64 percent
+T28	Attribution 1048 1059	pointed out
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1365 1382	many commentators
+T30	Cue 1383 1389	called
+T31	Content 1390 1475	him “the grownup on the stage” amidst the food fight between the top three contenders
+T32	Attribution 1383 1389	called
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1478 1491	The candidate
+T34	Cue 1492 1501	is hoping
+T35	Content 1502 1568	to win delegates in his neighboring state of Michigan this Tuesday
+T36	Attribution 1492 1501	is hoping
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1582 1596	CPAC attendees
+T38	Cue 1597 1611	learned Friday
+T39	Content 1612 1658	that Donald Trump backed out of the conference
+T40	Attribution 1597 1611	learned Friday
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1660 1680	Many of the speakers
+T42	Cue 1681 1723	have had less than kind words to say about
+T43	Content 1724 1737	his candidacy
+T44	Attribution 1681 1723	have had less than kind words to say about
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Cue 1739 1757	calling into doubt
+T46	Content 1758 1786	his conservative credentials
+T47	Attribution 1739 1757	calling into doubt
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T41
+T48	Source 1963 1970	the ACU
+T49	Cue 1971 1988	said in statement
+T50	Content 1871 1962;1990 2112	“We are very disappointed Donald Trump has decided at the last minute to drop out of CPAC,” “This comes at a critical time in our movement’s history. His decision sends a clear message to grassroots conservatives.”
+T51	Attribution 1971 1988	said in statement
+E13	Attribution:T51 Content:T50 Cue:T49 Source:T48
+T52	Source 2212 2215	CNN
+T53	Cue 2216 2224	reported
+T54	Content 2114 2210	The Trump campaign said the candidate will be attending events in Kansas and Florida on Saturday
+T55	Attribution 2216 2224	reported
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Content 2376 2396	the results of which
+T57	Cue 2397 2414	will be announced
+T58	Attribution-no-source 2397 2414	will be announced
+E15	Attribution-no-source:T58 Cue:T57 Content:T56
+T59	Content 2493 2507	Cruz and Rubio
+T60	Cue 2508 2541	enjoy the strongest support among
+T61	Source 2542 2560	the CPAC attendees
+T62	Attribution 2508 2541	enjoy the strongest support among
+E16	Attribution:T62 Source:T61 Cue:T60 Content:T59

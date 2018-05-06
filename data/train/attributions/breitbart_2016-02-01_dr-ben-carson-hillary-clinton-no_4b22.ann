@@ -1,0 +1,29 @@
+T1	Source 0 14	Dr. Ben Carson
+T2	Cue 14 15	:
+T3	Content 16 85	Hillary Clinton ‘Not Fit To Serve As President Of The United States.’
+T4	Attribution 14 15	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 87 128	GOP presidential candidate Dr. Ben Carson
+T6	Cue 129 133	says
+T7	Content 134 302	Democrat Hillary Clinton is not fit to serve as President of the United States, because she’s put American lives at risk and the country’s national security in jeopardy
+T8	Attribution 129 133	says
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 540 546	Carson
+T10	Cue 547 552	tells
+T11	Content 305 539	“We need to do more to strengthen our country’s protection of national security information, and her poor judgment in this and several other instances certainly shows me that she is not fit to serve as President of the United States,”
+T12	Attribution 547 552	tells
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Cue 569 582	responding to
+T14	Content 583 731	the recent news that the State Department deemed 22 of Clinton’s emails from her private server “top secret” and that those emails won’t be released
+T15	Attribution 569 582	responding to
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T9
+T16	Source 815 821	Carson
+T17	Cue 822 831	continued
+T18	Content 734 814;834 1125	“Cyber security remains one of the biggest challenges facing our country today,” "Even under the best cases, our classified information is under constant attack. That’s why Hillary’s private email server is so troubling. There is no excuse for housing even unclassified government information on unsecured servers, let alone our most classified and important information."
+T19	Attribution 822 831	continued
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1233 1239	Carson
+T21	Cue 1240 1249	concluded
+T22	Content 1127 1232	“She has put American lives and national security at jeopardy, and she should be held fully accountable,”
+T23	Attribution 1240 1249	concluded
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20

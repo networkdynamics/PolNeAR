@@ -1,0 +1,25 @@
+T1	Source 201 220	O’Malley’s campaign
+T2	Cue 221 225	says
+T3	Content 226 297	it will shift staff from its Baltimore headquarters to the early states
+T4	Attribution 221 225	says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 299 323	Spokeswoman Haley Morris
+T6	Cue 324 328	says
+T7	Content 329 403	the candidate has “always run a lean campaign and will continue to do so.”
+T8	Source 525 527	He
+T9	Cue 527 564	’s been ratcheting up his critique of
+T10	Content 565 578	his opponents
+T11	Attribution 324 328	says
+E2	Attribution:T11 Cue:T6 Content:T7 Source:T5
+T12	Attribution 527 564	’s been ratcheting up his critique of
+E3	Attribution:T12 Content:T10 Cue:T9 Source:T8
+T13	Source 732 738	Morris
+T14	Cue 739 743	says
+T15	Content 744 846	the campaign will be pursuing federal matching funds and will “compete vigorously for the nomination.”
+T16	Attribution 739 743	says
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 847 862	O’Malley’s move
+T18	Cue 863 884	was first reported by
+T19	Source 885 890	MSNBC
+T20	Attribution 863 884	was first reported by
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17

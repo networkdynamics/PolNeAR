@@ -1,0 +1,246 @@
+T1	Cue 938 942	said
+T2	Content 943 1100	any “reasonable person” should have known what was classified, and that the emails she sent from hostile territory were even less secure than plain old Gmail
+T3	Attribution-no-source 938 942	said
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Source 857 859	He
+T5	Cue 860 870	called her
+T6	Content 912 933	“extremely careless,”
+T7	Attribution 860 870	called her
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Content 443 561	“It would have been a real long-shot to shoehorn Secretary Clinton’s conduct into the existing federal criminal laws,”
+T9	Cue 562 566	said
+T10	Source 567 582	Stephen Vladeck
+T11	Attribution 562 566	said
+E3	Attribution:T11 Source:T10 Cue:T9 Content:T8 Content2:T12
+T12	Content 625 726	“I don’t think this was the case in which to pursue unprecedented interpretations of those statutes.”
+T13	Discuss 166 245	That’s the consensus of experts in national security law, who weren’t surprised
+T14	Content 1156 1272	“When I listened to him, I thought for sure he was going to either make no recommendation or recommend prosecution,”
+T15	Cue 1273 1277	said
+T16	Source 1278 1332	Rudy Giuliani, the former Republican mayor of New York
+T17	Attribution 1273 1277	said
+E4	Attribution:T17 Source:T16 Cue:T15 Content:T14 Content2:T18
+T18	Content 1387 1458	“No reasonable prosecutor would not present this case to a grand jury.”
+T19	Source 1476 1489	other experts
+T20	Cue 1490 1493	say
+T21	Content 1495 1636	she and her aides weren’t trying to be traitors, and there’s no evidence that anything really bad happened as a result of her homebrew server
+T22	Attribution 1490 1493	say
+E5	Attribution:T22 Content:T21 Cue:T20 Source:T19 Content2:T23
+T23	Content 1460 1474	But ultimately
+T24	Content 1639 1709	“It’s not as if he overlooked or whitewashed the facts of the matter,”
+T25	Cue 1710 1714	said
+T26	Source 1715 1820	Steven Aftergood, director of the Project on Government Secrecy at the Federation of American Scientists,
+T27	Attribution 1710 1714	said
+E6	Attribution:T27 Source:T26 Cue:T25 Content:T24 Content2:T28
+T28	Content 1846 2065	“But he also explained the difference between this case and previous criminal cases: Namely the question of intent, the volume of material, disloyalty to the United States and other factors which are not relevant here.”
+T29	Content 2299 2462	“The basic problem here is that the relevant federal criminal laws are a patchwork, and there’s no general prohibition against basically unsecured communications,”
+T30	Source 2463 2470	Vladeck
+T31	Cue 2471 2475	said
+T32	Attribution 2471 2475	said
+E7	Attribution:T32 Cue:T31 Source:T30 Content:T29 Content2:T33
+T33	Content 2477 2720	“Indeed, there isn’t even a clear prohibition of unsecure communication of classified information. So I think there’s a really wide gap between what the average person on the street assumes is illegal and what’s actually illegal in this area.”
+T34	Source 2964 2986	President Barack Obama
+T35	Cue 2987 2995	endorsed
+T36	Content 2996 2999	her
+T37	Attribution 2987 2995	endorsed
+E8	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Source 3304 3307	she
+T39	Cue 3308 3316	has said
+T40	Content 3317 3375	she’ll accept the recommendation of the career prosecutors
+T41	Attribution 3308 3316	has said
+E9	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Source 3459 3464	Trump
+T43	Cue 3465 3482	called the system
+T44	Content 3483 3491	“rigged”
+T45	Attribution 3465 3482	called the system
+E10	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 3516 3542	a few Republican lawmakers
+T47	Cue 3543 3558	have called for
+T48	Content 3559 3684	a special prosecutor to take a look at the FBI’s findings before the Justice Department makes a final decision on prosecution
+T49	Attribution 3543 3558	have called for
+E11	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Source 3703 3746	much of the national security establishment
+T51	Cue 3747 3760	is hostile to
+T52	Content 3761 3773	Donald Trump
+T53	Attribution 3747 3760	is hostile to
+E12	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Cue 3779 3794	has mused about
+T55	Content 3795 3897	abandoning decades of nuclear security policy and bringing back torture to interrogate terror suspects
+T56	Attribution-no-source 3779 3794	has mused about
+E13	Attribution-no-source:T56 Content:T55 Cue:T54
+T57	Content 3900 3995	“Is the mistake of using the email server akin to calling for violations of international law?”
+T58	Cue 3996 4000	said
+T59	Source 4001 4058	Susan Hennessey, a former National Security Agency lawyer
+T60	Attribution 3996 4000	said
+E14	Attribution:T60 Source:T59 Cue:T58 Content:T57
+T61	Source 4108 4142	some national security law experts
+T62	Cue 4147 4152	think
+T63	Content 4153 4186	the case against Clinton is clear
+T64	Attribution 4147 4152	think
+E15	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Content 4276 4292	Clinton broke it
+T66	Cue 4294 4306	according to
+T67	Source 4307 4322	Andrew McCarthy
+T68	Attribution 4294 4306	according to
+E16	Attribution:T68 Source:T67 Cue:T66 Content:T65
+T69	Content 4411 4550	“In essence, in order to give Mrs. Clinton a pass, the FBI rewrote the statute, inserting an intent element that Congress did not require,”
+T70	Source 4551 4559	McCarthy
+T71	Cue 4560 4565	wrote
+T72	Attribution 4560 4565	wrote
+E17	Attribution:T72 Cue:T71 Source:T70 Content:T69 Content2:T73
+T73	Content 4597 4931	“The added intent element, moreover, makes no sense: The point of having a statute that criminalizes gross negligence is to underscore that government officials have a special obligation to safeguard national defense secrets; when they fail to carry out that obligation due to gross negligence, they are guilty of serious wrongdoing.”
+T74	Source 4933 4942	Hennessey
+T75	Cue 4943 4955	acknowledged
+T76	Content 4956 4980	the negligence provision
+T77	Attribution 4943 4955	acknowledged
+E18	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Cue 4982 4991	but noted
+T79	Content 4992 5041	the government doesn’t use it to prosecute people
+T80	Attribution-no-source 4982 4991	but noted
+E19	Attribution-no-source:T80 Content:T79 Cue:T78
+T81	Content 5044 5189	“There are not infrequently federal laws constructed such that a lot of different activity could technically be considered a criminal violation,”
+T82	Source 5190 5199	Hennessey
+T83	Cue 5200 5205	added
+T84	Attribution 5200 5205	added
+E20	Attribution:T84 Cue:T83 Source:T82 Content:T81 Content2:T85
+T85	Content 5207 5276	But that’s not the same thing as “properly chargeable under the law.”
+T86	Content 5278 5330	If the negligence law has never had its day in court
+T87	Source 5332 5340	Giuliani
+T88	Cue 5341 5345	said
+T89	Attribution 5341 5345	said
+E21	Attribution:T89 Cue:T88 Source:T87 Content:T86 Content2:T90
+T90	Content 5347 5444	there’s a simple explanation: “There’s never been a secretary of State who has been as reckless.”
+T91	Source 5446 5453	Giulini
+T92	Cue 5454 5469	also questioned
+T93	Content 5470 5520	the idea that Clinton had shown no criminal intent
+T94	Attribution 5454 5469	also questioned
+E22	Attribution:T94 Content:T93 Cue:T92 Source:T91
+T95	Content 5522 5607	“Everything [Comey] said is the kind of thing as prosecutor you use to prove intent,”
+T96	Source 5608 5616	Giuliani
+T97	Cue 5617 5621	said
+T98	Attribution 5617 5621	said
+E23	Attribution:T98 Cue:T97 Source:T96 Content:T95
+T99	Cue 5644 5650	adding
+T100	Content 5651 5796	that Clinton showed the “conduct of a person who had consciousness of guilt: she hid records, she destroyed records, she put her server at home.”
+T101	Attribution-no-source 5644 5650	adding
+E24	Attribution-no-source:T101 Content:T100 Cue:T99
+T102	Source 5798 5800	He
+T103	Cue 5801 5810	continued
+T104	Content 5812 5922	“I’ve never heard of anyone in a criminal investigation who destroyed 34,000 records who didn’t get indicted.”
+T105	Attribution 5801 5810	continued
+E25	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Source 5936 5941	Trump
+T107	Cue 5942 5949	claimed
+T108	Content 5961 6013	that “General Petraeus got in trouble for far less,”
+T109	Attribution 5942 5949	claimed
+E26	Attribution:T109 Content:T108 Cue:T107 Source:T106
+T110	Source 6014 6062	one of the former prosecutors for David Petraeus
+T111	Cue 6063 6067	said
+T112	Content 6068 6102	the two cases were quite different
+T113	Attribution 6063 6067	said
+E27	Attribution:T113 Content:T112 Cue:T111 Source:T110
+T114	Source 6105 6120	James Melendres
+T115	Cue 6121 6125	said
+T116	Content 6135 6211	that for one, there appeared to be a lack of willfulness in the Clinton case
+T117	Attribution 6121 6125	said
+E28	Attribution:T117 Content:T116 Cue:T115 Source:T114
+T118	Source 6221 6229	Petraeus
+T119	Cue 6230 6242	acknowledged
+T120	Content 6243 6334	that he knew the information he shared with his lover Paula Broadwell was highly classified
+T121	Attribution 6230 6242	acknowledged
+E29	Attribution:T121 Content:T120 Cue:T119 Source:T118
+T122	Source 6336 6338	He
+T123	Cue 6339 6348	also said
+T124	Content 6349 6450	that were aggravating circumstances in the Petraeus case, notably that Petraeus lied to investigators
+T125	Attribution 6339 6348	also said
+E30	Attribution:T125 Content:T124 Cue:T123 Source:T122
+T126	Source 6553 6558	Comey
+T127	Cue 6559 6564	noted
+T128	Content 6566 6652	people involved in the Clinton case could still be subject to administrative sanctions
+T129	Attribution 6559 6564	noted
+E31	Attribution:T129 Content:T128 Cue:T127 Source:T126
+T130	Source 6771 6774	she
+T131	Cue 6774 6789	’ll likely want
+T132	Content 6790 6950	other top aides swept up in the inquiry, like her top foreign policy adviser Jake Sullivan and longtime aide Human Abedin, to have access to security clearances
+T133	Attribution 6774 6789	’ll likely want
+E32	Attribution:T133 Content:T132 Cue:T131 Source:T130
+T134	Content 6953 7066	“Because Clinton is running for president, if she is elected, she will have been cleared by the American people,”
+T135	Source 7067 7076	Aftergood
+T136	Cue 7077 7081	said
+T137	Attribution 7077 7081	said
+E33	Attribution:T137 Cue:T136 Source:T135 Content:T134 Content2:T138
+T138	Content 7083 7210	“Other people who are employees of the State Department or other agencies might have new hurdles to face in future employment.”
+T139	Source 7212 7286	Rep. Devin Nunes (R-Calif.), chairman of the House Intelligence Committee,
+T140	Cue 7287 7306	didn’t second-guess
+T141	Content 7307 7344	Comey’s recommendation on prosecution
+T142	Attribution 7287 7306	didn’t second-guess
+E34	Attribution:T142 Content:T141 Cue:T140 Source:T139
+T144	Source 7350 7352	he
+T143	Cue 7353 7365	did call for
+T145	Content 7366 7399	more accountability down the road
+T146	Attribution 7353 7365	did call for
+E35	Attribution:T146 Content:T145 Cue:T143 Source:T144
+T147	Content 7401 7606	“I hope the irresponsible handling of classified information documented by the FBI will be considered if any of these individuals currently possesses a security clearance or applies for one in the future,”
+T148	Cue 7610 7614	said
+T149	Source 7607 7609	he
+T150	Attribution 7610 7614	said
+E36	Attribution:T150 Source:T149 Cue:T148 Content:T147
+T151	Content 7632 7743	But the point of those sanctions is usually to get sensitive material out of the hands of untrustworthy people,
+T152	Source 7744 7753	Hennessey
+T153	Cue 7754 7758	said
+T154	Attribution 7754 7758	said
+E37	Attribution:T154 Cue:T153 Source:T152 Content:T151 Content2:T155
+T155	Content 7760 7879	and with Clinton’s aides publicly and politically chastened, it’s safe to assume they won’t make the same mistake again
+T156	Content 7882 7948	While some low-level State employees could get a slap on the wrist
+T157	Source 7950 7953	she
+T158	Cue 7954 7959	added
+T159	Attribution 7954 7959	added
+E38	Attribution:T159 Cue:T158 Source:T157 Content:T156 Content2:T160
+T160	Content 7961 8055	revoking clearances would be “really very aggressive considering the facts that have emerged.”
+T161	Source 8120 8125	Comey
+T162	Cue 8126 8138	talked about
+T163	Content 8139 8163	vulnerability to hackers
+T164	Attribution 8126 8138	talked about
+E39	Attribution:T164 Content:T163 Cue:T162 Source:T161
+T165	Source 8165 8167	he
+T166	Cue 8168 8182	didn’t mention
+T167	Content 8183 8203	any bad consequences
+T168	Attribution 8168 8182	didn’t mention
+E40	Attribution:T168 Content:T167 Cue:T166 Source:T165
+T169	Content 8206 8362	“That might have changed the outcome, if there were evidence that, oh, a CIA source got killed as a result of sloppiness or an operation had to be aborted,”
+T170	Source 8363 8372	Aftergood
+T171	Cue 8373 8377	said
+T172	Attribution 8373 8377	said
+E41	Attribution:T172 Cue:T171 Source:T170 Content:T169 Content2:T173
+T173	Content 8379 8489	“That would change the whole texture of the story, and no one has suggested that anything like that happened.”
+T174	Source 8499 8501	he
+T175	Cue 8502 8509	accused
+T176	Content 8510 8568	the Justice Department of giving Clinton special treatment
+T177	Attribution 8502 8509	accused
+E42	Attribution:T177 Content:T176 Cue:T175 Source:T174
+T178	Source 8570 8578	Giuliani
+T179	Cue 8579 8612	wouldn’t directly speculate about
+T180	Content 8613 8672	Comey’s motives for, in his view, dropping a slam-dunk case
+T181	Attribution 8579 8612	wouldn’t directly speculate about
+E43	Attribution:T181 Content:T180 Cue:T179 Source:T178
+T182	Content 8675 8716	“Obviously he’s not comfortable with it,”
+T183	Source 8717 8725	Giuliani
+T184	Cue 8726 8730	said
+T185	Attribution 8726 8730	said
+E44	Attribution:T185 Cue:T184 Source:T183 Content:T182 Content2:T186
+T186	Content 8732 8771	“He wouldn’t take any questions on it.”
+T187	Source 8773 8778	Comey
+T188	Cue 8779 8813	did go out of his way to criticize
+T189	Content 8814 8858	the State Department more broadly on Tuesday
+T190	Attribution 8779 8813	did go out of his way to criticize
+E45	Attribution:T190 Content:T189 Cue:T188 Source:T187
+T191	Content 8915 9179	“We also developed evidence that the security culture of the State Department in general, and with respect to use of unclassified e-mail systems in particular, was generally lacking in the kind of care for classified information found elsewhere in the government,”
+T192	Source 9180 9185	Comey
+T193	Cue 9186 9190	said
+T194	Attribution 9186 9190	said
+E46	Attribution:T194 Cue:T193 Source:T192 Content:T191
+T195	Content 9398 9554	“There’s a worthwhile debate that we ought to have about whether simply miscommunicating or communicating over unsecured networks should itself be illegal,”
+T196	Cue 9555 9559	said
+T197	Source 9560 9567	Vladeck
+T198	Attribution 9555 9559	said
+E47	Attribution:T198 Source:T197 Cue:T196 Content:T195 Content2:T199
+T199	Content 9569 9650	“If it was, then hundreds if not thousands of federal employees would be liable.”

@@ -1,0 +1,53 @@
+T1	Source 188 215	The American Action Network
+T2	Cue 216 220	says
+T3	Content 221 304	it will spend nearly $150,000 on a TV ad in Shuster’s western Pennsylvania district
+T4	Attribution 216 220	says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 392 398	The ad
+T6	Cue 399 404	touts
+T7	Content 405 438	Shuster's conservative bona fides
+T8	Attribution 399 404	touts
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 483 499	does not mention
+T10	Content 500 529	that Shuster is the incumbent
+T11	Attribution 483 499	does not mention
+E3	Attribution:T11 Cue:T9 Content:T10 Source:T5
+T12	Source 811 818	Shuster
+T13	Cue 819 836	is clearly taking
+T14	Content 837 855	the race seriously
+T15	Attribution 819 836	is clearly taking
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 1143 1157	is expected to
+T17	Content 1130 1142;1158 1187	Donald Trump do well in Shuster’s district
+T18	Attribution-no-source 1143 1157	is expected to
+E5	Attribution-no-source:T18 Content:T17 Cue:T16
+T19	Content 1234 1376;1442 1590	“We did polling in this district and much like the previous primaries we did polling in, Bill Shuster is in strong position to be re-elected,” “We want to make sure. And so that’s why we are going in, to be cautious. We want to ensure we can put him over the top and ensure that he is safe.”
+T20	Cue 1377 1381	said
+T21	Source 1382 1440	Mike Shields, the president of the American Action Network
+T22	Attribution 1377 1381	said
+E6	Attribution:T22 Source:T21 Cue:T20 Content:T19
+T23	Source 2020 2029	Halvorson
+T24	Cue 2030 2037	blasted
+T25	Content 2050 2077	“cavorting” with a lobbyist
+T26	Attribution 2030 2037	blasted
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 2119 2126	Shuster
+T28	Cue 2127 2137	has touted
+T29	Content 2138 2201	the infrastructure projects he has helped bring to the district
+T30	Attribution 2127 2137	has touted
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Cue 2209 2243	attempting to portray Halvorson as
+T32	Content 2244 2258	a carpetbagger
+T33	Attribution 2209 2243	attempting to portray Halvorson as
+E9	Attribution:T33 Cue:T31 Content:T32 Source:T27
+T34	Source 769 809	tea-party backed candidate Art Halvorson
+T35	Cue 745 763	vigorous challenge
+T36	Content 653 732	Shuster, the chairman of the House Transportation and Infrastructure Committee,
+T37	Attribution 745 763	vigorous challenge
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Discuss 653 809	Shuster, the chairman of the House Transportation and Infrastructure Committee, is facing a vigorous challenge from tea-party backed candidate Art Halvorson
+T39	Source 1723 1732	Halvorson
+T40	Cue 1733 1754	is trying to seize on
+T41	Content 1755 1806	Shuster’s romantic relationship with Shelley Rubino
+T42	Attribution 1733 1754	is trying to seize on
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39

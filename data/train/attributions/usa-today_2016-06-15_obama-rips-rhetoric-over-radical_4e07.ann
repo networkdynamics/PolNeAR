@@ -1,0 +1,79 @@
+T1	Source 0 5	Obama
+T2	Cue 6 10	rips
+T3	Content 11 40	rhetoric over 'radical Islam'
+T4	Attribution 6 10	rips
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 43 45	He
+T6	Cue 46 56	lashes out
+T7	Content 90 128	over partisan 'political distraction.'
+T8	Attribution 46 56	lashes out
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 130 145	President Obama
+T10	Cue 146 166	passionately rebuked
+T11	Content 167 174	critics
+T12	Attribution 146 166	passionately rebuked
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 175 178	who
+T14	Cue 179 182	say
+T15	Content 183 235	he should condemn terrorists as "radical Islamists,"
+T16	Attribution 179 182	say
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 236 242	saying
+T18	Content 243 376	calling the Islamic State, also known as ISIL or ISIS, by another name will do nothing to defeat it -- and could be counterproductive
+T19	Attribution 236 242	saying
+E5	Attribution:T19 Cue:T17 Content:T18 Source:T9
+T20	Content 379 595;605 639	"What exactly would using this label accomplish? What exactly would it change? Would it make ISIL less committed to kill Americans? Would it bring in more allies? Is there a military strategy that is served by this?" "The answer is none of the above."
+T21	Source 596 598	he
+T22	Cue 599 603	said
+T23	Attribution 599 603	said
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 735 740	Obama
+T25	Cue 741 749	repeated
+T26	Content 750 926	his contention that identifying the Syrian-based terror group as Islamic will only serve as a propaganda tool for its extremist ideology, and potentially alienate Muslim allies
+T27	Attribution 741 749	repeated
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 1100 1238	"Is President Obama going to finally mention the words radical Islamic terrorism? If he doesn't he should immediately resign in disgrace!"
+T29	Source 1239 1294	the presumptive GOP presidential nominee, Donald Trump,
+T30	Cue 1295 1309	tweeted Sunday
+T31	Attribution 1295 1309	tweeted Sunday
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Source 1361 1366	Obama
+T33	Cue 1367 1372	said:
+T34	Content 1373 1473	"There's no magic to the phrase 'radical Islam.' It's a political talking point. It's not a strategy
+T35	Attribution 1367 1372	said:
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Content 1476 1573;1586 1701	"Calling a threat by a different name does not make it go away. This is a political distraction," "Not once has an adviser of mine said, 'Man, if we use that phrase, we're going to turn this whole thing around.'."
+T37	Source 1574 1579	Obama
+T38	Cue 1580 1584	said
+T39	Source 1775 1777	he
+T40	Cue 1778 1782	said
+T41	Content 1784 1839	"politicians who tweet and appear on cable news shows."
+T42	Attribution 1778 1782	said
+E10	Attribution:T42 Cue:T40 Source:T39 Content:T41
+T43	Attribution 1580 1584	said
+E11	Attribution:T43 Cue:T38 Source:T37 Content:T36
+T44	Source 1841 1875	White House spokesman Josh Earnest
+T45	Cue 1876 1880	said
+T46	Content 1881 1914	Obama wasn't targeting just Trump
+T47	Attribution 1876 1880	said
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Content 1917 2119	"It's not uncommon to turn on cable television and see some Republican congressman I've never heard of talking about the president's non-use of the word 'radical Islamic extremism' to define our enemy,"
+T49	Source 2120 2122	he
+T50	Cue 2123 2127	said
+T51	Attribution 2123 2127	said
+E13	Attribution:T51 Cue:T50 Source:T49 Content:T48
+T52	Source 2130 2141	Republicans
+T53	Cue 2142 2157	quickly accused
+T54	Content 2158 2207	the president of politicizing the Orlando tragedy
+T55	Attribution 2142 2157	quickly accused
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 2209 2261	Dog Andres, a spokesman for House Speaker Paul Ryan,
+T57	Cue 2262 2266	said
+T58	Content 2268 2367	"Instead of reassuring Americans after a terrorist attack," Obama "opted for a political takedown."
+T59	Attribution 2262 2266	said
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Source 979 989	Republican
+T61	Cue 990 999	criticism
+T62	Content 1000 1097	that his strategy is failing because he's failed to understand the religious fervor of terrorists
+T63	Attribution 990 999	criticism
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60

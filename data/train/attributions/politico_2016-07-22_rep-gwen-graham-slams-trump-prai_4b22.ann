@@ -1,0 +1,82 @@
+T1	Source 0 16	Rep. Gwen Graham
+T2	Cue 17 22	slams
+T3	Content 23 28	Trump
+T4	Attribution 17 22	slams
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 30 37	praises
+T6	Content 38 78	Clinton as 'work horse, not show horse.'
+T7	Attribution 30 37	praises
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T1
+T8	Source 94 126	Democratic U.S. Rep. Gwen Graham
+T9	Cue 137 145	pummeled
+T10	Content 146 170	Donald Trump as divisive
+T11	Attribution 137 145	pummeled
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Cue 171 185	while praising
+T13	Content 186 238	Hillary Clinton as a "work horse, not a show horse."
+T14	Attribution-no-source 171 185	while praising
+E4	Attribution-no-source:T14 Content:T13 Cue:T12
+T15	Source 543 550	Clinton
+T16	Cue 551 555	told
+T17	Content 456 542	"[Trump] doesn't speak for anyone who thinks our country should be standing together,"
+T18	Attribution 551 555	told
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 864 870	Graham
+T20	Cue 871 875	said
+T21	Content 876 917	she was “impressed” with Trump’s children
+T22	Attribution 871 875	said
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Cue 923 931	lamented
+T24	Content 932 1000	that Ivanka Trump’s presentation of Trump didn’t match up to reality
+T25	Attribution 923 931	lamented
+E7	Attribution:T25 Content:T24 Cue:T23 Source:T19
+T26	Source 1065 1071	Graham
+T27	Cue 1072 1076	said
+T28	Content 1003 1064;1078 1264	"I was hoping to see more of what Ivanka sees in her father,” “So I was disappointed when he was the version of Donald Trump that worries me greatly. I don’t think making people more scared, and more worried and more concerned is the path forward."
+T29	Attribution 1072 1076	said
+E8	Attribution:T29 Content:T28 Cue:T27 Source:T26
+T30	Cue 1423 1433	is mulling
+T31	Content 1434 1460	a run for Governor in 2018
+T32	Source 1369 1375	Graham
+T33	Attribution 1423 1433	is mulling
+E9	Attribution:T33 Source:T32 Content:T31 Cue:T30
+T34	Source 1462 1465	She
+T35	Cue 1466 1470	said
+T36	Content 1471 1549	she is headed to Philadelphia next week for the Democratic National Convention
+T37	Attribution 1466 1470	said
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Source 1724 1744	the Associated Press
+T39	Cue 1745 1760	reported Friday
+T40	Content 1573 1722	In Orlando, Clinton made an impromptu stop at the Pulse nightclub in Orlando, where 49 people were killed June 12 by a lone gunman in a mass shooting
+T41	Attribution 1745 1760	reported Friday
+E11	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Source 1997 2003	the AP
+T43	Cue 2004 2012	reported
+T44	Content 1863 1995	Clinton was joined by Sen. Bill Nelson (D-Fla.), first responders and community residents at the makeshift memorial outside the club
+T45	Attribution 2004 2012	reported
+E12	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Cue 2144 2156	according to
+T47	Source 2157 2159	AP
+T48	Content 2015 2142	Clinton made the brief visit after a somber meeting with community leaders and family members who were affected by the shooting
+T49	Attribution 2144 2156	according to
+E13	Attribution:T49 Content:T48 Source:T47 Cue:T46
+T50	Source 2386 2406	the Orlando Sentinel
+T51	Cue 2407 2415	reported
+T52	Content 2162 2385	Earlier in the day, Clinton held a roundtable meeting with Orlando community leaders and pledged to “promote the kinds of changes that will prevent this from happening to other people, other families and other communities,"
+T53	Attribution 2407 2415	reported
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 2569 2573	said
+T55	Cue 2574 2581	Clinton
+T56	Content 2418 2568	"We have to be willing to stand as one and demand changes from lawmakers at the federal, state and local level ... We have a lot of work ahead of us,”
+T57	Attribution 2574 2581	Clinton
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54
+T58	Source 2584 2597	The newspaper
+T59	Cue 2598 2606	reported
+T60	Content 2607 2732	that the Democratic presidential candidate met privately with a several victims before the start of the roundtable discussion
+T61	Attribution 2598 2606	reported
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 1302 1305	who
+T63	Cue 1306 1316	is looking
+T64	Content 1317 1367	to bring "people together to accomplish the goal.”
+T65	Attribution 1306 1316	is looking
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62

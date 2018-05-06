@@ -1,0 +1,130 @@
+T1	Discard 105 114	ABSTRACT.
+T2	Discard 270 280	FULL TEXT.
+T3	Source 307 313	public
+T4	Cue 314 328	criticism over
+T5	Content 329 376	his Oval Office address on terrorism this month
+T6	Attribution 314 328	criticism over
+E1	Attribution:T6 Content:T5 Cue:T4 Source:T3
+T7	Source 378 390	one lawmaker
+T8	Cue 455 466	to reassure
+T9	Content 467 489	the commander in chief
+T10	Attribution 455 466	to reassure
+E2	Attribution:T10 Content:T9 Cue:T8 Source:T7
+T11	Content 492 554;735 782	''That was a good speech you gave last night, Mr. President,'' ''It's hard to be the grown-up in the nation.''
+T12	Source 555 605	Representative Steve Cohen, Democrat of Tennessee,
+T13	Cue 606 610	told
+T14	Attribution 606 610	told
+E3	Attribution:T14 Cue:T13 Source:T12 Content:T11
+T15	Content 1261 1313	''You need to bomb the Iranian nuclear facilities,''
+T16	Source 1314 1371	Representative Michele Bachmann, Republican of Minnesota,
+T17	Cue 1372 1376	told
+T18	Attribution 1372 1376	told
+E4	Attribution:T18 Cue:T17 Source:T16 Content:T15
+T19	Content 1513 1563	The president told her that it was not that simple
+T20	Cue 1565 1577	according to
+T21	Source 1578 1627	an account she gave to The Washington Free Beacon
+T22	Attribution 1565 1577	according to
+E5	Attribution:T22 Source:T21 Cue:T20 Content:T19
+T23	Content 1630 1635	Jokes
+T24	Cue 1636 1644	are told
+T25	Attribution-no-source 1636 1644	are told
+E6	Attribution-no-source:T25 Cue:T24 Content:T23
+T26	Content 1646 1656	interviews
+T27	Cue 1657 1670	are requested
+T28	Attribution-no-source 1657 1670	are requested
+E7	Attribution-no-source:T28 Cue:T27 Content:T26
+T29	Content 1675 1693	unsolicited advice
+T30	Cue 1694 1702	is given
+T31	Attribution-no-source 1694 1702	is given
+E8	Attribution-no-source:T31 Cue:T30 Content:T29
+T32	Content 1883 2000	''To staff the president and first lady at the holiday photo line is to observe humanity in its most awkward state,''
+T33	Cue 2001 2005	said
+T34	Source 2006 2073	Bill Burton, a former top press official in Mr. Obama's White House
+T35	Attribution 2001 2005	said
+E9	Attribution:T35 Source:T34 Cue:T33 Content:T32
+T36	Source 2087 2090	who
+T37	Cue 2091 2107	barely tolerates
+T38	Content 2108 2153	the schmoozing that is presidential tradition
+T39	Attribution 2091 2107	barely tolerates
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 2673 2677	they
+T41	Cue 2678 2684	wanted
+T42	Content 2685 2759	to give as many people as possible an opportunity to visit the White House
+T43	Attribution 2678 2684	wanted
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Content 2762 2823;2887 2999	''It's just long and tiring and pretty hard to get through,'' ''We also had to balance, from a staff perspective, having photo lines versus how many people we could get in.''
+T45	Source 2824 2864	Tina Tchen, Mrs. Obama's chief of staff,
+T46	Cue 2865 2869	said
+T47	Attribution 2865 2869	said
+E12	Attribution:T47 Cue:T46 Source:T45 Content:T44
+T48	Content 3001 3034;3052 3117	By eliminating the receiving line the White House is able to invite twice as many guests to a party
+T49	Source 3036 3045	Ms. Tchen
+T50	Cue 3046 3050	said
+T51	Attribution 3046 3050	said
+E13	Attribution:T51 Cue:T50 Source:T49 Content:T48
+T52	Source 3530 3542	neither side
+T53	Cue 3543 3552	would say
+T54	Content 3553 3555	so
+T55	Attribution 3543 3552	would say
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 3427 3434	the two
+T57	Cue 3435 3446	spoke about
+T58	Content 3447 3528	the year-end budget agreement needed to prevent the government from shutting down
+T59	Attribution 3435 3446	spoke about
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Content 3826 3876;3910 4104	When the Rogans' turn came and they were announced Mr. Clinton ''kind of looked at me funny for a moment, then he let out this big sigh and gave me a huge smile and said: 'Jim, thanks for coming. I'm really glad you're here. Merry Christmas.'.''
+T61	Source 3878 3887	Mr. Rogan
+T62	Cue 3888 3892	said
+T63	Attribution 3888 3892	said
+E16	Attribution:T63 Cue:T62 Source:T61 Content:T60
+T64	Content 4106 4158	''It felt like he and I had kind of patched it up,''
+T65	Source 4159 4168	Mr. Rogan
+T66	Cue 4169 4173	said
+T67	Attribution 4169 4173	said
+E17	Attribution:T67 Cue:T66 Source:T65 Content:T64
+T68	Source 4193 4196	who
+T69	Cue 4218 4224	saying
+T70	Content 4225 4254	goodbye to the previous guest
+T71	Attribution 4218 4224	saying
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Content 4277 4343;4354 4387	When she finally noticed Mr. Rogan, her eyes widened with surprise and she gripped his hands tensely
+T73	Source 4345 4347	he
+T74	Cue 4348 4352	said
+T75	Attribution 4348 4352	said
+E19	Attribution:T75 Cue:T74 Source:T73 Content:T72
+T76	Content 4389 4445	''There was some iciness there and a bit of a grimace,''
+T77	Source 4446 4448	he
+T78	Cue 4449 4453	said
+T79	Attribution 4449 4453	said
+E20	Attribution:T79 Cue:T78 Source:T77 Content:T76
+T80	Source 4637 4644	an item
+T81	Cue 4645 4655	suggesting
+T82	Content 4656 4820	that Mr. Rogan was hypocritical for promoting his rivalry with the Clintons in fund-raising appeals and then jockeying for a photograph with them at the White House
+T83	Attribution 4645 4655	suggesting
+E21	Attribution:T83 Content:T82 Cue:T81 Source:T80
+T84	Source 5121 5147	color-coded, timed tickets
+T85	Cue 5148 5155	telling
+T86	Content 5161 5183	when to join the queue
+T87	Attribution 5148 5155	telling
+E22	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Discuss 5121 5183	color-coded, timed tickets telling them when to join the queue
+T89	Cue 5275 5283	announce
+T90	Source 5189 5210	military social aides
+T91	Content 5284 5294	the guests
+T92	Attribution 5275 5283	announce
+E23	Attribution:T92 Content:T91 Source:T90 Cue:T89
+T93	Source 5385 5452	Ann Compton, who covered the White House for 40 years for ABC News,
+T94	Cue 5453 5457	said
+T95	Content 5458 5605	she almost always treated the photo line as a crucial, although brief, opportunity to buttonhole the president with a question only he could answer
+T96	Attribution 5453 5457	said
+E24	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Source 5796 5807	Ms. Compton
+T98	Cue 5808 5812	said
+T99	Content 5813 5958	that she and her husband had opted not to join the photo line, but that they then encountered the Bushes as they were posing with the last guests
+T100	Attribution 5808 5812	said
+E25	Attribution:T100 Content:T99 Cue:T98 Source:T97
+T101	Content 5961 6023;6046 6114	''Barbara Bush looked at me and said, 'You weren't in line,''' ''and I said, 'Mrs. Bush, that was our Christmas present to you.'.''
+T102	Source 6024 6035	Ms. Compton
+T103	Cue 6036 6044	recalled
+T104	Attribution 6036 6044	recalled
+E26	Attribution:T104 Cue:T103 Source:T102 Content:T101

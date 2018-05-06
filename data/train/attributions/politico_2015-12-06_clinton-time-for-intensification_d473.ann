@@ -1,0 +1,58 @@
+T1	Source 0 7	Clinton
+T2	Cue 7 8	:
+T3	Content 9 52	Time for ‘intensification’ of ISIL strategy
+T4	Attribution 7 8	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 55 70	Hillary Clinton
+T6	Cue 71 75	says
+T7	Content 76 261	the Obama administration should be taking additional measures against the Islamic State and that she expects President Barack Obama to announce an “intensification” in the U.S. campaign
+T8	Attribution 71 75	says
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 264 353;399 555	“We’re not winning, but it’s too soon to say that we are doing everything we need to do,” “I think that’s what we’ll hear from the president, an intensification of the existing strategy. And I think there’s some additional steps we have to take.”
+T10	Source 354 361	Clinton
+T11	Cue 362 366	said
+T12	Attribution 362 366	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 557 627	The Democratic presidential front-runner and former secretary of state
+T14	Cue 628 632	said
+T15	Content 633 777	the U.S. “clearly” needed a more robust air campaign against the Islamic State targeting the militant group’s leaders and its oil infrastructure
+T16	Attribution 628 632	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 780 826;837 1129	“I think you’ll hear that from the president,” “And part of what I have been arguing, for quite some time now, is that we’ve got to do a better job of getting back the Sunnis on the ground, along with the Kurds, who can be the fighters who will actually take back territory with air cover and with targeted attacks on ISIS infrastructure.”
+T18	Source 827 830	she
+T19	Cue 831 835	said
+T20	Source 1131 1138	Clinton
+T21	Cue 1139 1149	reiterated
+T22	Content 1150 1282	that she did not want U.S. combat troops on the ground to fight the Islamic State, aside from special operations forces and advisers
+T23	Attribution 831 835	said
+E5	Attribution:T23 Cue:T19 Source:T18 Content:T17
+T24	Attribution 1139 1149	reiterated
+E6	Attribution:T24 Content:T22 Cue:T21 Source:T20
+T25	Content 1285 1357	“Where I sit right now, I think it would make things worse, not better,”
+T26	Source 1358 1365	Clinton
+T27	Cue 1366 1370	said
+T28	Attribution 1366 1370	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Cue 1378 1385	arguing
+T30	Content 1386 1453	the U.S. should increase its special operations forces against ISIL
+T31	Attribution 1378 1385	arguing
+E8	Attribution:T31 Cue:T29 Content:T30 Source:T26
+T32	Source 1456 1463	Clinton
+T33	Cue 1464 1479	also focused on
+T34	Content 1480 1532	the need to combat the Islamic State on the Internet
+T35	Attribution 1464 1479	also focused on
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Cue 1534 1545	pushing for
+T37	Content 1546 1633	help from the private sector to push back against the group’s robust propaganda machine
+T38	Attribution 1534 1545	pushing for
+E10	Attribution:T38 Cue:T36 Content:T37 Source:T32
+T39	Content 1635 1710	“We’re going to need help from Facebook and from YouTube and from Twitter,”
+T40	Source 1711 1714	she
+T41	Cue 1715 1719	said
+T42	Attribution 1715 1719	said
+E11	Attribution:T42 Cue:T41 Source:T40 Content:T39
+T43	Source 1722 1725	She
+T44	Cue 1726 1734	declined
+T45	Content 1735 1746;1757 1921	to weigh in on the debate over Internet encryption and terrorism, only saying that she hoped that the private sector and law enforcement could come together and find a solution
+T46	Attribution 1726 1734	declined
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43

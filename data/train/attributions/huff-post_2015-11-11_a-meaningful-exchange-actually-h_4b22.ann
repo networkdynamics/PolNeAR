@@ -1,0 +1,64 @@
+T1	Source 94 138	Sens. Rand Paul (Ky.) and Marco Rubio (Fla.)
+T2	Cue 139 146	debated
+T3	Content 147 180	tax credits and military spending
+T4	Attribution 139 146	debated
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 224 228;239 249	what a “debate”
+T6	Cue 229 238	is called
+T7	Attribution-no-source 229 238	is called
+E2	Attribution-no-source:T7 Cue:T6 Content:T5
+T8	Cue 360 369	was asked
+T9	Source 373 408	Fox Business moderator Gerard Baker
+T10	Content 409 641	whether his proposed expansion of child tax credits, which the Tax Foundation estimates would cost as much as $ 170 billion a year, would risk “adding another expensive entitlement program to an already overburdened federal budget.”
+T11	Attribution 360 369	was asked
+E3	Attribution:T11 Content:T10 Source:T9 Cue:T8
+T12	Source 643 664	The Florida senator’s
+T13	Cue 665 675	answer was
+T14	Content 676 801	that “the most important institution in society is the family,” so government should help families cope with child care costs
+T15	Attribution 665 675	answer was
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Source 969 971	he
+T17	Cue 972 976	said
+T18	Content 832 968;978 1152	“The most important job I’m ever going to have, the most important job anyone in this room will ever have is the job of being a parent,” “Not the job of being president or the job of being a senator or the job of being a congressman, the most important job any of us will ever do is the job of being president.”
+T19	Attribution 972 976	said
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1185 1189	Paul
+T21	Cue 1208 1215	calling
+T22	Content 1216 1280	Rubio’s proposed child care credit “a welfare transfer payment.”
+T23	Attribution 1208 1215	calling
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1352 1356	Paul
+T25	Cue 1357 1361	said
+T26	Content 1282 1351;1363 1519	“We have to decide what is conservative and what isn’t conservative,” “Add [the child care credit] to Marco’s plan for a trillion dollars in new military spending and you get something that looks to me, not very conservative.”
+T27	Source 1521 1528	Rubio’s
+T28	Cue 1529 1541	response was
+T29	Content 1542 1716	that it’s unfair for the federal tax code to allow citizens to write off the costs of investments in equipment or their business, without equivalent write-offs for child care
+T30	Attribution 1357 1361	said
+E7	Attribution:T30 Cue:T25 Source:T24 Content:T26
+T31	Attribution 1529 1541	response was
+E8	Attribution:T31 Content:T29 Cue:T28 Source:T27
+T32	Source 1719 1723	Paul
+T33	Cue 1724 1734	also asked
+T34	Content 1735 1807	how it’s conservative to add a trillion dollars in military expenditures
+T35	Attribution 1724 1734	also asked
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1910 1912	he
+T37	Cue 1913 1919	argued
+T38	Content 1810 1909	“You can’t be conservative if you’re going to keep promoting programs you’re not going to pay for,”
+T39	Attribution 1913 1919	argued
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1979 1984	Rubio
+T41	Cue 1985 2001	said in response
+T42	Content 1922 1978	“I know that Rand is a committed isolationist; I’m not,”
+T43	Attribution 1985 2001	said in response
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 2004 2008	Paul
+T45	Cue 2009 2018	suggested
+T46	Content 2019 2064	that Rubio was “liberal on military spending”
+T47	Attribution 2009 2018	suggested
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Cue 2069 2075	argued
+T49	Content 2076 2139	thatU.S. military spending dwarfs that of the rest of the world
+T50	Attribution 2069 2075	argued
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T44
+T51	Discard 2142 2152;2154 2221;2223 2267;2269 2347;2349 2438;2440 2507	"Related:" GOP Candidates Resoundingly Reject The Idea Of A Minimum Wage Hike. Rand Paul Scores Direct Hit On Donald Trump. The Daily Show Takes A Closer Look At The GOP Candidates So You Don’t Have To. Marco Rubio Responds To Question About Minimum Wage By Saying We Need Fewer Philosophers. Mike Huckabee Makes Sexist Wife Joke To Bash Fed Chair Janet Yellen

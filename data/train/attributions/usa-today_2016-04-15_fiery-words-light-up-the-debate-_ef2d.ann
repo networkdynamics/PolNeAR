@@ -1,0 +1,87 @@
+T1	Source 107 141	Bernie Sanders and Hillary Clinton
+T2	Cue 174 182	repeated
+T3	Content 183 265	the attacks they have been airing in the media since their last debate a month ago
+T4	Attribution 174 182	repeated
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 268 275	Sanders
+T6	Cue 307 313	saying
+T7	Content 314 372	"of course" Clinton has the qualifications to be president
+T8	Attribution 307 313	saying
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 376 392	having suggested
+T10	Content 412 435	that she is unqualified
+T11	Attribution 376 392	having suggested
+E3	Attribution:T11 Source:T5 Cue:T9 Content:T10
+T12	Cue 443 447	said
+T13	Content 448 579	he questioned her judgment based on her vote in favor of the Iraq war and her decision to allow a super PAC to support her campaign
+T14	Attribution 443 447	said
+E4	Attribution:T14 Source:T5 Cue:T12 Content:T13
+T15	Source 582 589	Clinton
+T16	Cue 590 600	fired back
+T17	Content 601 662;663 707	that the "people of New York voted for me twice" for the U.S. Senate, so clearly believed in her judgment.
+T18	Attribution 590 600	fired back
+E5	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 708 711	She
+T20	Cue 712 717	added
+T21	Content 718 932	that Sanders' widely criticized April 1 interview with the editorial board of the New York Daily News -- in which he struggled to provide detailed explanations of key policies -- raised questions about his judgment
+T22	Attribution 712 717	added
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Source 940 947	Sanders
+T24	Cue 948 955	accused
+T25	Content 956 999	Clinton of being too reliant on Wall Street
+T26	Attribution 948 955	accused
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Source 1001 1004	she
+T28	Cue 1005 1009	said
+T29	Content 1010 1092	"I stood up against the behavior of the banks" for reckless financial transactions
+T30	Attribution 1005 1009	said
+E8	Attribution:T30 Content:T29 Cue:T28 Source:T27
+T31	Source 1094 1101	Sanders
+T32	Cue 1102 1111	shot back
+T33	Content 1113 1148;1149 1209	"Secretary Clinton called them out. Oh my goodness, they must have been really crushed by that."
+T34	Source 1211 1298	Clinton, pressed by moderator Dana Bash to release transcripts of her private speeches,
+T35	Discuss 1211 1218	Clinton
+T36	Cue 1299 1326	turned the issue instead to
+T37	Content 1327 1370	Sanders' failure to release his tax returns
+T38	Attribution 1102 1111	shot back
+E9	Attribution:T38 Content:T29 Source:T31 Cue:T32 Content2:T33
+T39	Attribution 1299 1326	turned the issue instead to
+E10	Attribution:T39 Content:T37 Cue:T36 Source:T34
+T40	Source 1372 1379	Sanders
+T41	Cue 1380 1384	said
+T42	Content 1385 1455	he would release his 2014 return Friday, and others shortly thereafter
+T43	Source 1458 1465	Clinton
+T44	Cue 1466 1484	repeatedly invoked
+T45	Content 1485 1500	President Obama
+T46	Attribution 1380 1384	said
+E11	Attribution:T46 Source:T40 Cue:T41 Content:T42
+T47	Attribution 1466 1484	repeatedly invoked
+E12	Attribution:T47 Content:T45 Cue:T44 Source:T43
+T48	Cue 1505 1514	suggested
+T49	Content 1515 1574	that Sanders' critiques of her amounted to attacks on Obama
+T50	Attribution 1505 1514	suggested
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T43
+T51	Cue 1576 1590	In response to
+T52	Content 1591 1647	Sanders' charge that she has been weak on climate change
+T53	Source 1649 1652	she
+T54	Attribution 1576 1590	In response to
+E14	Attribution:T54 Source:T53 Content:T52 Cue:T51
+T55	Cue 1653 1657	said
+T56	Content 1658 1720;1721 1834	she and Obama had made progress in the face of GOP opposition. "I really believe that the president has done an incredible job against great odds and deserves to be supported."
+T57	Attribution 1653 1657	said
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T53
+T58	Source 2131 2178	An average of recent polls by RealClearPolitics
+T59	Cue 2179 2184	shows
+T60	Content 2185 2272	Clinton leads Sanders by about 13 points in the state, where both candidates claim ties
+T61	Attribution 2179 2184	shows
+E16	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Content 2548 2550;2564 2592	He to make a short speech there
+T63	Cue 2551 2563	is scheduled
+T64	Attribution-no-source 2551 2563	is scheduled
+E17	Attribution-no-source:T64 Cue:T63 Content:T62
+T65	Cue 2597 2612	is not expected
+T66	Content 2613 2633	to meet Pope Francis
+T67	Attribution-no-source 2597 2612	is not expected
+E18	Attribution-no-source:T67 Content:T66 Cue:T65
+T68	Discuss 2548 2550	He
+T69	Discard 2750 2780	Contributing: Nicole Gaudiano.

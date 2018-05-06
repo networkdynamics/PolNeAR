@@ -1,0 +1,71 @@
+T1	Source 54 58	Some
+T2	Cue 59 62	Say
+T3	Content 63 84	It Proves She Cheated
+T4	Attribution 59 62	Say
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 193 195	he
+T6	Cue 196 202	posted
+T7	Content 203 224	the following picture
+T8	Attribution 196 202	posted
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 247 256	The photo
+T10	Cue 257 262	is of
+T11	Content 263 433	Hillary Clinton walking with her staff supposedly during one of the commercial breaks from Wednesday night’s Democratic presidential candidate debates hosted by Univision
+T12	Attribution 257 262	is of
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Discuss 436 495	<tweet tweet-author="@edhenry" tweet-date="March 10, 2016">
+T14	Source 495 519	Sanders aide Jeff Weaver
+T15	Cue 520 524	told
+T16	Content 528 611	photo circulating of @HillaryClinton w/staff during debate break violates DNC rules
+T17	Attribution 520 524	told
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 649 654	Henry
+T19	Cue 655 684	added the caption which reads
+T20	Content 686 805	“Sanders aide Jeff Weaver told me photo circulating of @HillaryClinton w/staff during debate break violates DNC rules.”
+T21	Attribution 655 684	added the caption which reads
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Content 806 821;854 920	The implication is that Clinton cheated by meeting with her staff during the break
+T23	Cue 823 835	according to
+T24	Source 836 852	the Sanders aide
+T25	Attribution 823 835	according to
+E6	Attribution:T25 Source:T24 Cue:T23 Content:T22
+T26	Source 1004 1009	Henry
+T27	Cue 1010 1017	tweeted
+T28	Content 1019 1152	“Candidates are not supposed to confer w staff during commercial breaks — Clinton aide Jen Palmieri told me she wasn’t aware of pic.”
+T29	Discuss 1154 1213	<tweet tweet-author="@edhenry" tweet-date="March 10, 2016">
+T30	Source 1351 1359	The Hill
+T31	Cue 1360 1368	reported
+T32	Content 1370 1424	Donald Trump was also accused of breaking debate rules
+T33	Attribution 1010 1017	tweeted
+E7	Attribution:T33 Source:T26 Cue:T27 Content:T28
+T34	Cue 1538 1543	asked
+T35	Content 1544 1552	to leave
+T36	Attribution 1360 1368	reported
+E8	Attribution:T36 Source:T30 Cue:T31 Content:T32
+T37	Attribution-no-source 1538 1543	asked
+E9	Attribution-no-source:T37 Content:T35 Cue:T34
+T38	Source 1592 1609	debate organizers
+T39	Cue 1610 1618	to allow
+T40	Content 1619 1679	the other candidates time to confer with their staff as well
+T41	Attribution 1610 1618	to allow
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Source 1723 1729	Waters
+T43	Cue 1730 1737	tweeted
+T44	Content 1739 1832	“Trump did the same last week at Fox debate. Two of kind who think they are above the rules.”
+T45	Attribution 1730 1737	tweeted
+E11	Attribution:T45 Content:T44 Cue:T43 Source:T42
+T46	Source 1834 1841	Another
+T47	Cue 1842 1849	tweeted
+T48	Content 1851 1986	“Clinton thinks she’s above rules & the law. if she can’t follow simple debate parameters, think about how she will run things for US.”
+T49	Attribution 1842 1849	tweeted
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Cue 1994 2012	many references to
+T51	Content 2013 2051	Clinton’s private email server scandal
+T52	Attribution-no-source 1994 2012	many references to
+E13	Attribution-no-source:T52 Content:T51 Cue:T50
+T53	Source 2085 2088	who
+T54	Cue 2089 2096	tweeted
+T55	Content 2098 2238	“U see @edhenry, @HillaryClinton & staff never, ever pay attention to nor respect rules. They break them CONSTANTLY & nothing is ever done.”
+T56	Attribution 2089 2096	tweeted
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Discuss 2240 2415	<tweet tweet-author="@humanbrooklyn" tweet-date="March 10, 2016">@DitoDC @Nizy801 @edhenry Why do the Clintons get a pass on everything just because they’re Democrats?<tweet/>

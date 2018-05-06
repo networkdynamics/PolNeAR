@@ -1,0 +1,55 @@
+T1	Source 12 23	Roger Stone
+T2	Cue 23 24	:
+T3	Content 25 56	Don’t Trust the Voting Machines
+T4	Attribution 23 24	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 59 179	There is serious concern about voter fraud and the manipulation of voting machines in the upcoming presidential election
+T6	Source 181 226	Donald Trump’s longtime confident Roger Stone
+T7	Cue 227 233	stated
+T8	Attribution 227 233	stated
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Cue 409 415	Stated
+T10	Source 416 421	Stone
+T11	Content 424 842;844 1207	“I think that the stakes are so high – and Donald Trump has made it pretty clear that if he is elected president he will seek the prosecution of Bill, Hillary, and Chelsea – that they would do anything necessary to remain in power. For anybody who thinks that election fraud is not common in this country, the voting machine today is merely a computer. And all computers can be rigged to have a predetermined outcome.” “… There is evidence that the Clintons not only cheated with the super-delegates, but in States like Wisconsin and New York and Kentucky there were charges of widespread voter fraud on behalf of Hillary. So it does happen here. It will happen here if this race is close. The big city machines, particularly Chicago, are very adept at manipulating these machines.”
+T12	Attribution 409 415	Stated
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Cue 1209 1218	Continued
+T14	Source 1219 1224	Stone
+T15	Content 1226 1494	“So I think it’s a very real problem. And the single best thing that the Trump people can do is to register a million new voters in the ten swing States. What I would do is take the margin by which Romney lost, double it. That would be my target for new registration.”
+T16	Attribution 1209 1218	Continued
+E4	Attribution:T16 Content:T15 Source:T14 Cue:T13
+T17	Source 1496 1508	Donald Trump
+T18	Cue 1509 1541	has recently made comments about
+T19	Content 1542 1605	the possibility of voter fraud during the presidential election
+T20	Attribution 1509 1541	has recently made comments about
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 1608 1711;1770 1859	“And I’m telling you, November 8, we’d better be careful, because that election is going to be rigged,” “And I hope the Republicans are watching closely or it’s going to be taken away from us.”
+T22	Source 1712 1717	Trump
+T23	Cue 1718 1722	told
+T24	Attribution 1718 1722	told
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Source 1861 1900	Clinton campaign spokesman Brian Fallon
+T26	Cue 1901 1930	responded on Twitter, calling
+T27	Content 1931 1973	Trump’s charge “pathetic” and “dangerous.”
+T28	Attribution 1901 1930	responded on Twitter, calling
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Discard 1975 2220	<tweet id="760428498989289472" author="@brianefallon" datetime="2016-08-02">Even for a reflexive conspiracy theorist like Trump, this is pathetic. It’s dangerous, too.https://t.co/hcd4kQ4VS9 — Brian Fallon (@brianefallon) August 2, 2016</tweet>.
+T30	Source 2222 2227	Obama
+T31	Cue 2283 2290	stating
+T32	Content 2291 2391	state and local authorities – and not the federal government – are in charge of the election process
+T33	Attribution 2283 2290	stating
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Cue 2228 2242	also addressed
+T35	Content 2243 2267	Trump’s general concerns
+T36	Attribution 2228 2242	also addressed
+E9	Attribution:T36 Cue:T34 Content:T35 Source:T30
+T37	Content 2394 2496	“We do take seriously our responsibilities to monitor and preserve the integrity of the vote process,”
+T38	Source 2497 2499	he
+T39	Cue 2500 2505	added
+T40	Attribution 2500 2505	added
+E10	Attribution:T40 Cue:T39 Source:T38 Content:T37
+T41	Content 2508 2682	“If we see signs that a voting machine or system is vulnerable to hacking, then we inform those local authorities who are running the elections that they need to be careful,”
+T42	Source 2683 2688	Obama
+T43	Cue 2689 2695	stated
+T44	Attribution 2689 2695	stated
+E11	Attribution:T44 Cue:T43 Source:T42 Content:T41

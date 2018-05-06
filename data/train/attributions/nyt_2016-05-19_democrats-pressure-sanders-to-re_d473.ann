@@ -1,0 +1,179 @@
+T1	Source 0 9	Democrats
+T2	Cue 10 18	pressure
+T3	Content 19 58	Sanders to rein in his most fervid fans
+T4	Attribution 10 18	pressure
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Discard 61 70	ABSTRACT.
+T6	Discard 230 240	FULL TEXT.
+T7	Source 72 90	Senator Harry Reid
+T8	Cue 91 95	said
+T9	Content 96 227	he had spoken with Senator Bernie Sanders about accusations that his backers made threats after Nevada Democrats ruled against them
+T10	Attribution 91 95	said
+E2	Attribution:T10 Content:T9 Cue:T8 Source:T7
+T11	Source 297 319	Senator Bernie Sanders
+T12	Cue 320 332	has rebuffed
+T13	Content 333 430	pressure to rein in his supporters after they disrupted a weekend Democratic convention in Nevada
+T14	Attribution 320 332	has rebuffed
+E3	Attribution:T14 Content:T13 Cue:T12 Source:T11
+T15	Source 538 553	Hillary Clinton
+T16	Cue 554 567	is struggling
+T17	Content 568 617	to turn her and the party's attention to the fall
+T18	Attribution 554 567	is struggling
+E4	Attribution:T18 Content:T17 Cue:T16 Source:T15
+T19	Source 620 644	Mr. Sanders's supporters
+T20	Cue 645 662	showed no sign of
+T21	Content 663 675	backing down
+T22	Attribution 645 662	showed no sign of
+E5	Attribution:T22 Content:T21 Cue:T20 Source:T19
+T23	Discuss 620 686	Mr. Sanders's supporters showed no sign of backing down on Tuesday
+T24	Source 703 710	several
+T25	Cue 711 721	threatened
+T26	Content 722 893	to disrupt the party's convention in Philadelphia in July with protests and nonviolent disobedience over a nominating system that they say has treated Mr. Sanders unfairly
+T27	Attribution 711 721	threatened
+E6	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 939 953	his supporters
+T29	Cue 954 984	have been trading advice about
+T30	Content 985 1043	protest tactics and legal services in case of mass arrests
+T31	Attribution 954 984	have been trading advice about
+E7	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1079 1119	Senator Harry Reid, the minority leader,
+T33	Cue 1046 1056	Alarmed by
+T34	Content 1057 1077	the unrest in Nevada
+T35	Attribution 1046 1056	Alarmed by
+E8	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Cue 1120 1124	said
+T37	Content 1125 1255	that he spoke with Mr. Sanders on Tuesday and that the Vermont senator faced a ''test of leadership'' over his supporters' actions
+T38	Attribution 1120 1124	said
+E9	Attribution:T38 Cue:T36 Source:T32 Content:T37
+T39	Source 1257 1289	Mr. Reid, who represents Nevada,
+T40	Cue 1290 1294	said
+T41	Content 1295 1358	he was confident that Mr. Sanders would ''do the right thing.''
+T42	Attribution 1290 1294	said
+E10	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1364 1375	Mr. Sanders
+T44	Cue 1376 1393	showed no sign of
+T45	Content 1394 1406	backing down
+T46	Attribution 1376 1393	showed no sign of
+E11	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Cue 1408 1429	releasing a statement
+T48	Content 1430 1590	that, while condemning violence, accused the Democratic leadership in Nevada of using ''its power to prevent a fair and transparent process from taking place.''
+T49	Attribution 1408 1429	releasing a statement
+E12	Attribution:T49 Cue:T47 Source:T43 Content:T48
+T50	Source 1645 1669	Mr. Sanders's supporters
+T51	Cue 1624 1641	the determination
+T52	Content 1673 1737	undermine Mrs. Clinton's all-but-certain march to the nomination
+T53	Attribution 1624 1641	the determination
+E13	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Content 1739 1805	On Tuesday she lost the Oregon primary but was leading in Kentucky
+T55	Cue 1807 1819	according to
+T56	Source 1820 1851	complete but unofficial returns
+T57	Attribution 1807 1819	according to
+E14	Attribution:T57 Source:T56 Cue:T55 Content:T54
+T58	Source 1991 1994	she
+T59	Cue 1995 2012	turns her fire on
+T60	Content 2013 2064	Donald J. Trump, the presumptive Republican nominee
+T61	Attribution 1995 2012	turns her fire on
+E15	Attribution:T61 Content:T60 Cue:T59 Source:T58
+T62	Source 2070 2087	leading Democrats
+T63	Cue 2088 2124	have become increasingly vocal about
+T64	Content 2125 2177	the need to unify the party for the general election
+T65	Attribution 2088 2124	have become increasingly vocal about
+E16	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Source 2258 2293	Senator Barbara Boxer of California
+T67	Cue 2294 2298	said
+T68	Content 2299 2358	she had reached out to Mr. Sanders about the need for unity
+T69	Attribution 2294 2298	said
+E17	Attribution:T69 Content:T68 Cue:T67 Source:T66
+T70	Content 2361 2407;2424 2697	''I have placed a couple of calls to Bernie,'' ''He's my friend. He's been my friend for many, many, many years, and I haven't heard back from Bernie, and I would hope that Bernie will be a leader and make sure that everybody understands what is at stake. And what is at stake is the future of our nation. Nothing less.'
+T71	Source 2408 2417	Ms. Boxer
+T72	Cue 2418 2422	said
+T73	Attribution 2418 2422	said
+E18	Attribution:T73 Cue:T72 Source:T71 Content:T70
+T74	Source 2700 2799	Ms. Boxer, who was in Nevada for the convention on Saturday as Sanders supporters erupted in anger,
+T75	Cue 2800 2806	called
+T76	Content 2807 2839	what she witnessed ''terrible.''
+T77	Attribution 2800 2806	called
+E19	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Content 2841 2922;2939 3235	''We just can't have a repeat of that in Philadelphia because it's distressing,'' ''I have a message to the Bernie people who are planning to be disobedient because the system is rigged. Here is the thing: They should support the Democratic candidate who got the most votes. They should support the Democratic candidate who got the most delegates. There is nothing to protest.''
+T79	Source 2923 2932	Ms. Boxer
+T80	Cue 2933 2937	said
+T81	Attribution 2933 2937	said
+E20	Attribution:T81 Cue:T80 Source:T79 Content:T78
+T82	Content 3352 3398;3526 3746	''You are going to see a variety of tactics,'' ''I personally don't like being arrested. But it's essential that we speak our minds and assert our First Amendment rights. Our system is terribly flawed and terribly unjust - so very just actions often end in arrests.''
+T83	Cue 3399 3403	said
+T84	Source 3404 3524	Elizabeth Arnold, 32, a former staff member for the Sanders campaign in Philadelphia who said she planned to demonstrate
+T85	Attribution 3399 3403	said
+E21	Attribution:T85 Source:T84 Cue:T83 Content:T82
+T86	Source 3748 3836	Ms. Arnold, who helped found EDGE, an environmental justice group based in Philadelphia,
+T87	Cue 3837 3841	said
+T88	Content 3842 3938	she did not condone violence and hoped that people would find a way to voice concerns peacefully
+T89	Attribution 3837 3841	said
+E22	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Source 3944 3947	she
+T91	Cue 3948 3952	said
+T92	Content 3953 4072	that Mrs. Clinton and other Democratic leaders attending the convention ''should worry about what is going to happen.''
+T93	Attribution 3948 3952	said
+E23	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 4074 4125	Nina Turner, a prominent surrogate for Mr. Sanders,
+T95	Cue 4126 4130	said
+T96	Content 4131 4321	that she had seen several emails from people planning acts of civil disobedience, and that talk of dissent in the Republican ranks over Mr. Trump masked the searing divisions among Democrats
+T97	Content 4324 4440;4458 4572	''People are talking about the Republicans having a brokered convention. I think we are sleeping on the Democrats,'' ''And if Democrats believe that that's not going to happen, they are just sadly mistaken. They have blinders on.''
+T98	Source 4441 4451	Ms. Turner
+T99	Cue 4452 4456	said
+T100	Attribution 4126 4130	said
+E24	Attribution:T100 Cue:T95 Source:T94 Content:T96
+T101	Attribution 4452 4456	said
+E25	Attribution:T101 Cue:T99 Source:T98 Content:T97
+T102	Content 4574 4626;4637 4747	''It is going to be progressives who will disrupt,'' ''And when I say disrupt, I don't mean in a violent or a terrible way, but I just mean upset the apple cart.''
+T103	Source 4627 4630	she
+T104	Cue 4631 4635	said
+T105	Attribution 4631 4635	said
+E26	Attribution:T105 Cue:T104 Source:T103 Content:T102
+T106	Source 4749 4817	April Mellody, a spokeswoman for the Democratic National Convention,
+T107	Cue 4818 4837	said in a statement
+T108	Content 4838 5016	that the convention's security team would work with the Philadelphia police and the Secret Service ''to ensure the safety and security of all of our delegates and participants.''
+T109	Attribution 4818 4837	said in a statement
+E27	Attribution:T109 Content:T108 Cue:T107 Source:T106
+T110	Content 5089 5121;5134 5144	many potential Sanders delegates ineligible
+T111	Cue 5122 5133	were deemed
+T112	Attribution-no-source 5122 5133	were deemed
+E28	Attribution-no-source:T112 Cue:T111 Content:T110
+T113	Source 5146 5188	Roberta Lange, the state party chairwoman,
+T114	Cue 5189 5193	said
+T115	Content 5194 5311	she had received death threats against her and her family after Sanders supporters spread her cellphone number online
+T116	Attribution 5189 5193	said
+E29	Attribution:T116 Content:T115 Cue:T114 Source:T113
+T117	Content 5314 5378;5389 5570	''The Sanders campaign helped incite everything that happened,'' ''Instead of attacking me, they should be publicly apologizing to me for the part that they played. I'm really disappointed. It makes me feel like it is not being taken seriously.''
+T118	Source 5379 5382	she
+T119	Cue 5383 5387	said
+T120	Attribution 5383 5387	said
+E30	Attribution:T120 Cue:T119 Source:T118 Content:T117
+T121	Source 5584 5617	the Nevada State Democratic Party
+T122	Cue 5618 5646	issued a formal complaint to
+T123	Content 5647 5736	the Democratic National Committee in response to the behavior of Mr. Sanders's supporters
+T124	Attribution 5618 5646	issued a formal complaint to
+E31	Attribution:T124 Content:T123 Cue:T122 Source:T121
+T125	Source 5739 5821	Representative Debbie Wasserman Schultz of Florida, the national party chairwoman,
+T126	Cue 5822 5836	also expressed
+T127	Content 5837 5844	concern
+T128	Attribution 5822 5836	also expressed
+E32	Attribution:T128 Content:T127 Cue:T126 Source:T125
+T129	Content 5847 6069;6080 6196	''We will be reaching out to the leadership of both of our campaigns to ask them to stand with the Democratic Party in denouncing and taking steps to prevent the type of behavior on display over the weekend in Las Vegas,'' ''Our democracy is undermined any time threats, intimidation, physical violence or damage to property are present.''
+T130	Source 6070 6073	she
+T131	Cue 6074 6078	said
+T132	Attribution 6074 6078	said
+E33	Attribution:T132 Cue:T131 Source:T130 Content:T129
+T133	Content 6202 6220	the protest effort
+T134	Cue 6228 6254	some institutional support
+T135	Attribution-no-source 6228 6254	some institutional support
+E34	Attribution-no-source:T135 Cue:T134 Content:T133
+T136	Source 6256 6432	RoseAnn DeMoro, executive director of National Nurses United, a union that has endorsed Mr. Sanders and that has been busing its members across the country to campaign for him,
+T137	Cue 6433 6442	also said
+T138	Content 6443 6509	her group planned to take part in demonstrations at the convention
+T139	Attribution 6433 6442	also said
+E35	Attribution:T139 Content:T138 Cue:T137 Source:T136
+T140	Content 6512 6586;6597 6696	''We will be a significant force inside and a significant force outside,'' ''The focus is going to be how disenfranchised the voters felt during this election by the D.N.C.''
+T141	Source 6587 6590	she
+T142	Cue 6591 6595	said
+T143	Attribution 6591 6595	said
+E36	Attribution:T143 Cue:T142 Source:T141 Content:T140

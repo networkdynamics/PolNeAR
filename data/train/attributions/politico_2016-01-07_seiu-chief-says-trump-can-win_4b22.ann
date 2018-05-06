@@ -1,0 +1,64 @@
+T1	Source 0 10	SEIU chief
+T2	Cue 11 15	says
+T3	Content 16 29	Trump can win
+T4	Attribution 11 15	says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 32 85	The head of the Service Employees International Union
+T6	Cue 86 102	is worried about
+T7	Content 103 162	what Donald Trump is stirring up in her 2.1 million members
+T8	Attribution 86 102	is worried about
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 172 175	she
+T10	Cue 176 182	thinks
+T11	Content 183 193	he can win
+T12	Attribution 176 182	thinks
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 276 290	Mary Kay Henry
+T14	Cue 291 295	said
+T15	Content 296 365	her organization is going into “hyperdrive” to stand up against Trump
+T16	Attribution 291 295	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 406 411	Henry
+T18	Cue 412 420	compared
+T19	Content 421 494	Trump to former California Gov. Pete Wilson who supported Proposition 226
+T20	Attribution 412 420	compared
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 771 776	Henry
+T22	Cue 777 781	said
+T23	Content 648 770	“This ad that Trump released today is horrific in my mind and reminds me of Pete Wilson in California on Proposition 226,”
+T24	Attribution 777 781	said
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 959 966	Axelrod
+T26	Cue 967 971	said
+T27	Content 936 958	"But Pete Wilson won,”
+T28	Attribution 967 971	said
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 1069 1074	Henry
+T30	Cue 1075 1079	said
+T31	Content 974 1068	"I know. I know. That’s why I think this is a very dangerous political moment in our country,”
+T32	Attribution 1075 1079	said
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 790 802	referring to
+T34	Content 803 934	Trump's first TV ad talking about building a wall along the U.S.-Mexico border and a proposal to ban Muslims from entering the U.S.
+T35	Attribution-no-source 790 802	referring to
+E9	Attribution-no-source:T35 Content:T34 Cue:T33
+T36	Source 1081 1084	She
+T37	Cue 1085 1090	added
+T38	Content 1091 1227	that she thinks Trump appeals to some of her members because of the “terrible anxiety” some people in the working class are experiencing
+T39	Attribution 1085 1090	added
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Source 1475 1480	Henry
+T41	Cue 1481 1485	said
+T42	Content 1230 1474;1487 1875	“I think he’s touching this vein of the terrible anxiety that working-class people feel about their current status, but more importantly, how terrified they are for their kids not being able to do as well as they have, never mind doing better,” “ You know, so that broken sense of the future and that emotion having an easier appeal to fear than to what’s possible is what we found is why — we’re doing one-on-ones with every one of our members right now in this period because 64 percent of our public members identify as conservative and are much more interested in the Republican debate than the Democratic debate at this moment.”
+T43	Attribution 1481 1485	said
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 374 377	she
+T45	Cue 378 382	sees
+T46	Content 383 403	him as a real threat
+T47	Attribution 378 382	sees
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Content 496 505;533 645	a measure that would have required them to get approval from individual members to spend their dues on political campaigns
+T49	Cue 506 522	strongly opposed
+T50	Source 526 532	unions
+T51	Attribution 506 522	strongly opposed
+E13	Attribution:T51 Source:T50 Cue:T49 Content:T48

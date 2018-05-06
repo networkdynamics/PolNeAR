@@ -1,0 +1,53 @@
+T1	Content 68 234	As GOP front-runner Donald Trump prepared to speak to supporters in Wisconsin on Tuesday, a 15-year-old girl outside the venue was pepper-sprayed by another bystander
+T2	Source 236 242	police
+T3	Cue 243 247	said
+T4	Attribution 243 247	said
+E1	Attribution:T4 Cue:T3 Source:T2 Content:T1
+T5	Source 250 256	Police
+T6	Cue 257 261	said
+T7	Content 262 336	the girl was peppered-sprayed in the crowd by a non-law enforcement person
+T8	Attribution 257 261	said
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 555 557	In
+T10	Source 558 599	video posted on social media of the scene
+T11	Content 601 732	the young woman appears to be arguing with someone and appears to shove or punch at the person before the pepper spray was deployed
+T12	Attribution 555 557	In
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Content 735 960	A day earlier, six protesters were arrested on charges of disorderly conduct, obstructing an officer and trespass after refusing to leave the lobby of the Holiday Inn Express as part of another anti-Trump protest at the venue
+T14	Source 962 968	police
+T15	Cue 969 973	said
+T16	Attribution 969 973	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 976 982	Police
+T18	Cue 983 987	said
+T19	Content 988 1082	the protesters identified themselves as belonging to the group Showing Up for Racial Injustice
+T20	Attribution 983 987	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 1300 1309	criticism
+T22	Source 1315 1321	rivals
+T23	Content 1322 1401	that the tenor of his campaign has created an unsafe environment at his rallies
+T24	Attribution 1300 1309	criticism
+E6	Attribution:T24 Content:T23 Source:T22 Cue:T21
+T25	Content 1602 1619;1637 1667	a 78-year-old man assault and disorderly conduct
+T26	Cue 1620 1636	was charged with
+T27	Attribution-no-source 1620 1636	was charged with
+E7	Attribution-no-source:T27 Cue:T26 Content:T25
+T28	Source 1778 1783	Trump
+T29	Cue 1795 1804	dismissed
+T30	Content 1805 1857	Wisconsin Gov. Scott Walker as an ineffective leader
+T31	Attribution 1795 1804	dismissed
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Cue 1859 1866	arguing
+T33	Content 1867 1944	that the Badger State governor has been a poor steward of the state's economy
+T34	Attribution 1859 1866	arguing
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T28
+T35	Content 2083 2169;2182 2330	"By the summer of 2015, Wisconsin was facing a $2.2 billion, two-year budget deficit," "That's terrible. ... Twenty thousand fewer people in Wisconsin's labor force than seven years ago even though the population has grown by 100,000."
+T36	Source 2170 2175	Trump
+T37	Cue 2176 2180	said
+T38	Attribution 2176 2180	said
+E10	Attribution:T38 Cue:T37 Source:T36 Content:T35
+T39	Source 2436 2443	Trump's
+T40	Cue 2444 2449	hopes
+T41	Content 2450 2544	to win the nomination outright before the party's national convention in Cleveland this summer
+T42	Attribution 2444 2449	hopes
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39

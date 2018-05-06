@@ -1,0 +1,80 @@
+T1	Source 160 172	Donald Trump
+T2	Cue 173 179	stated
+T3	Content 180 248	that Melania would discuss her immigration history "in a few weeks."
+T4	Attribution 173 179	stated
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Cue 321 326	seems
+T6	Content 313 320;327 367	Melania to have vanished from the campaign trail
+T7	Attribution-no-source 321 326	seems
+E2	Attribution-no-source:T7 Content:T6 Cue:T5
+T8	Cue 573 579	stated
+T9	Source 583 600	Davis' commentary
+T10	Content 602 712	there are conflicting stories and many questions about how his wife was able to work here and become a citizen
+T11	Attribution 573 579	stated
+E3	Attribution:T11 Content:T10 Source:T9 Cue:T8
+T12	Source 743 748	Trump
+T13	Cue 749 756	demands
+T14	Content 757 807	accountability and transparency from our president
+T15	Attribution 749 756	demands
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Cue 813 820	refuses
+T17	Content 821 847	to release his tax records
+T18	Attribution 813 820	refuses
+E5	Attribution:T18 Source:T12 Content:T17 Cue:T16
+T19	Cue 851 858	explain
+T20	Content 859 888	how his wife became a citizen
+T21	Attribution 851 858	explain
+E6	Attribution:T21 Source:T12 Content:T20 Cue:T19
+T22	Source 980 988	a friend
+T23	Cue 989 999	commented:
+T24	Content 1000 1074	"For you, immigration is the most important reason to not vote for Trump."
+T25	Attribution 989 999	commented:
+E7	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Cue 924 952	having a heated debate about
+T27	Content 953 978	the presidential nominees
+T28	Attribution 924 952	having a heated debate about
+E8	Attribution:T28 Source:T22 Content:T27 Cue:T26
+T29	Source 1277 1279	we
+T30	Cue 1280 1295	care more about
+T31	Content 1270 1276;1296 1321	a home than our native countries
+T32	Attribution 1280 1295	care more about
+E9	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1369 1371	we
+T34	Cue 1372 1385	are convinced
+T35	Content 1386 1473	this is the only country in which one can come from zero, work hard and become anything
+T36	Attribution 1372 1385	are convinced
+E10	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1475 1476	I
+T38	Cue 1477 1484	despise
+T39	Content 1485 1490	Trump
+T40	Attribution 1477 1484	despise
+E11	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1562 1584	Many of his supporters
+T42	Cue 1585 1592	believe
+T43	Content 1593 1630	bigotry and xenophobia are acceptable
+T44	Attribution 1585 1592	believe
+E12	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1811 1813	We
+T46	Cue 1814 1819	asked
+T47	Content 1820 1907	whether Melania Trump's story would influence the credibility of her husband's policies
+T48	Attribution 1814 1819	asked
+E13	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Cue 2033 2047	seems credible
+T50	Source 2051 2053	me
+T51	Content 2014 2032	Nothing about them
+T52	Attribution 2033 2047	seems credible
+E14	Attribution:T52 Content:T51 Source:T50 Cue:T49
+T53	Content 2084 2094	Everything
+T54	Source 2095 2100	Trump
+T55	Cue 2101 2105	says
+T56	Attribution 2101 2105	says
+E15	Attribution:T56 Cue:T55 Source:T54 Content:T53
+T57	Content 2276 2311	Only European immigrants are "safe"
+T58	Cue 2312 2314	in
+T59	Source 2315 2323	his eyes
+T60	Attribution 2312 2314	in
+E16	Attribution:T60 Source:T59 Cue:T58 Content:T57
+T61	Cue 2351 2356	seems
+T62	Content 2348 2350;2357 2439	he to have a different set of rules for his wife and young models opposed to Mexicans
+T63	Attribution-no-source 2351 2356	seems
+E17	Attribution-no-source:T63 Content:T62 Cue:T61

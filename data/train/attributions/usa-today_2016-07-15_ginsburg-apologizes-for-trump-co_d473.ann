@@ -1,0 +1,52 @@
+T1	Source 0 8	Ginsburg
+T2	Cue 9 23	apologizes for
+T3	Content 24 38	Trump comments
+T4	Attribution 9 23	apologizes for
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 41 48	Justice
+T6	Cue 49 53	vows
+T7	Content 54 96	to be 'more circumspect' with her opinions
+T8	Attribution 49 53	vows
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 99 118	Ruth Bader Ginsburg
+T10	Cue 119 126	regrets
+T11	Content 127 154	her insults of Donald Trump
+T12	Attribution 119 126	regrets
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 157 182	The Supreme Court justice
+T14	Cue 287 291	said
+T15	Content 292 317	she regretted her remarks
+T16	Attribution 287 291	said
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 322 330	promised
+T18	Content 331 362	to stay out of it in the future
+T19	Attribution 322 330	promised
+E5	Attribution:T19 Cue:T17 Source:T13 Content:T18
+T20	Content 365 474;505 614	"On reflection, my recent remarks in response to press inquiries were ill-advised, and I regret making them," "Judges should avoid commenting on a candidate for public office. In the future, I will be more circumspect."
+T21	Source 475 483	Ginsburg
+T22	Cue 484 503	said in a statement
+T23	Attribution 484 503	said in a statement
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 646 657	the justice
+T25	Cue 658 672	sounded off on
+T26	Content 673 678	Trump
+T27	Attribution 658 672	sounded off on
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 680 686	saying
+T29	Content 687 773	she didn't "want to contemplate" the effects a Trump candidacy would have on the court
+T30	Attribution 680 686	saying
+E8	Attribution:T30 Cue:T28 Source:T24 Content:T29
+T31	Content 776 784;798 814	Ginsburg her liberal bent
+T32	Cue 785 797	is known for
+T33	Attribution-no-source 785 797	is known for
+E9	Attribution-no-source:T33 Cue:T32 Content:T31
+T34	Source 950 955	Trump
+T35	Cue 956 965	called on
+T36	Content 966 993	her to resign from her post
+T37	Attribution 956 965	called on
+E10	Attribution:T37 Content:T36 Cue:T35 Source:T34
+T38	Cue 998 1002	said
+T39	Content 1004 1023	"Her mind is shot!"
+T40	Attribution 998 1002	said
+E11	Attribution:T40 Cue:T38 Content:T39 Source:T34
+T41	Discuss 1025 1202	He wasn't the only one unhappy with the remarks: Ginsburg received widespread (and bipartisan) criticism, even earning editorials from The New York Times and The Washington Post

@@ -1,0 +1,255 @@
+T1	Source 0 5	Party
+T2	Cue 6 10	aims
+T3	Content 11 33	to heal primary wounds
+T4	Source 230 259	Clinton and leading Democrats
+T5	Cue 260 264	hope
+T6	Content 225 229;265 390	that will soothe tensions and move their divided party toward enthusiastic unification behind the presumptive presidential nominee
+T7	Attribution 6 10	aims
+E1	Attribution:T7 Source:T1 Cue:T2 Content:T3
+T8	Attribution 260 264	hope
+E2	Attribution:T8 Content:T6 Cue:T5 Source:T4
+T9	Source 491 498	Sanders
+T10	Cue 499 518	fully supportive of
+T11	Content 519 526	Clinton
+T12	Attribution 499 518	fully supportive of
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Discuss 531 564	his millions of fervent followers
+T14	Source 825 832	Clinton
+T15	Cue 833 837	said
+T16	Content 848 1006	that she called Sanders after Tuesday night's primaries, which secured her the nomination, to congratulate him on what she called "an extraordinary campaign."
+T17	Attribution 833 837	said
+E4	Attribution:T17 Content:T16 Cue:T15 Source:T14
+T18	Source 1007 1010	She
+T19	Cue 1011 1015	said
+T20	Content 1016 1045	she admires his determination
+T21	Attribution 1011 1015	said
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Cue 1050 1061	highlighted
+T23	Content 1062 1145	their shared commitment on policy goals like universal health care and rising wages
+T24	Attribution 1050 1061	highlighted
+E6	Attribution:T24 Source:T18 Cue:T22 Content:T23
+T25	Content 1148 1259;1351 1499	"I think he and his supporters understand how much is at stake, that we need to join together to defeat Trump," "And I'm going to really reach out, do everything I can to persuade him. I will be obviously reaching out to his supporters to make that same case."
+T26	Source 1260 1267	Clinton
+T27	Cue 1268 1272	said
+T28	Attribution 1268 1272	said
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 1508 1515	Sanders
+T30	Cue 1663 1675	has vowed to
+T31	Content 1676 1684	fight on
+T32	Attribution 1663 1675	has vowed to
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1518 1521	who
+T34	Cue 1557 1566	discussed
+T35	Content 1567 1579	a path ahead
+T36	Attribution 1557 1566	discussed
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1832 1852	some Sanders backers
+T38	Cue 1853 1858	urged
+T39	Content 1859 1922	him not to back down until Clinton makes meaningful concessions
+T40	Attribution 1853 1858	urged
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Content 1924 1963	"She's going to have to inspire trust,"
+T42	Cue 1964 1968	said
+T43	Source 1969 2027	Ben Jealous, a former NAACP leader and a Sanders supporter
+T44	Attribution 1964 1968	said
+E11	Attribution:T44 Source:T43 Cue:T42 Content:T41
+T45	Source 2034 2120	others, including Sen. Jeff Merkley (D-Ore.) and Rep. RaÃÂol M. Grijalva (D-Ariz.),
+T46	Cue 2121 2138	are gently urging
+T47	Content 2139 2205	Sanders to accept the reality that Clinton will become the nominee
+T48	Attribution 2121 2138	are gently urging
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 2444 2622	Obama and White House political director David Simas, as well as Warren and Reid, have been in communication with both camps to lay the foundation for an eventual coming together
+T50	Cue 2624 2636	according to
+T51	Source 2637 2661	several senior Democrats
+T52	Attribution 2624 2636	according to
+E13	Attribution:T52 Source:T51 Cue:T50 Content:T49
+T53	Content 2841 2923	"It's not a one-way street. They're both going to have to, in effect, compromise,"
+T54	Source 2924 2928	Reid
+T55	Cue 2929 2933	said
+T56	Cue 2959 2972	Reflecting on
+T57	Content 2973 3009	his earlier career as a trial lawyer
+T58	Source 3011 3039	the Senate Democratic leader
+T59	Attribution 2929 2933	said
+E14	Attribution:T59 Content:T53 Source:T54 Cue:T55
+T60	Attribution 2959 2972	Reflecting on
+E15	Attribution:T60 Source:T58 Content:T57 Cue:T56
+T61	Cue 3040 3044	said
+T62	Content 3046 3228	"I never knew what was going to happen when I went to trial, so if I could get a decent offer I would settle that case, and that's what I think my two friends should take a look at."
+T63	Attribution 3040 3044	said
+E16	Attribution:T63 Source:T58 Cue:T61 Content:T62
+T64	Source 3505 3522	Leading Democrats
+T65	Cue 3523 3526	say
+T66	Content 3527 3585	that this time is different and potentially more difficult
+T67	Attribution 3523 3526	say
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T64
+T68	Cue 3697 3711	self-described
+T69	Content 3712 3732	democratic socialist
+T70	Attribution-no-source 3697 3711	self-described
+E18	Attribution-no-source:T70 Content:T69 Cue:T68
+T71	Source 4051 4054	who
+T72	Cue 4055 4075	do not identify with
+T73	Content 4076 4104	the Democratic establishment
+T74	Attribution 4055 4075	do not identify with
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Content 4277 4344;4395 4609	"He is certainly against Trump and will do anything to stop Trump," "If he is going to get out and endorse her before the convention, how do you do that in a way to persuade as many of his supporters as possible to support her? Not just, 'I'm for her,' but, 'You be for her, too.'."
+T76	Cue 4345 4349	said
+T77	Source 4350 4393	Tad Devine, a senior strategist for Sanders
+T78	Attribution 4345 4349	said
+E20	Attribution:T78 Source:T77 Cue:T76 Content:T75
+T79	Content 4789 4870;4938 5063	"He's obviously struggling and in great internal conflict about what's going on," "He knows intellectually that he can't win, but he can't stop himself. . . . There is part of him that doesn't want to quit."
+T80	Cue 4871 4875	said
+T81	Source 4876 4936	former Vermont governor Howard Dean (D), a Clinton supporter
+T82	Attribution 4871 4875	said
+E21	Attribution:T82 Source:T81 Cue:T80 Content:T79
+T83	Content 5126 5130;5143 5187	that he would make between now and the convention
+T84	Source 5131 5133	he
+T85	Cue 5134 5142	has said
+T86	Attribution 5134 5142	has said
+E22	Attribution:T86 Cue:T85 Source:T84 Content:T83
+T87	Cue 5201 5204	ask
+T88	Content 5326 5482	not only to change their allegiance, but also to go against the total popular vote and the results of state-by-state contests over the past four-plus months
+T89	Attribution-no-source 5201 5204	ask
+E23	Attribution-no-source:T89 Content:T88 Cue:T87
+T90	Source 5287 5290	who
+T91	Cue 5291 5317	have publicly committed to
+T92	Content 5318 5325	Clinton
+T93	Attribution 5291 5317	have publicly committed to
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Discuss 5065 5072	Sanders
+T95	Source 5552 5578	Many progressive activists
+T96	Cue 5579 5586	dislike
+T97	Content 5587 5621	the very concept of superdelegates
+T98	Attribution 5579 5586	dislike
+E25	Attribution:T98 Content:T97 Cue:T96 Source:T95
+T99	Source 5640 5711	Warren, whose liberal base is the same that fueled Sanders's candidacy,
+T100	Cue 5712 5721	advocated
+T101	Content 5635 5639	that
+T102	Attribution 5712 5721	advocated
+E26	Attribution:T102 Content:T101 Cue:T100 Source:T99
+T103	Content 5741 5863	"I'm a superdelegate and I don't believe in superdelegates. I don't think that superdelegates ought to sway the election,"
+T104	Source 5864 5870	Warren
+T105	Cue 5906 5910	told
+T106	Attribution 5906 5910	told
+E27	Attribution:T106 Cue:T105 Source:T104 Content:T103
+T107	Content 5995 5998;6037 6157	she as uniquely credible and positioned to play one of the most influential roles in bridging the Clinton and Sanders divide
+T108	Cue 5999 6009	is seen by
+T109	Source 6010 6036	other leaders of the party
+T110	Attribution 5999 6009	is seen by
+E28	Attribution:T110 Source:T109 Cue:T108 Content:T107
+T111	Source 6160 6176	A Warren adviser
+T112	Cue 6237 6241	said
+T113	Content 6258 6375	"She takes the threat of Trump very seriously and she takes seriously her potential role in helping unify the party."
+T114	Attribution 6237 6241	said
+E29	Attribution:T114 Content:T113 Cue:T112 Source:T111
+T115	Source 6420 6441	a chorus of Democrats
+T116	Cue 6442 6448	urging
+T117	Content 6449 6494	him, both personally and publicly, to bow out
+T118	Attribution 6442 6448	urging
+E30	Attribution:T118 Content:T117 Cue:T116 Source:T115
+T119	Content 6496 6623;6681 6733	"We have to be thoughtful about having a few voices at one time as opposed to everyone talking and preaching at the same time," "You can't have 30 people call and start lecturing."
+T120	Cue 6624 6628	said
+T121	Source 6629 6680	Sen. Robert P. Casey Jr. (D-Pa.), a Clinton backer.
+T122	Attribution 6624 6628	said
+E31	Attribution:T122 Source:T121 Cue:T120 Content:T119
+T123	Cue 6744 6774	considerable recognition among
+T124	Source 6775 6793	some party leaders
+T125	Content 6794 6961	that Sanders deserves deference from Clinton as well as some concessions that would continue to elevate the populist ideas that have been at the heart of his candidacy
+T126	Attribution 6744 6774	considerable recognition among
+E32	Attribution:T126 Content:T125 Source:T124 Cue:T123
+T127	Source 7030 7043	some senators
+T128	Cue 7044 7056	vented about
+T129	Content 7057 7083	Sanders vowing to fight on
+T130	Attribution 7044 7056	vented about
+E33	Attribution:T130 Content:T129 Cue:T128 Source:T127
+T131	Cue 7088 7092	said
+T132	Content 7093 7135	that they had lost their patience with him
+T133	Attribution 7088 7092	said
+E34	Attribution:T133 Source:T127 Cue:T131 Content:T132
+T134	Source 7137 7185	One Democratic official who relayed the exchange
+T135	Cue 7186 7190	said
+T136	Content 7191 7378	Reid quieted the chatter, telling his colleagues, "We have to remember that Bernie has always been good to us, he's always been there when we needed him, and we need to treat him fairly."
+T137	Attribution 7186 7190	said
+E35	Attribution:T137 Content:T136 Cue:T135 Source:T134
+T138	Source 7398 7402	Reid
+T139	Cue 7438 7448	reiterated
+T140	Content 7449 7463	those feelings
+T141	Attribution 7438 7448	reiterated
+E36	Attribution:T141 Content:T140 Cue:T139 Source:T138
+T142	Cue 7468 7476	stressed
+T143	Content 7477 7538	the need to treat both Sanders and his followers respectfully
+T144	Attribution 7468 7476	stressed
+E37	Attribution:T144 Source:T138 Cue:T142 Content:T143
+T145	Source 7540 7542	He
+T146	Cue 7543 7547	said
+T147	Content 7548 7706	Sanders has been "a tremendously important part of my caucus," and Democrats would need to "depend on Bernie" for the final seven months of Obama's presidency
+T148	Attribution 7543 7547	said
+E38	Attribution:T148 Content:T147 Cue:T146 Source:T145
+T149	Source 7709 7713	Reid
+T150	Cue 7714 7718	said
+T151	Content 7719 7809	that Sanders has energized "a lot of people" who "are rabidly involved in the system now."
+T152	Attribution 7714 7718	said
+E39	Attribution:T152 Content:T151 Cue:T150 Source:T149
+T153	Source 7810 7812	He
+T154	Cue 7813 7818	added
+T155	Content 7820 8019	"What I am so impressed with is that we have these new people, so it's extremely important that Clinton and Bernie . . . both understand what they've got to offer and that they work toward a middle."
+T156	Attribution 7813 7818	added
+E40	Attribution:T156 Content:T155 Cue:T154 Source:T153
+T157	Source 8021 8042	Supporters of Sanders
+T158	Cue 8043 8052	see it as
+T159	Content 8053 8154	especially crucial that Clinton as well as the Democratic National Committee make genuine concessions
+T160	Attribution 8043 8052	see it as
+E41	Attribution:T160 Content:T159 Cue:T158 Source:T157
+T161	Content 8186 8193	Sanders
+T162	Cue 8194 8204	supporters
+T163	Attribution-no-source 8194 8204	supporters
+E42	Attribution-no-source:T163 Cue:T162 Content:T161
+T164	Cue 8341 8352	Other ideas
+T166	Content 8381 8528	stronger policy positions by Clinton and in the platform on trade, fracking, Social Security, the role of money in politics and other reform issues
+T165	Source 8353 8372	from Sanders allies
+T167	Attribution 8341 8352	Other ideas
+E43	Attribution:T167 Source:T165 Content:T166 Cue:T164
+T168	Content 8531 8577;8592 8872	"We're not talking about little tiny changes," "My hope and expectation is that Secretary Clinton will find a way to understand how big these issues are and to find that she believes in aggressively taking them on. That would be necessary for the Sanders team to feel like they really want to get out and knock on those doors."
+T169	Source 8578 8585	Merkley
+T170	Cue 8586 8590	said
+T171	Attribution 8586 8590	said
+E44	Attribution:T171 Cue:T170 Source:T169 Content:T168
+T172	Source 8874 8888	Some Democrats
+T173	Cue 8889 8894	think
+T174	Content 8895 9110	that the most important step Clinton could take to bring Sanders's supporters enthusiastically behind her candidacy - short of naming him as her vice-presidential running-mate - would be to tap Warren for the ticket
+T175	Attribution 8889 8894	think
+E45	Attribution:T175 Content:T174 Cue:T173 Source:T172
+T176	Discuss 9112 9170	The idea has gained currency in Washington in recent weeks
+T177	Source 9351 9355	Reid
+T178	Cue 9407 9426	recently ordered up
+T179	Content 9427 9594	a legal analysis of Massachusetts election law, first reported by the Boston Globe, which concluded that there are avenues open to the Democrats to minimize the threat
+T180	Attribution 9407 9426	recently ordered up
+E46	Attribution:T180 Content:T179 Cue:T178 Source:T177
+T181	Content 9597 9633;9662 9795	"I'm a big fan of Elizabeth Warren," "I would hope that Clinton and Bernie understand what a good woman she is and that they find a role for her, whatever that might be."
+T182	Source 9634 9638	Reid
+T183	Cue 9639 9643	said
+T184	Attribution 9639 9643	said
+E47	Attribution:T184 Cue:T183 Source:T182 Content:T181
+T185	Source 9797 9801	Reid
+T186	Cue 9802 9823	raised the example of
+T187	Content 9824 9938	Obama in 2008 inviting Clinton into his circle, just as President Abraham Lincoln did in building a team of rivals
+T188	Attribution 9802 9823	raised the example of
+E48	Attribution:T188 Content:T187 Cue:T186 Source:T185
+T189	Content 9940 10096	"He reached out to her and gave her the best job he had to offer, secretary of state, and I think the history books will recount that was a brilliant move,"
+T190	Source 10097 10099	he
+T191	Cue 10100 10104	said
+T192	Cue 10107 10112	Asked
+T193	Content 10113 10179	whether he would counsel Clinton to ask Sanders to join her ticket
+T194	Attribution 10100 10104	said
+E49	Attribution:T194 Content:T189 Source:T190 Cue:T191
+T195	Attribution-no-source 10107 10112	Asked
+E50	Attribution-no-source:T195 Content:T193 Cue:T192
+T196	Source 10181 10185	Reid
+T197	Cue 10186 10190	said
+T198	Content 10191 10219	he would not give her advice
+T199	Attribution 10186 10190	said
+E51	Attribution:T199 Content:T198 Cue:T197 Source:T196
+T200	Content 10222 10352;10364 10392	"You can make a case for who is the strongest at this stage, either Clinton or Bernie, but the point is they have to work it out," "No one can do it for them."
+T201	Source 10353 10357	Reid
+T202	Cue 10358 10362	said
+T203	Attribution 10358 10362	said
+E52	Attribution:T203 Cue:T202 Source:T201 Content:T200

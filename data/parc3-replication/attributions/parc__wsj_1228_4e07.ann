@@ -1,0 +1,10 @@
+T1	Source 9 31	Companies listed below
+T2	Cue 32 40	reported
+T3	Content 41 121	quarterly profit substantially different from the average of analysts' estimates
+T4	Attribution 32 40	reported
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 381 404	at least three analysts
+T6	Cue 405 416	have issues
+T7	Content 417 426	forecasts
+T8	Attribution 405 416	have issues
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5

@@ -1,0 +1,85 @@
+T1	Source 0 4	Poll
+T2	Cue 4 5	:
+T3	Content 6 62	Clinton and Trump in dead heat heading into first debate
+T4	Attribution 4 5	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 65 148	HIllary Clinton and Donald Trump are virtually tied heading into their first debate
+T6	Cue 150 162	according to
+T7	Source 163 207	a new Washington Post-ABC News national poll
+T8	Attribution 150 162	according to
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Source 321 330	5 percent
+T10	Cue 331 337	prefer
+T11	Content 338 370	Libertarian nominee Gary Johnson
+T12	Attribution 331 337	prefer
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 375 384	1 percent
+T14	Cue 385 392	support
+T15	Content 393 421	the Green Party’s Jill Stein
+T16	Attribution 385 392	support
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 250 260	46 percent
+T18	Cue 261 273	would choose
+T19	Content 274 281	Clinton
+T20	Attribution 261 273	would choose
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 286 296	44 percent
+T22	Cue 297 307	would back
+T23	Content 308 313	Trump
+T24	Attribution 297 307	would back
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 595 615	A majority of voters
+T26	Cue 616 622	expect
+T27	Content 623 653;703 739	Clinton to win Monday's debate at Hofstra University on Long Island
+T28	Attribution 616 622	expect
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 777 802	Nearly eight of 10 voters
+T30	Cue 803 806	say
+T31	Content 807 827	they plan to tune in
+T32	Attribution 803 806	say
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 830 838	The poll
+T34	Cue 839 848	indicates
+T35	Content 849 866	a tightening race
+T36	Attribution 839 848	indicates
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 1007 1043	Only 52 percent of registered voters
+T38	Cue 1044 1050	agreed
+T39	Content 1051 1121	that Clinton is in "good enough overall health to serve as president,"
+T40	Attribution 1044 1050	agreed
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 1128 1138	73 percent
+T42	Cue 1139 1143	said
+T43	Content 1144 1161	the same of Trump
+T44	Attribution 1139 1143	said
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1172 1182	63 percent
+T46	Cue 1183 1187	said
+T47	Content 1188 1336	Clinton was "justified" in keeping her pneumonia diagnosis private until she nearly collapsed outside of a 9/11 memorial ceremony in lower Manhattan
+T48	Attribution 1183 1187	said
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Cue 1515 1517	In
+T50	Source 1518 1600	the previous Washington Post/ABC News national poll, conducted in early September,
+T51	Content 1601 1661	Clinton led Trump by 5 percentage points among likely voters
+T52	Attribution 1515 1517	In
+E13	Attribution:T52 Content:T51 Source:T50 Cue:T49
+T53	Source 1772 1789	RealClearPolitics
+T54	Cue 1790 1797	showing
+T55	Content 1798 1816	her ahead 3 points
+T56	Attribution 1790 1797	showing
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 1699 1715	Polling averages
+T58	Cue 1716 1720	show
+T59	Content 1721 1765	Clinton with a lead in the low single digits
+T60	Attribution 1716 1720	show
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 1876 1914	POLITICO’s Battleground States average
+T62	Cue 1915 1920	shows
+T63	Content 1921 1968	Clinton likewise ahead by 3.7 percentage points
+T64	Attribution 1915 1920	shows
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Source 2047 2088	Recent polls in Pennsylvania and Virginia
+T66	Cue 2089 2109	have similarly shown
+T67	Content 2110 2132	Clinton's lead eroding
+T68	Attribution 2089 2109	have similarly shown
+E17	Attribution:T68 Content:T67 Cue:T66 Source:T65

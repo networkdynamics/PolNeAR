@@ -1,0 +1,72 @@
+T1	Source 0 13	Carly Fiorina
+T2	Cue 13 14	:
+T3	Content 15 42	'Bill Clinton's fair game.'
+T4	Attribution 13 14	:
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 44 98	Donald Trump is on solid ground attacking Bill Clinton
+T6	Source 100 113	Carly Fiorina
+T7	Cue 114 118	said
+T8	Attribution 114 118	said
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Source 132 165	the former CEO of Hewlett-Packard
+T10	Cue 166 171	added
+T11	Content 127 130;173 196	But it's not the way to win
+T12	Attribution 166 171	added
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 199 261	"Of course Bill Clinton’s fair game. He’s a former president,"
+T14	Source 262 269	Fiorina
+T15	Cue 270 274	told
+T16	Attribution 270 274	told
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Cue 294 303	reminding
+T18	Content 317 492	that Trump has frequently denounced former President George W. Bush, in addition to his more recent attempts to tie Hillary Clinton to her husband's fraught history with women
+T19	Attribution 294 303	reminding
+E5	Attribution:T19 Source:T14 Cue:T17 Content:T18
+T20	Content 494 567	"But you’re not going to beat Hillary Clinton by attacking Bill Clinton,"
+T21	Source 568 571	she
+T22	Cue 572 576	said
+T23	Attribution 572 576	said
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 637 644	Fiorina
+T25	Cue 645 649	said
+T26	Content 579 636	The former secretary of state will play the "woman card,"
+T27	Attribution 645 649	said
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Cue 651 657	adding
+T29	Content 658 718	that the way to go after it "is to attack her track record."
+T30	Attribution 651 657	adding
+E8	Attribution:T30 Source:T24 Cue:T28 Content:T29
+T31	Content 1036 1156;864 1025	"I’m going to ask for their support because I’m the most qualified candidate to beat Hillary Clinton and to do the job." “Look, how about an honest woman? How about a competent woman? How about a qualified woman? But I’m never going to ask for people’s support because I’m a woman,"
+T32	Source 1026 1029	she
+T33	Cue 1030 1034	said
+T34	Attribution 1030 1034	said
+E9	Attribution:T34 Cue:T33 Source:T32 Content:T31
+T35	Source 1158 1161	She
+T36	Cue 1167 1177	criticized
+T37	Content 1178 1223	Trump's past support for liberal policy ideas
+T38	Attribution 1167 1177	criticized
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Content 1226 1360	“Maybe Donald Trump has difficulty doing that because his positions on key issues like health care are so close to Hillary Clinton’s,"
+T40	Source 1361 1364	she
+T41	Cue 1365 1373	remarked
+T42	Attribution 1365 1373	remarked
+E11	Attribution:T42 Cue:T41 Source:T40 Content:T39
+T43	Source 1434 1439	Trump
+T44	Cue 1440 1458	had voiced support
+T45	Content 1459 1491	for a single-payer health system
+T46	Attribution 1440 1458	had voiced support
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Cue 1496 1502	called
+T48	Content 1503 1521	himself pro-choice
+T49	Attribution 1496 1502	called
+E13	Attribution:T49 Source:T43 Cue:T47 Content:T48
+T50	Source 1577 1582	Trump
+T51	Cue 1583 1604	has repeatedly warned
+T52	Content 1613 1696	that he'd be making an issue of her husband's peccadilloes and alleged peccadilloes
+T53	Attribution 1583 1604	has repeatedly warned
+E14	Attribution:T53 Content:T52 Cue:T51 Source:T50
+T54	Source 1536 1538	he
+T55	Cue 1539 1558	has since disavowed
+T56	Content 1523 1530	stances
+T57	Attribution 1539 1558	has since disavowed
+E15	Attribution:T57 Content:T56 Cue:T55 Source:T54

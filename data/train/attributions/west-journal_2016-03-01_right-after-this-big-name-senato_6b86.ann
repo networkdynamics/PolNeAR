@@ -1,0 +1,83 @@
+T1	Source 12 33	This Big-Name Senator
+T2	Cue 34 42	Endorsed
+T3	Content 43 48	Trump
+T4	Attribution 34 42	Endorsed
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 141 143	he
+T6	Cue 144 172	went on the record endorsing
+T7	Content 173 185	Donald Trump
+T8	Attribution 144 172	went on the record endorsing
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 202 216	well respected
+T10	Content 188 196	Sessions
+T11	Attribution-no-source 202 216	well respected
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Source 287 289	he
+T13	Cue 290 323	officially pledged his support to
+T14	Content 324 342	the Trump campaign
+T15	Attribution 290 323	officially pledged his support to
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+T16	Content 345 355;490 587	An article accuses Trump of exploiting a phony perception of a failed Republican Party to win the nomination
+T17	Cue 356 363	written
+T18	Source 367 395	National Review’s Ian Tuttle
+T19	Attribution 356 363	written
+E5	Attribution:T19 Source:T18 Cue:T17 Content:T16
+T20	Cue 398 407	headlined
+T21	Content 408 489	The Rats Are Scurrying: Republican Officeholders Who Endorse Trump Are Sellouts —
+T22	Attribution 398 407	headlined
+E6	Attribution:T22 Content:T21 Cue:T20 Source:T18
+T23	Source 589 595	Tuttle
+T24	Cue 596 600	also
+T25	Content 601 677	asserts that Republicans have aided and abetted the country’s leftward lurch
+T26	Attribution 596 600	also
+E7	Attribution:T26 Content:T25 Cue:T24 Source:T23
+T27	Cue 727 746	to recently endorse
+T28	Content 747 752	Trump
+T29	Source 696 726	the only well-known Republican
+T30	Attribution 727 746	to recently endorse
+E8	Attribution:T30 Source:T29 Content:T28 Cue:T27
+T31	Source 765 795	New Jersey Gov. Chris Christie
+T32	Cue 796 805	announced
+T33	Content 806 846	that he would support the Trump campaign
+T34	Attribution 796 805	announced
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 849 865	Tuttle’s article
+T36	Cue 866 879	also attacked
+T37	Content 880 984	Christie by accusing him of endorsing Trump in an attempt to gain a position in the Trump administration
+T38	Attribution 866 879	also attacked
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Source 986 988	He
+T40	Cue 989 994	calls
+T41	Content 995 1103	Christie’s endorsement “the most transparent display of affection since Judas Iscariot’s Gethsemane smooch.”
+T42	Attribution 989 994	calls
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T39
+T43	Source 1105 1111	Tuttle
+T44	Cue 1112 1117	added
+T45	Content 1119 1187	“There are pimps and prostitutes with more equitable relationships.”
+T46	Attribution 1112 1117	added
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Source 1209 1215	Tuttle
+T48	Cue 1216 1221	wrote
+T49	Content 1223 1319	“Speaking of prostitutes: On Sunday, Alabama senator Jeff Sessions offered his own endorsement.”
+T50	Attribution 1216 1221	wrote
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Source 1350 1361	Eli Stoklos
+T52	Cue 1362 1366	says
+T53	Content 1367 1550	the endorsements from Christie and Sessions can be seen as an indication of growing acceptance that he (Trump), not Cruz or Marco Rubio or anyone else, is likely to be the GOP nominee
+T54	Attribution 1362 1366	says
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Source 1553 1558	Trump
+T56	Cue 1559 1572	jokingly said
+T57	Content 1574 1654	“I hate to say it, I’m becoming mainstream. I’m getting all these endorsements.”
+T58	Attribution 1559 1572	jokingly said
+E15	Attribution:T58 Content:T57 Cue:T56 Source:T55
+T59	Source 1656 1665	Session’s
+T60	Cue 1666 1680	endorsement of
+T61	Content 1681 1686	Trump
+T62	Attribution 1666 1680	endorsement of
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Content 1846 1911;1948 2006	“I told Donald Trump, this isn’t a campaign, this is a movement,” “The American people are not happy with their government.”
+T64	Source 1912 1920	Sessions
+T65	Cue 1921 1946	said when endorsing Trump
+T66	Attribution 1921 1946	said when endorsing Trump
+E17	Attribution:T66 Cue:T65 Source:T64 Content:T63

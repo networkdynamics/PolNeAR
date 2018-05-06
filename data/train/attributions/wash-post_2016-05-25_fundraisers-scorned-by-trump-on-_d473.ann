@@ -1,0 +1,131 @@
+T1	Source 0 11	Fundraisers
+T2	Cue 40 52	rally behind
+T3	Content 53 56	him
+T4	Attribution 40 52	rally behind
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 139 151	Donald Trump
+T6	Cue 152 228	spent much of the Republican presidential primary contest inveighing against
+T7	Content 229 288	politicians for leaning on wealthy contributors for support
+T8	Attribution 152 228	spent much of the Republican presidential primary contest inveighing against
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 328 372	some of the GOP's best-connected fundraisers
+T10	Cue 373 382	signed on
+T11	Content 383 466	to help raise as much as $1 billion for Trump and the Republican National Committee
+T12	Attribution 373 382	signed on
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Content 569 855	Half a dozen of the party's elite money players - including New York Jets owner Woody Johnson and Wisconsin billionaire Diane Hendricks - have agreed to serve as vice chairs of the Trump Victory fund, a joint fundraising committee between Trump's campaign, the RNC and 11 state parties,
+T14	Source 856 865	the party
+T15	Cue 866 883	announced Tuesday
+T16	Attribution 866 883	announced Tuesday
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 1069 1113	Corey Lewandowski, Trump's campaign manager,
+T18	Cue 1114 1118	said
+T19	Content 1119 1209	that the candidate was not contradicting his stance on rich donors by accepting their help
+T20	Attribution 1114 1118	said
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Cue 1211 1217	noting
+T22	Content 1218 1313	that most of the money raised would go to the RNC for its national voter mobilization this fall
+T23	Attribution 1211 1217	noting
+E6	Attribution:T23 Cue:T21 Source:T17 Content:T22
+T24	Content 1316 1386	"That will benefit not only Mr. Trump, but all the races down ballot,"
+T25	Source 1387 1389	he
+T26	Cue 1390 1394	said
+T27	Attribution 1390 1394	said
+E7	Attribution:T27 Cue:T26 Source:T25 Content:T24
+T28	Cue 1396 1402	adding
+T29	Content 1404 1537	"I don't think it's fair to say that an individual worth $10 billion will be indebted to someone who writes a check for $10 or $100."
+T30	Attribution 1396 1402	adding
+E8	Attribution:T30 Cue:T28 Source:T25 Content:T29
+T31	Source 1548 1564	the victory fund
+T32	Cue 1565 1575	is seeking
+T33	Content 1576 1608	donations in far greater amounts
+T34	Attribution 1565 1575	is seeking
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 1872 1875	who
+T36	Cue 1876 1881	wants
+T37	Content 1882 1894	to give more
+T38	Attribution 1876 1881	wants
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Content 2124 2128;2144 2224	some special interests who seek to control the agenda of the politicians they support
+T40	Source 2129 2131	he
+T41	Cue 2132 2143	targeted as
+T42	Attribution 2132 2143	targeted as
+E11	Attribution:T42 Cue:T41 Source:T40 Content:T39
+T43	Source 2246 2251	Trump
+T44	Cue 2252 2267	regularly cited
+T45	Content 2268 2411	Johnson, an heir to the Johnson & Johnson pharmaceutical fortune, as someone who would influence Bush's health-care and pharmaceutical policies
+T46	Attribution 2252 2267	regularly cited
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43
+T47	Content 2428 2531	his comments did not rankle the New York Jets owner, who has been friends with Trump for three decades,
+T48	Cue 2532 2544	according to
+T49	Source 2545 2583	a person familiar with Johnson's views
+T50	Attribution 2532 2544	according to
+E13	Attribution:T50 Source:T49 Cue:T48 Content:T47
+T51	Source 2833 2839	donors
+T52	Cue 2840 2844	said
+T53	Content 2663 2831	That kind of long-standing relationship that Trump has with wealthy business leaders has helped convert apprehension about the real estate developer into active support
+T54	Attribution 2840 2844	said
+E14	Attribution:T54 Content:T53 Cue:T52 Source:T51
+T55	Cue 2915 2924	antipathy
+T56	Content 2928 2967	Democratic front-runner Hillary Clinton
+T57	Attribution-no-source 2915 2924	antipathy
+E15	Attribution-no-source:T57 Content:T56 Cue:T55
+T58	Content 2970 3058;3203 3258	"It's the party unifying because they realize that Mrs. Clinton is not a viable choice," "I think you're starting to see that across the board."
+T59	Cue 3059 3063	said
+T60	Source 3064 3201	Ron Weiser, who was a national co-chair for Sen. John McCain's 2008 presidential campaign and is one of the new Trump Victory vice chairs
+T61	Attribution 3059 3063	said
+E16	Attribution:T61 Source:T60 Cue:T59 Content:T58
+T62	Source 3283 3312	Florida developer Mel Sembler
+T63	Cue 3313 3322	expressed
+T64	Content 3323 3376	dismay at the thought of Trump as the party's nominee
+T65	Attribution 3313 3322	expressed
+E17	Attribution:T65 Content:T64 Cue:T63 Source:T62
+T66	Content 3378 3472	"I kept telling myself that won't happen, that can't happen. . . .  I now fear it may happen,"
+T67	Source 3473 3475	he
+T68	Cue 3476 3480	told
+T69	Attribution 3476 3480	told
+E18	Attribution:T69 Cue:T68 Source:T67 Content:T66
+T70	Source 3519 3581	Sembler, who helped lead fundraising for a pro-Bush super PAC,
+T71	Cue 3582 3592	has agreed
+T72	Content 3593 3640	to serve as a vice chairman of the victory fund
+T73	Attribution 3582 3592	has agreed
+E19	Attribution:T73 Content:T72 Cue:T71 Source:T70
+T74	Cue 3648 3653	asked
+T75	Content 3654 3657	why
+T76	Attribution-no-source 3648 3653	asked
+E20	Attribution-no-source:T76 Content:T75 Cue:T74
+T77	Source 3659 3666	Sembler
+T78	Cue 3667 3694	responded in a text message
+T79	Content 3696 3743	"Trump will be the Republican Party's nominee."
+T80	Attribution 3667 3694	responded in a text message
+E21	Attribution:T80 Content:T79 Cue:T78 Source:T77
+T81	Source 3771 3806	the past three RNC finance chairmen
+T82	Cue 3807 3823	have come aboard
+T83	Content 3824 3834	the effort
+T84	Attribution 3807 3823	have come aboard
+E22	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Content 4099 4182;4199 4278	"There is truly a sense that we're going to win this thing, that Trump can win it," "Everyone is going to throw their shoulders behind it and put money behind it."
+T86	Source 4183 4192	Washburne
+T87	Cue 4193 4197	said
+T88	Attribution 4193 4197	said
+E23	Attribution:T88 Cue:T87 Source:T86 Content:T85
+T89	Source 4438 4461	Chairman Reince Priebus
+T90	Cue 4505 4511	asking
+T91	Content 4512 4531	them to host events
+T92	Attribution 4505 4511	asking
+E24	Attribution:T92 Content:T91 Cue:T90 Source:T89
+T93	Cue 4557 4564	anxiety
+T94	Source 4571 4593	senior GOP fundraisers
+T95	Content 4600 4643	meeting Trump's declared goal of $1 billion
+T96	Attribution 4557 4564	anxiety
+E25	Attribution:T96 Content:T95 Source:T94 Cue:T93
+T97	Content 4761 4813;4827 4860	"If everybody does their job, anything is possible," "But that's a lot of hard money."
+T98	Source 4814 4820	Weiser
+T99	Cue 4821 4825	said
+T100	Content 5282 5365;5464 5525	"There's a real opportunity with the enthusiasm that people have for Donald Trump," "I think we're going to find a lot of new low-dollar donors."
+T101	Cue 5366 5370	said
+T102	Attribution 4821 4825	said
+E26	Attribution:T102 Cue:T99 Source:T98 Content:T97
+T103	Source 5371 5462	Henry Barbour, a Mississippi-based GOP strategist who serves as a RNC national committeeman
+T104	Attribution 5366 5370	said
+E27	Attribution:T104 Source:T103 Cue:T101 Content:T100

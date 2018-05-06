@@ -1,0 +1,127 @@
+T2	Cue 11 29	raise queries over
+T1	Content 30 52	Clinton charity's ties
+T3	Attribution-no-source 11 29	raise queries over
+E1	Attribution-no-source:T3 Content:T1 Cue:T2
+T4	Content 55 63;69 120	Messages to show overlapping interests with State Department
+T5	Cue 64 68	seem
+T6	Attribution-no-source 64 68	seem
+E2	Attribution-no-source:T6 Cue:T5 Content:T4
+T7	Discard 123 132	ABSTRACT.
+T8	Source 134 180	A new batch of State Department communications
+T9	Cue 181 189	includes
+T10	Content 190 243	requests to help a job seeker and a billionaire donor
+T11	Attribution 181 189	includes
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Discard 246 256	FULL TEXT.
+T13	Source 258 315	A new batch of State Department emails released this week
+T14	Cue 316 322	showed
+T15	Content 323 474	the close and sometimes overlapping interests between the Clinton Foundation and the State Department when Hillary Clinton served as secretary of state
+T16	Attribution 316 322	showed
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 498 517	new questions about
+T18	Content 518 629	whether the charitable foundation worked to reward its donors with access and influence at the State Department
+T19	Attribution-no-source 498 517	new questions about
+E5	Attribution-no-source:T19 Content:T18 Cue:T17
+T20	Content 640 644	that
+T21	Source 645 657	Mrs. Clinton
+T22	Cue 684 701	has always denied
+T23	Attribution 684 701	has always denied
+E6	Attribution:T23 Cue:T22 Source:T21 Content:T20
+T24	Source 741 787	an executive at the Clinton Foundation in 2009
+T25	Cue 788 794	sought
+T26	Content 795 914	to put a billionaire donor in touch with the United States ambassador to Lebanon because of the donor's interests there
+T27	Attribution 788 794	sought
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 935 949;959 1034	the foundation to push aides to Mrs. Clinton to help find a job for a foundation associate
+T29	Cue 950 958	appeared
+T30	Attribution-no-source 950 958	appeared
+E8	Attribution-no-source:T30 Cue:T29 Content:T28
+T31	Source 1036 1045	Her aides
+T32	Cue 1046 1055	indicated
+T33	Content 1056 1102	that the department was working on the request
+T34	Attribution 1046 1055	indicated
+E9	Attribution:T34 Content:T33 Cue:T32 Source:T31
+T35	Source 1105 1141	Mrs. Clinton's presidential campaign
+T36	Cue 1282 1286	said
+T37	Content 1287 1362	that the emails released on Tuesday had no bearing on the foundation's work
+T38	Attribution 1282 1286	said
+E10	Attribution:T38 Content:T37 Cue:T36 Source:T35
+T39	Content 1691 1696;1706 1749	which represented all her ''work-related'' emails
+T40	Source 1697 1700	she
+T41	Cue 1701 1705	said
+T42	Cue 1783 1794	discussions
+T43	Source 1803 1857	Mrs. Clinton's aides and Clinton Foundation executives
+T44	Content 1864 1940	a number of donors and associates with interests before the State Department
+T45	Attribution 1701 1705	said
+E11	Attribution:T45 Content:T39 Cue:T41 Source:T40
+T46	Attribution 1783 1794	discussions
+E12	Attribution:T46 Content:T44 Source:T43 Cue:T42
+T47	Source 1943 1987	Tom Fitton, the president of Judicial Watch,
+T48	Cue 1988 1995	charged
+T49	Content 1996 2201	that Mrs. Clinton ''hid'' the documents from the public because they appeared to contradict her official pledge in 2009 to remove herself from Clinton Foundation business while leading the State Department
+T50	Attribution 1988 1995	charged
+E13	Attribution:T50 Content:T49 Cue:T48 Source:T47
+T51	Content 2204 2226;2262 2375	The documents indicate that ''the State Department and the Clinton Foundation worked hand in hand in terms of policy and donor effort.''
+T52	Source 2228 2230	he
+T53	Cue 2231 2235	said
+T54	Attribution 2231 2235	said
+E14	Attribution:T54 Cue:T53 Source:T52 Content:T51
+T55	Content 2377 2477	''There was no daylight between the two under Mrs. Clinton, and this was contrary to her promises,''
+T56	Source 2478 2480	he
+T57	Cue 2481 2486	added
+T58	Attribution 2481 2486	added
+E15	Attribution:T58 Cue:T57 Source:T56 Content:T55
+T59	Source 2682 2750	Douglas J. Band, who led the foundation's Clinton Global Initiative,
+T60	Cue 2751 2758	emailed
+T61	Content 2828 2849	for help with a donor
+T62	Attribution 2751 2758	emailed
+E16	Attribution:T62 Content:T61 Cue:T60 Source:T59
+T63	Source 2852 2860	Mr. Band
+T64	Cue 2861 2866	wrote
+T65	Content 2867 3062	that he needed to connect Gilbert Chagoury, a Lebanese-Nigerian billionaire who was one of the foundation's top donors, with someone at the State Department to talk about his interests in Lebanon
+T66	Attribution 2861 2866	wrote
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T63
+T67	Content 3065 3087;3205 3229;3230 3250	''It's jeff feltman,'' ''I'm sure he knows him. I'll talk to jeff.''
+T68	Source 3088 3098	Ms. Abedin
+T69	Cue 3099 3107	answered
+T70	Attribution 3099 3107	answered
+E18	Attribution:T70 Cue:T69 Source:T68 Content:T67
+T71	Cue 3109 3121	referring to
+T72	Content 3122 3203	Jeffrey D. Feltman, a State Department official overseeing Lebanon and the region
+T73	Attribution 3109 3121	referring to
+E19	Attribution:T73 Source:T68 Cue:T71 Content:T72
+T74	Source 3252 3260	Mr. Band
+T75	Cue 3261 3266	asked
+T76	Content 3267 3315	her to call Mr. Chagoury immediately if possible
+T77	Attribution 3261 3266	asked
+E20	Attribution:T77 Content:T76 Cue:T75 Source:T74
+T78	Content 3317 3344	''This is very important,''
+T79	Source 3345 3347	he
+T80	Cue 3348 3353	wrote
+T81	Attribution 3348 3353	wrote
+E21	Attribution:T81 Cue:T80 Source:T79 Content:T78
+T82	Source 3386 3394	Mr. Band
+T83	Cue 3395 3449	passed along to Ms. Abedin and Ms. Mills a request for
+T84	Content 3450 3595	''a favor'' from an associate who had recently been on a Clinton Foundation trip to Haiti and was apparently seeking work at the State Department
+T85	Attribution 3395 3449	passed along to Ms. Abedin and Ms. Mills a request for
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Source 3810 3818	Mr. Band
+T87	Cue 3819 3829	wrote that
+T88	Content 3830 3890	it was ''important to take care of'' the associate's request
+T89	Attribution 3819 3829	wrote that
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Source 3912 3922	Ms. Abedin
+T91	Cue 3923 3934	wrote back:
+T92	Content 3935 3966;3967 4008	''We all have him on our radar. Personnel has been sending him options.''
+T93	Attribution 3923 3934	wrote back:
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 4010 4030	The Clinton campaign
+T95	Cue 4031 4040	suggested
+T96	Content 4041 4193	that Mr. Band was acting in his capacity as former President Bill Clinton's personal assistant, not in his role overseeing the Clinton Global Initiative
+T97	Attribution 4031 4040	suggested
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 4263 4275	the campaign
+T99	Cue 4276 4296	said in a statement:
+T100	Content 4297 4380;4381 4576	''Neither of these emails involve the secretary or relate to the foundation's work. They are communications between her aides and the president's personal aide, and indeed the recommendation was for one of the secretary's former staffers who was not employed by the foundation.''
+T101	Attribution 4276 4296	said in a statement:
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98

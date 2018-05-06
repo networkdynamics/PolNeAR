@@ -1,0 +1,183 @@
+T1	Source 10358 10368	Mr. Phelan
+T2	Cue 10369 10385	expressed relief
+T3	Content 10386 10421	that the market rebounded yesterday
+T4	Attribution 10369 10385	expressed relief
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 10423 10528	"Obviously, every time we get this kind of reaction, it's going to make everybody nervous, including me,"
+T6	Source 10529 10531	he
+T7	Cue 10532 10536	said
+T8	Attribution 10532 10536	said
+E2	Attribution:T8 Cue:T7 Source:T6 Content:T5
+T9	Source 10538 10540	He
+T10	Cue 10541 10545	said
+T11	Content 10546 10703	that exchange officials had conversations with Wall Street firms throughout the weekend and that "all the participants behaved very, very responsibly today."
+T12	Attribution 10541 10545	said
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 10717 10773	Peter DaPuzzo, Shearson's head of retail equity trading,
+T14	Cue 10774 10781	praised
+T15	Content 10782 10941	institutional investors in the OTC market, who were heavy buyers of the Nasdaq's biggest technology issues yesterday amid a flood of selling by other investors
+T16	Attribution 10774 10781	praised
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T18	Source 11002 11013	Mr. DaPuzzo
+T19	Cue 11014 11034	said in an interview
+T20	Content 10943 11001;11036 11080;11082 11085;11086 11111;11112 11177;11178 11269;11270 11306	"The institutions can't be criticized for their behavior," "It was the opposite of what happened on Oct 19. They used their judgment. They didn't panic during the first round of selling this morning. Instead, they bought on weakness and sold into the strength, which kept the market orderly. Maybe they learned from experience."
+T21	Attribution 11014 11034	said in an interview
+E5	Attribution:T21 Content:T20 Cue:T19 Source:T18
+T22	Source 11309 11319	Mr. Phelan
+T23	Cue 11320 11324	said
+T24	Content 11325 11521	the performance of specialists during Friday's plunge was admirable, because out of 1,640 Big Board common stocks traded during the day only seven were closed and weren't reopened before the close
+T25	Attribution 11320 11324	said
+E6	Attribution:T25 Content:T24 Cue:T23 Source:T22
+T26	Content 11523 11551	"They did an excellent job,"
+T27	Source 11552 11562	Mr. Phelan
+T28	Cue 11563 11586	said of the specialists
+T29	Attribution 11563 11586	said of the specialists
+E7	Attribution:T29 Cue:T28 Source:T27 Content:T26
+T30	Source 11588 11607	Wall Street traders
+T31	Cue 11608 11638	on Friday had complained about
+T32	Content 11639 11662	the trading suspensions
+T33	Attribution 11608 11638	on Friday had complained about
+E8	Attribution:T33 Content:T32 Cue:T31 Source:T30
+T34	Content 10259 10338	it was "certainly not something you would say precipitated the market decline,"
+T35	Source 10339 10349	Mr. Phelan
+T36	Cue 10350 10354	said
+T37	Attribution 10350 10354	said
+E9	Attribution:T37 Cue:T36 Source:T35 Content:T34
+T38	Source 9790 9800	Mr. Phelan
+T39	Cue 9801 9805	said
+T40	Content 9806 9966	that program trading strategies weren't responsible for triggering Friday's decline despite a jump in the use of the computer-driven strategies in recent months
+T41	Attribution 9801 9805	said
+E10	Attribution:T41 Content:T40 Cue:T39 Source:T38
+T42	Content 9968 10142	Some 24 million of the more than 100 million shares traded in the final 90 minutes of Friday's session, when the plunge in stock prices was concentrated, were program-related
+T43	Source 10144 10146	he
+T44	Cue 10147 10151	said
+T45	Attribution 10147 10151	said
+E11	Attribution:T45 Cue:T44 Source:T43 Content:T42
+T46	Source 9674 9729	the Big Board's Mr. Phelan and other exchange officials
+T47	Cue 9730 9737	praised
+T48	Content 9738 9786	the performance of their computers and personnel
+T49	Attribution 9730 9737	praised
+E12	Attribution:T49 Content:T48 Cue:T47 Source:T46
+T50	Cue 8087 8099	According to
+T51	Source 8100 8120	a Big Board official
+T52	Content 8122 8241	while many stocks opened late, there were subsequent trading halts in only three issues -- AMR, Merck and Valero Energy
+T53	Attribution 8087 8099	According to
+E13	Attribution:T53 Content:T52 Source:T51 Cue:T50
+T54	Cue 7994 7998	said
+T55	Source 7999 8085	Donaldson's Mr. Eppel, who had been critical of the specialists' performance on Friday
+T56	Content 7945 7993	"we expected (the halts) and it wasn't too bad,"
+T57	Attribution 7994 7998	said
+E14	Attribution:T57 Content:T56 Source:T55 Cue:T54
+T58	Cue 7783 7798	were criticized
+T59	Content 7771 7782;7799 7871	Specialists for their inability to maintain orderly markets during the Friday plunge
+T60	Attribution-no-source 7783 7798	were criticized
+E15	Attribution-no-source:T60 Content:T59 Cue:T58
+T61	Content 7390 7437	"Futures were pulling the stock market higher,"
+T62	Cue 7438 7442	said
+T63	Source 7443 7529	Donald Selkin, head of stock-index futures research at Prudential-Bache Securities Inc
+T64	Attribution 7438 7442	said
+E16	Attribution:T64 Source:T63 Cue:T62 Content:T61
+T65	Source 7261 7272	one analyst
+T66	Content 7274 7388	the timing of Major Market Index futures buying just before the turnaround was similar to that of Terrible Tuesday
+T67	Cue 7248 7260	according to
+T68	Attribution 7248 7260	according to
+E17	Attribution:T68 Cue:T67 Content:T66 Source:T65
+T69	Cue 7716 7728	according to
+T70	Source 7729 7767	traders and brokers who work with them
+T71	Content 7634 7714	their performance yesterday was better than during Friday's late-afternoon chaos
+T72	Attribution 7716 7728	according to
+E18	Attribution:T72 Content:T71 Source:T70 Cue:T69
+T73	Source 6652 6664	Some traders
+T74	Cue 6665 6669	said
+T75	Content 6670 6791	that the closely watched Major Market Index, whose 20 stocks mimic the Dow industrials, didn't lead yesterday's big rally
+T76	Attribution 6665 6669	said
+E19	Attribution:T76 Content:T75 Cue:T74 Source:T73
+T77	Content 6567 6610	"They were absolutely killed, slaughtered,"
+T78	Cue 6611 6615	said
+T79	Source 6616 6648	one Chicago-based options trader
+T80	Attribution 6611 6615	said
+E20	Attribution:T80 Source:T79 Cue:T78 Content:T77
+T81	Source 6795 6853	James Gallagher, a partner at specialist Fowler & Rosenau,
+T82	Cue 6854 6858	said
+T83	Content 6860 6936;6937 7068;7069 7150;7151 7236	"The difference between today and two years ago" -- "Terrible Tuesday," Oct. 20, 1987 -- "is that then we needed a savior to go into the Major Market Index, spend $2 million and get the program rally started. This time {institutions} saw the programs coming and backed away and backed away. Then when the market was at a technical level to buy, they came in with a vengeance."
+T84	Attribution 6854 6858	said
+E21	Attribution:T84 Content:T83 Cue:T82 Source:T81
+T85	Source 6461 6475	clearing firms
+T86	Cue 6476 6480	told
+T87	Content 6507 6563	to get out of their positions at any cost Monday morning
+T88	Attribution 6476 6480	told
+E22	Attribution:T88 Content:T87 Cue:T86 Source:T85
+T89	Content 6030 6060	"It was bedlam on the upside,"
+T90	Cue 6061 6065	said
+T91	Source 6066 6090	one Big Board specialist
+T92	Attribution 6061 6065	said
+E23	Attribution:T92 Source:T91 Cue:T90 Content:T89
+T93	Source 5887 5914	Among Big Board specialists
+T94	Cue 5916 5927	the cry was
+T95	Content 5928 5946	"Pull your offers"
+T96	Attribution 5916 5927	the cry was
+E24	Attribution:T96 Content:T95 Cue:T94 Source:T93
+T97	Discuss 5887 5945	Among Big Board specialists, the cry was "Pull your offers
+T98	Source 5605 5612	traders
+T99	Cue 5613 5619	yelped
+T100	Content 5620 5634	their approval
+T101	Attribution 5613 5619	yelped
+E25	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Source 5644 5716	Griffith Peck, a trader in Shearson Lehman Hutton Inc. 's OTC department
+T103	Cue 5716 5717	:
+T104	Content 5718 5757	"I tell you, this market acts healthy."
+T105	Attribution 5716 5717	:
+E26	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Cue 5788 5797	seemed to
+T107	Content 5770 5787;5798 5819	scores of traders get a burst of energy
+T108	Attribution-no-source 5788 5797	seemed to
+E27	Attribution-no-source:T108 Content:T107 Cue:T106
+T109	Source 5087 5118	head equity trader Dudley Eppel
+T110	Cue 5119 5124	said:
+T111	Content 5126 5163;5164 5179;5180 5208;5209 5348	I think the opening was constructive. It was orderly. We put some orders together. There wasn't a lot of panic selling, either domestically or internationally. . . .Not like Friday where they just took {the market} apart."
+T112	Attribution 5119 5124	said:
+E28	Attribution:T112 Content:T111 Cue:T110 Source:T109
+T113	Source 4935 4948	trading desks
+T114	Cue 4949 4962	were relieved
+T115	Content 4963 5013	that they could at least play the market yesterday
+T116	Attribution 4949 4962	were relieved
+E29	Attribution:T116 Content:T115 Cue:T114 Source:T113
+T117	Source 4801 4834	Disney specialist Robert Fagenson
+T118	Cue 4835 4840	said:
+T119	Content 4841 4912	"I would be surprised if Goldman represented 4% of the opening volume."
+T120	Attribution 4835 4840	said:
+E30	Attribution:T120 Content:T119 Cue:T118 Source:T117
+T121	Content 4710 4776	it shot upward 7 1/2 as Goldman, Sachs & Co. stepped in and bought
+T122	Source 4778 4785	traders
+T123	Cue 4786 4790	said
+T124	Attribution 4786 4790	said
+E31	Attribution:T124 Cue:T123 Source:T122 Content:T121
+T125	Source 4501 4520	Big Board officials
+T126	Content 4522 4583	Disney had one of the biggest sell-order imbalances on Friday
+T127	Cue 4488 4500	According to
+T128	Attribution 4488 4500	According to
+E32	Attribution:T128 Cue:T127 Content:T126 Source:T125
+T129	Source 4137 4249	Roland M. Machold, director of the New Jersey Division of Investment, which oversees $29 billion in investments,
+T130	Cue 4250 4254	said
+T131	Content 4255 4422	the "first thing we did was to double our orders" yesterday morning. "With the market down like this, we'll probably take another $50 million and put it in" the market
+T132	Attribution 4250 4254	said
+E33	Attribution:T132 Content:T131 Cue:T130 Source:T129
+T133	Source 3981 3991	one trader
+T134	Content 3993 4133	the programmers "didn't look as dominant on the upside as on the downside because there was {also} a lot of bargain-hunting" by institutions
+T135	Cue 3968 3980	according to
+T136	Attribution 3968 3980	according to
+E34	Attribution:T136 Cue:T135 Content:T134 Source:T133
+T137	Content 3471 3486;3497 3506	program traders in charge
+T138	Cue 3487 3496	seemingly
+T139	Attribution-no-source 3487 3496	seemingly
+E35	Attribution-no-source:T139 Cue:T138 Content:T137
+T141	Cue 1556 1560	said
+T142	Source 1561 1630	Arthur Cashin Jr., a veteran PaineWebber Inc. trader at the Big Board
+T144	Source 1927 1964	Big Board Chairman John J. Phelan Jr.
+T145	Cue 1912 1923	declaration
+T146	Content 1965 2042	that Friday's market debacle was "an abnormal condition, and not a disaster."
+T147	Attribution 1912 1923	declaration
+E37	Attribution:T147 Content:T146 Cue:T145 Source:T144
+T143	Content 1495 1555;1632 1764;1765 1793;1794 1847	Overall, "this is a pleasant rally but it's very selective," "Everyone was a little concerned about the general narrowness of the rally and failure of the OTC market to get into plus territory. It's just a strange feeling. I don't think anyone left the place whistling Dixie."
+T148	Attribution 1556 1560	said
+E36	Attribution:T148 Content:T143 Source:T142 Cue:T141

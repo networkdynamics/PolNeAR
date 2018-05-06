@@ -1,0 +1,64 @@
+T1	Content 0 44	Clinton Hid Past Health Problems From Public
+T2	Source 46 71	Former White House Doctor
+T3	Cue 72 76	Says
+T4	Attribution 72 76	Says
+E1	Attribution:T4 Cue:T3 Source:T2 Content:T1
+T5	Content 79 153	Secrecy is not a stranger when it comes to Hillary Clinton’s health issues
+T6	Source 155 208	the Democratic presidential candidate’s former doctor
+T7	Cue 209 218	maintains
+T8	Source 221 239	Dr. Connie Mariano
+T9	Cue 402 406	said
+T10	Content 407 566	that in 1998, Clinton allowed her staff and the general public to think that issues she had with her right leg were due to a pulled muscle and not a blood clot
+T11	Attribution 209 218	maintains
+E2	Attribution:T11 Cue:T7 Source:T6 Content:T5
+T12	Attribution 402 406	said
+E3	Attribution:T12 Content:T10 Cue:T9 Source:T8
+T13	Source 569 576	Mariano
+T14	Cue 577 582	wrote
+T15	Content 583 683	a memoir of her time at the White House entitled The White House Doctor: My Patients Were Presidents
+T16	Attribution 577 582	wrote
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 686 698	According to
+T18	Source 699 710	her account
+T19	Content 712 823	after examining Clinton’s leg, she insisted that the first lady go to Bethesda Naval Hospital for an ultrasound
+T20	Attribution 686 698	According to
+E5	Attribution:T20 Content:T19 Source:T18 Cue:T17
+T21	Content 831 866	Mariano’s diagnosis of a blood clot
+T22	Cue 867 880	was confirmed
+T23	Attribution-no-source 867 880	was confirmed
+E6	Attribution-no-source:T23 Cue:T22 Content:T21
+T24	Source 882 889	Clinton
+T25	Cue 890 902	did not want
+T26	Content 903 928	to remain in the hospital
+T27	Attribution 890 902	did not want
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Content 996 1159	“Hillary was back on the campaign trail within days … very few people knew of Hillary’s blood clot at the time; she wrote about it after she left the White House,”
+T29	Source 1160 1168	the book
+T30	Cue 1169 1173	said
+T31	Attribution 1169 1173	said
+E8	Attribution:T31 Cue:T30 Source:T29 Content:T28
+T32	Content 1176 1267	“She did have a pain in her calf but her staff thought she had pulled a muscle exercising,”
+T33	Source 1268 1275	Mariano
+T34	Cue 1276 1281	wrote
+T35	Content 1322 1412;1428 1576	“I assigned a female nurse in civilian attire to accompany Hillary on the campaign trail,” “I also notified the Secret Service that she was on medication. In the event she was injured, excessive bleeding would be a dangerous complication.”
+T36	Source 1413 1420	Mariano
+T37	Cue 1421 1426	wrote
+T38	Attribution 1276 1280	wrot
+E9	Attribution:T38 Cue:T34 Source:T33 Content:T32
+T39	Source 1612 1619	Clinton
+T40	Cue 1620 1625	noted
+T41	Content 1626 1646	the clot’s existence
+T42	Cue 1655 1661	saying
+T44	Source 1725 1728	she
+T43	Content 1662 1724	her right foot was “so swollen I could barely get my shoe on,”
+T45	Attribution 1620 1625	noted
+E10	Attribution:T45 Cue:T40 Source:T39 Content:T41
+T46	Attribution 1421 1426	wrote
+E11	Attribution:T46 Cue:T37 Source:T36 Content:T35
+T47	Attribution 1655 1661	saying
+E12	Attribution:T47 Content:T43 Source:T44 Cue:T42
+T48	Content 1733 1786;1788 1874	“whisked … off to Bethesda Naval Hospital” for tests. “Sure enough I had a big clot behind my right knee that required immediate treatment,”
+T49	Source 1875 1882	Clinton
+T50	Cue 1883 1888	wrote
+T51	Attribution 1883 1888	wrote
+E13	Attribution:T51 Cue:T50 Source:T49 Content:T48

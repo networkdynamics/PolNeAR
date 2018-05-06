@@ -1,0 +1,41 @@
+T1	Cue 1097 1104	appears
+T2	Content 1074 1096;1105 1158	Enthusiasm for Clinton to have plummeted from the levels she enjoyed in 2008
+T3	Attribution-no-source 1097 1104	appears
+E1	Attribution-no-source:T3 Content:T2 Cue:T1
+T4	Cue 1563 1591	should be causing some worry
+T5	Content 1549 1562	these results
+T6	Source 1595 1647	the Democratic National Committee — Ohio most of all
+T7	Attribution 1563 1591	should be causing some worry
+E2	Attribution:T7 Source:T6 Content:T5 Cue:T4
+T8	Source 2016 2033	Tuesday’s results
+T9	Cue 2034 2038	show
+T10	Content 2040 2071	Florida may not be out of reach
+T11	Attribution 2034 2038	show
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 2078 2083	Trump
+T13	Cue 2084 2096	doesn’t need
+T14	Content 2097 2109	those states
+T15	Discuss 2078 2109	Trump doesn’t need those states
+T16	Attribution 2084 2096	doesn’t need
+E4	Attribution:T16 Content:T14 Cue:T13 Source:T12
+T17	Source 3009 3031	Primary turnout levels
+T18	Cue 3032 3066	don’t offer a surefire forecast of
+T19	Content 3067 3091	general election results
+T20	Attribution 3032 3066	don’t offer a surefire forecast of
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 3602 3632	a full 79 percent of Democrats
+T22	Cue 3633 3636	say
+T23	Content 3637 3708	they would be satisfied with Clinton as the party’s nominee in November
+T24	Attribution 3633 3636	say
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 3716 3746	only 49 percent of Republicans
+T26	Cue 3747 3750	say
+T27	Content 3751 3768	the same of Trump
+T28	Attribution 3747 3750	say
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 3884 3891	Trump’s
+T30	Content 3892 3906	fascist-tinged
+T31	Cue 3907 3918	demagoguery
+T32	Attribution 3907 3918	demagoguery
+E8	Attribution:T32 Cue:T31 Content:T30 Source:T29
+T33	Discard 3996 4213;4214 4346	Editor’s note: Donald Trump is a serial liar, rampant xenophobe, racist, misogynist, birther and bully who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S. Zach Carter is a co-host of the HuffPost Politics podcast “So, That Happened.” Subscribe here or listen to the latest episode below:

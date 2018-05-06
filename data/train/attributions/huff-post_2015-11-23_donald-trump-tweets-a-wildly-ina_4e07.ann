@@ -1,0 +1,58 @@
+T1	Source 0 12	Donald Trump
+T2	Cue 13 19	Tweets
+T3	Content 20 84	A Wildly Inaccurate Graphic To Portray Black People As Murderers
+T4	Attribution 13 19	Tweets
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 87 145	Real estate mogul and reality television star Donald Trump
+T6	Cue 156 163	tweeted
+T7	Content 164 220	a chart of racist and wildly inaccurate crime statistics
+T8	Attribution 156 163	tweeted
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 434 440	appear
+T10	Content 336 350;441 457	The statistics to be fabricated
+T11	Attribution-no-source 434 440	appear
+E3	Attribution-no-source:T11 Content:T10 Cue:T9
+T12	Content 459 486	The Crime Statistics Bureau
+T13	Cue 487 492	cited
+T14	Source 496 509	Trump’s tweet
+T15	Attribution 487 492	cited
+E4	Attribution:T15 Source:T14 Cue:T13 Content:T12
+T16	Source 526 592	The FBI, which does gather official crime statistics for the U.S.,
+T17	Cue 593 613	has not yet released
+T18	Content 614 618	them
+T19	Attribution 593 613	has not yet released
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 635 661	Last year’s FBI statistics
+T21	Cue 662 666	show
+T22	Content 667 795	that the numbers in Trump’s tweet are incorrect and appear to be aimed at perpetuating racist myths about black people and crime
+T23	Attribution 662 666	show
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Content 798 949	In 2014, about 82 percent of murders involving white victims were committed by other white people, while only 14 percent were committed by black people
+T25	Cue 951 963	according to
+T26	Source 964 971	the FBI
+T27	Attribution 951 963	according to
+E7	Attribution:T27 Source:T26 Cue:T25 Content:T24
+T28	Source 1122 1135	Crime experts
+T29	Cue 1136 1150	have concluded
+T30	Content 1151 1342	that homicides are most likely to occur among people of the same race because people are usually murdered by someone they already know, and most people primarily know people of their own race
+T31	Attribution 1136 1150	have concluded
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 1608 1613	Trump
+T33	Cue 1614 1633	reportedly yelling:
+T34	Content 1634 1665	“Get him the hell out of here!”
+T35	Attribution 1614 1633	reportedly yelling:
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Source 1667 1672	Trump
+T37	Cue 1673 1694	subsequently defended
+T38	Content 1695 1707	the incident
+T39	Attribution 1673 1694	subsequently defended
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1709 1716	calling
+T41	Content 1731 1812	“a very obnoxious guy who was a troublemaker and he was looking to make trouble.”
+T42	Attribution 1709 1716	calling
+E11	Attribution:T42 Cue:T40 Content:T41 Source:T36
+T43	Content 1814 1853	“Maybe he should have been roughed up,”
+T44	Source 1854 1856	he
+T45	Cue 1857 1861	said
+T46	Attribution 1857 1861	said
+E12	Attribution:T46 Cue:T45 Source:T44 Content:T43

@@ -1,0 +1,33 @@
+T2	Cue 657 668	is expected
+T3	Content 651 656;669 711	which to draw a large Latino television audience
+T1	Attribution-no-source 657 668	is expected
+E1	Attribution-no-source:T1 Content:T3 Cue:T2
+T4	Source 859 879	The Clinton campaign
+T5	Cue 880 895	did not release
+T6	Content 896 941	the amount it is paying to air the commercial
+T7	Attribution 880 895	did not release
+E2	Attribution:T7 Content:T6 Cue:T5 Source:T4
+T8	Source 779 781	he
+T9	Cue 782 786	says
+T10	Content 787 856	he will assemble a “deportation force” to round up illegal immigrants
+T11	Attribution 782 786	says
+E3	Attribution:T11 Content:T10 Cue:T9 Source:T8
+T12	Source 199 208	Hispanics
+T13	Cue 209 216	telling
+T14	Content 217 237	their family stories
+T15	Attribution 209 216	telling
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T12
+E5	Attribution:T15 Content:T14 Cue:T13
+T16	Cue 242 253	criticizing
+T17	Content 254 290	Donald Trump’s immigration proposals
+T18	Attribution 242 253	criticizing
+E6	Attribution:T18 Content:T17 Cue:T16 Source:T12
+T19	Cue 301 309	entitled
+T20	Content 310 343	“Nuestra Historia (Our History),”
+T21	Attribution-no-source 301 309	entitled
+E7	Attribution-no-source:T21 Content:T20 Cue:T19
+T22	Source 353 407	five Hispanic-Americans with varying national heritage
+T23	Cue 432 445	talking about
+T24	Content 446 487	their family history in the United States
+T25	Attribution 432 445	talking about
+E8	Attribution:T25 Content:T24 Cue:T23 Source:T22

@@ -1,0 +1,331 @@
+T1	Source 0 10	Top aide's
+T2	Cue 11 17	leaked
+T3	Content 18 50	memo details 'Bill Clinton Inc.'
+T4	Attribution 11 17	leaked
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 57 91	top Bill Clinton aide Douglas Band
+T6	Cue 92 97	wrote
+T7	Content 98 106	the memo
+T8	Attribution 92 97	wrote
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Source 239 241	he
+T10	Cue 242 253	made a case
+T11	Content 254 340	that his multiple roles had served the interests of the Clinton family and its charity
+T12	Attribution 242 253	made a case
+E3	Attribution:T12 Content:T11 Cue:T10 Source:T9
+T13	Source 356 360	Band
+T14	Cue 361 374	also detailed
+T15	Content 375 641	a circle of enrichment in which he raised money for the Clinton Foundation from top-tier corporations such as Dow Chemical and Coca-Cola that were clients of his firm, Teneo, while pressing many of those same donors to provide personal income to the former president
+T16	Attribution 361 374	also detailed
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Cue 655 673	has drawn scrutiny
+T18	Content 644 654	The system
+T19	Source 679 690	Republicans
+T20	Attribution 655 673	has drawn scrutiny
+E5	Attribution:T20 Source:T19 Content:T18 Cue:T17
+T21	Source 692 695	who
+T22	Cue 696 699	say
+T23	Content 700 880	it allowed corporations and other wealthy supporters to pay for entree to a popular former president and a onetime secretary of state who is now the Democratic presidential nominee
+T24	Attribution 696 699	say
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 883 887	Band
+T26	Cue 888 893	wrote
+T27	Content 894 902	the memo
+T28	Attribution 888 893	wrote
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 914 932	foundation lawyers
+T30	Cue 933 955	conducting a review of
+T31	Content 956 972	the organization
+T32	Attribution 933 955	conducting a review of
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Cue 1100 1128	had expressed concerns about
+T34	Content 1129 1147	Teneo's operations
+T35	Source 998 1038	the Clintons' daughter, Chelsea Clinton,
+T36	Attribution 1100 1128	had expressed concerns about
+E9	Attribution:T36 Source:T35 Content:T34 Cue:T33
+T37	Cue 1160 1171	made public
+T38	Source 1185 1217	the anti-secrecy group WikiLeaks
+T39	Content 1150 1158	The memo
+T40	Attribution 1160 1171	made public
+E10	Attribution:T40 Content:T39 Source:T38 Cue:T37
+T41	Source 1150 1158	The memo
+T42	Cue 1219 1227	lays out
+T43	Content 1228 1477	the aggressive strategy behind lining up the consulting contracts and paid speaking engagements for Bill Clinton that added tens of millions of dollars to the family's fortune, including during the years that Hillary Clinton led the State Department
+T44	Attribution 1219 1227	lays out
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1479 1481	It
+T46	Cue 1482 1491	describes
+T47	Content 1492 1668	how Band helped run what he called "Bill Clinton Inc.," obtaining "in-kind services for the President and his family - for personal travel, hospitality, vacation and the like."
+T48	Attribution 1482 1491	describes
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 1670 1748	Band and his Teneo co-founder, former Hillary Clinton fundraiser Declan Kelly,
+T50	Cue 1749 1757	declined
+T51	Content 1758 1768	to comment
+T52	Attribution 1749 1757	declined
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 1774 1779	Teneo
+T54	Cue 1780 1805	issued a statement saying
+T55	Content 1806 2090	that "as the memo demonstrates, Teneo worked to encourage clients, where appropriate, to support the Clinton Foundation because of the good work that it does around the world. It also clearly shows that Teneo never received any financial benefit or benefit of any kind from doing so."
+T56	Attribution 1780 1805	issued a statement saying
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 2092 2157	Spokesmen for Bill Clinton and Chelsea Clinton and the foundation
+T58	Cue 2158 2166	declined
+T59	Content 2167 2177	to comment
+T60	Attribution 2158 2166	declined
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57
+T61	Source 2180 2226	Hillary Clinton campaign spokesman Glen Caplin
+T62	Cue 2227 2235	declined
+T63	Content 2236 2258	to comment on the memo
+T64	Attribution 2227 2235	declined
+E16	Attribution:T64 Content:T63 Cue:T62 Source:T61
+T65	Cue 2260 2267	calling
+T66	Content 2268 2344	the material "hacked by the Russian government and weaponized by WikiLeaks."
+T67	Attribution 2260 2267	calling
+E17	Attribution:T67 Content:T66 Cue:T65 Source:T61
+T68	Source 2345 2351	Caplin
+T69	Cue 2352 2360	declined
+T70	Content 2361 2385	to authenticate the memo
+T71	Attribution 2352 2360	declined
+E18	Attribution:T71 Content:T70 Cue:T69 Source:T68
+T72	Source 2391 2393	he
+T73	Cue 2394 2414	also did not dispute
+T74	Content 2415 2417	it
+T75	Attribution 2394 2414	also did not dispute
+E19	Attribution:T75 Content:T74 Cue:T73 Source:T72
+T76	Source 2420 2574	Band, who grew close to Bill Clinton two decades ago as his personal aide in the White House and became the architect of his post-presidential activities,
+T77	Cue 2575 2593	argued in the memo
+T78	Content 2594 2668	that he and his firm had benefited the former president and his foundation
+T79	Attribution 2575 2593	argued in the memo
+E20	Attribution:T79 Content:T78 Cue:T77 Source:T76
+T80	Content 2671 2769	"We have dedicated ourselves to helping the President secure and engage in for-profit activities,"
+T81	Source 2770 2774	Band
+T82	Cue 2775 2780	wrote
+T83	Attribution 2775 2780	wrote
+E21	Attribution:T83 Cue:T82 Source:T81 Content:T80
+T84	Source 2782 2784	He
+T85	Cue 2785 2794	also said
+T86	Content 2795 2923	he had "sought to leverage my activities, including my partner role at Teneo, to support and to raise funds for the foundation."
+T87	Attribution 2785 2794	also said
+E22	Attribution:T87 Content:T86 Cue:T85 Source:T84
+T88	Source 2925 2936	Band's memo
+T89	Cue 2937 2945	provided
+T90	Content 2946 3191	data showing how much money each of Teneo's 20 clients at the time had given to the Clinton Foundation, how much they had paid Bill Clinton and, in some cases, how he or Kelly had personally forged the relationships that resulted in the payments
+T91	Attribution 2937 2945	provided
+E23	Attribution:T91 Content:T90 Cue:T89 Source:T88
+T92	Source 3194 3198	Band
+T93	Cue 3199 3204	wrote
+T94	Content 3205 3332	that Teneo partners had raised in excess of $8 million for the foundation and $3 million in paid speaking fees for Bill Clinton
+T95	Attribution 3199 3204	wrote
+E24	Attribution:T95 Content:T94 Cue:T93 Source:T92
+T96	Source 3334 3336	He
+T97	Cue 3337 3341	said
+T98	Content 3342 3484	he had secured contracts for the former president that would pay out $66 million over the subsequent nine years if the deals remained in place
+T99	Attribution 3337 3341	said
+E25	Attribution:T99 Content:T98 Cue:T97 Source:T96
+T100	Source 3501 3505	Band
+T101	Cue 3506 3511	wrote
+T102	Content 3512 3649	that Kelly arranged for the former president to meet the chief executive of Coca-Cola in January 2009 at the Clintons' home in Washington
+T103	Attribution 3506 3511	wrote
+E26	Attribution:T103 Content:T102 Cue:T101 Source:T100
+T104	Cue 3659 3671	according to
+T105	Source 3672 3683	Band's memo
+T106	Content 3651 3657;3685 3759	In all Coke had contributed $4.33 million to the foundation between 2004 and 2010
+T107	Attribution 3659 3671	according to
+E27	Attribution:T107 Content:T106 Source:T105 Cue:T104
+T108	Source 3762 3783	A Coca-Cola spokesman
+T109	Cue 3784 3788	said
+T110	Content 3789 3974	the company had supported the Clinton Foundation because it believed "in the great work that can be done when businesses, civil society and governments come together to solve problems."
+T111	Attribution 3784 3788	said
+E28	Attribution:T111 Content:T110 Cue:T109 Source:T108
+T112	Source 3975 3977	He
+T113	Cue 3978 3982	said
+T114	Content 3983 4055	Teneo had been hired to provide "business and communications" consulting
+T115	Attribution 3978 3982	said
+E29	Attribution:T115 Content:T114 Cue:T113 Source:T112
+T116	Source 4058 4062	Band
+T117	Cue 4063 4077	also described
+T118	Content 4078 4229	how Kelly helped expand a fruitful relationship with UBS Global Wealth Management, introducing Bill Clinton to a top executive at a 2009 charity dinner
+T119	Attribution 4063 4077	also described
+E30	Attribution:T119 Content:T118 Cue:T117 Source:T116
+T120	Content 4231 4364	In the ensuing years, UBS upped its giving to the foundation, signed on as a Teneo client and agreed to pay Bill Clinton for speeches
+T121	Source 4366 4370	Band
+T122	Cue 4371 4376	wrote
+T123	Attribution 4371 4376	wrote
+E31	Attribution:T123 Cue:T122 Source:T121 Content:T120
+T124	Source 4379 4386	Records
+T125	Cue 4387 4391	show
+T126	Content 4392 4545	UBS paid Clinton about $2 million in speaking fees between 2011 and 2015 for a series of appearances, generally alongside former president George W. Bush
+T127	Attribution 4387 4391	show
+E32	Attribution:T127 Content:T126 Cue:T125 Source:T124
+T128	Source 4614 4617	UBS
+T129	Cue 4618 4626	declined
+T130	Content 4627 4637	to comment
+T131	Attribution 4618 4626	declined
+E33	Attribution:T131 Content:T130 Cue:T129 Source:T128
+T132	Content 4640 4659;4675 4872	Another achievement Laureate International Universities, a chain of for-profit international colleges, which donated to the foundation and agreed to pay Bill Clinton $3.5 million a year to serve as honorary chancellor
+T133	Cue 4660 4665	cited
+T134	Source 4669 4673	Band
+T135	Attribution 4660 4665	cited
+E34	Attribution:T135 Source:T134 Cue:T133 Content:T132
+T136	Source 4875 4882	Clinton
+T137	Cue 4883 4905	has credited Band with
+T138	Content 4906 5079	conceiving of the Clinton Global Initiative, the glitzy annual meeting where corporate, government and nonprofit leaders gathered annually to talk about the world's problems
+T139	Attribution 4883 4905	has credited Band with
+E35	Attribution:T139 Content:T138 Cue:T137 Source:T136
+T140	Cue 5113 5123	best-known
+T141	Content 5098 5101;5124 5153	CGI arm of the Clinton Foundation
+T142	Attribution-no-source 5113 5123	best-known
+E36	Attribution-no-source:T142 Content:T141 Cue:T140
+T143	Source 5480 5484	Band
+T144	Cue 5485 5506	described in the memo
+T145	Content 5507 5549	how he combined his work for CGI and Teneo
+T146	Attribution 5485 5506	described in the memo
+E37	Attribution:T146 Content:T145 Cue:T144 Source:T143
+T147	Source 5551 5553	He
+T148	Cue 5554 5559	wrote
+T149	Content 5560 5653	that he had used a hotel room upstairs from the 2011 CGI gathering to meet with Teneo clients
+T150	Attribution 5554 5559	wrote
+E38	Attribution:T150 Content:T149 Cue:T148 Source:T147
+T151	Source 5655 5657	He
+T152	Cue 5658 5675	also acknowledged
+T153	Content 5676 5777	giving free CGI memberships to "target Teneo clients" being cultivated as potential foundation donors
+T154	Attribution 5658 5675	also acknowledged
+E39	Attribution:T154 Content:T153 Cue:T152 Source:T151
+T155	Source 5823 5828	Teneo
+T156	Cue 5841 5846	named
+T157	Content 5847 5884	Bill Clinton its "honorary chairman."
+T158	Attribution 5841 5846	named
+E40	Attribution:T158 Content:T157 Cue:T156 Source:T155
+T159	Content 5885 6044	Clinton had been initially tapped for a three-year arrangement in which he would provide advice to Teneo "regarding  geopolitical, economic and social trends,"
+T160	Cue 6045 6057	according to
+T161	Source 6058 6185	a separate June 2011 memo that Band wrote to the State Department seeking ethics approval for the former president's employment
+T162	Attribution 6045 6057	according to
+E41	Attribution:T162 Source:T161 Cue:T160 Content:T159
+T163	Content 6188 6239	Bill Clinton was initially paid $2 million by Teneo
+T164	Cue 6241 6253	according to
+T165	Source 6254 6273	"Man of the World,"
+T166	Attribution 6241 6253	according to
+E42	Attribution:T166 Source:T165 Cue:T164 Content:T163
+T167	Content 6274 6280	a book
+T168	Cue 6281 6330	written with the former president's participation
+T169	Source 6341 6352	Joe Conason
+T170	Attribution 6281 6330	written with the former president's participation
+E43	Attribution:T170 Source:T169 Cue:T168 Content:T167
+T171	Cue 6593 6605	According to
+T172	Source 6606 6634	emails released by WikiLeaks
+T173	Content 6636 6717;6788 7026	Chelsea Clinton complained in December 2011 to longtime Clinton aide John Podesta that she had been informed that a member of her father's office staff who answered to Band had been making calls to British lawmakers "on behalf of President Clinton" for Teneo clients, particularly for the chief executive of Dow Chemical
+T174	Attribution 6593 6605	According to
+E44	Attribution:T174 Content:T173 Source:T172 Cue:T171
+T175	Source 7029 7044	Chelsea Clinton
+T176	Cue 7045 7050	wrote
+T177	Content 7051 7187	that the calls were occurring without her father's knowledge and that the reactions she was hearing to them would "horrify" Bill Clinton
+T178	Attribution 7045 7050	wrote
+E45	Attribution:T178 Content:T177 Cue:T176 Source:T175
+T179	Source 7207 7210	she
+T180	Cue 7211 7216	wrote
+T181	Content 7217 7265	she feared Teneo was "hustling business at CGI."
+T182	Attribution 7211 7216	wrote
+E46	Attribution:T182 Content:T181 Cue:T180 Source:T179
+T183	Content 7342 7394;7404 7487	new policies governing outside consulting agreements to erect a more solid wall between Bill Clinton's private and charitable activities
+T184	Cue 7395 7403	designed
+T185	Attribution-no-source 7395 7403	designed
+E47	Attribution-no-source:T185 Cue:T184 Content:T183
+T186	Source 7489 7495	Emails
+T187	Cue 7496 7500	show
+T188	Content 7501 7518;7609 7660	that Cheryl Mills was deeply involved in the foundation's proceedings
+T189	Attribution 7496 7500	show
+E48	Attribution:T189 Content:T188 Cue:T187 Source:T186
+T190	Content 7703 7774	returning to the company all but $100,000 of the money he had been paid
+T191	Source 7776 7787	tax returns
+T192	Cue 7788 7792	show
+T193	Attribution 7788 7792	show
+E49	Attribution:T193 Cue:T192 Source:T191 Content:T190
+T194	Source 7795 7801	Emails
+T195	Cue 7802 7806	show
+T196	Content 7807 7903	how the dispute between Chelsea Clinton and her father's longtime aide led to personal hostility
+T197	Attribution 7802 7806	show
+E50	Attribution:T197 Content:T196 Cue:T195 Source:T194
+T198	Content 7906 8030;8066 8266	"I don't deserve this from her and deserve a tad more respect or at least a direct dialogue for me to explain these things," "She is acting like a spoiled brat kid who has nothing else to do but create issues to justify what she's doing because she, as she has said, hasn't found her way and has a lack of focus in her life."
+T199	Source 8031 8035	Band
+T200	Cue 8036 8041	wrote
+T201	Attribution 8036 8041	wrote
+E51	Attribution:T201 Cue:T200 Source:T199 Content:T198
+T202	Source 8268 8272	Band
+T203	Cue 8273 8283	complained
+T204	Content 8284 8350	that no similar scrutiny was being applied to Bill Clinton himself
+T205	Attribution 8273 8283	complained
+E52	Attribution:T205 Content:T204 Cue:T203 Source:T202
+T206	Source 8352 8356	Band
+T207	Cue 8357 8362	noted
+T208	Content 8363 8432	that he had previously signed a conflict of interest document for CGI
+T209	Attribution 8357 8362	noted
+E53	Attribution:T209 Content:T208 Cue:T207 Source:T206
+T210	Content 8435 8603	"Oddly, WJC does not have to sign such a document even though he is personally paid by 3 cgi sponsors, gets many expensive gifts from them, some that are at home etc.,"
+T211	Source 8604 8606	he
+T212	Cue 8607 8612	wrote
+T213	Attribution 8607 8612	wrote
+E54	Attribution:T213 Cue:T212 Source:T211 Content:T210
+T214	Source 8615 8628	The Band memo
+T215	Cue 8665 8692	made no direct reference to
+T216	Content 8693 8708	Hillary Clinton
+T217	Attribution 8665 8692	made no direct reference to
+E55	Attribution:T217 Content:T216 Cue:T215 Source:T214
+T218	Cue 8629 8638	disclosed
+T219	Source 8642 8651	WikiLeaks
+T220	Content 8615 8628	The Band memo
+T221	Attribution 8629 8638	disclosed
+E56	Attribution:T221 Content:T220 Source:T219 Cue:T218
+T222	Source 8715 8719	Band
+T223	Cue 8720 8728	outlined
+T224	Content 8729 8739;8763 8997	that Kelly had served simultaneously between 2009 and 2011 as an unpaid economic envoy to Northern Ireland appointed by then-Secretary of State Hillary Clinton and as head of a separate consulting company whose clients included Coke, UBS and Dow
+T225	Attribution 8720 8728	outlined
+E57	Attribution:T225 Content:T224 Cue:T223 Source:T222
+T226	Source 8999 9003	Band
+T227	Cue 9004 9009	wrote
+T228	Content 9010 9092	that the arrangement was consistent with Kelly's State Department ethics agreement
+T229	Attribution 9004 9009	wrote
+E58	Attribution:T229 Content:T228 Cue:T227 Source:T226
+T230	Source 9180 9202	then-Secretary Clinton
+T231	Cue 9203 9213	recognized
+T232	Content 9214 9217;9242 9279	Dow for creating jobs in Northern Ireland
+T233	Attribution 9203 9213	recognized
+E59	Attribution:T233 Content:T232 Cue:T231 Source:T230
+T234	Cue 9284 9301	thanked Kelly for
+T235	Content 9302 9323	his work on the issue
+T236	Attribution 9284 9301	thanked Kelly for
+E60	Attribution:T236 Content:T235 Cue:T234 Source:T230
+T237	Cue 9373 9385	According to
+T238	Source 9386 9397	Band's memo
+T239	Content 9399 9516	Dow chief executive Andrew Liveris had been introduced to Bill Clinton over a round of golf with Kelly in August 2009
+T240	Attribution 9373 9385	According to
+E61	Attribution:T240 Content:T239 Source:T238 Cue:T237
+T241	Source 9618 9635	A Dow spokeswoman
+T242	Cue 9636 9640	said
+T243	Content 9641 9862	that the company's participation in the foundation dated to 2007 and that the charity was "aligned to core business and citizenship strategies that have positively leveraged the resources and capabilities of our company."
+T244	Attribution 9636 9640	said
+E62	Attribution:T244 Content:T243 Cue:T242 Source:T241
+T245	Content 9864 9951	Dow paid Teneo $2.8 million in 2011, payments that then jumped to $19.4 million in 2012
+T246	Cue 9953 9965	according to
+T247	Source 9966 10037	internal Dow documents made public as part of a whistleblower complaint
+T248	Attribution 9953 9965	according to
+E63	Attribution:T248 Source:T247 Cue:T246 Content:T245
+T249	Source 10039 10050	The company
+T250	Cue 10051 10079	later said in public filings
+T251	Content 10080 10188	that the increase reflected a cost-saving decision to consolidate several consulting contracts with one firm
+T252	Attribution 10051 10079	later said in public filings
+E64	Attribution:T252 Content:T251 Cue:T250 Source:T249
+T253	Source 10266 10269	who
+T254	Cue 10270 10285	expressed alarm
+T255	Content 10286 10364	that it may be linked to Bill Clinton's work with a charity founded by Liveris
+T256	Attribution 10270 10285	expressed alarm
+E65	Attribution:T256 Content:T255 Cue:T254 Source:T253
+T257	Content 10367 10375	a charge
+T258	Source 10376 10387	the company
+T259	Cue 10388 10394	denied
+T260	Attribution 10388 10394	denied
+E66	Attribution:T260 Cue:T259 Source:T258 Content:T257
+T261	Content 10397 10459	"It appears Dow is paying Teneo for connections with Clinton,"
+T262	Source 10460 10476	the investigator
+T263	Cue 10477 10482	wrote
+T264	Attribution 10477 10482	wrote
+E67	Attribution:T264 Cue:T263 Source:T262 Content:T261

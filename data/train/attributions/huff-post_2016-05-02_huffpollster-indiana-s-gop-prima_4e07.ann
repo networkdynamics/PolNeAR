@@ -1,0 +1,75 @@
+T1	Source 172 178	Voters
+T2	Cue 179 202	seem to care more about
+T3	Content 203 269	being inspired by a candidate than the candidate’s competitiveness
+T4	Attribution 179 202	seem to care more about
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 484 488	whic
+T6	Cue 490 505	bills itself as
+T7	Content 506 531	the Crossroads of America
+T8	Attribution 490 505	bills itself as
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Cue 1532 1542	have shown
+T10	Source 1487 1531	of the seven polls released this month, most
+T11	Content 1543 1604	Trump with modest leads ranging from 2 to 9 percentage points
+T12	Attribution 1532 1542	have shown
+E3	Attribution:T12 Content:T11 Source:T10 Cue:T9
+T13	Source 1694 1705	Philip Bump
+T14	Cue 1705 1706	:
+T15	Content 1707 2561	“Two weeks ago, [Trump’s] strongest territory had been the South. Now, it’s the Northeast….This week’s contest in Indiana is much different territory for Trump, though. He did well around Chicago, but otherwise the areas bordering the state have been as enthusiastic about Cruz and Kasich as they are about him. He leads in the polls, but it’s clear that Indiana will be a much tougher contest….A key thing to note from this is that there’s no strong correlation between any demographic point and the results of the 2016 election. This isn’t like the Democratic contest, where knowing the percentage of the population that’s black can give you a good sense of who will win. Figuring out the overlap of geography and economics and ideology at play on the GOP side is a lot more nuanced than that. Which is another reason that Indiana will be interesting.”
+T16	Attribution 1705 1706	:
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Source 2894 2922	Frank Newport and Jim Harter
+T18	Cue 2922 2923	:
+T19	Content 2924 3670	“We found that, across candidates, the leadership strengths most highly correlated with likelihood to vote for a given candidate were inspiring, cares about individuals, visionary and courageous...For example, the average percentage of those who give each candidate a high rating on competitive and also say they are highly likely to vote for that candidate is 29%...On the other hand, 53% of those who rate a candidate as high on the inspiring dimension also say they are highly likely to vote for that candidate….Overall, the conclusion is that ratings on the ‘softer,’ not necessarily campaign-related, dimensions are those that really seem to matter to Americans, or at the least are those most differentiating in terms of voting intentions.”
+T20	Attribution 2922 2923	:
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Source 4237 4249	Pew Research
+T22	Cue 4249 4250	:
+T23	Content 4251 4991	“All the samples evaluated include more politically and civically engaged individuals than benchmark sources indicate should be present. The biases on measures of volunteering and community problem-solving were very large, while those on political engagement were more modest...Online nonprobability survey vendors want to provide samples that are representative of the diversity  of the U.S. population, but one important question is whether the panelists who are members of racial and ethnic minority groups are representative of these groups more broadly. This study suggests they are not….researchers using online nonprobability samples are at risk of drawing erroneous conclusions about the effects associated with race and ethnicity.”
+T24	Attribution 4249 4250	:
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 5025 5028	Pew
+T26	Cue 5029 5034	notes
+T27	Content 5035 5139	that the surveys they studied aren’t “monolithic,” with some performing significantly better than others
+T28	Attribution 5029 5034	notes
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Source 5252 5260	Survey I
+T30	Cue 5261 5280	consistently showed
+T31	Content 5281 5347	less bias than any of the other samples on just about every metric
+T32	Attribution 5261 5280	consistently showed
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 5353 5355	we
+T34	Cue 5356 5366	don’t know
+T35	Content 5367 5404	which survey company fielded that one
+T36	Attribution 5356 5366	don’t know
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Source 5882 5892	the report
+T38	Cue 5892 5893	:
+T39	Content 5894 6539	“In general, samples with more elaborate sampling and weighting procedures and longer field periods produced more accurate results. The less accurate samples tended to be selected (or ‘balanced’) only with respect to gender, age and region. The best performing samples, by contrast, were balanced not just on those characteristics but also on variables such as education and income….The limitations of this study’s design, however, make these conclusions preliminary at best. Our data come from just nine samples, none of which experimentally manipulated these design features. Consequently, the effects of those features are not well isolated.”
+T40	Attribution 5892 5893	:
+E10	Attribution:T40 Content:T39 Cue:T38 Source:T37
+T41	Source 6611 6621	the report
+T42	Cue 6621 6622	:
+T43	Content 6623 6887	“Today numerous online survey vendors condition their samples on nondemographic variables in an effort to make them more representative. When implemented carefully and with full consideration of the survey objectives, this practice may help to improve data quality
+T44	Attribution 6621 6622	:
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 7320 7328	One poll
+T46	Cue 7329 7334	shows
+T47	Content 7335 7379	Ted Cruz 16 points ahead of Trump in Indiana
+T48	Attribution 7329 7334	shows
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Source 7640 7656	David Rothschild
+T50	Cue 7657 7665	assesses
+T51	Content 7666 7699	Donald Trump’s chances in Indiana
+T52	Attribution 7657 7665	assesses
+E13	Attribution:T52 Content:T51 Cue:T50 Source:T49
+T53	Source 7780 7793	Craig Fehrman
+T54	Cue 7794 7802	explains
+T55	Content 7803 7826	why Indiana is “weird.”
+T56	Attribution 7794 7802	explains
+E14	Attribution:T56 Content:T55 Cue:T54 Source:T53
+T57	Source 7935 7951	Matthew Yglesias
+T58	Cue 7952 7958	thinks
+T59	Content 7959 8064	Trump will cause long term damage to the Republican Party by turning Latino voters permanently Democratic
+T60	Attribution 7952 7958	thinks
+E15	Attribution:T60 Content:T59 Cue:T58 Source:T57

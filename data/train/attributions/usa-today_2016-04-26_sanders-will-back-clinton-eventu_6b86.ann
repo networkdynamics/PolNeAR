@@ -1,0 +1,85 @@
+T1	Content 0 37	Sanders will back Clinton, eventually
+T2	Source 39 51	former rival
+T3	Cue 52 56	says
+T4	Attribution 52 56	says
+E1	Attribution:T4 Cue:T3 Source:T2 Content:T1
+T5	Content 59 171	Bernie Sanders will throw his support behind Hillary Clinton before the Democratic Party's nominating convention
+T6	Cue 173 182	predicted
+T7	Source 183 273	Madeleine Kunin, the former Vermont Democratic governor challenged by Sanders 30 years ago
+T8	Attribution 173 182	predicted
+E2	Attribution:T8 Source:T7 Cue:T6 Content:T5
+T9	Content 544 578	that will take time to "cool off,"
+T10	Source 579 584	Kunin
+T11	Cue 585 620	said in an interview with USA TODAY
+T12	Attribution 585 620	said in an interview with USA TODAY
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Content 623 655	"His normal demeanor is grumpy,"
+T14	Source 656 659	she
+T15	Cue 660 664	said
+T16	Attribution 660 664	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Content 711 735	"I think he will do it,"
+T18	Cue 736 740	said
+T19	Source 741 746	Kunin
+T20	Attribution 736 740	said
+E5	Attribution:T20 Source:T19 Cue:T18 Content:T17
+T21	Source 748 751	who
+T22	Cue 752 772	has been critical of
+T23	Content 773 780	Sanders
+T24	Attribution 752 772	has been critical of
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Content 782 811	"Now he's a national figure,"
+T26	Cue 812 816	said
+T27	Source 817 822	Kunin
+T28	Attribution 812 816	said
+E7	Attribution:T28 Source:T27 Cue:T26 Content:T25
+T29	Content 824 906	"He claims to be a Democrat. If he wants to hold that stature, he's got to do it,"
+T30	Source 907 910	she
+T31	Cue 911 915	said
+T32	Attribution 911 915	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Source 1221 1233	the campaign
+T34	Cue 1234 1242	believes
+T35	Content 1243 1330	it could have 90% of what it needs to clinch the nomination after the votes are counted
+T36	Attribution 1234 1242	believes
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
+T37	Content 1332 1489	Right now, Clinton is 439 delegates short of the nomination when superdelegates -- party leaders and elected officials free to support anyone -- are included
+T38	Cue 1491 1503	according to
+T39	Source 1504 1524	the Associated Press
+T40	Attribution 1491 1503	according to
+E10	Attribution:T40 Source:T39 Cue:T38 Content:T37
+T41	Source 1533 1535	he
+T42	Cue 1535 1542	's said
+T43	Content 1543 1584	he'll fight all the way to the convention
+T44	Attribution 1535 1542	's said
+E11	Attribution:T44 Content:T43 Cue:T42 Source:T41
+T45	Source 1993 2012	a fundraising email
+T46	Cue 2013 2022	stressing
+T47	Content 2023 2088	the impact his bid has had on the front-runner's policy positions
+T48	Attribution 2013 2022	stressing
+E12	Attribution:T48 Content:T47 Cue:T46 Source:T45
+T49	Content 2090 2299;2316 2374	"Our political revolution has already forced a former U.S. senator and secretary of State to change her mind on matters as critical as international trade, the Keystone Pipeline, and the federal minimum wage," "And with every vote and every victory, we grow stronger."
+T50	Cue 2300 2304	read
+T51	Source 2305 2314	the email
+T52	Attribution 2300 2304	read
+E13	Attribution:T52 Source:T51 Cue:T50 Content:T49
+T53	Cue 2454 2461	telling
+T54	Content 2462 2546	MSNBC his involvement would depend upon what she includes in her convention platform
+T55	Source 2389 2391	he
+T56	Attribution 2454 2461	telling
+E14	Attribution:T56 Source:T55 Content:T54 Cue:T53
+T57	Content 2549 2587	"This will be a challenge" for Clinton
+T58	Cue 2589 2593	said
+T59	Source 2594 2599	Kunin
+T60	Attribution 2589 2593	said
+E15	Attribution:T60 Source:T59 Cue:T58 Content:T57
+T61	Content 2601 2642;2683 2784	"She can never be as far left as Bernie," "I'm not sure he damaged me, but he certainly took my attention away from where it should have been."
+T62	Source 2643 2646	she
+T63	Cue 2647 2651	said
+T64	Attribution 2647 2651	said
+E16	Attribution:T64 Cue:T63 Source:T62 Content:T61
+T65	Content 2841 2861;2885 2944	"she does need him," "The great achievement is, he has gotten them out to vote."
+T66	Source 2862 2867	Kunin
+T67	Cue 2868 2872	said
+T68	Attribution 2868 2872	said
+E17	Attribution:T68 Cue:T67 Source:T66 Content:T65

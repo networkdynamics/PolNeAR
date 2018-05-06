@@ -1,0 +1,58 @@
+T1	Source 0 6	Carson
+T2	Cue 7 11	says
+T3	Content 12 60	cut regulations, national debt to reduce poverty
+T4	Attribution 7 11	says
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Source 63 96	Presidential candidate Ben Carson
+T6	Cue 97 105	suggests
+T7	Content 106 197	reducing government regulations as a step toward reducing poverty in places like Cincinnati
+T8	Attribution 97 105	suggests
+E2	Attribution:T8 Content:T7 Cue:T6 Source:T5
+T9	Content 200 309;310 349	"It might surprise you, but one of the things would be to get rid of the excessive regulation in our country. It drives the prices of everything up,"
+T10	Source 350 364	the Republican
+T11	Cue 365 369	said
+T12	Attribution 365 369	said
+E3	Attribution:T12 Cue:T11 Source:T10 Content:T9
+T13	Source 382 384	He
+T14	Cue 385 391	blamed
+T15	Content 392 502	the national debt for keeping interest rates low and making it impossible for poor people to grow their wealth
+T16	Attribution 385 391	blamed
+E4	Attribution:T16 Content:T15 Cue:T14 Source:T13
+T17	Content 505 614;682 710;711 815	"Poor people and middle-class people used to be able to grow their money by putting it in a savings account," "You can't do that any more. Long-term bonds, nothing -- it's really these policies that are creating the real problem for the poor."
+T18	Source 615 621	Carson
+T19	Cue 622 626	said
+T20	Attribution 622 626	said
+E5	Attribution:T20 Cue:T19 Source:T18 Content:T17
+T21	Source 817 835	The New York Times
+T22	Cue 836 842	quoted
+T23	Content 843 990	one of Carson's advisers as saying the retired neurosurgeon is having trouble understanding foreign policy despite intense briefings on the subject
+T24	Attribution 836 842	quoted
+E6	Attribution:T24 Content:T23 Cue:T22 Source:T21
+T25	Source 993 995	He
+T26	Cue 996 1007	brushed off
+T27	Content 1008 1022	these concerns
+T28	Attribution 996 1007	brushed off
+E7	Attribution:T28 Content:T27 Cue:T26 Source:T25
+T29	Content 1024 1118	"I've been to 57 different countries, I've lived abroad, and I have common sense and a brain,"
+T30	Source 1119 1121	he
+T31	Cue 1122 1126	said
+T32	Attribution 1122 1126	said
+E8	Attribution:T32 Cue:T31 Source:T30 Content:T29
+T33	Cue 1128 1135	arguing
+T34	Content 1136 1222	that Hillary Clinton's experience as secretary of State didn't help her avoid problems
+T35	Attribution 1128 1135	arguing
+E9	Attribution:T35 Source:T30 Cue:T33 Content:T34
+T36	Source 1225 1227	He
+T37	Cue 1228 1241	also laid out
+T38	Content 1242 1281	his plan for fighting the Islamic State
+T39	Attribution 1228 1241	also laid out
+E10	Attribution:T39 Content:T38 Cue:T37 Source:T36
+T40	Cue 1283 1290	stating
+T41	Content 1291 1423	that the United States should formally declare war on the organization that has declared a "caliphate" in portions of Syria and Iraq
+T42	Attribution 1283 1290	stating
+E11	Attribution:T42 Content:T41 Cue:T40 Source:T36
+T43	Source 1425 1431	Carson
+T44	Cue 1432 1446	also suggested
+T45	Content 1447 1556	rallying NATO and Middle Eastern allies and if necessary destroying oil fields to cut off the group's revenue
+T46	Attribution 1432 1446	also suggested
+E12	Attribution:T46 Content:T45 Cue:T44 Source:T43

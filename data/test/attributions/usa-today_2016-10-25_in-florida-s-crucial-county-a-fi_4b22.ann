@@ -1,0 +1,172 @@
+T1	Content 290 295;336 442	which "the most generic place" he's ever been, for its suburban gated communities and national chain strip malls
+T2	Source 296 329	conservative blogger Ed Morrissey
+T3	Cue 330 335	calls
+T4	Cue 797 801	says
+T5	Source 802 864	Steve Schale, President Obama's 2008 Florida campaign director
+T6	Content 632 795	The race for the White House will be decided by voters like McCaughey, who lives in a county that has picked the winner in 19 of the past 20 presidential elections
+T7	Attribution 330 335	calls
+E1	Attribution:T7 Cue:T3 Source:T2 Content:T1
+T8	Attribution 797 801	says
+E2	Attribution:T8 Content:T6 Source:T5 Cue:T4
+T9	Cue 1087 1094	elected
+T10	Content 1095 1145	his arch-critic Republican Rick Scott for governor
+T11	Source 1043 1064	the precinct's voters
+T12	Attribution 1087 1094	elected
+E3	Attribution:T12 Source:T11 Content:T10 Cue:T9
+T13	Cue 1019 1027	choosing
+T14	Content 1028 1033	Obama
+T15	Attribution 1019 1027	choosing
+E4	Attribution:T15 Content:T14 Cue:T13 Source:T11
+T16	Source 1328 1391	A Sept. 22 poll by St. Pete Polls, a Florida-only polling firm,
+T17	Cue 1392 1395	had
+T18	Content 1396 1543	Democratic nominee Hillary Clinton leading Trump in Hillsborough by 48% to 42% among 1,902 likely voters surveyed, with a 2.2-point margin of error
+T19	Attribution 1392 1395	had
+E5	Attribution:T19 Content:T18 Cue:T17 Source:T16
+T20	Source 1581 1590	McCaughey
+T21	Cue 1591 1595	says
+T22	Content 1546 1580;1640 1769	"I was a Democrat for many years," "Now I'm a Republican. I wanted to vote in the primary for John McCain, so that's why I switched, and then I never changed back."
+T23	Attribution 1591 1595	says
+E6	Attribution:T23 Content:T22 Cue:T21 Source:T20
+T24	Source 1844 1853	McCaughey
+T25	Cue 1854 1882	can't say with any certainty
+T26	Content 1883 1902	what she'll do next
+T27	Attribution 1854 1882	can't say with any certainty
+E7	Attribution:T27 Content:T26 Cue:T25 Source:T24
+T28	Source 2903 2909	Schale
+T29	Cue 2910 2914	says
+T30	Content 2717 2901	By way of Interstate 75, Tampa and much of Florida's west coast also have a strong Midwestern influence, characterized by voters with a penchant for crossing party lines in state races
+T31	Attribution 2910 2914	says
+E8	Attribution:T31 Content:T30 Cue:T29 Source:T28
+T32	Source 3166 3175	McCaughey
+T33	Cue 3176 3180	says
+T34	Content 3019 3165	"What really concerns me about Trump -- and I know he's kind of loud and whatever -- is that he doesn't have the political experience of Hillary,"
+T35	Attribution 3176 3180	says
+E9	Attribution:T35 Content:T34 Cue:T33 Source:T32
+T36	Cue 3209 3216	trouble
+T37	Source 3217 3226	McCaughey
+T38	Content 3190 3208;3228 3336	Clinton's policies especially support for the Affordable Care Act and gun restrictions that could threaten the Second Amendment
+T39	Attribution 3209 3216	trouble
+E10	Attribution:T39 Content:T38 Source:T37 Cue:T36
+T40	Source 3386 3395	McCaughey
+T41	Cue 3396 3400	says
+T42	Content 3339 3385	"Since college, she's been a social activist,"
+T43	Attribution 3396 3400	says
+E11	Attribution:T43 Content:T42 Cue:T41 Source:T40
+T44	Source 3527 3536	Morrissey
+T45	Cue 3537 3542	calls
+T46	Content 3543 3575	Hillsborough "Everytown America"
+T47	Attribution 3537 3542	calls
+E12	Attribution:T47 Content:T46 Cue:T45 Source:T44
+T48	Cue 4164 4168	says
+T49	Source 4169 4178	Morrissey
+T50	Content 3945 4163;4180 4244	"These are states that Republicans need to win. These are counties in those states that they have to compete in to win. And winning each of these seven counties is reflective of how well they are competing nationally," "(Hillsborough) is really where the battleground is in Florida."
+T51	Attribution 4164 4168	says
+E13	Attribution:T51 Content:T50 Source:T49 Cue:T48
+T52	Source 4246 4369	Ana Cruz, former head of the Florida Democratic Party and a 43-year-old fourth-generation descendant of Cuban cigar-makers,
+T53	Cue 4370 4374	says
+T54	Content 4375 4459;4461 4852	Hillsborough is "a microcosm of what this battleground state of Florida represents." "Also, what our entire country looks like ... urban areas ... suburban areas and also rural areas. Also gender, and our demographics as it relates to Hispanic, black and Anglo voters," she says, raising her voice to be heard over the lunchtime bustle at the West Tampa Sandwich Shop. "That diversity in geography and diversity in demographics makes Hillsborough County such a purple county."
+T55	Attribution 4370 4374	says
+E14	Attribution:T55 Content:T54 Cue:T53 Source:T52
+T56	Source 5295 5348	A white accountant from tiny Apollo Beach, Shenefield
+T57	Cue 5349 5353	says
+T58	Content 5354 5412	she's been a lifelong Democrat like the rest of her family
+T59	Attribution 5349 5353	says
+E15	Attribution:T59 Content:T58 Cue:T57 Source:T56
+T60	Source 5414 5417	She
+T61	Cue 5418 5427	voted for
+T62	Content 5428 5433	Obama
+T63	Attribution 5418 5427	voted for
+E16	Attribution:T63 Content:T62 Cue:T61 Source:T60
+T64	Cue 5446 5462	will likely vote
+T65	Content 5463 5468	Trump
+T66	Attribution 5446 5462	will likely vote
+E17	Attribution:T66 Content:T65 Cue:T64 Source:T60
+T67	Source 6018 6028	Shenefield
+T68	Cue 6029 6045	never considered
+T69	Content 6046 6080	switching her party to independent
+T70	Attribution 6029 6045	never considered
+E18	Attribution:T70 Content:T69 Cue:T68 Source:T67
+T71	Source 6129 6132	She
+T72	Cue 6133 6141	supports
+T73	Content 6142 6163	universal health care
+T74	Attribution 6133 6141	supports
+E19	Attribution:T74 Content:T73 Cue:T72 Source:T71
+T75	Cue 6194 6202	believes
+T76	Content 6203 6238	the U.S. has an immigration problem
+T77	Attribution-no-source 6194 6202	believes
+E20	Attribution-no-source:T77 Content:T76 Cue:T75
+T78	Source 6241 6265	Tampa Mayor Bob Buckhorn
+T79	Cue 6266 6270	says
+T80	Content 6271 6394	Shenefield's attitude is common among his constituents, who defy political ideology and make elections difficult to predict
+T81	Attribution 6266 6270	says
+E21	Attribution:T81 Content:T80 Cue:T79 Source:T78
+T82	Source 6542 6550	Buckhorn
+T83	Cue 6551 6555	says
+T84	Content 6397 6541;6557 6755	"People here tend to be rather pragmatic, rather practical, somewhat less partisan, which is a good thing as opposed to being rigid ideologues," "People here are capable on any given year of voting D or voting R, depending on the candidate. And so I think this is a good test bed, if you will, for what's going to happen in a couple of weeks."
+T85	Attribution 6551 6555	says
+E22	Attribution:T85 Content:T84 Cue:T83 Source:T82
+T86	Source 6757 6767	Shenefield
+T87	Cue 6768 6780	doesn't like
+T88	Content 6781 6797	either candidate
+T89	Attribution 6768 6780	doesn't like
+E23	Attribution:T89 Content:T88 Cue:T87 Source:T86
+T90	Source 6803 6806	she
+T91	Cue 6806 6823	's leaning toward
+T92	Content 6824 6829	Trump
+T93	Attribution 6806 6823	's leaning toward
+E24	Attribution:T93 Content:T92 Cue:T91 Source:T90
+T94	Source 6838 6841	she
+T95	Cue 6842 6850	believes
+T96	Content 6851 6905	he "surrounds himself with highly intelligent people."
+T97	Attribution 6842 6850	believes
+E25	Attribution:T97 Content:T96 Cue:T95 Source:T94
+T98	Source 6910 6913	she
+T99	Cue 6914 6944	doesn't have a high opinion of
+T100	Content 6945 6963	Clinton's advisers
+T101	Attribution 6914 6944	doesn't have a high opinion of
+E26	Attribution:T101 Content:T100 Cue:T99 Source:T98
+T102	Source 7040 7043	she
+T103	Cue 7044 7048	says
+T104	Content 6966 7039	"I don't want to use the word cronies but I don't know of a better term,"
+T105	Attribution 7044 7048	says
+E27	Attribution:T105 Content:T104 Cue:T103 Source:T102
+T106	Source 7457 7460	who
+T107	Cue 7461 7479	will be voting for
+T108	Content 7480 7487	Clinton
+T109	Attribution 7461 7479	will be voting for
+E28	Attribution:T109 Content:T108 Cue:T107 Source:T106
+T110	Source 7489 7491	He
+T111	Cue 7520 7526	saying
+T112	Content 7528 7589	"I don't relate to the pro-gun, anti-abortion people at all."
+T113	Attribution 7520 7526	saying
+E29	Attribution:T113 Content:T112 Cue:T111 Source:T110
+T114	Source 7633 7638	Sobin
+T115	Cue 7639 7648	voted for
+T116	Content 7649 7697	Obama in 2008 and Republican Mitt Romney in 2012
+T117	Attribution 7639 7648	voted for
+E30	Attribution:T117 Content:T116 Cue:T115 Source:T114
+T118	Cue 7771 7783	according to
+T119	Source 7784 7806	exit surveys of voters
+T120	Content 7699 7769	Romney won college-educated voters like Sobin statewide and nationwide
+T121	Attribution 7771 7783	according to
+E31	Attribution:T121 Content:T120 Source:T119 Cue:T118
+T122	Source 8024 8026	he
+T123	Cue 8027 8031	says
+T124	Content 7938 8022	Sobin likely would have voted for Clinton no matter who the Republican candidate was
+T125	Attribution 8027 8031	says
+E32	Attribution:T125 Content:T124 Cue:T123 Source:T122
+T126	Content 8088 8093;8104 8168	Still the negative campaigning has dampened his enthusiasm for Clinton
+T127	Source 8095 8097	he
+T128	Cue 8098 8102	says
+T129	Attribution 8098 8102	says
+E33	Attribution:T129 Cue:T128 Source:T127 Content:T126
+T130	Source 8321 8323	he
+T131	Cue 8324 8328	says
+T132	Content 8171 8320;8330 8426	"I don't think people are terribly enthusiastic for Hillary. And my own enthusiasm was diminished, sort of by this whole process over the last year," "I sort of started to be persuaded a little bit about her being not on top of her game so much."
+T133	Attribution 8324 8328	says
+E34	Attribution:T133 Content:T132 Cue:T131 Source:T130
+T134	Content 8904 8909	Obama
+T135	Cue 8945 8957	support from
+T136	Source 8958 8985	minorities and young people
+T137	Attribution 8945 8957	support from
+E35	Attribution:T137 Source:T136 Cue:T135 Content:T134

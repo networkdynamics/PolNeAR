@@ -1,0 +1,45 @@
+T1	Source 85 100	Hillary Clinton
+T2	Cue 101 179	closed her New York victory speech on Tuesday night with a spirited tribute to
+T3	Content 180 290	the activism of Erica Smegielski, the daughter of slain Sandy Hook Elementary School principal Dawn Hochsprung
+T4	Attribution 101 179	closed her New York victory speech on Tuesday night with a spirited tribute to
+E1	Attribution:T4 Content:T3 Cue:T2 Source:T1
+T5	Content 292 340;341 378;393 452	“There is a remarkable young woman here tonight. Her name is Erica, Erica Smegielski,” “She lives the truth of what I have been saying every day.”
+T6	Source 379 386	Clinton
+T7	Cue 387 391	said
+T8	Source 453 460	Clinton
+T9	Cue 474 482	revealed
+T10	Content 483 530	why Smegielski’s activism was especially moving
+T11	Attribution 387 391	said
+E2	Attribution:T11 Content:T5 Source:T6 Cue:T7
+T12	Attribution 474 482	revealed
+E3	Attribution:T12 Content:T10 Cue:T9 Source:T8
+T13	Content 533 607;665 725	“Erica’s mother, Dawn, was the principal of Sandy Hook Elementary School,” “And she died trying to protect her children, her students.”
+T14	Source 608 615	Clinton
+T15	Cue 616 620	said
+T16	Attribution 616 620	said
+E4	Attribution:T16 Cue:T15 Source:T14 Content:T13
+T17	Source 832 839	Clinton
+T18	Cue 840 847	praised
+T19	Content 848 925	Smegielski for translating the grief over the death of her mother into action
+T20	Attribution 840 847	praised
+E5	Attribution:T20 Content:T19 Cue:T18 Source:T17
+T21	Content 1099 1259;927 964;965 1045	“You know, like the mothers of Eric Garner and Trayvon Martin and so many others, Erica has turned her sorrow into a strategy and her mourning into a movement.” “She’d never been in politics before. But she has made it her mission to advocate for common-sense gun safety reform,”
+T22	Source 1046 1053	Clinton
+T23	Cue 1054 1063	continued
+T24	Attribution 1054 1063	continued
+E6	Attribution:T24 Cue:T23 Source:T22 Content:T21
+T25	Content 1260 1391;1392 1441;1461 1515;1516 1547	“It isn’t easy, but as Erica said the other day, ‘What if everyone who faced tough odds said, It’s hard, so I’m going to walk away? That’s not the type of world I want to live in,’” “Erica, it’s not the type of world we want to live in. And we refuse to live in that.”
+T26	Source 1442 1449	Clinton
+T27	Cue 1450 1459	concluded
+T28	Attribution 1450 1459	concluded
+E7	Attribution:T28 Cue:T27 Source:T26 Content:T25
+T29	Source 1568 1575	Clinton
+T30	Cue 1576 1610	chose to make her peroration about
+T31	Content 1611 1621	gun safety
+T32	Attribution 1576 1610	chose to make her peroration about
+E8	Attribution:T32 Content:T31 Cue:T30 Source:T29
+T33	Source 1855 1858	her
+T34	Cue 1859 1871	criticism of
+T35	Content 1872 1884;1885 1987	Vermont Sen. Bernie Sanders’ vote in favor of a law that protects gun makers and sellers from some civil liability.
+T36	Attribution 1859 1871	criticism of
+E9	Attribution:T36 Content:T35 Cue:T34 Source:T33
