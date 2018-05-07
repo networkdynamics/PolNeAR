@@ -97,9 +97,9 @@ architecture once on the test set.
  &#35 Publishers                     |     7    |  
  &#35 Words                          |   760    |  thousand
  &#35 Attributions                   |    24    |  thousand
- Token-wise Krippendorff's alpha   |    75.4  |     %
- Attribution-wise agreement (agr)  |    92.3  |     %
- Pseudo-recall of PARC3            |    94.2  |     %
+ Token-wise Krippendorff's alpha  |    75.4  |     %
+ Attribution-wise agreement (agr) |    92.3  |     %
+ Pseudo-recall of PARC3           |    94.2  |     %
  &#35 False negatives estimated\*    |  1060    |  
 ==========================================================
 \* Estimated from pseudo-recall on PARC3 articles, extrapolated to the size of
