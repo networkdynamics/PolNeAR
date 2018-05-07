@@ -102,7 +102,7 @@ architecture once on the test set.
  Pseudo-recall of PARC3           |    94.2  |     %
  &#35 False negatives estimated\*    |  1060    |  
 ==========================================================
-\* Estimated from pseudo-recall on PARC3 articles, extrapolated to the size of
+* Estimated from pseudo-recall on PARC3 articles, extrapolated to the size of
 the corpus
 </pre>
 
