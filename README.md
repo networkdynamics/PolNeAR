@@ -51,7 +51,7 @@ publisher, and candidate of focus in the article, as follows.
    2. **Time**: 84 articles were sampled uniformly from each 12 month-long
       period between 8-Nov-2015 to 8-Nov-2016.
 
-   3. **Majority Candidate**: 504 articles were respectively sampled from
+   3. **Focal Candidate**: 504 articles were respectively sampled from
       articles mentioning Trump or Clinton the weak majority of the time.  A
       candidate is mentioned the weak majority of the time if it is mentioned at
       least as many times as its opponent.
@@ -67,8 +67,8 @@ total of 1008 articles.
 
 ## Genre
 We endeavored to include only the hard news genre, and to exclude soft news,
-and other genres such as editorials, real estate, travel, advice, editorials,
-letters, obituaries, reviews, essays, etc.
+and other genres such as editorials, real estate, travel, advice, letters,
+obituaries, reviews, essays, etc.
 
 Articles were classified by genre usign the metadata tags and section
 indications  provided by the publisher, either visibly or as hidden attributes
@@ -82,7 +82,9 @@ Breitbart.
 ## Train, Dev, Test splits
 PolNeAR is split into training, development, testing subsets.  The analyst
 should avoid viewing the dev and test subsets, and should only test a model
-architecture once on the test set.
+architecture once on the test set.  The train subset includes all articles from
+the first 10 month-long periods of coverage.  The dev and test subsets include
+respectively drawn from the 11th and 12th month.
 
 
 ## Statistics
