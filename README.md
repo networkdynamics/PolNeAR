@@ -89,20 +89,22 @@ architecture once on the test set.
 
 ## Statistics
 
+<pre>
 ==========================================================
- \# Articles, core dataset         |  1008    |  
- \# Articles, annotator training   |     4    |  
- \# Articles, PARC3 replication    |    54    |  
- \# Publishers                     |     7    |  
- \# Words                          |   760    |  thousand
- \# Attributions                   |    24    |  thousand
+ &#35 Articles, core dataset         |  1008    |  
+ &#35 Articles, annotator training   |     4    |  
+ &#35 Articles, PARC3 replication    |    54    |  
+ &#35 Publishers                     |     7    |  
+ &#35 Words                          |   760    |  thousand
+ &#35 Attributions                   |    24    |  thousand
  Token-wise Krippendorff's alpha   |    75.4  |     %
  Attribution-wise agreement (agr)  |    92.3  |     %
  Pseudo-recall of PARC3            |    94.2  |     %
- \# False negatives estimated\*    |  1060    |  
+ &#35 False negatives estimated\*    |  1060    |  
 ==========================================================
 \* Estimated from pseudo-recall on PARC3 articles, extrapolated to the size of
 the corpus
+</pre>
 
 
 ## Data File Structure
@@ -114,6 +116,7 @@ other two relate to quality control.  The /data directory also contains a file
 called metadata.tsv, which provides a listing of all the news articles along
 with metadata, including which annotators have annotated it.
 
+<pre>
 - /data
     │
     │  // Core Dataset
@@ -127,23 +130,27 @@ with metadata, including which annotators have annotated it.
     │
     │  // Table of contents and metadata
     └─ metadata.tsv
+</pre>
 
 Within each of the compartments making up the core dataset--train, dev, and
 test--there are three directories, that separately contain the raw article
 text, attribution annotations in standoff format, and CoreNLP annotations in
 xml format.  The training compartment is shown as an example:
 
+<pre>
 - /data
    ├─ train
    │   ├─ text
    │   ├─ attributions
    │   └─ corenlp
   ...
+</pre>
 
 The contents of the parc3-replication and annotator-training compartments are
 similar, but lack CoreNLP annotations.  The parc3-replication also lacks the
 original text files, which should be obtained from the Penn Treebank 2 corpus.
 
+<pre>
 - /data
     ├─ parc3-replication
     │   └─ attributions
@@ -152,6 +159,7 @@ original text files, which should be obtained from the Penn Treebank 2 corpus.
     │   ├─ text
     │   └─ attributions
    ...
+</pre>
 
 
 ## Quality Control
