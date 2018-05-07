@@ -1,11 +1,9 @@
 # PolNeAR v.1.0.0 - Political News Attribution Relations Corpus
 
 PolNeAR is a corpus of news articles in which _attributions_ have been
-annotated.  An attribution happens when an article cites statements, or
+annotated.  An attribution occurrs when an article cites statements, or
 describes the internal state (thoughts, intentions, etc.) of some person or
-group.
-
-A common, concrete example of attribution is when someone is directly quoted.
+group.  A direct verbatim quote is an example of attribution, as is the paraphrasing of a source's intentions or beliefs.
 
 ## Benefits
 In 2018, PolNeAR is the largest attribution dataset by total number of
@@ -112,9 +110,10 @@ the corpus
 The PolNeAR data resides under the /data directory.  There is one subdirectory
 for each _compartment_ of the dataset.  There are 5 compartments.  Three of the
 compartments correspond to the core dataset's train/test/dev subsets.  The
-other two relate to quality control.  The /data directory also contains a file
-called metadata.tsv, which provides a listing of all the news articles along
-with metadata, including which annotators have annotated it.
+other two relate to quality control during annotation.  The /data directory
+also contains a file called metadata.tsv, which provides a listing of all the
+news articles along with metadata, including which annotators have annotated
+it.
 
 <pre>
 - /data
@@ -132,8 +131,8 @@ with metadata, including which annotators have annotated it.
     └─ metadata.tsv
 </pre>
 
-Within each of the compartments making up the core dataset--train, dev, and
-test--there are three directories, that separately contain the raw article
+Within each of the compartments making up the core dataset&mdash;train, dev, and
+test&mdash;there are three directories, that separately contain the raw article
 text, attribution annotations in standoff format, and CoreNLP annotations in
 xml format.  The training compartment is shown as an example:
 
@@ -162,20 +161,71 @@ original text files, which should be obtained from the Penn Treebank 2 corpus.
 </pre>
 
 
-## Quality Control
-
-
 ## Preprocessing
 
 
+## Annotation
+The annotation of attributions was performed manually by 6 trained annotators,
+who each annotated approximately 168 articles in the core dataset, 4 articles
+for assessing training, and 54 articles for comparison to PARC3.
+
+To provide core NLP annotations, such as tokenization, sentnece splitting,
+part-of-speech tagging, constituency and dependency parsing,  named entity
+recognition, and coreference resolution, we provide annotations produced automatically by the CoreNLP software in parallel to the manual attribution annotations.  See _Automated Annotation by CoreNLP_ below.
+
 ## Manual Annotation
-Manual annotation was performed using the BRAT Rapid Annotation Tool, v.1.3. 
-Configuration files for the annotation can be found under the brat subfolder.
+### Training
+All annotators were trained in two 2-hour periods, in which they reviewed the
+the guidelines (see /annotation-guidelines/guidelines.pdf).  after each major
+section in the guidelines, we conducted a group discussion amongst the
+annotators to answer any questions and rectify any misconceptions.  annotators
+were provided practice 2 practice articles as practice annotation.  
 
+annotators were then provided the templates document
+(/annotation-guidelines/templates.pdf), which was designed to provide quick
+reference and examples to guide annotation.
 
-## Automated Annotation
+after annotating the practice articles, we discussed the annotations as a
+group, using the existing language in the guidelines to resolve disagreements
+or misconceptions.
+
+near the end of the second training session, annotators were shown examples in 
+/annotation-guidelines/guidelines-training-interactive.pdf, and asked to 
+describe how they would annotate it.  the examples were designed to be
+difficult, but to have a correct answer according to the guidelines.
+
+### Training Articles
+After training was complete, annotators annotated 4 articles, to measure their initial agreement and verify that training had been successful.  These articles provide an indication of agreement level for annotators immediately after the training process.
+
+### Ongoing Monitoring of Annotation Quality
+Each annotator annotated approximately 18 articles every week.  As a quality
+control measure, weekly group meetings were held with all annotators in which
+which we reviewed two articles that had been annotated by all annotators.
+During the meeting, the annotations that each annotator made in the two shared
+articles were aligned to clearly show the cases where annotators had agreed or
+disagreed on how to perform the annotation.  The discussions were conducted to
+encourage consensus by appealing to the existing guidelines and, especially,
+the templates. 
+
+## Automated Annotation by CoreNLP
 Automated annotations within directories named "corenlp" were produced by 
-running the CoreNLP software [2].
+running the CoreNLP software [2], using the following annotators:
+ - tokenize,
+ - ssplit,
+ - pos,
+ - lemma,
+ - ner,
+ - parse, and
+ - dcoref;
+
+and with the output format 'xml' chosen.
+
+The following was set in the properties file:
+ner.model = 'edu/stanford/nlp/models/ner/english.conll.4class.distsim.crf.ser.gz'
+
+## Annotation Quality
+The quality of annotations was assessed using various agreement-based metrics.
+Please see the associated paper for results [1].
 
 ## Accompanying software
 If you are a python user, the easiest way to work with this dataset in python
