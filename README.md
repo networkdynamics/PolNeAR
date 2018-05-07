@@ -84,7 +84,7 @@ PolNeAR is split into training, development, testing subsets.  The analyst
 should avoid viewing the dev and test subsets, and should only test a model
 architecture once on the test set.  The train subset includes all articles from
 the first 10 month-long periods of coverage.  The dev and test subsets include
-respectively drawn from the 11th and 12th month.
+respectively articles drawn from the 11th and 12th month.
 
 
 ## Statistics
