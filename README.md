@@ -26,13 +26,13 @@ details.
 ## News Publishers
 PolNeAR consists of news articles from 7 US national news publishers \*:
 
-   - Huffington Post        (huff-post)
-   - Breitbart              (breitbart)
-   - New York Times         (nyt)
-   - Politico               (politico)
-   - Washington Post        (wash-post)
-   - Western Journalism     (west-journal)
-   - USA Today              (usa-today)
+   - Huffington Post        (`huff-post`)
+   - Breitbart              (`breitbart`)
+   - New York Times         (`nyt`)
+   - Politico               (`politico`)
+   - Washington Post        (`wash-post`)
+   - Western Journalism     (`west-journal`)
+   - USA Today              (`usa-today`)
 
 \* Publisher codes used in metadata shown in brackets.
 
@@ -179,20 +179,20 @@ recognition, and coreference resolution, we provide annotations produced automat
 All annotators were trained in two 2-hour periods, in which they reviewed the
 the guidelines (see /annotation-guidelines/guidelines.pdf).  after each major
 section in the guidelines, we conducted a group discussion amongst the
-annotators to answer any questions and rectify any misconceptions.  annotators
+annotators to answer any questions and rectify any misconceptions.  Annotators
 were provided practice 2 practice articles as practice annotation.  
 
-annotators were then provided the templates document
+Annotators were then provided the templates document
 (/annotation-guidelines/templates.pdf), which was designed to provide quick
 reference and examples to guide annotation.
 
-after annotating the practice articles, we discussed the annotations as a
+After annotating the practice articles, we discussed the annotations as a
 group, using the existing language in the guidelines to resolve disagreements
 or misconceptions.
 
-near the end of the second training session, annotators were shown examples in 
+Near the end of the second training session, annotators were shown examples in 
 /annotation-guidelines/guidelines-training-interactive.pdf, and asked to 
-describe how they would annotate it.  the examples were designed to be
+describe how they would annotate it.  The examples were designed to be
 difficult, but to have a correct answer according to the guidelines.
 
 ### Training Articles
@@ -210,19 +210,11 @@ the templates.
 
 ## Automated Annotation by CoreNLP
 Automated annotations within directories named "corenlp" were produced by 
-running the CoreNLP software [2], using the following annotators:
- - tokenize,
- - ssplit,
- - pos,
- - lemma,
- - ner,
- - parse, and
- - dcoref;
+running the CoreNLP software [2], using the following annotators: `tokenize`,
+`ssplit`, `pos`, `lemma`, `ner`, `parse`, and `dcoref`; and with the output
+format 'xml' chosen.  The following was set in the properties file:
 
-and with the output format 'xml' chosen.
-
-The following was set in the properties file:
-ner.model = 'edu/stanford/nlp/models/ner/english.conll.4class.distsim.crf.ser.gz'
+    ner.model = 'edu/stanford/nlp/models/ner/english.conll.4class.distsim.crf.ser.gz'
 
 ## Annotation Quality
 The quality of annotations was assessed using various agreement-based metrics.
@@ -233,20 +225,20 @@ Please see the associated paper for results [1].
 The file `PolNeAR/data/metadat.tsv` lists every article in PolNeAR and provides
 several metadata fields containing information about the article itself, and how it was annotated. 
 
-Metadata about the articles
+### Metadata about the articles
 The following fields are hopefully self-explanatory:
 `filename`, `publisher`, `publication_date`, `author`, `title`, 
 
 The fields `trump_count` and `clinton_count` indicate the number of times
 respectively that Donald Trump and Hillary Clinton, the presidential
-candidates, were mentioned.  Care was taken using regexes to disambiguate sucm
+candidates, were mentioned.  Care was taken using regexes to disambiguate such
 mentions from others, such as Donald Trump Jr. or Bill Clinton.
 
 The fields `credit` and `wire` are used respectively to indicate when the
 publisher has given credit for a story to another news publisher, or to a
 wire service, such as AP or Reuters.
 
-Metadata about annotation
+### Metadata about annotation
 The fields `compartment`, `level`, and `annotators` indicate how the article was subjected to annotation.  First, `compartment` indicates the compartment into which the annotation falls: 
  - `annotator-training` indicates that the articles were used to during
    training of the annotators, to test their interannotator agreement and
@@ -284,21 +276,21 @@ PARC3 approach to annotation.
 
 
 ## Accompanying software
-If you are a python user, the easiest way to work with this dataset in python
+If you are a Python user, the easiest way to work with this dataset in Python
 is to install the polnear module, and import it into your programs.
 
 Go to /data/software and do:
 
     $ python setup.py install
 
-Then, in your python program, import the dataset as follows:
+Then, in your Python program, import the dataset as follows:
 
     from polnear import data
 
-The data object behaves like a list.  Each element in the list is an Article
-object, representing one PolNeAR article its acompanying annotations.  The
-Article object is dict-like, and is populated with the metadata for the article
-it represents.
+The `data` object behaves like a `list`.  Each element in `data` is an
+`Article` object, representing one PolNeAR article its acompanying annotations.
+The `Article` object is `dict`-like, and is populated with the metadata for the
+article it represents.
 
 	>>> data[0]
     {'annotators': ['4b22', '4e07', '5fec', '6b86', 'd473', 'ef2d'],
@@ -320,14 +312,15 @@ it represents.
      'wire': 'None'}
 
 As you can see above, the metadata provided matches that contained in metadata.tsv, with the following modifications and additions:
- - `level_num`: indicates the annotation batch as an integer.  Only valid for
-   articles that are part of the core dataset (`train`, `dev`, and `test`
-   compartments).
+ - `level_num`: indicates the annotation batch as an integer.  `level_num` is
+   only non-`None` for articles that are part of the core dataset (i.e. the
+   `train`, `dev`, and `test` compartments).
  - `target_entity`:  The candidate, `trump` or `clinton`, that was mentioned
    the most times, or `draw`.
  - `publication_date`: a `datetime.date` object representing the publication
    date.
- - `publication_date_str`: The original date string.
+ - `publication_date_str`: A `YYYY-mm-dd`-formatted `str` representation of the
+   date.
  - `publication_date_bin`: The index of the month-long temporal stratum from
    which the article was sampled.  (The 1-year period was divided into 12 equal
    month-long strata that do not correspond to the beginnings of months.)
@@ -336,16 +329,14 @@ As you can see above, the metadata provided matches that contained in metadata.t
    publication_date_bin, target_entity)`.
 
 The Article object allows you to easily read the article text and annotations
-into memory.
-
-For example you can get the raw text of an article as a string:
+into memory.  For example you can get the raw text of an article as a string:
 
     >>> article_raw_text = data[0].text()
     >>> annotated_article = data[0].annotated()
 
 Here, `article_raw_text` is just a `unicode` representing the raw text of the
-article.  But `annotated_article` is an `AnnotatedArticle` object that is
-modelled after the `corenlp_xml_reader.AnnotatedArticle` object.  It allows you
+article.  But `annotated_article` is an `AnnotatedText` object that is
+modelled after the `corenlp_xml_reader.AnnotatedText` object.  It allows you
 to easily iterate over sentences, tokens, or attributions, and to access syntax
 annotations like POS tags, constituency parse, dependency parse, as well as
 coreference annotations, alongside the attributions.
