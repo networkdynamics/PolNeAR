@@ -242,7 +242,7 @@ Then, in your python program, import the dataset as follows:
     from polnear import data
 
 The data object behaves like a list.  Each element in the list represents an
-article and its acoompanying annotations.  The article is represented as a dict
+article and its acompanying annotations.  The article is represented as a dict
 of metadata attributes, along with a couple helpful methods.
 
     >>> training_data = data.train()
@@ -264,6 +264,41 @@ of metadata attributes, along with a couple helpful methods.
      'title': 'Activists Brick Up Entrance To Migrants-Only Polling Station Ahead Of Weekend Elections',
      'trump_count': 0,
      'wire': 'None'}
+
+Let's run through some of the metadata fields to explain what they mean.
+
+First we have a few fields that relate to the annotation process.  `annotators`
+is a list of all the annotator-IDs for the annotators who annotated the
+document.  Most documents are annotated by just one annotator, but the example
+above was annotated by all six annotators because it was chosen for quality
+control checks).  The fields `level` and `level_num` tell you which annotation
+batch the article was in.  Each annotator did 21 to 23 batches of annotation,
+each containing articles.  This can help discover any aspects of annotation
+that might vary as annotators proceed through the daset.  In addition to the
+levels in the core dataset, annotators annotated four levels-worth of articles
+from the PARC3 dataset, as part of a replication test mid-way through
+annotation.  These are levels `PARC-1A`, `PARC-1B`, `PARC-2A`, and `PARC-2B`.  
+The `level_num` field only applies for levels in the core dataset.
+
+Then we have some metadata about the article itself: `author`,
+`publication_date`, `publisher`, and `title` are hopefully self-explanatory.
+`wire` indicates the wire service that the article is based on (in case one was
+indicated by the publisher)
+
+There's two other date-related article metadata fields: `publication_date_bin`,
+which is the index of the zero-indexed month-long periods in which this article
+was published (note the dataset runs from 8 Nov 2015 to 8 Nov 2016, it has 12
+month-long time-periods which don't match up with the starting or ending of
+particular months.  `publication_date_str` is just a string representing the
+date.
+
+Other fields have to do with how the article was sampled.  `stratum` provides a
+triple that identifies the stratum from which this article was sampled, taking
+the format `(publisher, publication_date_bin, target_entity)`.  Each of these
+is available as their own fields.  `trump_count` and `clinton_count` give the
+number of times that a mention of Donald Trump or Hillary Clinton could be
+disambiguated to the actual candidates (as opposed to decoys like Donald Trump
+Jr. or Bill Clinton, based on regexes).
 
 You can obtain (read from disk) the raw text, attributions, or corenlp annotations for any article:
 
