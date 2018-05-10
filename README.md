@@ -20,7 +20,8 @@ annotation is a tag sequence.
 
 This repository contains the full PolNeAR dataset, along with some software to
 make it easier to work with the data in Python, in case you are a Python user.
-See the section entitled "software" at the end of this README for details.
+See the section entitled "Accompanying software" at the end of this README for
+details.
 
 ## News Publishers
 PolNeAR consists of news articles from 7 US national news publishers \*:
@@ -88,7 +89,6 @@ respectively articles drawn from the 11th and 12th month.
 
 
 ## Statistics
-
 <pre>
 ==========================================================
  &#35 Articles, core dataset         |  1008    |  
@@ -165,7 +165,6 @@ original text files, which should be obtained from the Penn Treebank 2 corpus.
 
 ## Preprocessing
 
-
 ## Annotation
 The annotation of attributions was performed manually by 6 trained annotators,
 who each annotated approximately 168 articles in the core dataset, 4 articles
@@ -229,6 +228,61 @@ ner.model = 'edu/stanford/nlp/models/ner/english.conll.4class.distsim.crf.ser.gz
 The quality of annotations was assessed using various agreement-based metrics.
 Please see the associated paper for results [1].
 
+## Article Metadata
+
+The file `PolNeAR/data/metadat.tsv` lists every article in PolNeAR and provides
+several metadata fields containing information about the article itself, and how it was annotated. 
+
+Metadata about the articles
+The following fields are hopefully self-explanatory:
+`filename`, `publisher`, `publication_date`, `author`, `title`, 
+
+The fields `trump_count` and `clinton_count` indicate the number of times
+respectively that Donald Trump and Hillary Clinton, the presidential
+candidates, were mentioned.  Care was taken using regexes to disambiguate sucm
+mentions from others, such as Donald Trump Jr. or Bill Clinton.
+
+The fields `credit` and `wire` are used respectively to indicate when the
+publisher has given credit for a story to another news publisher, or to a
+wire service, such as AP or Reuters.
+
+Metadata about annotation
+The fields `compartment`, `level`, and `annotators` indicate how the article was subjected to annotation.  First, `compartment` indicates the compartment into which the annotation falls: 
+ - `annotator-training` indicates that the articles were used to during
+   training of the annotators, to test their interannotator agreement and
+   verify annotations against an expert application of the annotation
+   guidelines.
+ - The `train`, `dev` and `test` compartments make up the core dataset that
+   should normally be used.  The `test` compartment should never be viewed
+   directly, but only used to calculate model evaluation statistics.
+ - The `parc-replication` compartment contains files sampled from the PARC3
+   dataset, and used to compare its annotation process to that of PolNear.
+
+Next, the `annotators` field is a pipe-separated list of unique IDs for the
+annotators that annotated the specific article.  Most articles are only
+annotated by one annotator, but those used to test agreement are annotated by
+many annotators.
+
+Finally, the `level` field indicates the sequential annotation batch in which
+the article was annotated.  Annotators proceeded through the datset in a series
+of batches, as follows:
+
+ - Level-0\*
+ - Level-1
+ - ...
+ - Level-4
+ - PARC-1A and PARC-1B
+ - PARC-2A and PARC-2B
+ - Level-5
+ - Level-6
+ - ...
+ - Level-23
+
+\* Along with the 34 PARC3 articles in the PARC-X levels, 20 PARC3 articles
+were interspersed into Level-0 to provide an early check for agreement with the
+PARC3 approach to annotation.
+
+
 ## Accompanying software
 If you are a python user, the easiest way to work with this dataset in python
 is to install the polnear module, and import it into your programs.
@@ -241,12 +295,12 @@ Then, in your python program, import the dataset as follows:
 
     from polnear import data
 
-The data object behaves like a list.  Each element in the list represents an
-article and its acompanying annotations.  The article is represented as a dict
-of metadata attributes, along with a couple helpful methods.
+The data object behaves like a list.  Each element in the list is an Article
+object, representing one PolNeAR article its acompanying annotations.  The
+Article object is dict-like, and is populated with the metadata for the article
+it represents.
 
-    >>> training_data = data.train()
-    >>> training_data[0]
+	>>> data[0]
     {'annotators': ['4b22', '4e07', '5fec', '6b86', 'd473', 'ef2d'],
      'author': 'Chris Tomlinson',
      'clinton_count': 0,
@@ -265,45 +319,42 @@ of metadata attributes, along with a couple helpful methods.
      'trump_count': 0,
      'wire': 'None'}
 
-Let's run through some of the metadata fields to explain what they mean.
+As you can see above, the metadata provided matches that contained in metadata.tsv, with the following modifications and additions:
+ - `level_num`: indicates the annotation batch as an integer.  Only valid for
+   articles that are part of the core dataset (`train`, `dev`, and `test`
+   compartments).
+ - `target_entity`:  The candidate, `trump` or `clinton`, that was mentioned
+   the most times, or `draw`.
+ - `publication_date`: a `datetime.date` object representing the publication
+   date.
+ - `publication_date_str`: The original date string.
+ - `publication_date_bin`: The index of the month-long temporal stratum from
+   which the article was sampled.  (The 1-year period was divided into 12 equal
+   month-long strata that do not correspond to the beginnings of months.)
+ - `stratum`: A triple that identifies the fully-specified stratum from which
+   this article was sampled, having the format `(publisher,
+   publication_date_bin, target_entity)`.
 
-First we have a few fields that relate to the annotation process.  `annotators`
-is a list of all the annotator-IDs for the annotators who annotated the
-document.  Most documents are annotated by just one annotator, but the example
-above was annotated by all six annotators because it was chosen for quality
-control checks).  The fields `level` and `level_num` tell you which annotation
-batch the article was in.  Each annotator did 21 to 23 batches of annotation,
-each containing articles.  This can help discover any aspects of annotation
-that might vary as annotators proceed through the daset.  In addition to the
-levels in the core dataset, annotators annotated four levels-worth of articles
-from the PARC3 dataset, as part of a replication test mid-way through
-annotation.  These are levels `PARC-1A`, `PARC-1B`, `PARC-2A`, and `PARC-2B`.  
-The `level_num` field only applies for levels in the core dataset.
+The Article object allows you to easily read the article text and annotations
+into memory.
 
-Then we have some metadata about the article itself: `author`,
-`publication_date`, `publisher`, and `title` are hopefully self-explanatory.
-`wire` indicates the wire service that the article is based on (in case one was
-indicated by the publisher)
+For example you can get the raw text of an article as a string:
 
-There's two other date-related article metadata fields: `publication_date_bin`,
-which is the index of the zero-indexed month-long periods in which this article
-was published (note the dataset runs from 8 Nov 2015 to 8 Nov 2016, it has 12
-month-long time-periods which don't match up with the starting or ending of
-particular months.  `publication_date_str` is just a string representing the
-date.
-
-Other fields have to do with how the article was sampled.  `stratum` provides a
-triple that identifies the stratum from which this article was sampled, taking
-the format `(publisher, publication_date_bin, target_entity)`.  Each of these
-is available as their own fields.  `trump_count` and `clinton_count` give the
-number of times that a mention of Donald Trump or Hillary Clinton could be
-disambiguated to the actual candidates (as opposed to decoys like Donald Trump
-Jr. or Bill Clinton, based on regexes).
-
-You can obtain (read from disk) the raw text, attributions, or corenlp annotations for any article:
-
-    >>> article_full_text = data[0].text()
+    >>> article_raw_text = data[0].text()
     >>> annotated_article = data[0].annotated()
+
+Here, `article_raw_text` is just a `unicode` representing the raw text of the
+article.  But `annotated_article` is an `AnnotatedArticle` object that is
+modelled after the `corenlp_xml_reader.AnnotatedArticle` object.  It allows you
+to easily iterate over sentences, tokens, or attributions, and to access syntax
+annotations like POS tags, constituency parse, dependency parse, as well as
+coreference annotations, alongside the attributions.
+
+Aside from the inclusion of attribution annotations, the AnnotatedText type
+provided in `polnear` is identical to that from `corenlp_xml_reader`, so refer
+to [its documentation](http://corenlp-xml-reader.readthedocs.io/en/latest/) to
+understand how to navigate the annotated text object.  here, we only focus on
+the additional functionality surrounding attribution annotations.
 
 
 [1] _An attribution relations corpus for political news_, 
