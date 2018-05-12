@@ -364,8 +364,8 @@ annotations:
 
     >>> article_annotated = data[0].annotated()
 
-Here, `article_annotated` is an `AnnotatedText` object which has been modelled
-after that is modelled after the `corenlp_xml_reader.AnnotatedText` object.  It
+Here, `article_annotated` is an `AnnotatedText` object which is modelled
+after the `corenlp_xml_reader.AnnotatedText` object.  It
 allows you to easily iterate over sentences, tokens, or attributions, and to
 access syntax annotations like POS tags, constituency parse, dependency parse,
 and coreference annotations.  Most of this functionality is already documented
