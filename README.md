@@ -332,20 +332,128 @@ The Article object allows you to easily read the article text and annotations
 into memory.  For example you can get the raw text of an article as a string:
 
     >>> article_raw_text = data[0].text()
-    >>> annotated_article = data[0].annotated()
 
 Here, `article_raw_text` is just a `unicode` representing the raw text of the
-article.  But `annotated_article` is an `AnnotatedText` object that is
-modelled after the `corenlp_xml_reader.AnnotatedText` object.  It allows you
-to easily iterate over sentences, tokens, or attributions, and to access syntax
-annotations like POS tags, constituency parse, dependency parse, as well as
-coreference annotations, alongside the attributions.
+article.  
 
-Aside from the inclusion of attribution annotations, the AnnotatedText type
-provided in `polnear` is identical to that from `corenlp_xml_reader`, so refer
-to [its documentation](http://corenlp-xml-reader.readthedocs.io/en/latest/) to
-understand how to navigate the annotated text object.  here, we only focus on
-the additional functionality surrounding attribution annotations.
+Of course, what you want to work with is a representation of the article which
+has annotations:
+
+    >>> annotated_article = data[0].annotated()
+
+Here, `annotated_article` is an `AnnotatedText` object that is modelled after
+the `corenlp_xml_reader.AnnotatedText` object.  It allows you to easily iterate
+over sentences, tokens, or attributions, and to access syntax annotations like
+POS tags, constituency parse, dependency parse, and coreference annotations.
+
+Most of the functionality of the `AnnotatedText` object is documented in 
+`corenlp_xml_reader`, so refer to [its
+documentation](http://corenlp-xml-reader.readthedocs.io/en/latest/).  Here, we
+document the access of attribution annotations.
+
+First, let's assume that you want to annotate over the sentences of a document,
+and then do something every time you encounter an attribution.
+
+	>>> for sentence in annotated_article.sentences:
+	...     for attribution_id in sentence['attributions']:
+    ...         print attribution_id
+    set([])
+    set(['E1'])
+    set(['E1'])
+    set(['E2'])
+    set([])
+    set(['E3'])
+    set([])
+    set(['E4'])
+	... [truncated]
+
+As you can see, the `'attributions'` key of the `sentence` objects is a set
+that contains all the attribution ids for attributions that involve tokens from
+that sentence.  Usually a sentence participates in zero or one attribution, but
+sometimes multiple attributions occur in one sentence.
+
+Of course, here, we just printed attribution ids.  To get ahold of the
+attribution object, which contains information about the source, cue and
+content spans, you can look it up in the documnet's dictionary of attributions:
+
+	>>> annotated_article.attributions['E1']
+    {'content': [11: the (120,123) DT -,
+      12: presidential (124,136) JJ -,
+      13: ambitions (137,146) NNS -,
+      14: of (147,149) IN -,
+      15: three (150,155) CD NUMBER,
+      16: Republican (156,166) JJ MISC,
+      17: hopefuls (167,175) NNS -,
+      18: : (175,176) : -,
+      19: Jeb (177,180) NNP -,
+      20: ! (180,181) . -,
+       0: , (181,182) , -,
+       1: Ben (183,186) NNP PERSON,
+       2: Carson (187,193) NNP PERSON,
+       3: , (193,194) , -,
+       4: and (195,198) CC -,
+       5: Donald (199,205) NNP PERSON,
+       6: Trump (206,211) NNP PERSON],
+     'cue': [10: mocked (113,119) VBD -],
+     'id': 'E1',
+     'source': [ 9: we (110,112) PRP -]}
+
+Attributions are themselves `dict`-like.  They include the keys `source`,
+`cue`, and `content`, each of which is a list of the tokens that take part in
+the respective source, cue, and content spans.
+
+The attribution objects also know which sentences they are involved in, so if you have an attribution, you can easily get the implicated sentences:
+
+	>>> print annotated_article.attributions['E1'].get_sentence_ids()
+	set([1, 2])
+
+This shows that the attribution `'E1'` is found in sentences 1 and 2 (the
+second and third sentences in the document).
+
+Another way to access attribution information is on tokens themselves.  If you
+are iterate over the tokens of the document or a particular sentence, you can
+check whether that token plays a role in an attribution.  Recall that, in the
+`AttributedText` object, `token`s are `dict`-like.  The `'attributions'` key
+provides a dictionary that indicates what role the token plays in any
+attributions.  We already know that sentence `1` has an attribution in it, so let's use it as an example:
+
+
+	>>> for token in annotated_text.sentences[1]['tokens']:
+			print token['attributions']
+	{}
+	{}
+	{}
+	{}
+	{}
+	{}
+	{}
+	{}
+	{}
+	{'E1': set(['source'])}
+	{'E1': set(['cue'])}
+	{'E1': set(['content'])}
+	{'E1': set(['content'])}
+	{'E1': set(['content'])}
+	{'E1': set(['content'])}
+	{'E1': set(['content'])}
+	{'E1': set(['content'])}
+	{'E1': set(['content'])}
+	{'E1': set(['content'])}
+	{'E1': set(['content'])}
+	{'E1': set(['content'])}
+		
+As you can see, `token['attributions']` is a dictionary, with the attribution
+ID as keys, and a set of roles that the token plays in that attribution.
+Although in PolNeAR a given token can only play a single role in a single
+attribution, in PARC3, tokens can play multiple roles (e.g. be both part of the
+source and cue) and can partipate in multiple attributions (e.g. in the case of
+nested attributions).
+
+So in all, there are three ways to access attribution information:
+
+ 1. Iterate over the values of the `annotated_document.attributions` dictionary,
+ 2. Starting from a sentence, look to the value of `sentence['attributions']`,
+ 3. Starting from a token, look to the value of `token['attributions']`.
 
 
 [1] _An attribution relations corpus for political news_, 
