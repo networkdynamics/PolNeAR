@@ -288,9 +288,9 @@ Then, in your Python program, import the dataset as follows:
     from polnear import data
 
 The `data` object behaves like a `list`.  Each element in `data` is an
-`Article` object, representing one PolNeAR article its acompanying annotations.
-The `Article` object is `dict`-like, and is populated with the metadata for the
-article it represents.
+`Article` object, representing one PolNeAR article and its acompanying
+annotations.  The `Article` object is `dict`-like, and is populated with the
+metadata for the article it represents.
 
 	>>> data[0]
     {'annotators': ['4b22', '4e07', '5fec', '6b86', 'd473', 'ef2d'],
@@ -328,20 +328,21 @@ As you can see above, the metadata provided matches that contained in metadata.t
    this article was sampled, having the format `(publisher,
    publication_date_bin, target_entity)`.
 
-Looking closely at the `Article` object above, we see that it is from the
-`'annotator-training'` compartment.  That's because, by default, the `data`
-object lists *all* articles in the PolNeAR dataset, including those used to test
-annotator trainin and those used to compare PolNeAR annotations to PARC3
-annotations.  
-
-But usually, we want to access the core dataset, which is split into train,
-dev, and test subsets:
+Look closely at the `Article` object above, and notice that it is from the
+`'annotator-training'` compartment.  But, normally, you want to work with the
+core dataset, usually the `'train'` subset.  You should be aware that the
+PolNeAR dataset ships with extra articles that were used for training, and to
+compare the PolNeAR annotators to the PARC3 annotators (by replicating
+annotation of some PARC3 articles).  To exclude these quality-control articles,
+and to focus on the core dataset, select either the train, dev, or test
+compartment like this:
 
 	>>> train = data.train()
 	>>> dev = data.dev()
 	>>> test = data.test()
 
-If, for some reason, you want to work with the articles used to replicate PARC3, or to work with the articles used to assess annotator training, you can:
+If, for some reason, you want to work with the articles used to replicate
+PARC3, or to work with the articles used to assess annotator training, you can:
 
 	>>> annotator_training = data.annotator_training()
 	>>> parc3_replication = data.parc3_replication()
@@ -362,9 +363,9 @@ an article as a `unicode`:
 More interestingly, you can get a representation of the article with
 annotations:
 
-    >>> article_annotated = data[0].annotated()
+    >>> annotated_article = data[0].annotated()
 
-Here, `article_annotated` is an `AnnotatedText` object which is modelled
+Here, `annotated_article` is an `AnnotatedText` object which is modelled
 after the `corenlp_xml_reader.AnnotatedText` object.  It
 allows you to easily iterate over sentences, tokens, or attributions, and to
 access syntax annotations like POS tags, constituency parse, dependency parse,
@@ -373,10 +374,10 @@ in `corenlp_xml_reader`, so please refer to [its
 documentation](http://corenlp-xml-reader.readthedocs.io/en/latest/).  Here, we
 document the access of attribution annotations.
 
-First, let's suppose you want to annotate over the sentences of a document,
+First, let's suppose you want to iterate over the sentences of a document,
 and then do something every time you encounter an attribution.
 
-	>>> for sentence in article_annotated.sentences:
+	>>> for sentence in annotated_article.sentences:
 	...     for attribution_id in sentence['attributions']:
     ...         print attribution_id
     set([])
@@ -398,7 +399,7 @@ Of course, here, we just printed attribution IDs.  To get ahold of the
 attribution object, which contains information about the source, cue and
 content spans, look it up in the documnet's dictionary of attributions:
 
-	>>> article_annotated.attributions['E1']
+	>>> annotated_article.attributions['E1']
     {'content': [11: the (120,123) DT -,
       12: presidential (124,136) JJ -,
       13: ambitions (137,146) NNS -,
@@ -426,7 +427,7 @@ the respective source, cue, and content spans.
 
 The attribution objects also know which sentences they are involved in, so if you have an attribution, you can easily get the implicated sentences:
 
-	>>> print article_annotated.attributions['E1'].get_sentence_ids()
+	>>> print annotated_article.attributions['E1'].get_sentence_ids()
 	set([1, 2])
 
 This shows that the attribution `'E1'` is found in sentences 1 and 2 (due to
