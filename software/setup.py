@@ -68,5 +68,6 @@ setup(
     # simple. Or you can use find_packages().
     packages=['polnear'],
 	#indlude_package_data=True,
-	install_requires=['parc-reader', 't4k', 'corenlp-xml-reader', 'brat-reader']
+	install_requires=[
+        'parc-reader==0.1.5', 't4k', 'corenlp-xml-reader', 'brat-reader']
 )

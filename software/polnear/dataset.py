@@ -213,7 +213,11 @@ class Article(dict):
 
     def corenlp(self):
         if self.is_parc_or_annotator_training():
-            raise ArticleError('No corenlp file available.')
+            raise ArticleError(
+                'Sorry, no corenlp file available for annotator-training files '
+                'and parc3-replication files.\n\nTry this instead:\n\n'
+                '>>> polnear.data.train()[0].corenlp()'
+            )
         return corenlp_xml_reader.AnnotatedText(
             open(self.path('corenlp')).read())
 
@@ -225,7 +229,11 @@ class Article(dict):
 
     def annotated(self, annotator=None):
         if self.is_parc_or_annotator_training():
-            raise ArticleError('No corenlp file available.')
+            raise ArticleError(
+                'Sorry, no corenlp file available for annotator-training files '
+                'and parc3-replication files.\n\nTry this instead:\n\n'
+                '>>> polnear.data.train()[0].corenlp()'
+            )
         return parc_reader.new_reader.ParcCorenlpReader(
             corenlp_path=self.path('corenlp'),
             brat_path=self.path('attributions', annotator)
