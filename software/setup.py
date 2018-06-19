@@ -60,7 +60,7 @@ setup(
 
     # What does your project relate to?
     keywords= (
-		'NLP natrual language processing computational linguistics ',
+		'NLP natural language processing computational linguistics ',
 		'PolNeAR Political News Attribution Relations Corpus'
 	),
 
@@ -69,5 +69,5 @@ setup(
     packages=['polnear'],
 	#indlude_package_data=True,
 	install_requires=[
-        'parc-reader==0.1.5', 't4k', 'corenlp-xml-reader', 'brat-reader']
+        'parc-reader==0.1.5', 't4k>=0.6.4', 'corenlp-xml-reader>=0.1.3', 'brat-reader>=0.0.0']
 )
