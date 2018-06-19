@@ -60,7 +60,7 @@ setup(
 
     # What does your project relate to?
     keywords= (
-		'NLP natrual language processing computational linguistics ',
+		'NLP natural language processing computational linguistics ',
 		'PolNeAR Political News Attribution Relations Corpus'
 	),
 
